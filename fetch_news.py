@@ -27,7 +27,13 @@ def fetch_category(cat):
         items = []
         for el in root.findall('.//item')[:3]:
             title   = el.findtext('title') or ''
-            link    = el.findtext('guid') or el.findtext('link') or '#'
+            link_raw = el.findtext('link') or el.findtext('guid') or ''
+            if not link_raw:
+                link = '#'
+            elif link_raw.startswith('http'):
+                link = link_raw
+            else:
+                link = f'https://news.google.com/articles/{link_raw}'
             pubdate = el.findtext('pubDate') or ''
             src_el  = el.find('source')
             source  = src_el.text.strip() if src_el is not None and src_el.text else ''
