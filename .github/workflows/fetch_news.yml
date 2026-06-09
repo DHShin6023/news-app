@@ -2,7 +2,7 @@ name: Fetch News Data
 
 on:
   schedule:
-    - cron: '*/10 * * * *'   # 10분마다 실행
+    - cron: '*/30 * * * *'   # 30분마다 실행 (GitHub Actions 안정성 고려)
   workflow_dispatch:           # 수동 실행 가능
 
 jobs:

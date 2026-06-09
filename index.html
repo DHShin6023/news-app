@@ -326,7 +326,7 @@ function renderItems(items) {
     const time  = timeAgo(item.pubDate);
     const src   = item.source || '';
     return `
-      <a class="news-item" href="${item.link}" target="_blank" rel="noopener">
+      <a class="news-item" href="${escHtml(item.link)}" target="_blank" rel="noopener">
         <div class="news-title">${escHtml(title)}</div>
         <div class="news-meta">
           ${src  ? `<span class="news-source">${escHtml(src)}</span>` : ''}
@@ -342,7 +342,10 @@ CAT_IDS.forEach(id => {
   document.getElementById(id).innerHTML = renderSkeleton();
 });
 
+let _refreshing = false;
 async function refreshAll() {
+  if (_refreshing) return;
+  _refreshing = true;
   const btn = document.getElementById('refreshBtn');
   btn.classList.add('spinning');
   document.getElementById('lastUpdated').textContent = '업데이트 중...';
@@ -375,6 +378,7 @@ async function refreshAll() {
   }
 
   btn.classList.remove('spinning');
+  _refreshing = false;
 }
 
 refreshAll();
