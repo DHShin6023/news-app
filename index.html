@@ -309,24 +309,25 @@ function parseRssXml(xmlStr) {
   });
 }
 
-/* ── CORS 프록시들 (순서대로 시도) ── */
+/* ── allorigins (재시도 포함) ── */
 async function fetchViaAllOrigins(rssUrl) {
-  const proxy = `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}&t=${Date.now()}`;
-  const res = await fetch(proxy, { cache: 'no-store' });
-  if (!res.ok) throw new Error('allorigins failed');
-  const { contents } = await res.json();
-  if (!contents) throw new Error('allorigins empty');
-  return parseRssXml(contents);
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      if (attempt > 0) await sleep(600 * attempt);
+      const proxy = `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}&t=${Date.now()}`;
+      const res = await fetch(proxy, { cache: 'no-store' });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const json = await res.json();
+      const contents = json?.contents || '';
+      if (contents.length < 200) throw new Error('empty response');
+      const items = parseRssXml(contents);
+      if (items.length > 0) return items;
+    } catch (_) {}
+  }
+  throw new Error('allorigins failed');
 }
 
-async function fetchViaCorsProxy(rssUrl) {
-  const proxy = `https://corsproxy.io/?${encodeURIComponent(rssUrl)}`;
-  const res = await fetch(proxy, { cache: 'no-store' });
-  if (!res.ok) throw new Error('corsproxy failed');
-  const text = await res.text();
-  return parseRssXml(text);
-}
-
+/* ── rss2json (폴백) ── */
 async function fetchViaRss2Json(rssUrl) {
   const url = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}&count=10`;
   const res = await fetch(url);
@@ -341,10 +342,12 @@ async function fetchViaRss2Json(rssUrl) {
   }));
 }
 
-/* ── 뉴스 fetch (allorigins → corsproxy → rss2json 순서) ── */
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+/* ── 뉴스 fetch (allorigins → rss2json) ── */
 async function fetchNews(query) {
   const rssUrl = buildGNewsUrl(query);
-  for (const fn of [fetchViaAllOrigins, fetchViaCorsProxy, fetchViaRss2Json]) {
+  for (const fn of [fetchViaAllOrigins, fetchViaRss2Json]) {
     try {
       const items = await fn(rssUrl);
       if (items.length > 0) return items;
@@ -434,12 +437,17 @@ async function loadCategory({ id, query }) {
   }
 }
 
-/* ── Refresh ── */
+/* ── Refresh (순차 로딩 - rate limit 방지) ── */
 async function refreshAll() {
   const btn = document.getElementById('refreshBtn');
   btn.classList.add('spinning');
   document.getElementById('lastUpdated').textContent = '업데이트 중...';
-  await Promise.all(CATEGORIES.map(loadCategory));
+
+  for (const cat of CATEGORIES) {
+    await loadCategory(cat);
+    await sleep(400); // 카테고리 간 간격으로 rate limit 회피
+  }
+
   btn.classList.remove('spinning');
   const now = new Date();
   document.getElementById('lastUpdated').textContent =
