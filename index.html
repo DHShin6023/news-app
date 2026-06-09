@@ -309,16 +309,24 @@ function parseRssXml(xmlStr) {
   });
 }
 
-/* ── allorigins (실시간, 캐시 없음) ── */
+/* ── CORS 프록시들 (순서대로 시도) ── */
 async function fetchViaAllOrigins(rssUrl) {
   const proxy = `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}&t=${Date.now()}`;
   const res = await fetch(proxy, { cache: 'no-store' });
   if (!res.ok) throw new Error('allorigins failed');
   const { contents } = await res.json();
+  if (!contents) throw new Error('allorigins empty');
   return parseRssXml(contents);
 }
 
-/* ── rss2json (폴백) ── */
+async function fetchViaCorsProxy(rssUrl) {
+  const proxy = `https://corsproxy.io/?${encodeURIComponent(rssUrl)}`;
+  const res = await fetch(proxy, { cache: 'no-store' });
+  if (!res.ok) throw new Error('corsproxy failed');
+  const text = await res.text();
+  return parseRssXml(text);
+}
+
 async function fetchViaRss2Json(rssUrl) {
   const url = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}&count=10`;
   const res = await fetch(url);
@@ -333,14 +341,16 @@ async function fetchViaRss2Json(rssUrl) {
   }));
 }
 
-/* ── 뉴스 fetch (allorigins → rss2json 순서) ── */
+/* ── 뉴스 fetch (allorigins → corsproxy → rss2json 순서) ── */
 async function fetchNews(query) {
   const rssUrl = buildGNewsUrl(query);
-  try {
-    const items = await fetchViaAllOrigins(rssUrl);
-    if (items.length > 0) return items;
-  } catch (_) {}
-  return fetchViaRss2Json(rssUrl);
+  for (const fn of [fetchViaAllOrigins, fetchViaCorsProxy, fetchViaRss2Json]) {
+    try {
+      const items = await fn(rssUrl);
+      if (items.length > 0) return items;
+    } catch (_) {}
+  }
+  throw new Error('all proxies failed');
 }
 
 /* ── 번역 (한국어 아닌 제목 안전망) ── */
