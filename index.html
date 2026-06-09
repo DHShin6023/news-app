@@ -263,113 +263,121 @@
   </section>
 </main>
 
-<footer>뉴스는 5분마다 자동 갱신됩니다 · rss2json</footer>
+<footer>뉴스는 10분마다 자동 갱신됩니다 · Google 뉴스</footer>
 
 <script>
-const RSS2JSON = 'https://api.rss2json.com/v1/api.json?rss_url=';
 const TRANS_CACHE_KEY = 'news_trans_v1';
 
+/* ── 카테고리별 Google 뉴스 키워드 ── */
 const CATEGORIES = [
   {
     id: 'cat-us',
-    feeds: [
-      'https://www.cnbc.com/id/10001147/device/rss/rss.html',
-      'https://feeds.marketwatch.com/marketwatch/marketpulse/'
-    ]
+    query: '미국증시 나스닥 뉴욕증시 when:1d'
   },
   {
     id: 'cat-kr',
-    feeds: [
-      'https://www.yna.co.kr/rss/economy.xml',
-      'https://www.hankyung.com/feed/stocks'
-    ]
+    query: '코스피 코스닥 주식시장 when:1d'
   },
   {
     id: 'cat-coin',
-    feeds: [
-      'https://cointelegraph.com/rss',
-      'https://www.coindesk.com/arc/outboundfeeds/rss/'
-    ]
+    query: '비트코인 이더리움 암호화폐 when:1d'
   },
   {
     id: 'cat-land',
-    feeds: [
-      'https://www.hankyung.com/feed/realestate',
-      'https://www.yna.co.kr/rss/economy.xml'
-    ]
+    query: '부동산 아파트 매매가격 when:1d'
   },
   {
     id: 'cat-etc',
-    feeds: [
-      'http://feeds.bbci.co.uk/news/rss.xml',
-      'https://feeds.skynews.com/feeds/rss/world.xml'
-    ]
+    query: '주요뉴스 긴급 속보 이슈 when:1d'
   }
 ];
 
-/* ── Translation ── */
+/* ── Google 뉴스 RSS URL 생성 ── */
+function buildGNewsUrl(query) {
+  return `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=ko&gl=KR&ceid=KR:ko`;
+}
+
+/* ── RSS XML 파서 ── */
+function parseRssXml(xmlStr) {
+  const xml = new DOMParser().parseFromString(xmlStr, 'text/xml');
+  return [...xml.querySelectorAll('item')].map(el => {
+    const title   = el.querySelector('title')?.textContent?.trim() || '';
+    const guid    = el.querySelector('guid')?.textContent?.trim() || '#';
+    const pubDate = el.querySelector('pubDate')?.textContent || '';
+    const source  = el.querySelector('source')?.textContent?.trim() || '';
+    return { title, link: guid, pubDate, source };
+  });
+}
+
+/* ── allorigins (실시간, 캐시 없음) ── */
+async function fetchViaAllOrigins(rssUrl) {
+  const proxy = `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}&t=${Date.now()}`;
+  const res = await fetch(proxy, { cache: 'no-store' });
+  if (!res.ok) throw new Error('allorigins failed');
+  const { contents } = await res.json();
+  return parseRssXml(contents);
+}
+
+/* ── rss2json (폴백) ── */
+async function fetchViaRss2Json(rssUrl) {
+  const url = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}&count=10`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error('rss2json failed');
+  const data = await res.json();
+  if (data.status !== 'ok') throw new Error('rss2json error');
+  return data.items.map(item => ({
+    title:   item.title || '',
+    link:    item.link || item.guid || '#',
+    pubDate: item.pubDate || '',
+    source:  item.author || ''
+  }));
+}
+
+/* ── 뉴스 fetch (allorigins → rss2json 순서) ── */
+async function fetchNews(query) {
+  const rssUrl = buildGNewsUrl(query);
+  try {
+    const items = await fetchViaAllOrigins(rssUrl);
+    if (items.length > 0) return items;
+  } catch (_) {}
+  return fetchViaRss2Json(rssUrl);
+}
+
+/* ── 번역 (한국어 아닌 제목 안전망) ── */
 function isKorean(text) {
   const ko = (text.match(/[가-힣]/g) || []).length;
   return ko / text.length > 0.25;
 }
-
 function loadCache() {
-  try { return JSON.parse(localStorage.getItem(TRANS_CACHE_KEY) || '{}'); }
-  catch { return {}; }
+  try { return JSON.parse(localStorage.getItem(TRANS_CACHE_KEY) || '{}'); } catch { return {}; }
 }
-
 function saveCache(cache) {
   const keys = Object.keys(cache);
-  if (keys.length > 300) {
-    const trimmed = {};
-    keys.slice(-200).forEach(k => trimmed[k] = cache[k]);
-    cache = trimmed;
-  }
+  if (keys.length > 300) { const t = {}; keys.slice(-200).forEach(k => t[k] = cache[k]); cache = t; }
   try { localStorage.setItem(TRANS_CACHE_KEY, JSON.stringify(cache)); } catch {}
 }
-
 async function translateToKo(text) {
   if (!text || isKorean(text)) return text;
   const cache = loadCache();
   if (cache[text]) return cache[text];
   try {
     const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ko&dt=t&q=${encodeURIComponent(text)}`;
-    const r = await fetch(url);
-    const d = await r.json();
+    const d = await (await fetch(url)).json();
     const result = (d[0] || []).map(x => x[0]).join('') || text;
-    cache[text] = result;
-    saveCache(cache);
+    cache[text] = result; saveCache(cache);
     return result;
-  } catch {
-    return text;
-  }
-}
-
-async function translateItems(items) {
-  return Promise.all(items.slice(0, 3).map(async item => {
-    const titleKo = await translateToKo(item.title || '');
-    return { ...item, titleKo };
-  }));
+  } catch { return text; }
 }
 
 /* ── Helpers ── */
 function timeAgo(dateStr) {
-  const now = Date.now();
-  const past = new Date(dateStr).getTime();
-  if (isNaN(past)) return '';
-  const diff = Math.floor((now - past) / 1000);
-  if (diff < 60) return '방금 전';
-  if (diff < 3600) return `${Math.floor(diff / 60)}분 전`;
+  const diff = Math.floor((Date.now() - new Date(dateStr).getTime()) / 1000);
+  if (isNaN(diff) || diff < 0) return '';
+  if (diff < 60)    return '방금 전';
+  if (diff < 3600)  return `${Math.floor(diff / 60)}분 전`;
   if (diff < 86400) return `${Math.floor(diff / 3600)}시간 전`;
   return `${Math.floor(diff / 86400)}일 전`;
 }
-
-function getSource(item) {
-  if (item.author) return item.author.split(',')[0].trim();
-  if (item.source) return item.source;
-  return '';
-}
-
 function escHtml(s) {
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
@@ -381,21 +389,19 @@ function renderSkeleton() {
       <div class="skel skel-title-1"></div>
       <div class="skel skel-title-2"></div>
       <div class="skel skel-meta"></div>
-    </div>
-  `).join('');
+    </div>`).join('');
 }
 
 function renderItems(items) {
-  return items.map(item => {
+  return items.slice(0, 3).map(item => {
     const title = item.titleKo || item.title || '제목 없음';
-    const link  = item.link || item.guid || '#';
     const time  = timeAgo(item.pubDate);
-    const src   = getSource(item);
+    const src   = item.source || '';
     return `
-      <a class="news-item" href="${link}" target="_blank" rel="noopener">
+      <a class="news-item" href="${item.link}" target="_blank" rel="noopener">
         <div class="news-title">${escHtml(title)}</div>
         <div class="news-meta">
-          ${src ? `<span class="news-source">${escHtml(src)}</span>` : ''}
+          ${src  ? `<span class="news-source">${escHtml(src)}</span>` : ''}
           ${src && time ? '<span class="news-dot">·</span>' : ''}
           ${time ? `<span class="news-time">${time}</span>` : ''}
         </div>
@@ -403,40 +409,27 @@ function renderItems(items) {
   }).join('');
 }
 
-/* ── Fetch & Load ── */
-async function fetchFeed(url) {
-  const res = await fetch(RSS2JSON + encodeURIComponent(url) + '&count=10');
-  if (!res.ok) throw new Error('fetch failed');
-  const data = await res.json();
-  if (data.status !== 'ok') throw new Error('rss error');
-  return data.items || [];
-}
-
-async function loadCategory({ id, feeds }) {
+/* ── Load Category ── */
+async function loadCategory({ id, query }) {
   const el = document.getElementById(id);
   el.innerHTML = renderSkeleton();
-
-  for (const feed of feeds) {
-    try {
-      const items = await fetchFeed(feed);
-      if (items.length > 0) {
-        const translated = await translateItems(items);
-        el.innerHTML = renderItems(translated);
-        return;
-      }
-    } catch (_) { /* try next feed */ }
+  try {
+    const raw   = await fetchNews(query);
+    const items = await Promise.all(raw.slice(0, 3).map(async item => ({
+      ...item, titleKo: await translateToKo(item.title)
+    })));
+    el.innerHTML = renderItems(items);
+  } catch (_) {
+    el.innerHTML = `<div class="error-msg"><span>📭</span>뉴스를 불러올 수 없습니다</div>`;
   }
-
-  el.innerHTML = `<div class="error-msg"><span>📭</span>뉴스를 불러올 수 없습니다</div>`;
 }
 
+/* ── Refresh ── */
 async function refreshAll() {
   const btn = document.getElementById('refreshBtn');
   btn.classList.add('spinning');
   document.getElementById('lastUpdated').textContent = '업데이트 중...';
-
   await Promise.all(CATEGORIES.map(loadCategory));
-
   btn.classList.remove('spinning');
   const now = new Date();
   document.getElementById('lastUpdated').textContent =
@@ -444,7 +437,7 @@ async function refreshAll() {
 }
 
 refreshAll();
-setInterval(refreshAll, 5 * 60 * 1000);
+setInterval(refreshAll, 10 * 60 * 1000); // 10분 자동 갱신
 </script>
 </body>
 </html>
