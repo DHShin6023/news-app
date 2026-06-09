@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <title>주요 뉴스</title>
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#ffffff" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="주요뉴스" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif;
+      background: #f4f5f7;
+      color: #111;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    .app-header {
+      background: #fff;
+      border-bottom: 1px solid #e0e0e0;
+      padding: 0 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+    }
+    .app-header h1 {
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+    }
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .last-updated {
+      font-size: 11px;
+      color: #888;
+    }
+    .refresh-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 6px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.15s;
+    }
+    .refresh-btn:hover { background: #f0f0f0; }
+    .refresh-btn svg { width: 20px; height: 20px; color: #444; }
+    .refresh-btn.spinning svg { animation: spin 0.8s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Main Content ── */
+    main {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 12px 12px 32px;
+    }
+
+    /* ── Category Section ── */
+    .category-section {
+      background: #fff;
+      border-radius: 12px;
+      overflow: hidden;
+      margin-bottom: 12px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
+
+    .category-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 14px 16px 12px;
+      border-bottom: 1px solid #f0f0f0;
+    }
+    .category-icon {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+      flex-shrink: 0;
+    }
+    .category-title {
+      font-size: 15px;
+      font-weight: 700;
+      letter-spacing: -0.2px;
+    }
+    .category-badge {
+      margin-left: auto;
+      font-size: 10px;
+      font-weight: 600;
+      padding: 2px 7px;
+      border-radius: 99px;
+      letter-spacing: 0.2px;
+    }
+
+    /* Category color themes */
+    .cat-us    { --accent: #0066CC; --bg: #EEF4FF; --badge-bg: #D6E8FF; --badge-color: #003E99; }
+    .cat-kr    { --accent: #D0021B; --bg: #FFF0F1; --badge-bg: #FFD6DA; --badge-color: #8C0010; }
+    .cat-coin  { --accent: #E07C00; --bg: #FFF7ED; --badge-bg: #FFE5B4; --badge-color: #8C4A00; }
+    .cat-land  { --accent: #167A50; --bg: #EDFBF3; --badge-bg: #C3F0D5; --badge-color: #0B4D31; }
+    .cat-etc   { --accent: #6B3ACC; --bg: #F3EEFF; --badge-bg: #E0D0FF; --badge-color: #3D1A8C; }
+
+    .category-icon   { background: var(--bg); color: var(--accent); }
+    .category-title  { color: var(--accent); }
+    .category-badge  { background: var(--badge-bg); color: var(--badge-color); }
+
+    /* ── News Items ── */
+    .news-list { padding: 0 16px; }
+
+    .news-item {
+      padding: 12px 0;
+      border-bottom: 1px solid #f5f5f5;
+      cursor: pointer;
+      text-decoration: none;
+      display: block;
+      transition: background 0.1s;
+    }
+    .news-item:last-child { border-bottom: none; }
+    .news-item:hover .news-title { color: var(--accent); }
+
+    .news-title {
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 1.45;
+      color: #111;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      transition: color 0.15s;
+    }
+    .news-meta {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 5px;
+    }
+    .news-source {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--accent);
+    }
+    .news-dot { font-size: 10px; color: #ccc; }
+    .news-time { font-size: 11px; color: #999; }
+
+    /* ── Skeleton ── */
+    .skeleton-item {
+      padding: 12px 0;
+      border-bottom: 1px solid #f5f5f5;
+    }
+    .skeleton-item:last-child { border-bottom: none; }
+    .skel {
+      background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.4s infinite;
+      border-radius: 4px;
+    }
+    .skel-title-1 { height: 14px; width: 95%; margin-bottom: 6px; }
+    .skel-title-2 { height: 14px; width: 70%; margin-bottom: 8px; }
+    .skel-meta   { height: 11px; width: 120px; }
+    @keyframes shimmer { to { background-position: -200% 0; } }
+
+    /* ── Error State ── */
+    .error-msg {
+      padding: 16px;
+      text-align: center;
+      color: #999;
+      font-size: 13px;
+    }
+    .error-msg span { display: block; font-size: 22px; margin-bottom: 6px; }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 16px;
+      font-size: 11px;
+      color: #bbb;
+    }
+  </style>
+</head>
+<body>
+
+<header class="app-header">
+  <h1>📰 주요 뉴스</h1>
+  <div class="header-right">
+    <span class="last-updated" id="lastUpdated">로딩 중...</span>
+    <button class="refresh-btn" id="refreshBtn" onclick="refreshAll()" title="새로고침">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="23 4 23 10 17 10"></polyline>
+        <polyline points="1 20 1 14 7 14"></polyline>
+        <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+      </svg>
+    </button>
+  </div>
+</header>
+
+<main>
+  <!-- 1. 미국 주식 -->
+  <section class="category-section cat-us">
+    <div class="category-header">
+      <div class="category-icon">🇺🇸</div>
+      <span class="category-title">미국 주식</span>
+      <span class="category-badge">US MARKET</span>
+    </div>
+    <div class="news-list" id="cat-us"></div>
+  </section>
+
+  <!-- 2. 한국 주식 -->
+  <section class="category-section cat-kr">
+    <div class="category-header">
+      <div class="category-icon">🇰🇷</div>
+      <span class="category-title">한국 주식</span>
+      <span class="category-badge">KR MARKET</span>
+    </div>
+    <div class="news-list" id="cat-kr"></div>
+  </section>
+
+  <!-- 3. 코인 -->
+  <section class="category-section cat-coin">
+    <div class="category-header">
+      <div class="category-icon">₿</div>
+      <span class="category-title">코인</span>
+      <span class="category-badge">CRYPTO</span>
+    </div>
+    <div class="news-list" id="cat-coin"></div>
+  </section>
+
+  <!-- 4. 부동산 -->
+  <section class="category-section cat-land">
+    <div class="category-header">
+      <div class="category-icon">🏢</div>
+      <span class="category-title">부동산</span>
+      <span class="category-badge">REAL ESTATE</span>
+    </div>
+    <div class="news-list" id="cat-land"></div>
+  </section>
+
+  <!-- 5. 기타 중요한 뉴스 -->
+  <section class="category-section cat-etc">
+    <div class="category-header">
+      <div class="category-icon">🌐</div>
+      <span class="category-title">기타 중요한 뉴스</span>
+      <span class="category-badge">GLOBAL</span>
+    </div>
+    <div class="news-list" id="cat-etc"></div>
+  </section>
+</main>
+
+<footer>뉴스는 5분마다 자동 갱신됩니다 · rss2json</footer>
+
+<script>
+const RSS2JSON = 'https://api.rss2json.com/v1/api.json?rss_url=';
+
+const CATEGORIES = [
+  {
+    id: 'cat-us',
+    feeds: [
+      'https://www.cnbc.com/id/10001147/device/rss/rss.html',
+      'https://feeds.marketwatch.com/marketwatch/marketpulse/'
+    ]
+  },
+  {
+    id: 'cat-kr',
+    feeds: [
+      'https://www.yna.co.kr/rss/economy.xml',
+      'https://www.hankyung.com/feed/stocks'
+    ]
+  },
+  {
+    id: 'cat-coin',
+    feeds: [
+      'https://cointelegraph.com/rss',
+      'https://www.coindesk.com/arc/outboundfeeds/rss/'
+    ]
+  },
+  {
+    id: 'cat-land',
+    feeds: [
+      'https://www.hankyung.com/feed/realestate',
+      'https://www.yna.co.kr/rss/economy.xml'
+    ]
+  },
+  {
+    id: 'cat-etc',
+    feeds: [
+      'http://feeds.bbci.co.uk/news/rss.xml',
+      'https://feeds.skynews.com/feeds/rss/world.xml'
+    ]
+  }
+];
+
+function timeAgo(dateStr) {
+  const now = Date.now();
+  const past = new Date(dateStr).getTime();
+  if (isNaN(past)) return '';
+  const diff = Math.floor((now - past) / 1000);
+  if (diff < 60) return '방금 전';
+  if (diff < 3600) return `${Math.floor(diff / 60)}분 전`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)}시간 전`;
+  return `${Math.floor(diff / 86400)}일 전`;
+}
+
+function getSource(item) {
+  if (item.author) return item.author.split(',')[0].trim();
+  if (item.source) return item.source;
+  return '';
+}
+
+function renderSkeleton() {
+  return Array(3).fill('').map(() => `
+    <div class="skeleton-item">
+      <div class="skel skel-title-1"></div>
+      <div class="skel skel-title-2"></div>
+      <div class="skel skel-meta"></div>
+    </div>
+  `).join('');
+}
+
+function renderItems(items) {
+  return items.slice(0, 3).map(item => {
+    const title = item.title || '제목 없음';
+    const link  = item.link  || item.guid || '#';
+    const time  = timeAgo(item.pubDate);
+    const src   = getSource(item);
+    return `
+      <a class="news-item" href="${link}" target="_blank" rel="noopener">
+        <div class="news-title">${escHtml(title)}</div>
+        <div class="news-meta">
+          ${src ? `<span class="news-source">${escHtml(src)}</span>` : ''}
+          ${src && time ? '<span class="news-dot">·</span>' : ''}
+          ${time ? `<span class="news-time">${time}</span>` : ''}
+        </div>
+      </a>`;
+  }).join('');
+}
+
+function escHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+async function fetchFeed(url) {
+  const res = await fetch(RSS2JSON + encodeURIComponent(url) + '&count=10');
+  if (!res.ok) throw new Error('fetch failed');
+  const data = await res.json();
+  if (data.status !== 'ok') throw new Error('rss error');
+  return data.items || [];
+}
+
+async function loadCategory({ id, feeds }) {
+  const el = document.getElementById(id);
+  el.innerHTML = renderSkeleton();
+
+  for (const feed of feeds) {
+    try {
+      const items = await fetchFeed(feed);
+      if (items.length > 0) {
+        el.innerHTML = renderItems(items);
+        return;
+      }
+    } catch (_) { /* try next */ }
+  }
+
+  el.innerHTML = `<div class="error-msg"><span>📭</span>뉴스를 불러올 수 없습니다</div>`;
+}
+
+async function refreshAll() {
+  const btn = document.getElementById('refreshBtn');
+  btn.classList.add('spinning');
+  document.getElementById('lastUpdated').textContent = '업데이트 중...';
+
+  await Promise.all(CATEGORIES.map(loadCategory));
+
+  btn.classList.remove('spinning');
+  const now = new Date();
+  document.getElementById('lastUpdated').textContent =
+    `${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')} 업데이트`;
+}
+
+// 초기 로드
+refreshAll();
+
+// 5분마다 자동 갱신
+setInterval(refreshAll, 5 * 60 * 1000);
+</script>
+</body>
+</html>
