@@ -266,6 +266,7 @@
 
 <script>
 const RSS2JSON = 'https://api.rss2json.com/v1/api.json?rss_url=';
+const TRANS_CACHE_KEY = 'news_trans_v1';
 
 const CATEGORIES = [
   {
@@ -305,6 +306,52 @@ const CATEGORIES = [
   }
 ];
 
+/* ── Translation ── */
+function isKorean(text) {
+  const ko = (text.match(/[가-힣]/g) || []).length;
+  return ko / text.length > 0.25;
+}
+
+function loadCache() {
+  try { return JSON.parse(localStorage.getItem(TRANS_CACHE_KEY) || '{}'); }
+  catch { return {}; }
+}
+
+function saveCache(cache) {
+  const keys = Object.keys(cache);
+  if (keys.length > 300) {
+    const trimmed = {};
+    keys.slice(-200).forEach(k => trimmed[k] = cache[k]);
+    cache = trimmed;
+  }
+  try { localStorage.setItem(TRANS_CACHE_KEY, JSON.stringify(cache)); } catch {}
+}
+
+async function translateToKo(text) {
+  if (!text || isKorean(text)) return text;
+  const cache = loadCache();
+  if (cache[text]) return cache[text];
+  try {
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ko&dt=t&q=${encodeURIComponent(text)}`;
+    const r = await fetch(url);
+    const d = await r.json();
+    const result = (d[0] || []).map(x => x[0]).join('') || text;
+    cache[text] = result;
+    saveCache(cache);
+    return result;
+  } catch {
+    return text;
+  }
+}
+
+async function translateItems(items) {
+  return Promise.all(items.slice(0, 3).map(async item => {
+    const titleKo = await translateToKo(item.title || '');
+    return { ...item, titleKo };
+  }));
+}
+
+/* ── Helpers ── */
 function timeAgo(dateStr) {
   const now = Date.now();
   const past = new Date(dateStr).getTime();
@@ -322,6 +369,11 @@ function getSource(item) {
   return '';
 }
 
+function escHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+/* ── Render ── */
 function renderSkeleton() {
   return Array(3).fill('').map(() => `
     <div class="skeleton-item">
@@ -333,9 +385,9 @@ function renderSkeleton() {
 }
 
 function renderItems(items) {
-  return items.slice(0, 3).map(item => {
-    const title = item.title || '제목 없음';
-    const link  = item.link  || item.guid || '#';
+  return items.map(item => {
+    const title = item.titleKo || item.title || '제목 없음';
+    const link  = item.link || item.guid || '#';
     const time  = timeAgo(item.pubDate);
     const src   = getSource(item);
     return `
@@ -350,10 +402,7 @@ function renderItems(items) {
   }).join('');
 }
 
-function escHtml(s) {
-  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
-
+/* ── Fetch & Load ── */
 async function fetchFeed(url) {
   const res = await fetch(RSS2JSON + encodeURIComponent(url) + '&count=10');
   if (!res.ok) throw new Error('fetch failed');
@@ -370,10 +419,11 @@ async function loadCategory({ id, feeds }) {
     try {
       const items = await fetchFeed(feed);
       if (items.length > 0) {
-        el.innerHTML = renderItems(items);
+        const translated = await translateItems(items);
+        el.innerHTML = renderItems(translated);
         return;
       }
-    } catch (_) { /* try next */ }
+    } catch (_) { /* try next feed */ }
   }
 
   el.innerHTML = `<div class="error-msg"><span>📭</span>뉴스를 불러올 수 없습니다</div>`;
@@ -392,10 +442,7 @@ async function refreshAll() {
     `${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')} 업데이트`;
 }
 
-// 초기 로드
 refreshAll();
-
-// 5분마다 자동 갱신
 setInterval(refreshAll, 5 * 60 * 1000);
 </script>
 </body>
