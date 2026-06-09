@@ -9,7 +9,7 @@ CATEGORIES = [
     {'id': 'cat-kr',   'query': '코스피 코스닥 주식시장'},
     {'id': 'cat-coin', 'query': '비트코인 이더리움 암호화폐'},
     {'id': 'cat-land', 'query': '부동산 아파트 매매가격'},
-    {'id': 'cat-etc',  'query': '주요뉴스 속보 긴급이슈'},
+    {'id': 'cat-etc',  'query': None, 'max_items': 5},  # Top Stories 피드, 5개
 ]
 
 HEADERS = {
@@ -18,14 +18,18 @@ HEADERS = {
 }
 
 def fetch_category(cat):
-    q = quote(cat['query'])
-    url = f"https://news.google.com/rss/search?q={q}+when%3A1d&hl=ko&gl=KR&ceid=KR:ko"
+    if cat.get('query'):
+        q = quote(cat['query'])
+        url = f"https://news.google.com/rss/search?q={q}+when%3A1d&hl=ko&gl=KR&ceid=KR:ko"
+    else:
+        url = "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko"
+    max_items = cat.get('max_items', 3)
     try:
         r = requests.get(url, headers=HEADERS, timeout=15)
         r.raise_for_status()
         root = ET.fromstring(r.content)
         items = []
-        for el in root.findall('.//item')[:3]:
+        for el in root.findall('.//item')[:max_items]:
             title   = el.findtext('title') or ''
             link_raw = el.findtext('link') or el.findtext('guid') or ''
             if not link_raw:
