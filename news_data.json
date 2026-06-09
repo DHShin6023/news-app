@@ -1,6 +1,12 @@
 {
   "cat-us": [
     {
+      "title": "뉴욕증시, 상승세로 전환…나스닥 1.06%↑ - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tR1QyS3BNQmV2T0k0bmh6VVFVTktkOWg0bk00bWZyNW9lcE13QS1hSk5BMDVyLURRUFowYXB1VThwWVcxR2YwSU16RGdpUUU4?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 13:58:16 GMT",
+      "source": "블루밍비트"
+    },
+    {
       "title": "미국증시 반도체주 '급부활'...나스닥·S&P500 '반등', DOW는 '하락' - 초이스경제",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4ZXpkT0xZbnJCMGNOZF9jMnZaYVppdWM2TlJiSnlUZ2hsYm5JTlluZXZWQk1UdXB6VGFqSVZBazROYWRGQ3FETXd4ZGNST3Z5SmxVenRnQkhZVGtHcXEzQ1M0YmJYQ3oyT2hWVzNDaFdYRmPSAXNBVV95cUxQOGV6ZE9MWW5yQjBjTmRfYzJ2WmFaaXVjNk5SYkp5VGdobGJuSU5ZbmV2VkJNVHVwelRhaklWQWs0TmFkRkNxRE13eGRjUk92eUpsVXp0Z0JIWVRrR3FxM0NTNGJiWEN6Mk9oVlczQ2hXWEZj?oc=5",
       "pubDate": "Mon, 08 Jun 2026 23:10:38 GMT",
@@ -11,12 +17,6 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJMDRZZFJIR2dwX2psNkFjemZWVE1UXy1zdjY5UG1PalNoZEJQNnJvRVlUcEtnVWFJZW5aMGdFZkJnbjV4SUU2REhvU2ktS2JsTzJsNVdWOEJSY2hLLUJ3ZEdILVpxSnEzeUZxXzZmUm4?oc=5",
       "pubDate": "Mon, 08 Jun 2026 23:28:28 GMT",
       "source": "신아일보"
-    },
-    {
-      "title": "뉴욕증시 S&P500·나스닥,저가 매수세에 상승...다우존스 하락 - 여성신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtUTctclpPendXLVB6Ymt5WXJDT2Flb1B0cWVRTmpCcXViVzRianc4RHZBLVJtQWFmSW8zQXc5TFdueVc2QUdqU1doRnZia051RmZfREo2X3dxYTE4X0c5bWlITjlYazI5LUU3Z2Z4QdIBc0FVX3lxTE4zbmlUUXZvbFpSWTAxdWxWc2d1YlQyS3pOdndrSXFUNnpKdkxwN2dyQTE3Q3B3bGtqbTc5WXZFYjdMVzRIUEpfaVh4YXJLT2JZaTB1VGhJdnpuYmxFTE91T255R3VGV21CelBhVlQ5SHo1Tmc?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 21:36:20 GMT",
-      "source": "여성신문"
     }
   ],
   "cat-kr": [
@@ -67,9 +67,9 @@
       "source": "중앙일보"
     },
     {
-      "title": "관악·동대문 구축도 12억 …'상향 평준화'에 더 높아진 내집 문턱 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11WG9lWWU3VFNXWmRJdlJ1aGs1VE9EUFcwU0tUSjRURVV0RUl5V2tDZzlyWDdhTUo1WUpBY0pDdWZoX0VGMUMtZGItTi1ZZw?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 08:51:30 GMT",
+      "title": "“7억하던 수원 국평 14억 돌파”…반도체 벨트 줄줄이 신고가 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53YVNmbmtCTmlhWEZ5M1g5bVpCNVZlZzczWktEOFFEQV8wRDVTUFlBR09UVFVhdWlvX0J2RklpbV9IR21mUjZNVUdIdGUxQQ?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 09:41:39 GMT",
       "source": "매일경제"
     },
     {
@@ -81,17 +81,11 @@
   ],
   "cat-etc": [
     {
-      "title": "가트너 “AI 확산으로 사이버 위협 복잡해져… 단일 보안 조치로는 대응 한계” - 데일리시큐",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVdGVWbkt1REEwOE05b0E5d1J6LWx3QWExbnh1bnJNcWlIVDNpRGlyNG5NQ2FLbU1qY3B2S01kcE9nRVZRRVlTREJncktrdk1ReW9JRk1Ud2owYU8wTnY1TmJBakVuQ2t3Y0hicQ?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 03:05:57 GMT",
-      "source": "데일리시큐"
-    },
-    {
-      "title": "북한 해킹조직, 개발자 노린 피싱 확대…깃허브·VS코드 악용해 가상화폐 탈취 시도 - 데일리시큐",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMNVFJSjJwMUJGSWViUGFEWlYtRkFaS1B4c0JqMkg2aHZuMGNmeUNiMnd0YWE4MHM1eDNqMHlRY1JPSkRBeEZuMTI4WWpEc3lRUzdBUUxlbHViNy1ycEhQYkZ0RUY4a2VDNDdXWQ?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 02:49:33 GMT",
+      "title": "CU편의점택배 개인정보 유출, ISMS 인증 체계까지 검증대 올랐다 - 데일리시큐",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YUGlaNFVJcHY1UUNrUms2Tkl3ZFFjZEdCYlRQbEhDY3hVVmNBOXZ0TlpFa1BHb0ROX295ZWtCVU1PMElLSWhFU2xpVTlIQjU2S0lDajk5VTUtSFFQRTJPVGhmdC13b3pHQ3g3Qg?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 15:39:38 GMT",
       "source": "데일리시큐"
     }
   ],
-  "updated": "2026-06-09T13:35:25Z"
+  "updated": "2026-06-09T16:24:06Z"
 }
