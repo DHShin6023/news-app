@@ -267,94 +267,9 @@
 
 <script>
 const TRANS_CACHE_KEY = 'news_trans_v1';
+const DATA_URL = 'news_data.json';
 
-/* ── 카테고리별 Google 뉴스 키워드 ── */
-const CATEGORIES = [
-  {
-    id: 'cat-us',
-    query: '미국증시 나스닥 뉴욕증시 when:1d'
-  },
-  {
-    id: 'cat-kr',
-    query: '코스피 코스닥 주식시장 when:1d'
-  },
-  {
-    id: 'cat-coin',
-    query: '비트코인 이더리움 암호화폐 when:1d'
-  },
-  {
-    id: 'cat-land',
-    query: '부동산 아파트 매매가격 when:1d'
-  },
-  {
-    id: 'cat-etc',
-    query: '주요뉴스 긴급 속보 이슈 when:1d'
-  }
-];
-
-/* ── Google 뉴스 RSS URL 생성 ── */
-function buildGNewsUrl(query) {
-  return `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=ko&gl=KR&ceid=KR:ko`;
-}
-
-/* ── RSS XML 파서 ── */
-function parseRssXml(xmlStr) {
-  const xml = new DOMParser().parseFromString(xmlStr, 'text/xml');
-  return [...xml.querySelectorAll('item')].map(el => {
-    const title   = el.querySelector('title')?.textContent?.trim() || '';
-    const guid    = el.querySelector('guid')?.textContent?.trim() || '#';
-    const pubDate = el.querySelector('pubDate')?.textContent || '';
-    const source  = el.querySelector('source')?.textContent?.trim() || '';
-    return { title, link: guid, pubDate, source };
-  });
-}
-
-/* ── allorigins (재시도 포함) ── */
-async function fetchViaAllOrigins(rssUrl) {
-  for (let attempt = 0; attempt < 3; attempt++) {
-    try {
-      if (attempt > 0) await sleep(600 * attempt);
-      const proxy = `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}&t=${Date.now()}`;
-      const res = await fetch(proxy, { cache: 'no-store' });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const json = await res.json();
-      const contents = json?.contents || '';
-      if (contents.length < 200) throw new Error('empty response');
-      const items = parseRssXml(contents);
-      if (items.length > 0) return items;
-    } catch (_) {}
-  }
-  throw new Error('allorigins failed');
-}
-
-/* ── rss2json (폴백) ── */
-async function fetchViaRss2Json(rssUrl) {
-  const url = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}&count=10`;
-  const res = await fetch(url);
-  if (!res.ok) throw new Error('rss2json failed');
-  const data = await res.json();
-  if (data.status !== 'ok') throw new Error('rss2json error');
-  return data.items.map(item => ({
-    title:   item.title || '',
-    link:    item.link || item.guid || '#',
-    pubDate: item.pubDate || '',
-    source:  item.author || ''
-  }));
-}
-
-function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
-
-/* ── 뉴스 fetch (allorigins → rss2json) ── */
-async function fetchNews(query) {
-  const rssUrl = buildGNewsUrl(query);
-  for (const fn of [fetchViaAllOrigins, fetchViaRss2Json]) {
-    try {
-      const items = await fn(rssUrl);
-      if (items.length > 0) return items;
-    } catch (_) {}
-  }
-  throw new Error('all proxies failed');
-}
+const CAT_IDS = ['cat-us', 'cat-kr', 'cat-coin', 'cat-land', 'cat-etc'];
 
 /* ── 번역 (한국어 아닌 제목 안전망) ── */
 function isKorean(text) {
@@ -406,7 +321,7 @@ function renderSkeleton() {
 }
 
 function renderItems(items) {
-  return items.slice(0, 3).map(item => {
+  return items.map(item => {
     const title = item.titleKo || item.title || '제목 없음';
     const time  = timeAgo(item.pubDate);
     const src   = item.source || '';
@@ -422,40 +337,48 @@ function renderItems(items) {
   }).join('');
 }
 
-/* ── Load Category ── */
-async function loadCategory({ id, query }) {
-  const el = document.getElementById(id);
-  el.innerHTML = renderSkeleton();
-  try {
-    const raw   = await fetchNews(query);
-    const items = await Promise.all(raw.slice(0, 3).map(async item => ({
-      ...item, titleKo: await translateToKo(item.title)
-    })));
-    el.innerHTML = renderItems(items);
-  } catch (_) {
-    el.innerHTML = `<div class="error-msg"><span>📭</span>뉴스를 불러올 수 없습니다</div>`;
-  }
-}
+/* ── 데이터 로드 & 렌더 ── */
+CAT_IDS.forEach(id => {
+  document.getElementById(id).innerHTML = renderSkeleton();
+});
 
-/* ── Refresh (순차 로딩 - rate limit 방지) ── */
 async function refreshAll() {
   const btn = document.getElementById('refreshBtn');
   btn.classList.add('spinning');
   document.getElementById('lastUpdated').textContent = '업데이트 중...';
 
-  for (const cat of CATEGORIES) {
-    await loadCategory(cat);
-    await sleep(400); // 카테고리 간 간격으로 rate limit 회피
+  try {
+    const res = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: 'no-store' });
+    if (!res.ok) throw new Error('fetch failed');
+    const data = await res.json();
+
+    await Promise.all(CAT_IDS.map(async id => {
+      const el = document.getElementById(id);
+      const raw = data[id] || [];
+      if (raw.length === 0) {
+        el.innerHTML = `<div class="error-msg"><span>📭</span>뉴스를 불러올 수 없습니다</div>`;
+        return;
+      }
+      const items = await Promise.all(raw.map(async item => ({
+        ...item, titleKo: await translateToKo(item.title)
+      })));
+      el.innerHTML = renderItems(items);
+    }));
+
+    const updated = data.updated ? new Date(data.updated) : new Date();
+    const h = String(updated.getHours()).padStart(2,'0');
+    const m = String(updated.getMinutes()).padStart(2,'0');
+    document.getElementById('lastUpdated').textContent = `${h}:${m} 업데이트`;
+
+  } catch (_) {
+    document.getElementById('lastUpdated').textContent = '로드 실패';
   }
 
   btn.classList.remove('spinning');
-  const now = new Date();
-  document.getElementById('lastUpdated').textContent =
-    `${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')} 업데이트`;
 }
 
 refreshAll();
-setInterval(refreshAll, 10 * 60 * 1000); // 10분 자동 갱신
+setInterval(refreshAll, 10 * 60 * 1000);
 </script>
 </body>
 </html>
