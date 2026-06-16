@@ -1,6 +1,31 @@
 {
-  "cat-us": [],
+  "cat-us": [
+    {
+      "title": "뉴욕증시, 유가는 내렸는데 나스닥은 급락…코스피, 반도체 숨고르기 오나 - 세종의소리",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02TkxpNXdCNERVOTJTRC1MbnI2d2hsRW5Ob1VlNkNkQzVRVnR5UGNyZlV5d2I3QTZVUGdkM21fd1ZoS0hKT0FyYS1sNFl6S3ZxbF9fdFkyclZLWTdSa1ZXOVQ4eUhhd0U?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 20:23:51 GMT",
+      "source": "세종의소리"
+    },
+    {
+      "title": "뉴욕증시, 기술주 매도 행렬에 혼조 마감… 나스닥 1% 하락 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZkdURlBnRkZzUVBkWmZTdzhMVkk0WXJBb0t1TTFoWkVaal9qWXhWM1g2akl2eUYzWWZQa2pTSGdTV0p3b0puN1JOZi1oZkVTUEdYMW1raC1kaHk4VDZzS1hwcUdjMDg3eEwyMUxBbDNuVVVLeS1nck9TWm9Ma2V2cUY4LVpDOTZXVGp5bkxGamZhbFI4cTJDTUwyNnlhZ9IBsgFBVV95cUxNVFgzMVhsWjNBVDh6dURMS0pUZW1uZ3hpYVdQVUsyOHoyUHRUUXBPSEdIcEtzbVphdDltUm00WmdRUmFvLURVQzZSZzI4XzZ2TEY0Z3VvWXdHV0w4Tk4zb09zTWJGMVdNTkg4MTZ4bDJPMVF0eFA5ZEwzTEV4cjUxRUthbzZEUHJ0a1M5NWFIZ1RkTTFPaEtoT1FEVVJ5bnFkVEN0dGpTOXI5V2x3RGNxclZB?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 21:33:00 GMT",
+      "source": "Chosunbiz"
+    },
+    {
+      "title": "뉴욕증시, 혼조세로 전환…나스닥 0.42%↓ - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yYWc3VnJlUmZ4ZVM3cWNkMFBSM00yMU13RjZQeE8ycEZIUC1HVVhyeS1kUHhNMEZzd1ZUMzdyVm11ajhHcmF0WVREbTE5M25K?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 16:39:06 GMT",
+      "source": "블루밍비트"
+    }
+  ],
   "cat-kr": [
+    {
+      "title": "[오늘의증시] 코스피, 2%대 급등…8,800선 전고점 눈앞 - 경인방송 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wZER1RVRtbjdIRTgzWXczMklIQjN5VnZ3RkNXN1NIQWY5NHZvdEN4dDQxR0drckJ4LThfR2w4MnlqR0ZiRkV3U1oyVFlRajktdzlybFZnamY5RVE5aW5nc1FUU1HSAWhBVV95cUxQM0hzbnF1dDlyZXZvbGY3UlVVVU5OdGFRY2dvUTFGYlQ0dnJtaXNwVTFTSVdabWstSVB4Q3pybmZZWENUWWppcjhYU0dMZjRwcW1VczJUTGFwWktmZW5seUl3aUdTM0hHeA?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 08:14:39 GMT",
+      "source": "경인방송 뉴스"
+    },
     {
       "title": "코스피, 종전 기대에도 상승폭 축소…코스닥은 하락 전환 - 산경투데이",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hbjN5LWtjOXdXUk41UVc3UmZoWUlrTGpQSkE2cF9vLVpvQTdFR3pwbDV6UmpzTlR3VUNBTGJTTnp5NHg4dnJQcUZvQ0wxUExuVnZ4TUN6NmZPQ0NBa0NJaHdkVkh4UVVXTTR6Q0ZtOWfSAXRBVV95cUxOZUNCN09ISnZPVXFnRTJOV0o5QzRZTVRjSjZlUWxOMERBckhtQkViRGpCVFNxSmVWNUxuSWdFb3ROdXRnaUtNaXM2RGk2ZVZINjF2S0FWaUVTZFFZNDBTRUNRbEluVkEydEhuVWhZLWZYckpYTQ?oc=5",
@@ -12,12 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtVG9VcXY1LTc2VXMxSUEyLUVVd2lpRUczWWVZZW15Zl80d2d5UjdURXFpMmJJYzBwNGxJMmZIYlhWbXltOGRJ?oc=5",
       "pubDate": "Tue, 16 Jun 2026 13:41:00 GMT",
       "source": "신문고뉴스"
-    },
-    {
-      "title": "코스피 '8720선' 안착, 코스닥은 '하락세' - 세이프머니",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rZ1BtVms5bjJuUUc5SURoVzVwNFZhaG5BXzEwUFV4YTZDSGU4OHNoVEZ2aU4xVzhLVU15WkRzeWVoSlV2MDJseUlKTkcwanFvNUNPdzBtdkpZWGtDNVFIZ0NyUUcyQnA3aUJLaEVR?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 10:43:19 GMT",
-      "source": "세이프머니"
     }
   ],
   "cat-coin": [
@@ -48,35 +67,29 @@
       "source": "서울경제"
     },
     {
+      "title": "\"동탄 국평 22억에 팔렸대\"…서울 아파트 저렴해 보이는 이유 [주간이집] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzdzhFeXh2WGg1bDdDNmgyQW9lQ1JIQVFqREsyNkRSYnExV2NxYUdKaVNJajk2dkJIQm5wZjRMRk1SUDJZcWZnTXE0RF94bDh5M3RGV2VFTVFQUdIBVEFVX3lxTE9PdmZaNm1UN1JORkFqSGRqMnphZWgydTRCOTVuMVpBWUdOS3ZRN2VHZlpBajVuT3NWN0tIYXBZTTROQWN0Ml9vek11ZktCbWEycUtVRQ?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 21:30:06 GMT",
+      "source": "한국경제"
+    },
+    {
       "title": "서울 집값 평균 10억 시대…부산 매매가 보합·전세 주춤 ‘숨 고르기’ - 국제신문",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdTNPNUg2MlBHeHZPVHdFeTA2eS1zdHBuOThNSGtTR2ZYZlpHT2pDeXBKX2pHSWVwbTZWcTBIMzdNRkV5cEN0RE5oTDZFNlYyWlRBTTRySlJiU1E4ZVFFUTNvNzNiR3pyYWpuZzlBTm5fTklxaGpzZG9FX0xSTVlPcUpIcDh5bXlndzh3ZlpvY183cXc?oc=5",
       "pubDate": "Tue, 16 Jun 2026 09:47:00 GMT",
       "source": "국제신문"
-    },
-    {
-      "title": "수지·기흥·영통… ‘삼전닉스 셔세권’까지 꿈틀 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDZ5NzNtSFh0UzJIZFYwbW5paTh4TW5zaUZtUjlFdWFCX1dyWmhPSGhYM1RNTklPSXVTYVBNTWhWbEtYT0staU1hcVVfVE5lZld6R0lDYndENnktdDRXTWtmZ0FQRHlYeGJYb2wtUktlb083dUVpR1laQzFEd1NUU3dlLWl2QUhT?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 15:52:00 GMT",
-      "source": "조선일보"
     }
   ],
   "cat-etc": [
     {
-      "title": "미-이란 전자서명 완료…“이란 합의 이행하면 3천억달러 재건 기금 검토” - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fbnR2NXpkVjRmNjhLYTJPT1ZEbkZRRE14VXYzdmdOVHBhZFFaWlVGak8zOGpJTnRhZ3lFS0htMVNGUGJSTGN6bHFWMlo3YXdyMFMxZWFlYzRzZ2c2TXQzQUstakd1YWYyX1dubHN5WQ?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 15:30:00 GMT",
-      "source": "한겨레"
-    },
-    {
-      "title": "시위자 1명이 문앞 저지…체육단체, 野중재에도 진입 못했다 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jaXNNUzZQUDkzZ0p5ek50QmxVYlktOFJZQ1BtSGF5dUQxMnM0SDEyR0tPU1o4Tms2cWFYWjZseU9nMHBuMHh3UGlCYjFGUU4tdEJXZ3VYd09iaTBWVl9oT2xhYndLZW0tZ1diRjFPNUhvTE5JMEdB0gFmQVVfeXFMT2VFNFB6X0RUMTNpc0xMQjJVODRpZDJXbEY2T3JRdWJ1Y3JqNzhXYUtQTFZHOU84Z0VIbFY2OUpWNXB0eGNiMHRBRG9zOTRNRUpYUktDdXVEQnp1bnZKbVpqMVpldE5n?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 07:31:00 GMT",
+      "title": "전쟁 벌인 美, 동맹 기업 돈으로 재건기금 추진 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWb2tJblQya2ZGZWt1cmw0WWpiXzVjdjVZcnR1SU0tamhhZE5hbFVDX0hHY0I1elJWc0VEYk9waTFwdkVQVDVjcGdlck1IaU1nVnBFbVFEVkFFZThNbHJidHNpOXBtUktsUzZaOXFJNDlSZGvSAWZBVV95cUxQVGRCNk1OMGRMR1RSM0k0OUloMEhOLTh0aWR3YkJPcTQ3QUJqcU00VWlLM3VLdHZiX09QZjZVeDJWOVBQZjFqd0M5ZW9rbWlnSFNmNVJUT2Y2Y3BDYlVmakR3TmxlSVE?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 19:30:00 GMT",
       "source": "동아일보"
     },
     {
-      "title": "李대통령,G7 환영식 참석... 트럼프와 30초 대화 나눴다 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0pfNGhoMWFYa1Y3WlVZNC13VXVSVWtFNHlHd0J5czg0YkRmY2tNWjlSRVYtLXZWMlBNSUhxcWhXQUlXQ25VeEgyb0tuX2FaQXowSmhmNk5DVGZQbDFNeVBiTzFPQ0hsYzZNUFVhT29DcU5JNnktQkpTaHI3Sy13UHR6X2dUa1Q0NnFIZGQtS2c?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 14:22:00 GMT",
+      "title": "李 \"중동처럼 北문제 해결 주도해달라\"... 트럼프 \"노력하겠다\" - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjBUUkVVOHdUU3pHSU82YzBQVGpNY1cwZVBLcE9nZDJQdE5rd09qZk1BbkRtV055RTdqWVZ5M2dQUXRwa0ZMSGpFZ0JFVTU5cXphN3UxT2dwVzNzc291dnhocVpVSVVrOWw4R3JQQ2ZTaUtUUG5KN09MVTZMMnh6enhmSm5sLU9XeG9wSWRLVjA?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 17:52:00 GMT",
       "source": "조선일보"
     },
     {
@@ -90,7 +103,13 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55Sk1Zci0zYk81NUthc3RqSDc4LXFLSW5qTFNBWV9JM2lxNXpBRnE0X0Z1X21FeTBGRUhybHlCaEFkZV9HdkxLcm5qaWZKZ1dZZ3dOXzZUYXhOZ9IBX0FVX3lxTFBHWDdadmh2V0o4UjdxN3cxLXR2ekNjRWpjdnVXTzFTNEwzZEtNenAzTlEtVy1HX3J5NGhzOXhNekRxcWhONnpBV3U1XzRkWUZTN05sQWRZN09VMXc2LUpz?oc=5",
       "pubDate": "Tue, 16 Jun 2026 12:29:00 GMT",
       "source": "경향신문"
+    },
+    {
+      "title": "체육단체, 사무실 진입 불발…출입 막은 시위대 수사받는다 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzaW9VS3gxZlkwMEt1Wkh4MGVDZHBRR19idlBRVUZKWTZvY3RpZUxFd0R0NzRpbDJxa0o0M19yZXBOb3RMeXZDR3pkZHpIeEdBSnJ4Z3V4d0Y5NnBmOE45Y3pweklQT2hiajVRSXFIUks0QQ?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 12:11:00 GMT",
+      "source": "한겨레"
     }
   ],
-  "updated": "2026-06-16T19:25:49Z"
+  "updated": "2026-06-16T21:58:29Z"
 }
