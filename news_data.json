@@ -1,36 +1,17 @@
 {
-  "cat-us": [
-    {
-      "title": "[미국증시] 종전 랠리에 나스닥 3% 급등, 필라델피아반도체 최고치 - jabon.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11clFJOTNuZDR1UFVmdHZkakpiMV9sd2JWRUtkQVJqWmxUY3otMTNjdlY5WDYtWDBreVhXRlJQaWQ5VXRzaFdCTEliNDlCdW1TTkJkUGhGaTBPMDJ2bEpUbGJfRW90b0U?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 23:00:00 GMT",
-      "source": "jabon.co.kr"
-    },
-    {
-      "title": "[뉴욕증시] 美·이란 종전 합의에 강세…나스닥 3%↑ - 신아일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5McUhOYVN2U3h5bnFLMDVOYXIyRDBVNUxxNTVxQzhrTkVhaUJScklhLW00XzUwczNLTnpWRlpmNU5wQ1lKb1lzZDNCSHR2VjVTbnFOb2Z0aDBZTVNYT1F3NG5kbHZ2b2dOZGxkeE5yeXM?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 23:43:05 GMT",
-      "source": "신아일보"
-    },
-    {
-      "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 3%대 급등 - 서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvcHVEX2xRNHZ3RnNhbGpjZHB5d3FSMWl5aGt2RjJ5UHJCRUFYQXVpM1VRWFZORkZpLWg0NXlHSlNFYjNFQ1diLUdqX2xpZ1RLTEN4MF9DdUZzQWV0a0g2ek5qc3VsWm93azdJclMxek1jWUZCRFppWUxuWXJPUQ?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 21:13:42 GMT",
-      "source": "서울신문"
-    }
-  ],
+  "cat-us": [],
   "cat-kr": [
-    {
-      "title": "종전 훈풍에 코스피 8,700선 회복…반도체 강세 속 코스닥은 하락 마감 - 신문고뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtVG9VcXY1LTc2VXMxSUEyLUVVd2lpRUczWWVZZW15Zl80d2d5UjdURXFpMmJJYzBwNGxJMmZIYlhWbXltOGRJ?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 13:41:00 GMT",
-      "source": "신문고뉴스"
-    },
     {
       "title": "코스피, 종전 기대에도 상승폭 축소…코스닥은 하락 전환 - 산경투데이",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hbjN5LWtjOXdXUk41UVc3UmZoWUlrTGpQSkE2cF9vLVpvQTdFR3pwbDV6UmpzTlR3VUNBTGJTTnp5NHg4dnJQcUZvQ0wxUExuVnZ4TUN6NmZPQ0NBa0NJaHdkVkh4UVVXTTR6Q0ZtOWfSAXRBVV95cUxOZUNCN09ISnZPVXFnRTJOV0o5QzRZTVRjSjZlUWxOMERBckhtQkViRGpCVFNxSmVWNUxuSWdFb3ROdXRnaUtNaXM2RGk2ZVZINjF2S0FWaUVTZFFZNDBTRUNRbEluVkEydEhuVWhZLWZYckpYTQ?oc=5",
       "pubDate": "Tue, 16 Jun 2026 02:49:25 GMT",
       "source": "산경투데이"
+    },
+    {
+      "title": "종전 훈풍에 코스피 8,700선 회복…반도체 강세 속 코스닥은 하락 마감 - 신문고뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtVG9VcXY1LTc2VXMxSUEyLUVVd2lpRUczWWVZZW15Zl80d2d5UjdURXFpMmJJYzBwNGxJMmZIYlhWbXltOGRJ?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 13:41:00 GMT",
+      "source": "신문고뉴스"
     },
     {
       "title": "코스피 '8720선' 안착, 코스닥은 '하락세' - 세이프머니",
@@ -73,24 +54,30 @@
       "source": "국제신문"
     },
     {
-      "title": "[부동산 현장 탐방] 연일 보도에 매물 잠기고 규제 우려…동탄의 그늘 | - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyMEdYTEdyakdLV2FOX1R4WW1UVFJvOGk0cVdXdmEtQW1pY2FsQnUtclZDbXp6bEZrSG9vY1FfcFhEVVRXWklpWDV1aGljakkxREc2cjY5bm5FZWx5U3AybzJtckZ0ZVc1dTRrX08zczZ5ZUNK?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 01:21:54 GMT",
-      "source": "연합인포맥스"
+      "title": "수지·기흥·영통… ‘삼전닉스 셔세권’까지 꿈틀 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDZ5NzNtSFh0UzJIZFYwbW5paTh4TW5zaUZtUjlFdWFCX1dyWmhPSGhYM1RNTklPSXVTYVBNTWhWbEtYT0staU1hcVVfVE5lZld6R0lDYndENnktdDRXTWtmZ0FQRHlYeGJYb2wtUktlb083dUVpR1laQzFEd1NUU3dlLWl2QUhT?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 15:52:00 GMT",
+      "source": "조선일보"
     }
   ],
   "cat-etc": [
     {
-      "title": "체육단체, 사무실 진입 불발…출입 막은 시위대 수사받는다 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzaW9VS3gxZlkwMEt1Wkh4MGVDZHBRR19idlBRVUZKWTZvY3RpZUxFd0R0NzRpbDJxa0o0M19yZXBOb3RMeXZDR3pkZHpIeEdBSnJ4Z3V4d0Y5NnBmOE45Y3pweklQT2hiajVRSXFIUks0QQ?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 12:11:00 GMT",
+      "title": "미-이란 전자서명 완료…“이란 합의 이행하면 3천억달러 재건 기금 검토” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fbnR2NXpkVjRmNjhLYTJPT1ZEbkZRRE14VXYzdmdOVHBhZFFaWlVGak8zOGpJTnRhZ3lFS0htMVNGUGJSTGN6bHFWMlo3YXdyMFMxZWFlYzRzZ2c2TXQzQUstakd1YWYyX1dubHN5WQ?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 15:30:00 GMT",
       "source": "한겨레"
     },
     {
-      "title": "트럼프, 이란에 또 초강경 경고 날렸다...“핵무기 만들면 지옥 같은 재앙” - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14SVNETGJvTkliQlRxcXEwTWVyakQ1TTM0SEtfNjBVV2RpLUdOUXF5WVN2N01mWHYwdTA2ekZCdk8xaTBvNzdZZkE1U0lWdDdjQzVCT1Fn?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 11:12:56 GMT",
-      "source": "매일경제"
+      "title": "시위자 1명이 문앞 저지…체육단체, 野중재에도 진입 못했다 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jaXNNUzZQUDkzZ0p5ek50QmxVYlktOFJZQ1BtSGF5dUQxMnM0SDEyR0tPU1o4Tms2cWFYWjZseU9nMHBuMHh3UGlCYjFGUU4tdEJXZ3VYd09iaTBWVl9oT2xhYndLZW0tZ1diRjFPNUhvTE5JMEdB0gFmQVVfeXFMT2VFNFB6X0RUMTNpc0xMQjJVODRpZDJXbEY2T3JRdWJ1Y3JqNzhXYUtQTFZHOU84Z0VIbFY2OUpWNXB0eGNiMHRBRG9zOTRNRUpYUktDdXVEQnp1bnZKbVpqMVpldE5n?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 07:31:00 GMT",
+      "source": "동아일보"
+    },
+    {
+      "title": "李대통령,G7 환영식 참석... 트럼프와 30초 대화 나눴다 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0pfNGhoMWFYa1Y3WlVZNC13VXVSVWtFNHlHd0J5czg0YkRmY2tNWjlSRVYtLXZWMlBNSUhxcWhXQUlXQ25VeEgyb0tuX2FaQXowSmhmNk5DVGZQbDFNeVBiTzFPQ0hsYzZNUFVhT29DcU5JNnktQkpTaHI3Sy13UHR6X2dUa1Q0NnFIZGQtS2c?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 14:22:00 GMT",
+      "source": "조선일보"
     },
     {
       "title": "정청래 “국민주권정부 탄생은 DJ·노무현·문재인의 역사” - 경향신문",
@@ -99,17 +86,11 @@
       "source": "경향신문"
     },
     {
-      "title": "李대통령, G7 정상회의장 도착 ‘국제연대 재건’ 확대세션 참석 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0pfNGhoMWFYa1Y3WlVZNC13VXVSVWtFNHlHd0J5czg0YkRmY2tNWjlSRVYtLXZWMlBNSUhxcWhXQUlXQ25VeEgyb0tuX2FaQXowSmhmNk5DVGZQbDFNeVBiTzFPQ0hsYzZNUFVhT29DcU5JNnktQkpTaHI3Sy13UHR6X2dUa1Q0NnFIZGQtS2c?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 14:22:00 GMT",
-      "source": "조선일보"
-    },
-    {
-      "title": "오세훈 “장동혁 재선거 주장 소모적…자리보전용 구호 멈춰라” - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xUjA0QUVTMEpEcjk1cTM1eC1QZzA0U2FUdVptcFJMdEFjZVR4NXNwbDlLZTFGcFRpNUZneFF4MDkybWZJZC0tTlU4UmRpbWx2dEN6b1VJZEtTQjNnQlJEUzcyQmRPN1g5RlQtdld4M2d1TVNiVXRB0gFmQVVfeXFMUEdfNF8wU01xMXp4Ymx2REI5OWZJa1lHTHNiMVpiZzQ4RjgzQ3VCOHY5SXJEVk5MZUM0ZWRvWTllbHJxUF82SjhiYTRUR194cjNaTVloanJ3cnN4clJuWk1tTTJjX0Fn?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 01:57:00 GMT",
-      "source": "동아일보"
+      "title": "장동혁 “전국 재선거” 오세훈 “자리보전용”…국힘 내홍 심화 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55Sk1Zci0zYk81NUthc3RqSDc4LXFLSW5qTFNBWV9JM2lxNXpBRnE0X0Z1X21FeTBGRUhybHlCaEFkZV9HdkxLcm5qaWZKZ1dZZ3dOXzZUYXhOZ9IBX0FVX3lxTFBHWDdadmh2V0o4UjdxN3cxLXR2ekNjRWpjdnVXTzFTNEwzZEtNenAzTlEtVy1HX3J5NGhzOXhNekRxcWhONnpBV3U1XzRkWUZTN05sQWRZN09VMXc2LUpz?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 12:29:00 GMT",
+      "source": "경향신문"
     }
   ],
-  "updated": "2026-06-16T15:47:06Z"
+  "updated": "2026-06-16T19:25:49Z"
 }
