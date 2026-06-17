@@ -1,20 +1,20 @@
 {
   "cat-us": [
     {
-      "title": "[뉴욕증시]다우 최고치 경신…나스닥 하락 전환 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVG9MbW1IS1lORDZ5c1hrbDdzdjhEUEc5MzZ6NnY4V1lBeGIwYkFQZFZYZzdDaXhFUUgzcDRBRm1jbjRYTF9iMDZ0RWtyMXc?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 14:23:42 GMT",
-      "source": "v.daum.net"
-    },
-    {
       "title": "뉴욕증시, 혼조세로 전환…나스닥 0.05%↓ - 블루밍비트",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rVUFvUGRxMVJpbXpIMFZPWGxWSzI4UHNFTUI1Z2t0Z3IzSGJqS3dDanc1SEx4ajFucXpWVDdiS3F3TTFMbXp2RmpadzVWeW93?oc=5",
       "pubDate": "Wed, 17 Jun 2026 16:56:41 GMT",
       "source": "블루밍비트"
     },
     {
+      "title": "[뉴욕증시] 기술주 차익실현에 나스닥 1%↓ …FOMC 앞두고 '경계' - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IV0ZwdnRob1JLMzBqc1p4YXBGRWtDNnIxOTNjeHRkWkxxaThZZXU0U2ZKeTk5MjEwcG5OZWRxRmxHQ2l6SlhJSU1mTnkwaFo1RHhrc215VUtEX3JmTmFUTVprUWg3X3hnRUdLRFZXLXA?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 23:39:09 GMT",
+      "source": "신아일보"
+    },
+    {
       "title": "[속보]미국 증시, 17일 오후 상승세…다우·S&P500·나스닥 일제히 강세 - CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85d0ROX0xqcTlDVUVtY051NW1rcXhFSzZ1VjBaVVU3TURWRm5mZmdNZURzVldQOWZ0dDNQM25UU29WMnhKRHpGLVI4Z3hVanVnbnVMcVFuNDRiLUV2NTRXaGZ6Q0dIS0l3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DdnlmalU3eXpKcmVzelhGOVRGUlJBbWtuakdTUlBIeE1SdWdCUjZ1eGUtNUVEc25vRUVyTUYzZnBsdXYwR3B3V3YzQzc1NTFURzItY1EyWVo2VE95OGRoVmNVdHJaTlU?oc=5",
       "pubDate": "Wed, 17 Jun 2026 14:25:00 GMT",
       "source": "CBC뉴스"
     }
@@ -41,16 +41,16 @@
   ],
   "cat-coin": [
     {
-      "title": "실시간 Bitcoin - 비트코인 가격 차트 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16VERZX1Rlb3N5Q1NxQnJqazZObGdsYlFjV0c0UnVLbVVtdktvemdSazRiOFdYTVVsNEI3QnJVeTIwekhldms2SlRJa0FwVG9GM0J1NDZqMjE?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 08:30:31 GMT",
-      "source": "Investing.com 한국어"
-    },
-    {
       "title": "비트코인(BTC) 가격 급등을 유발할 수 있는 3가지 연준 신호: 크립토 데일리 - CoinDesk",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTV9BVUd2RFVCRjhvZS04QkRWRVdUa0lFbnNuQWVjZmg3cEIwajRSdTExQWc0SVFKLWtyQm50aTdsNHltOXVsNjE2R0JVZFdXWnktUmFjTHZEUkw4UFo0VXBhY3JBNl9HanpUdHJ6MlNvZ2VKRDFhNXhpT1pHSEVXRHVyc0JLVnZwNUZ6QjhqWlVqbmJjWmFGdkJPNA?oc=5",
       "pubDate": "Wed, 17 Jun 2026 11:31:58 GMT",
       "source": "CoinDesk"
+    },
+    {
+      "title": "[서울데이터랩]6월 17일 암호화폐 시총 상위종목 동향 - 서울신문",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoa3A5azUyYVk0R3ZFOWRKeEh0djRFOTZJZW1VQ0t3N09icDN4dlk1bFdMLTd5ckZiZVdxcFhGWGE2NXM0YkpZSTlrWHlDMVVURlpyMC1DcGg0V0RmNkZXMXpCclJKTlhNQ2FaWjgtR3hpbEpOSXA1Qw?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 04:53:21 GMT",
+      "source": "서울신문"
     },
     {
       "title": "스탠다드차타드가 내놓은 비트코인, 이더리움 파격 전망 - Cryptonews",
@@ -81,35 +81,35 @@
   ],
   "cat-etc": [
     {
-      "title": "이 대통령 “한반도 피스메이커” 요청…트럼프 “하겠다” 화답 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HYk1MeFZKZURhaGMtdk9OejNoTTh6cmp1U095amF3M0dFUVllU2JWMGxIQWZUUllmMm5KTmxib1VkeWF5SFl0RXdmTGx6b0pnZk1yX2JMczFJTkpOemktRzI2LUFrZktfTlVJ?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 15:46:00 GMT",
+      "title": "개표소 시위, 지도부 없이 ‘무기한 봉쇄’…부정선거론 해방구 돼 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XcUllNDV3VEhPZlNiY0owRU5MV3F2SGpwZUFRSUFtQ3lqNDlJRm9lZ1JDdzZuTzliMnQ0Rk9Zb1h4SUczRVhndXpMYWFxSkx6bTE0Sl9YSkJnWXQwNnFiMVhpc0Q2MkVIT1ZWMzVJUXVLdw?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 13:11:00 GMT",
       "source": "한겨레"
     },
     {
-      "title": "‘잠실 봉쇄’ 첫 현장 중재 나섰지만…시위대에 막힌 여당 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RNWhObXFPQWpvNDRtb3g1MGRlVDF5eUhUMEtDZFNya2oxUF93VHJhdWVqZkE5SjRvN3pCYlFfNVVKSVJoN25mRV8yN0NTX3Q1LW5aaXJkcDhmZ9IBX0FVX3lxTE0xc1FpNG56LTZYQ1JXV3B1UHQ1THlINmVtZHF2RzZSWW5Ca1BOWHdDd1pPbDc4VUh6NkQ2V0tueGZ3SjZDZld4SlVTaWN0blpxZnU2VUg3c0lDM3RGMUNB?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 12:17:00 GMT",
-      "source": "경향신문"
+      "title": "트럼프 “이란과 곧 MOU 체결” - VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVpRM0FlTDJqa1pYN0RFSks4MUdFSzkzdnIwVE5LM28tV0NlLS1xWUNpenBWenVLcFI0YkhSSHlsSjIzUnBPYi1QODFvR1pzR3k4bHYtSTNPeGV0aVdXSnlCdmlwWTZwUDJZMTV2Q3RBUzd2RkJDeXNOa2xLd2FIZW1Jc0poeXFxWVdkQUZUcWFPUF9nM1ZJenRnLVExUnVBWE5IS2ZuZVVTMEdGUFlfSFFTbE5md9IBuAFBVV95cUxNUEtwNDN2cGZqaTg3OUFCMUU0TUp6dDg4S2VMX3BXVDZqOFMxUGlxQ3dSQUowUXlhM0R2Y3lxOGlBdmNQZVd3TkJEblRxeElhV09QZzlWQTFmNEpWenBYZTJMZGc4SWpselF0QmVlOFFGSk1nald4cjNCX1VVUDdHTXRiOGNtcHJpMEVKb2VGMDJHMHFkOG1oWHVHWDBxTXZsU1ZiQ0IzSk91MnFvY0xuSmw0MUJFVmRj?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 17:23:44 GMT",
+      "source": "VOA 한국어 홈페이지"
     },
     {
-      "title": "신규 핵발전소 선정에…경북 영덕 “환영” 부산 기장 “유감” - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xWkRWXzliQVRtSVNRZjNWNFlnWUl0VTJDQVlROWZQSkxCR2dIR0xDR3BNNGhhLXhFdHU4anFUYWNCeHBJSmsySEpZc0tyQ0FZS1lEb0dTSDJueVVxSTFNcGI5czI?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 14:35:00 GMT",
-      "source": "한겨레"
+      "title": "이 대통령, 루토 케냐 대통령과 회담…\"한국 발전 경험 공유하겠다\" - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zbkJFb255aktTSFJubjlPQnlidkc3ejFQUGNMODExbXFTWkxLOFVxcTNiQ094SzdrNmRJTXlhbTlnVmdEMkpBRnNxWkZwc2VBbHhlWF90VV80SW43OUFycTBzV1hUck0?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 18:54:40 GMT",
+      "source": "연합뉴스TV"
     },
     {
-      "title": "특검, 징역 1년6개월 구형에…오세훈 “검사님들 떳떳하십니까” - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ON2R0Y1dhZm9PanpBcWNMY0U2SHZvV2NnRWtTOFhseVh4eE5IaEtyUmJuLTBuQk9oUGYtbW0yeThxOUNPMU0xemYwaDIyb3pRM0RmbmY0am9uMFdBQVpZUXc4amJmMWZFTjM4eUNMazJ0VnBMTGfSAWZBVV95cUxNX1hDVjhaRlptZ2pBa3dmSm1vWXhFLUFjM0dEaTNRSlVkd0gwUVdjTW83Sjh5b1JjZFJNTl9UcWt2UkpwallnNVFrM3RWSWZzQXhoQnhmN1lSYV92a3hvQUdiY04ycFE?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 06:34:00 GMT",
+      "title": "[단독]선관위, 82억 투표용지 인쇄 ‘수의계약’… 한장당 25원~75원 ‘고무줄’ - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JYVJwSElQeFhUT1pKQy04TVJMaE9iZVZoaUxweFFHeW1wdE00RWxtdTBLRzRXMU1HWWlBaEpLLVgwN2NxejBWMjJHYk9yNGY3b0VISTY3ZDhyRUtnWVBHaW41d19fMTFaQ1JCRmJJMXkyWGJMY0FN0gFmQVVfeXFMTVM2Z2M4YXVvNTl2dUE0QnpJSnVac2RwTF94ZmEwNEd0WFJicWtzZFpIei05Um5yZkRWRXFYS2hIWUZ6OTFLeklsRXR4TG44UkV5MjJVV2xCV3NpS1lqVjd4aElZMm9R?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 19:30:00 GMT",
       "source": "동아일보"
     },
     {
-      "title": "'국민의힘 집단 가입' 신천지 전 간부 3명 구속 - MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xZ1kwc2dJQ2c5VzFDVTZrQllnZWlYNmVRWEFoSzhleGJZeEdEUFFxMlc0NlA4RzhEYXoxMlFYZGg3aWF0WmZsNHZlWDVrUEFCTF9xTl9KQmIzTmxDUVNWRnl2QzRXNWpEWDRDUDRDRlJDU3VTRnRZ0gF3QVVfeXFMTWd5c2hnODRoSjdDNEtBY1E3NzZfeTI3cnU2Yzk4QURqZml4dnRWVnh1akRYUVJKd3ZoRWJXNHgxWm1HN1haSGJyenZSbzhJYnhHM0JyZUVldVdrY3RWdml6SWJtZ3F1SVBFVEx2YkUxYU9tbzZlb00?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 14:45:01 GMT",
-      "source": "MBC 뉴스"
+      "title": "국민의힘, 서울 등 11곳 선거 소청 제기…사실상 전면 재선거 요구 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHSm1mNzBSZ3laOHFueUtFVFgyenc0NjNOaE40ek51QlBMbUVnZFlTOVhLWjE1WDV1RVVzMFAtNi1BRHZCMDFnUkdYUzlUMkhYM3ZLRUFPZUpRUdIBX0FVX3lxTE43bE1nbmZ4VldKYXo3eDA5Y04wZmtGWTFyX3RQam1TWWpmLXdFQ19BdVFBd0tJVk4yLU9JQnNnaHp3NGVyeWJQdFEyNGNoSFpiYVUyUFVWZTZtRnRoTTZF?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 12:32:00 GMT",
+      "source": "경향신문"
     }
   ],
-  "updated": "2026-06-17T17:41:58Z"
+  "updated": "2026-06-17T19:54:38Z"
 }
