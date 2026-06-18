@@ -1,45 +1,51 @@
 {
   "cat-us": [
     {
-      "title": "뉴욕증시, 하락세로 마감…나스닥 1.35%↓ - 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KZWt2WGY4by1ZTERheXc0cEpqVkxybXMzOFk0dERPeFVSRzFxMEZXbXY2bTI1MmhockJRQmZzSS11TDdVeEMta19jeUI2b0Ux?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 20:06:26 GMT",
-      "source": "블루밍비트"
-    },
-    {
       "title": "Fed 추가 인상 신호에 뉴욕증시 급락…S&P·나스닥 1%대 하락 - 한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hM2hPUlBKNy1BZ3NRdnA3eTdGOW9FMzdvY1pkeFlQa2MxX01qZmM3c2MzWVg4ZWcxYXg0N0xOc01Nb0FBTFNWYXQtZk02dXdjVElCcmxTa0p4QdIBVEFVX3lxTE9OSUJ3T1NGVkEwRmZ1R09Dc3dia3BwcWp5LWhSdTdsaWhlSXIza0xHSXFMeGZTaU1PUU1XNFBSeHVTaVBSWloxbzVQRUZEeXFmQS1NUg?oc=5",
       "pubDate": "Wed, 17 Jun 2026 22:50:44 GMT",
       "source": "한국경제"
     },
     {
-      "title": "[뉴욕증시]다우 최고치 경신…나스닥 하락 전환 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9kWHE5eDhBREEtSlVyaDcxeDExcjVPa3ZUUFVjN01VM1RwbFZoc2hzNGtTcGVUMW9DcC1ZODdyS0dESWhVMlE?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 14:23:42 GMT",
-      "source": "v.daum.net"
+      "title": "뉴욕증시, 하락세로 마감…나스닥 1.35%↓ - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KZWt2WGY4by1ZTERheXc0cEpqVkxybXMzOFk0dERPeFVSRzFxMEZXbXY2bTI1MmhockJRQmZzSS11TDdVeEMta19jeUI2b0Ux?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 20:06:26 GMT",
+      "source": "블루밍비트"
+    },
+    {
+      "title": "[뉴욕증시] 연준 연내 금리 인상 우려에 하락 마감…나스닥 1.3%↓ - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kMHFmUXZOOThDVEU4N0VMam9zaWRMU285bU9VUVBjSlJGckE2b0pqTTJla19wQlVVOF9meGF6aEszTmF5b2gtT2VHc1N2M1Z4X04ybDV6d1BrbXBjd3pQZDh5aVEyeHYxQkdEbTdkSXQ?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 23:51:38 GMT",
+      "source": "신아일보"
     }
   ],
   "cat-kr": [
+    {
+      "title": "[AI MY 증시전망] \"FOMC 매파 부담에 하락 출발 전망\" - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02bmM1VGZqUTZ1QWtNMU5FYlJ0alM4SjdQQm1sNWM1SVIyR2pfR1lHV3lnS3UxZUs0UXFuNnlBSEdnN1pqNkVNTEl0YjFPUmtOc1hqMDcxUXVMV3d5?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 23:56:00 GMT",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "코스피, 개장 직후 8975선 터치…장중 사상 최고치 경신 - 진일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BQ29DVnU5UjRNVTB4UENXREctN3cycUNJczVaeENCellJajRabktVM1BORC02N09iX1Jya29BbGcwYkI3T25vMUNKOVQzOUpXMWZfSlo4emhoMDNYcFNoVlNSVmhKRXN2ZDlBcVRHbw?oc=5",
+      "pubDate": "Thu, 18 Jun 2026 00:18:00 GMT",
+      "source": "진일보"
+    },
     {
       "title": "외국인 순매도·인플레 우려 등에…환율, 1.8원 오른 1,513.4원 - 연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NZE52d3h6eHZzTXZOUVRFb3NfNEFNOG85VWE0TnE1UUpZdEdTY2cyX2EyMTVEMUE3N2pIT0J3ZVpKYWhQR1ZwQWJQUkR3V3ZEWTg5akdTeFpHZWxycU0ydtIBYEFVX3lxTE9NZE52d3h6eHZzTXZOUVRFb3NfNEFNOG85VWE0TnE1UUpZdEdTY2cyX2EyMTVEMUE3N2pIT0J3ZVpKYWhQR1ZwQWJQUkR3V3ZEWTg5akdTeFpHZWxycU0ydg?oc=5",
       "pubDate": "Wed, 17 Jun 2026 07:32:47 GMT",
       "source": "연합뉴스"
-    },
-    {
-      "title": "코스피, 반도체 강세에 8,800선 회복…종가 기준 사상 최고 - 산경투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MzFhNkIxekJaU1BTczRLTVpVLVE2RVZKMmdLWGRTMFJpQWxUTk1SWHFyR2VMbDlROEJMRFZtZ2xTb1BNTDNlOHJZOGt6VEx5MkFKdlVXc1JBY3hrSVNId2JFaThuMHYyQkMyM2xqannSAXRBVV95cUxQSWJLMnRVNTExNG5VMktVbF91QVB6WDVtOGZnQ1ZiM0dNUVVhcTA2ejAyWGwwUWI4LS01Y2FfTEV1bU5oWmJpekt2eEtDX29CNjF5bW9UdlZmV3lrRHJPUmt1VG8tX3RSNThweGEzZWhNVTJNcQ?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 10:19:25 GMT",
-      "source": "산경투데이"
-    },
-    {
-      "title": "코스피 사상 최고價 …코스닥도 외인 사자에 1030선 - 경제타임스",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByejBoU3Nnd2NjelpvdllhM0FINlE1SnV1cDA4eGc5Smx6X1lvZ1F5eGZuTjFhVzRCOFVkc1F2VmI1VV9VdmJKbkd6S0NBcGhvQ0o4?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 07:16:48 GMT",
-      "source": "경제타임스"
     }
   ],
   "cat-coin": [
+    {
+      "title": "[07:48 가상자산] 비트코인, 연준 금리 인상 예고에 하락 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrelZGalNwM3owVG1CakViQXRfYUVSLTAxQXRSQ2ZheWtSNjMzWGh0N1FQbE12Ykt1Q3dfMVlMZWdjMGZ1aWtjQnFDYlZKbmxfMFN2Wng5aVVYNXoxRTFqV0ZQN1hjbVhMWC1YTTEwbGM?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 23:15:13 GMT",
+      "source": "신아일보"
+    },
     {
       "title": "[크립토핫이슈] 비트코인 바닥 쳤나…클래리티법 또 표류 - 디지털투데이",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NRTZZMzdlWi1hV21VcTVWN0RlU1ByaUc0NjZxR1N4c3lVM3RYSmtxOFFHVU4zT0JNbUVUYlBYSERiR0N3R0d3QlB3bFE3N2hGVHFNeGxvMEpUUG9zVzRiLUpFM2d6RXlGTlZjRmVXTUQyYTA?oc=5",
@@ -51,12 +57,6 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqbGx4TkZ2WXBXUWM5RDdMWVNiUUxManNHczFlenp5Y3htMnhJby1Xb21LOHJWVjRtbTBRZ05KenJkSkxlamtUb3FPMUlyLVFac1JpVmxPLVZqVE5JS1ZoZURWMEQ4YUdMcFVZSHJaQ2g?oc=5",
       "pubDate": "Wed, 17 Jun 2026 22:46:40 GMT",
       "source": "모빅경제"
-    },
-    {
-      "title": "비트코인(BTC) 가격 급등을 유발할 수 있는 3가지 연준 신호: 크립토 데일리 - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTV9BVUd2RFVCRjhvZS04QkRWRVdUa0lFbnNuQWVjZmg3cEIwajRSdTExQWc0SVFKLWtyQm50aTdsNHltOXVsNjE2R0JVZFdXWnktUmFjTHZEUkw4UFo0VXBhY3JBNl9HanpUdHJ6MlNvZ2VKRDFhNXhpT1pHSEVXRHVyc0JLVnZwNUZ6QjhqWlVqbmJjWmFGdkJPNA?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 11:31:58 GMT",
-      "source": "CoinDesk"
     }
   ],
   "cat-land": [
@@ -73,24 +73,18 @@
       "source": "헤럴드경제"
     },
     {
-      "title": "4월 서울 집값, 전월 대비 0.08%↑…10건 중 8건 '15억 이하' - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bW1udEhNWjdYZkFUWkZ0N0VHVVFaQ1pPdERUVmFydmpGd21FZWR2SVlydVpxNEZUclBicl9lSE9vV1ZrLUMxT2tZaFJuTUhWbTVEbzRSc1ZYTDA?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 21:00:00 GMT",
-      "source": "뉴스1"
+      "title": "서울시, 4월 아파트 매매 실거래가격 상승(0.1%) 전환...전세는 1%대 상승 지속 - 한국현대미술신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45clA5RmYxenJZWm9ra0p4ZkR3VFA3WF9UMDFqVmZ5TnozQXowekYxcEo4ekY2TFp5Umo3a2huSmxvYVBEcFRyazZ2V1BmOVBRZUV2VHYtNUVIUQ?oc=5",
+      "pubDate": "Thu, 18 Jun 2026 01:30:33 GMT",
+      "source": "한국현대미술신문"
     }
   ],
   "cat-etc": [
     {
-      "title": "[속보] 트럼프, 이란 MOU 서명...19일 스위스 서명식 취소될 듯 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWlduVnhZV0VSSTVzMTZ4cjBxNEVYNGZKUEhSdDdtWFQ4azRnNlIwYk4wTjVXR2FUMlJNaHltZzFmTmZTOVhfbHFqVlB6dURBdWcyV09xUDAxb2U4Q3FrdnFOZHJkam5wVjc3QUVicU9oSU9wTWlGSnR6ZExjV2FFRFg1bFpUOUZoMm9vYl9OYVJnRWZ2ZktORlktLUgzZw?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 22:14:00 GMT",
-      "source": "조선일보"
-    },
-    {
-      "title": "[단독]선관위, 82억 투표용지 인쇄 ‘수의계약’… 한장당 25원~75원 ‘고무줄’ - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JYVJwSElQeFhUT1pKQy04TVJMaE9iZVZoaUxweFFHeW1wdE00RWxtdTBLRzRXMU1HWWlBaEpLLVgwN2NxejBWMjJHYk9yNGY3b0VISTY3ZDhyRUtnWVBHaW41d19fMTFaQ1JCRmJJMXkyWGJMY0FN0gFmQVVfeXFMTVM2Z2M4YXVvNTl2dUE0QnpJSnVac2RwTF94ZmEwNEd0WFJicWtzZFpIei05Um5yZkRWRXFYS2hIWUZ6OTFLeklsRXR4TG44UkV5MjJVV2xCV3NpS1lqVjd4aElZMm9R?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 19:30:00 GMT",
-      "source": "동아일보"
+      "title": "이란도 종전 MOU 서명 확인…“호르무즈 서비스 비용 받겠다” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORWRjd2Z5QnJYMTBwSm9vZG5SSHZrOUY2dC1aRFY4OUs2c0lrZTdnNHg3WUh6RlZab3ZyR1hMRkhXaVp2ai1VTTM4dnlrWkpTamZpVW0xZ3J5Uk1SNmFDWU5veHRnUFRxLXFhWGFFaHFXcWM5TVItQmFLb0habjV1ZlVB?oc=5",
+      "pubDate": "Thu, 18 Jun 2026 00:25:00 GMT",
+      "source": "한겨레"
     },
     {
       "title": "탈모약 건보 추진에 학계·환자단체 비판 확산···청년 탈모인들도 “우선순위 의문” - 경향신문",
@@ -99,17 +93,23 @@
       "source": "경향신문"
     },
     {
-      "title": "장동혁 면전서 “사퇴” “불통” 쏟아진 의총, 張거취는 결론 못내 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42WWx2Ml9EaVBzanpTeUIyWk9SSXNpSXYyQnVIeENrdVk4ZVpVUGRCR2RYMy0wejUtdHVWNER0N2tNMGZTRTdrVXMzWGxOT0xkdkFSU2I2N3kwUURzSmZieDFvVkRxa3pXUDdZQ1cyQ3lUVXljM3Jz0gFmQVVfeXFMTjJwNzVWVkdLSHpocG0zQ3JuSGJBd3REVTlTTlBNclJ5cmlUWUlYUUJpNHptOTJtWDVzUnB5eXFMUFdXamQ4YTJuenJoV3BGMDktVEVkRlVyX3NmUExXV3pNLWZsLTN3?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 19:30:00 GMT",
-      "source": "동아일보"
+      "title": "이 대통령, G7 정상회의서 에너지 공급망 회복력 강화 협력 방안 제안 - 대한민국 정책브리핑",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWGhnWlJ5enBnamtDaHVJM01NSTMxWWluLXBSZVJDMVhfSmZoVUJUV0pFQklIVGN2d1ktcFRDM3dIWkNoRmpELVkteEYtMFd5NmRieG1rOWlvVTUzYU1VY0tmY2ZmNGZBWExWYw?oc=5",
+      "pubDate": "Thu, 18 Jun 2026 00:45:11 GMT",
+      "source": "대한민국 정책브리핑"
     },
     {
-      "title": "이 대통령 “한미관계는 단단하고 영원”…트럼프와 골프 약속도 - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBucTB3aVZwZkl4bDBWWkRidkhENWFlVnFmTFRVZVR4dG5xZnowcWFHNFduMU9iZWJUOVpOMUdSRW9WaUd4WHhiRXR6aU4tSndrLUY2aV9aaXZkajg?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 21:45:00 GMT",
-      "source": "KBS 뉴스"
+      "title": "[성명] 한수원의 신규핵발전소 밀실 부지선정 결정 규탄한다! - 참여연대",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HakFXNGVKRDgzZThxdlJnTlp3Ti00T0xkWHlEajRwQ29XZ0NqNnZqTGpvLWVmXzJBUE1DY0p6OTFBMWVkLWFUZlVUSFh0V1Vq?oc=5",
+      "pubDate": "Thu, 18 Jun 2026 00:17:55 GMT",
+      "source": "참여연대"
+    },
+    {
+      "title": "[속보] 청와대 “내일 이 대통령 귀국 행사에 정청래·김민석 참석” - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoTnVaU0dwaVhfUUp4V0x0eEJDS2ZXRnJCQXZqd3Fvd2RmUHR5dWdsem54QXo3cnQ5ZFdqRk8xMjVqSll1TUhYV0NnRnhNTkZhNEVNZ3VB?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 06:28:06 GMT",
+      "source": "매일경제"
     }
   ],
-  "updated": "2026-06-17T23:13:39Z"
+  "updated": "2026-06-18T01:59:05Z"
 }
