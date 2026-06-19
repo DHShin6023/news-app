@@ -1,24 +1,5 @@
 {
-  "cat-us": [
-    {
-      "title": "뉴욕증시, 상승세로 전환…나스닥 1.91%↑ - 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yak1lZTZlSWFzY0JKZkxJVXg1X2VzaUVjS2h2dnVUeEdRTk5POENSVklHaW1ISW5yRUpBc0FGY2xjQVNEdW1fTnJaWVBnOEh3?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 15:06:54 GMT",
-      "source": "블루밍비트"
-    },
-    {
-      "title": "뉴욕증시, 반도체 강세에 상승 마감…나스닥 1.9%↑ - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OMnFvR0xSOVpmWkNRRlpBcWZuRlJHZ1NvaThvbG4wY29YbXNDM0xiT1JkcXBXTHdfQjJjRllMYXNfR21sdUJHYlpKOTQ4b08ycmQ3Qy1ZNlphdzg?oc=5",
-      "pubDate": "Thu, 18 Jun 2026 20:16:00 GMT",
-      "source": "KBS 뉴스"
-    },
-    {
-      "title": "뉴욕증시, 반도체 랠리 재개에 강세 마감…나스닥 1.9%↑(종합) - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GNmRtbnUySXNmM0pnejhYeF9zYVB6bk82cmVQUzh6SVhWX1phbkhCM24zejZLZmlLdEc3RzE5VGpTb2RlTEFKVXJIWWEtZjFaMWJpZzRiNW9GbEnSAWBBVV95cUxONzBVLUlheDVvd3JaRUdPcU5XX0ItNjM4MVo0dGlZbWgxV1g3UzUxNHQyX3dSMFg1YWhjLXktN09EaXJ4NzZWTnVpYjFyVkVaVzRWLUtBb1BDeWdreExzV1U?oc=5",
-      "pubDate": "Thu, 18 Jun 2026 20:36:05 GMT",
-      "source": "연합뉴스"
-    }
-  ],
+  "cat-us": [],
   "cat-kr": [
     {
       "title": "[증시 인사이트] 코스피 9천선 돌파 후 변동성 극심…조정은 잠시뿐? - v.daum.net",
@@ -42,7 +23,7 @@
   "cat-coin": [
     {
       "title": "[서울데이터랩]암호화폐 시가총액 2조2538억 달러로 감소, 비트코인 6만2942달러·이더리움 1705달러·리플 1.15달러 - 서울신문",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUlU4aGZKd0VzNUx3WU1ieUNBUlJNMzUwVEYtUnhWSFpqWlp5dElCLWM1a2I2N2Rvd2h3V293MGdGRkwwaVBxbWY4MVZsaWZCYlBLVmE0NzQzbTh0YXpXWlJsbDJkY1p4a2hyODk1djdmb1E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oMVdJcWJHQTUteFVPZjM0YXpKQWtGRlhnWmNaZmZrUFc0MVQ5QkxnQ2JuQWw4MkhlTmM5Z2NQejVFMmt3SktUb1VWNmtEa2dvQS10a08tSWhHQXlHaHVxMWp3OWY?oc=5",
       "pubDate": "Fri, 19 Jun 2026 03:20:55 GMT",
       "source": "서울신문"
     },
@@ -81,22 +62,16 @@
   ],
   "cat-etc": [
     {
-      "title": "“이란도 미사일 가질 수 있어야” 트럼프 말에 걸프 국가 ‘발칵’ - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlQXhEak5hMDdXU19qNXRQVzZZZGdGRmprT1RtTml1YjBVenplOGp4MnhILTMxMkg5TmhZbUZrNDU3T01HNTd2UXpHajcyUUZtQk00T3gxbHFtd1NaeDh6LVJLazVmeWhCNXAzMjlIYkFoa0k?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 15:53:00 GMT",
-      "source": "한겨레"
-    },
-    {
       "title": "전국 1398곳 투표소, 본투표 용지 50%도 없이 문 열었다 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OTlpaamc5d014VjBnU3B6Umt0M2xjMEYxNnhhWDQ4dkpueEhnMDVDTU5CYVY4WHJ1ZmRHclY0WnpNVkFYTTRxSHRVbzAwZFJ4VnR3cnFCa3dwVEdWQjJvcWVielVLcGJ2QWJlcXQ3b2hYems2?oc=5",
       "pubDate": "Fri, 19 Jun 2026 15:52:00 GMT",
       "source": "한겨레"
     },
     {
-      "title": "요양병원, 보호자 요청에 병실서 '가위로' 다리 잘라냈다 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83SkVyQ3llZkZPRjd6M0VUazJNeGlZUVJKUDNNa2k3SWxkWHJwUmdpRzlFRUZDWTJLcURiUDJ2aXcxbnRuMTNueWY2ekF0TDlZZmhvZE4yNjVQUdIBVEFVX3lxTE9taUp3blE3eWN4VkdHS3RFekhjb0UzTVlsZnkwaGNwNUlwVVJtanpFTzBxZEZRR2hQancyeFlTczhHQUsxV25QZnhVanJQc0xFSjVfeA?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 05:20:01 GMT",
-      "source": "한국경제"
+      "title": "[단독]노태악, 선관위서 수당 4년간 1.8억 받아…3배 ‘셀프 증액’도 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12QW9LZ2xuNmlXTXNRQXlOS3h4NzF6WXBobGhKVWRkZ3pTWGRyRVRlZzIxLUhPaVVUOE13X3B6TEF4dUJQU0ZUVkN3dUF2eFVHMU1aVjdQVG5oSnNTc2UyZkZzV2M5b09tS0J2RGwtaXpzRDhBcEtN0gFmQVVfeXFMT2hSSEY3NjE2QmJYZFpwYXZ0NnRhcFpfR2U1bU1HVjhnb18xa2pmbXp4TzMwRWMtOUpxT2tfck0tbDlDSWdfTEJpbFluNUU5Y2Y1SXBxbjVaMDN6c2hjSUs4djRxdWZB?oc=5",
+      "pubDate": "Fri, 19 Jun 2026 07:21:00 GMT",
+      "source": "동아일보"
     },
     {
       "title": "갤럭시·현대차 쓰는 교황, 트럼프 옆 앉게 해준 마크롱…이 대통령, 90분간 유럽 순방 브리핑 - 경향신문",
@@ -105,11 +80,17 @@
       "source": "경향신문"
     },
     {
-      "title": "[단독]노태악, 선관위서 수당 4년간 1.8억 받아…3배 ‘셀프 증액’도 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12QW9LZ2xuNmlXTXNRQXlOS3h4NzF6WXBobGhKVWRkZ3pTWGRyRVRlZzIxLUhPaVVUOE13X3B6TEF4dUJQU0ZUVkN3dUF2eFVHMU1aVjdQVG5oSnNTc2UyZkZzV2M5b09tS0J2RGwtaXpzRDhBcEtN0gFmQVVfeXFMT2hSSEY3NjE2QmJYZFpwYXZ0NnRhcFpfR2U1bU1HVjhnb18xa2pmbXp4TzMwRWMtOUpxT2tfck0tbDlDSWdfTEJpbFluNUU5Y2Y1SXBxbjVaMDN6c2hjSUs4djRxdWZB?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 07:21:00 GMT",
-      "source": "동아일보"
+      "title": "이란 “미국과 19일 최종 협상 연기…며칠 내 재개 추진” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTQzdGZHYwVTN5NHFOZ2RDSFN2amUxczZmTnp5czJFSUVEWVduQnd4STB5ektUazFNazBZb2R6SUtBX0ZHb1YtNjJkWV85cUR6dmFtc1FDazV4aTZXUVVTOXFhLVplTG9JSkxtN0hRTW1YRmM?oc=5",
+      "pubDate": "Fri, 19 Jun 2026 16:24:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "이스라엘-헤즈볼라, 레바논서 휴전 합의 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYdXJHRFRFX1dGSjlQdnlyWUFiTWJUOFdpUER0Y0xWaS1ra2NxRm5hTmZwZGZPbWF6bzJpYmRFV3VuazUxdnJyN25IcjRLY0NhaEdBdmdVYzJxQzNpNlZPMGhpa1EydVdVTnc3T2ROMTJ2ZVU?oc=5",
+      "pubDate": "Fri, 19 Jun 2026 16:29:00 GMT",
+      "source": "한겨레"
     }
   ],
-  "updated": "2026-06-19T18:13:09Z"
+  "updated": "2026-06-19T20:10:03Z"
 }
