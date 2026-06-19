@@ -1,5 +1,24 @@
 {
-  "cat-us": [],
+  "cat-us": [
+    {
+      "title": "뉴욕증시, 상승세로 전환…나스닥 1.91%↑ - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yak1lZTZlSWFzY0JKZkxJVXg1X2VzaUVjS2h2dnVUeEdRTk5POENSVklHaW1ISW5yRUpBc0FGY2xjQVNEdW1fTnJaWVBnOEh3?oc=5",
+      "pubDate": "Fri, 19 Jun 2026 15:06:54 GMT",
+      "source": "블루밍비트"
+    },
+    {
+      "title": "반도체가 살린 뉴욕증시…인텔 11% 급등, 나스닥 2% 가까이 반등 By EBN - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rNnBjZ0gyTVlOdzBFcV9vSEtoVF9pZ2FhZlVMWEp2T1BRdEpGLTFnaWYyUExVWjdDUzg4R0hjcDVvNXJGWk1GY3RQc0k3V2ZyaVV5R2YwLVl1eTRjcXc0QVFuOVoxTG93RnlBNTFUMWg?oc=5",
+      "pubDate": "Fri, 19 Jun 2026 00:12:00 GMT",
+      "source": "Investing.com 한국어"
+    },
+    {
+      "title": "[속보]연준 매파 신호에 뉴욕증시 급락…나스닥 1.35%↓·대형 기술주 일제히 약세 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41czNEZ3U1cXdBbEk1Q1NjTUhpNl9IcUxqLTE3b2hhNlptNEE3RVBHQWxZbk1DWE5URnRXU2o2eTN5dFAwbmlLeGNGeEpKS3huU1lzZTUxRkVEWjcwTHlGcUVKU3Q0ajVf?oc=5",
+      "pubDate": "Fri, 19 Jun 2026 18:55:21 GMT",
+      "source": "CBC뉴스"
+    }
+  ],
   "cat-kr": [
     {
       "title": "[증시 인사이트] 코스피 9천선 돌파 후 변동성 극심…조정은 잠시뿐? - v.daum.net",
@@ -8,22 +27,22 @@
       "source": "v.daum.net"
     },
     {
-      "title": "삼성전자·SK하이닉스만 오르는 이유... 시장에 숨겨진 위험 신호 - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPbHNmNGNMT0pPVG9nb3pGSWFMLXdnLUZCVkNFc1pzQ09sSnRMX21BNVFZV2dHVWxCVHhtUTg5Yi12SUxDelRQQVo3ZWg4WDI0UFNOUjJySGkzV05aZmhJSFRxSWZ1Y1YwMml6M2Y1ekZmT3BnLU53MjUtcHJVVWtSb0FXZmtpX0s5NXJFbFZmd1N1Qm8wZm9GM3ZYdnlYMndyQnNCUmpZZ0RkVWM4Yk43LU80ME9TTDVKcGVMVXNtSXFIaTgzMTlua1NnNTlwOVVCMWwzVnRydWlfbUg4U3p2dHNqdi1vOEduMXU1aUdTaWNfUkhfQWlaVXNNN0lMekZfd3Q4NC1UWUdZaDJGQmJJVXpMR1psWHN6bG80djRmNF9OM2F6OFJ4bXBOVHNyNnIyT25LVi1Bb3ZXZGFIcEpFVFM2YlBlM19GUXBGVUp2LVJ2R3U2QXhKUDdFY3RCZnd3WGo3N3dWeDd3dm5xMDVRUERNdkhWaDdhNFd0Q1NXZXh2TTJOdmlnenl3?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 15:26:55 GMT",
-      "source": "MSN"
-    },
-    {
       "title": "‘9천피’ 코스피, 최고치 경신 뒤 급반락…7거래일 만에 약세 마감 - 산경투데이",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sNnZKRXkyVFNPTEI5OFJBRDEzN2RZRmlXVFNhWHd2eVVQT0x0LXJtM2hqWUFpMmcyaVdCRXdSSEkxNzNiNWdRSXBwYjk2SkNJVGtJQ09LcGZiWTFWM1BTZWk4TGN0LXlRdllYbFR3UDDSAXRBVV95cUxQdnB6dlJyYXlLVXhaNDFLT2JWcHZDWndNUXZBRzU5MXVNMTFGR0RlVUN5aU82Z084bHNXeUNONVJfaVYzcmZScTkyVjJFOFNSd3ZDX21qd1dQLVhzWGNTM3duSm9xaWlTdDVPZk5JX2ZLN2tpdQ?oc=5",
       "pubDate": "Fri, 19 Jun 2026 08:00:07 GMT",
       "source": "산경투데이"
+    },
+    {
+      "title": "[프리뷰] 하반기 한국 주식시장 전망 - CEONEWS",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HYndkeDJEMG9uUHFNeTNjSW11SzRQM1Y1WDNfc1dKdWZBWkZKNU5BQ0xqMEppWTJ4VTJlS3RQXzJhZWFFNGRiRFdiSmVoZGh0VzJKSWVBVkc2TDc1V1Vv?oc=5",
+      "pubDate": "Fri, 19 Jun 2026 01:22:00 GMT",
+      "source": "CEONEWS"
     }
   ],
   "cat-coin": [
     {
       "title": "[서울데이터랩]암호화폐 시가총액 2조2538억 달러로 감소, 비트코인 6만2942달러·이더리움 1705달러·리플 1.15달러 - 서울신문",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oMVdJcWJHQTUteFVPZjM0YXpKQWtGRlhnWmNaZmZrUFc0MVQ5QkxnQ2JuQWw4MkhlTmM5Z2NQejVFMmt3SktUb1VWNmtEa2dvQS10a08tSWhHQXlHaHVxMWp3OWY?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUlU4aGZKd0VzNUx3WU1ieUNBUlJNMzUwVEYtUnhWSFpqWlp5dElCLWM1a2I2N2Rvd2h3V293MGdGRkwwaVBxbWY4MVZsaWZCYlBLVmE0NzQzbTh0YXpXWlJsbDJkY1p4a2hyODk1djdmb1E?oc=5",
       "pubDate": "Fri, 19 Jun 2026 03:20:55 GMT",
       "source": "서울신문"
     },
@@ -62,6 +81,12 @@
   ],
   "cat-etc": [
     {
+      "title": "지지율 하락도, 보완수사권 논란도… 李, 당 지도부 문제로 돌렸다 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXNURFFFdU41Z2ZnOEZHNWhMc3Y0cF9DNFRDMG5kUGZ6cDdBcWZwcWpCYmlrUHk0SkNJcmlpWFpyLXNrZVJvaFZjdV94akZYZEdpXzJ4YVVOSkJjZlU5NDJRZlYwQmlfZElrVzd0NEVqeV95N0lFM0hjUUVLMVNLY3FHQ20wMF83VWc2ZmZONVY?oc=5",
+      "pubDate": "Fri, 19 Jun 2026 15:52:00 GMT",
+      "source": "조선일보"
+    },
+    {
       "title": "전국 1398곳 투표소, 본투표 용지 50%도 없이 문 열었다 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OTlpaamc5d014VjBnU3B6Umt0M2xjMEYxNnhhWDQ4dkpueEhnMDVDTU5CYVY4WHJ1ZmRHclY0WnpNVkFYTTRxSHRVbzAwZFJ4VnR3cnFCa3dwVEdWQjJvcWVielVLcGJ2QWJlcXQ3b2hYems2?oc=5",
       "pubDate": "Fri, 19 Jun 2026 15:52:00 GMT",
@@ -84,13 +109,7 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTQzdGZHYwVTN5NHFOZ2RDSFN2amUxczZmTnp5czJFSUVEWVduQnd4STB5ektUazFNazBZb2R6SUtBX0ZHb1YtNjJkWV85cUR6dmFtc1FDazV4aTZXUVVTOXFhLVplTG9JSkxtN0hRTW1YRmM?oc=5",
       "pubDate": "Fri, 19 Jun 2026 16:24:00 GMT",
       "source": "한겨레"
-    },
-    {
-      "title": "이스라엘-헤즈볼라, 레바논서 휴전 합의 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYdXJHRFRFX1dGSjlQdnlyWUFiTWJUOFdpUER0Y0xWaS1ra2NxRm5hTmZwZGZPbWF6bzJpYmRFV3VuazUxdnJyN25IcjRLY0NhaEdBdmdVYzJxQzNpNlZPMGhpa1EydVdVTnc3T2ROMTJ2ZVU?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 16:29:00 GMT",
-      "source": "한겨레"
     }
   ],
-  "updated": "2026-06-19T20:10:03Z"
+  "updated": "2026-06-19T21:40:06Z"
 }
