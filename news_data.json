@@ -7,10 +7,10 @@
       "source": "데일리안"
     },
     {
-      "title": "뉴욕증시, 상승세로 전환…나스닥 1.91%↑ - 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yak1lZTZlSWFzY0JKZkxJVXg1X2VzaUVjS2h2dnVUeEdRTk5POENSVklHaW1ISW5yRUpBc0FGY2xjQVNEdW1fTnJaWVBnOEh3?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 15:06:54 GMT",
-      "source": "블루밍비트"
+      "title": "뉴욕증시, '준틴스' 맞아 전면 휴장… 22일 거래 재개 - citytimes.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PVlVQbHNkdUxQMERFQlJoRGd3eFN4MmFRc0FaU1hwcllKVElRcW8taG5CVjhBSXdUMnZNTVdMek5NbER1bEluOTRMT0JCQThsQnFGX2paNUNvSWZ5RWZYZThaZzJ6eTJRQVBubGZR0gFyQVVfeXFMTXk3TS1WODE3ZEhNd2tocXRBYlN1TDd0aGRvYWsxdEpHRTJaczh1U2Q1ZWVnTG9wM1kwTVdMOHBqWnpUODJscXhMUmhuR2FJX25xcXJDNW1Wc0RwelQySTIyMGlqMEZsa011TXJxXzFZWU9R?oc=5",
+      "pubDate": "Sat, 20 Jun 2026 01:17:00 GMT",
+      "source": "citytimes.co.kr"
     },
     {
       "title": "美 증시, 준틴스 연방 공휴일로 휴장… 22일 정상 거래 - 조선비즈 - Chosunbiz",
@@ -20,6 +20,12 @@
     }
   ],
   "cat-kr": [
+    {
+      "title": "격차 커지는 코스피·코스닥…내달 30주년 행사에 쏠린 눈 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15Ym1YQldfY3NrNDZISy1yM1pqeW16WUlGY1hRNnFiYXBvUXZ1NkRXZHQxNDJMZHlqQ19kRnRsY0NaN3FqbDJPcFphUHlwNjFWc1lPYkZTaE9Rdnd6c3RsTHFXTldjX2FXZUNRdFJfQ3I?oc=5",
+      "pubDate": "Sat, 20 Jun 2026 00:01:42 GMT",
+      "source": "연합인포맥스"
+    },
     {
       "title": "증시 `삼전닉스` 중심 극심한 쏠림 언제까지…정치권도 우려 [증시레이더] - 디지털데일리",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TR1RFbkRSVHhaLWwwWkxiVGd5MTRiRTBXNWNZaDI1QjBfaWFRS2tvUDgtSldhLUJuR3d0OUVzb0ZUZHFLVTMxNlhQT2ZTNW12bUhzbkdGUFJCNTFZQlpZa3FuZy0?oc=5",
@@ -31,12 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBM0ZnTk5nS3hTVHRBbmRFZk5PX0luOWlJWTlmTUVxdXVqZ1RPa2dVelY3bTZkckRFMlBEajdqZ2JodTdWU1NOUHRqWW5oOUhoRGNCWERabXowcjN5S3dWQzFlbGF2NjhETjZDdnBLR1hzR1NOMHF3?oc=5",
       "pubDate": "Sat, 20 Jun 2026 02:29:37 GMT",
       "source": "여성경제신문"
-    },
-    {
-      "title": "장중 8000조 넘긴 韓증시…거래소 시총도 글로벌 ‘8위권’ 눈앞[마켓시그널] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSlFfbHQ0TXhSZTJSNFlZcDFSU2xaVDVjRHBrTEo0cVZtV0tBOGtBbmI0THBJM0szdVpWemhCaElsY0JuSHVoOFQ4OEx6TE5vemfSAVNBVV95cUxQb0pwNXZ1LVNWOVBISFBxRHlvbU90b0VEVW51THVGUS1WNlRwUzkyMl9jWmp1dGlkRmVZbFNsRHhxcUpFYlVWS2gzdzY3enpaelpnOA?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 22:20:00 GMT",
-      "source": "서울경제"
     }
   ],
   "cat-coin": [
@@ -67,49 +67,49 @@
       "source": "글로벌경제신문"
     },
     {
+      "title": "집값보다 더 빨리 뛰는 주거비…‘월세화’에 짓눌린 2030 세대 - 시사저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1udzJwazZuTlJldktISnlUYld5MzFDcS1ialZCVzdaQ3RBRXZMMjFXNmY3c0hBd0o4SUhGTFlvYkJWMWpHNU5jLVB0eUV2MFp2X2pFNUdWaXkySGJmRTV1UllQY0huUFZkZVRfcV9HONIBc0FVX3lxTE12emVmdzA1elFmckdrVG1KV3ZZbGZ5QzZndmdSU0pHVmRhOEJteXdTVmxsMjd0Vjd2VFdOUURNRW5SdU0xeExsdkZXSHJFYWFOWTRTV2hTUG0tZTlrS2xZc1dDN3pWeG8teHJyNlctb1VlRG8?oc=5",
+      "pubDate": "Sat, 20 Jun 2026 08:00:00 GMT",
+      "source": "시사저널"
+    },
+    {
       "title": "2026년 5월 베트남 아파트 시장 분석: 매매 가격 ‘냉각’, 임대 수요 ‘폭발’… 시장 재편의 신호탄 - 굿모닝베트남미디어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uZHUteVNUdHUzRmw1czJvNFg0S3RGYVNRQUJxcTZDdGRpR0xWU1VMb1lid3pXMGpzUjI2VWpKeklFdTFianBPQXltSlQyV2l5WHJNU3F6Z2RJZl9LejRHQzZORXJ5WllGSC1LTzV0SEI?oc=5",
       "pubDate": "Sat, 20 Jun 2026 01:47:07 GMT",
       "source": "굿모닝베트남미디어"
-    },
-    {
-      "title": "아파트 대체재로 떠오른 ‘오피스텔’···수도권 곳곳서 신고가 거래 - 시사저널e",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qaWZVbTBWV0YwMklVZ2xYRTB0OUtkY1EwZWpWQTRlQ3pvWVFDX3g1am5fQlJMYnl0bjRlb1BXQ2VJc0xKMnFmT2lhTk9DdEZIZGZLVVg1R1FaMk5JM29YcjlTYW1IblNFaERRcTJxaHJMQdIBdkFVX3lxTE94OTk0Rk5NVE8tMUFaYnRXOERTZXV3eHc3S1BFaUpiT1IzOG9hMXV2YlduYTVpdGlzU1VUeDY4VHp2Q2tDb2oxX0Y0dm1HSnk5a3RXVFo4bktrczAyV0E0QUtIdTNrT21NUHFiUnkxampwUDUyMUE?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 23:10:00 GMT",
-      "source": "시사저널e"
     }
   ],
   "cat-etc": [
     {
-      "title": "[단독] 투표 종료 40분 전에야 '첫 보고' 받은 노태악‥\"보고체계 마비\" - MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Vay10YlJJc3NVLWYzejZRWWNYTEVPdi1ydHNZZEhmSWs3aE1WWEJRNmtnVGs5VnVmQXBLVGdybWFwY2k3bkNLSFNUaE9ZSGRvRk14SnJTckZVd2NWU1hmejJHZkJ3Y3ZrWjF6T2l0ZnpuYkZMUFpWcNIBeEFVX3lxTE1lNTBZeUNBQmJqQW1BLVRWbXNDZHpqc2otZ2ZaVlk0YXJRMV8tS01oSlNBajFWNFlNX0QtZ2xsSE1WWEhPUk5qdFdpaHh4SEs3ZW9XZ0JSUFhybXBUMTZVSHcyeGYzUGZrX09SMXB5cjhIbFJ0V2RHMg?oc=5",
-      "pubDate": "Sat, 20 Jun 2026 06:44:03 GMT",
-      "source": "MBC 뉴스"
+      "title": "[속보]네타냐후, 결국 종전 흔들었다…이란 “호르무즈 재봉쇄” - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13aTZWNVhLOXJ4UHdnZ19hSFZsTzcxc05zVkhNSEdWSkd3N2hGcWVyWWgxbUhXUXU3MzJ6RUlXNlFNOFFlWllQbjU3TjJfRC1ENWRUdzJXbWhEMEVfcWdEdkV4S0VrZE1DRllIMjVrUXI3UHfSAWZBVV95cUxOeXU5c1ZjUmR0cUIyVFZTNngwVmFDSnVWVGNpd3o2c2NCM2RKOTREbWhnS21sZmYxTHJtZE5JTzhxek5JaXUzdlNMbTJicngwbVZwalpQVEtnYWQ4SEV1SHpuT3dxRHc?oc=5",
+      "pubDate": "Sat, 20 Jun 2026 13:53:57 GMT",
+      "source": "동아일보"
     },
     {
-      "title": "김용범 \"반도체발 국부, 부동산 흡수되면 호황 오래 못 가‥보유·양도세 조정 필요\" - MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42UXdqR2pVUWJlV3pSZzJ2Z1NSZXN4ekU2TlB2bU81TVpvcVFYcGFtTy02NnJBZGZJUkl2Y2gtbXRheUZvVk8wQVlRekVtZml1ZmJYSTVSb1NNbzUxSEVWeGdaTVE4RmRHeUxUUWJJcmtoQl9TaVpHV9IBeEFVX3lxTFBlcmNLVXRNd3k3MXA1UE44bVRUWGR5NDY1UTJvUjFQMFNsSFdnSmJLLW5FaFJDYlYydVlmS3hnOGxrRVZSbDdPcTBNeGtGQU1ZdmhNMmQ3MWJvS2ZPSVpSWDZ0WV9tLW1QR25yYjZGZVctbEZTM2FnYg?oc=5",
-      "pubDate": "Sat, 20 Jun 2026 06:00:43 GMT",
-      "source": "MBC 뉴스"
-    },
-    {
-      "title": "나경원 “날조된 ‘연어 술파티’에 나라 흔들더니…공소취소 ‘빌드업’ 실패” - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rYXRRdVJjLXVlaVQ2Q0VQVVJzOWR1VTBGYjZFcThXa1N5TldQYkZuRlMzSlNBLXB0d19GZTZfWnc3U1J6Y0cyS3RTNDZUa2RzaFoxVmtyU1lDNGNMZldYX0t4SkZESG13eEE?oc=5",
-      "pubDate": "Sat, 20 Jun 2026 10:07:00 GMT",
+      "title": "노태악, 투표종료 40분 전에야 용지부족 첫 보고 받았다 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PQUZSN1BIVXNIVXRWX29fNTFyeTBQeENSclJpbXkyTlBOSEFwb2RLQU41SWU5TjhTeEpBdlJ2b25UdzdwaWVSbFJNb1ZEUU9aeWlTZlhqaEZVaDRUUmY1dTVUSmV5WVRFck9pR3cwZjd4bS1C?oc=5",
+      "pubDate": "Sat, 20 Jun 2026 13:49:00 GMT",
       "source": "한겨레"
+    },
+    {
+      "title": "박상용 \"배심원 현명한 판단 감사...법무부·서울고검, 법적 조치 취할 것\" - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYVNkQVZTSzk5OEJHUzM1VlJheG1NRmxHQlk1TWxZVkltTW1XYXJFM3ZzUktCN19nVWZiS2J5ZllXS3RYM0FKclh6aDlUSG85dHpUbDluemJaVmlsdFhhZFBSbUhhSmN1RkpZUmxaU3Y3LVFpMlV2OVk0OUprQV9pa3hObF9GSEU?oc=5",
+      "pubDate": "Sat, 20 Jun 2026 07:34:55 GMT",
+      "source": "조선일보"
     },
     {
       "title": "종전 협상에 찬물…휴전 깬 이스라엘, 레바논 또 공습 5명 사망 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95ckxuZWlSSWlHS3RfN3h1MTA3VEVva1gwblQ3ZVRXMHJBVkEtMmxwd0Y2OTA5MjZWR3EwZDBoX0phcjRLTDFuMEJSbDdpOUlKV2dyUXRQeG81M0RDXzlpWTZHOGo3b041WGEtWTY5RmJYSDQ?oc=5",
-      "pubDate": "Sat, 20 Jun 2026 11:35:00 GMT",
+      "pubDate": "Sat, 20 Jun 2026 13:50:00 GMT",
       "source": "한겨레"
     },
     {
-      "title": "낚시꾼 고립되고 나무 쓰러지고…전국 곳곳 비·강풍 피해 잇따라 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51NDEyTVhUcDZYU0lxMFpOU0htNl9HaTFlYjRQQUtRNTF0UzFLUDV6WjA2cExrbXNGYmFfM1Yyb0V4SE1CXzdLT3loaUNlMlhSOVA4TjhNV29DanlTXzJ3UG9YSXpXd3F0VHc?oc=5",
-      "pubDate": "Sat, 20 Jun 2026 06:30:00 GMT",
-      "source": "한겨레"
+      "title": "인천 '흉기난동' 피해자에 국가·경찰관 3억5천만원 배상 판결 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mN001RGFqcm56ZjVYOUprX2I0XzE4QUU0WkpvWmtlalRGZ1pzQlpqTnBhLWNoVF9hTjlUZDRWTWE3SmFlMmt3ZFp4bGhVN09MMnROdk5waUd3RWvSAWBBVV95cUxNX3IwX0xEdjA1alVMTEJvUS1oOWVTRlRCYWoxLUhWalp4eUJkOVBLbWxUQVJiSUN5NTJyRmUwWUxvMTR4aTc4X2kyaUFsYW11T2pQcXhLRDkyM3lBaTI0dl8?oc=5",
+      "pubDate": "Sat, 20 Jun 2026 09:08:14 GMT",
+      "source": "연합뉴스"
     }
   ],
-  "updated": "2026-06-20T13:20:30Z"
+  "updated": "2026-06-20T15:19:33Z"
 }
