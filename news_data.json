@@ -1,6 +1,12 @@
 {
   "cat-us": [
     {
+      "title": "[N2 모닝 경제 브리핑-6월 22일] 美 증시, '노예해방기념일' 휴장…주요공시 미래에셋·신영증권 - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83VTdEVFprUEFDanhEZ1BrRDBhRV9oUS12STZ3czhpQ2xES1prN3FNUkZBeFJmQVJmLVJJSHJDbV9laXowbWk4Ml82TjFCck1iU3ZUQkVDQ2J0aTBPNUE?oc=5",
+      "pubDate": "Sun, 21 Jun 2026 21:13:00 GMT",
+      "source": "뉴스투데이"
+    },
+    {
       "title": "[뉴욕증시 18일] 반도체 랠리 재개에 강세 마감 - 미주조선일보",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2M1pMaEhNNzNLb2xVMXNnZFh3ZTJmb2w2dE5PVFpZMFlpbjV5R21aRXNQV1FpTFIwSTdMLWxJRGY4NnpkUFhzbm0zYnpHV29qZlZjX2h6N3dTbEZMNV85aWUzMDdzUlBqRldqeThkSlJsOEhza1E?oc=5",
       "pubDate": "Sun, 21 Jun 2026 17:19:17 GMT",
@@ -11,15 +17,15 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOVU93cWFpTkxQdXJkU1huN3ZJTUxOaVBOaXNvdnJkcmE2SWRJZFZiT2pRWmUwVTRXV0FGd1drUFExQThfWU9yZXFLMXIySDQ?oc=5",
       "pubDate": "Sun, 21 Jun 2026 01:15:00 GMT",
       "source": "v.daum.net"
-    },
-    {
-      "title": "서학개미 '포모' 매수세 스페이스X로···변동성 확대 '주의보' - 시사저널e",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xSGJRNG9mSkowRnBjeG9YZHlTWXkxUEEtSHlsRUd1UlZmaUJQa2Q2TGNxSDZ5a0FlUDZBSHhLUEpaaFBMcTlyRXNEOXZVZThtRlhiVWJZdEJIQXZDTldkb2M2VzE3XzBKa3BzTXA1RDhOUQ?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 02:55:48 GMT",
-      "source": "시사저널e"
     }
   ],
   "cat-kr": [
+    {
+      "title": "코스피 이전 속도조절?…알테오젠의 복잡해진 이전상장 셈법 - 팜이데일리",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JclhqQnBnVEFvUURQeVNlR0VEckpNVzh3NEdNQUtIdy1VTU83OEhmSDdxTkpGeVIwTmc2Mk1OQU9oMWlwT3JnRnptR2VrQmMyYU13ZmtaMUtGTW54MmNlS29ENjcyVkJmYnpHN3VR?oc=5",
+      "pubDate": "Sun, 21 Jun 2026 21:00:09 GMT",
+      "source": "팜이데일리"
+    },
     {
       "title": "‘V자 반등’ 코스피 9천피 돌파…이번 주 마이크론 실적이 분수령[주간증시] - 에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HSWZyWVZXeUZHYmRRMFZzNFRHVGdMN0prbXF2Y1k3X2pHZlZPQndNempPNmduQUNXMmxfYVpjMDlic1JoSmZiRzRJN3lOLTd5X0QyWlNNNm5ZVHc?oc=5",
@@ -31,12 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwdFA0b29WRVdKRFdBNUtsTkNnRks1dmNQUU1BRUxOUDFvLUxXb1hYa0JPc0dtMUp0UmY0c1FIdWdRUUgzYVkxX0N3ZVllMGs?oc=5",
       "pubDate": "Sun, 21 Jun 2026 09:19:52 GMT",
       "source": "v.daum.net"
-    },
-    {
-      "title": "코스닥 966선보다 중요한 숫자, 코스피 100조 원 코스닥 4조 원 - 창원특례신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MM2xUWDBoTUFFQVJDd3MwMmdUMFAwQWlEbGhBbE9zOXlVWF9ieFUySnJJazRYRTJiNElVTTNvZHBzR3VRZjV2RzZPQXAyekpObTZoR0lOSU9FWE53WGpOR1Zid3JTVVhPRi0w0gFrQVVfeXFMTkwzbFRYMGhNQUVBUkN3czAyZ1QwUDBBaURsaEFsT3M5eVVYX2J4VTJKcklrNFhFMmI0SVVNM29kcHNHdVFmNXZHNk9BcDJ6Sk5tNmhHSU5JT0VYTndYak5HVmJ3clNVWE9GLTA?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 05:45:36 GMT",
-      "source": "창원특례신문"
     }
   ],
   "cat-coin": [
@@ -81,16 +81,10 @@
   ],
   "cat-etc": [
     {
-      "title": "[속보]밴스 미 부통령 “미·이란 회담은 역사적 만남···양국 관계 새 장으로 나아가야” - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OSE1CcXJOTXJ1TzJYUGlVY1hsUnVGem90VkV0YjNPVEN0WU5GT3VxZUxkTmNmMVVOSWhqRGk0VllHeGN1RGdrblM3eXZ4Y3lIMVZvblh3ZjFsQdIBX0FVX3lxTE0zOWpRMmpLUGc5bU9RM1BNemZUVWZfbDJrakNSYVNZQksxUERWTFlkOTk0cndoSkZJeGZOb3cxU2hjRjZvNFVab2hKSy03SEZOMm9meGQ0dDZWTXlSNEJv?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 13:29:00 GMT",
+      "title": "[속보]트럼프, 종전 회담 중인데 이란 향해 재공습 경고···“레바논 내 대리 세력 막지 않으면 다시 타격” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wVUVxSmo3TktpY0tTVjVGSnVlcjRxcGFLTXlfWlhqYXk4ZTRadGtucE5jdDVvR1NFWlBERW5MbHZreXBONHhPUjg4bm52ZGstYmpYSFVMRGtRZ9IBX0FVX3lxTE5CTzlaVE41dkFuQ1QycDB6R2liT2tWa0dxRlA5VGZtRnR5RGJpXzhYX3BIcXQ3NFFBQ1JrVXdIZmp5aDZUN3dxWTcxLUJwTkVqOTBrcndDSllGSGY0Mk13?oc=5",
+      "pubDate": "Sun, 21 Jun 2026 13:52:00 GMT",
       "source": "경향신문"
-    },
-    {
-      "title": "트럼프 \"이란이 레바논 대리세력 막지 않으면 다시 타격할 것\" - MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jdWtyREcwckhIcGJnb084YjhZN1NIekJNMnZYdGZ2eWE4dVpxTkllbVZNVkYyWUFpLV9jZkFYdDdGWHhDUURnVGVGRGhzT0wxQnZ6bjdiOW42YTgtcTJyYVZLMVlxa2p1Y1Z3cFNMRDRVS0FD0gF0QVVfeXFMUHV5YlM1emZVWGtleF95ZkFIUVQ0eS1MaDM1d3RDNUZQOHRPNXN0UkRHeW1CSDRDQzBLUXNoSWF0Ym9YX1B0TG1VUDhTOEhVZHk4cFpwMl94XzUtdzltT2pmSkR0WU9RV05HdWFncVZsVzBHS0M?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 14:04:47 GMT",
-      "source": "MBC 뉴스"
     },
     {
       "title": "이 대통령, 집권 2년차 ‘수석 절반 교체’…민정수석 ‘3연속 검찰 출신’ 논란 - 한겨레",
@@ -99,17 +93,23 @@
       "source": "한겨레"
     },
     {
-      "title": "김용범 \"보유세·양도세 조정이 옳은 방향\" - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15TkxtV1RUZkRMcnNoZEttdENjcWEtR1IxR014MW1TbmpyNU9pSUJ5U2Uzeml3YVNoNWFWQzhFSDkzTlJSdGdLdHNGNUlsU1NqeVRsTTFSOXNad9IBVEFVX3lxTFAxT2Z0TUZIblE5NFRXM2xJdjhHc3FmbS1nMEpaY19ZMFJ3WVVETGRIVGM3UVFESm5nVUNWR1NwaFExalZSMHRGM0wzSXpOcFhoeUNjSg?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 16:10:00 GMT",
-      "source": "한국경제"
-    },
-    {
       "title": "‘연어 술파티’ 위증 유죄, 불씨는 남아…검찰 공소권 남용도 인정 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqaWI2dXFES1RKRUlGRi1BVzlEMUVCa1U3NnJTenhPX3dKNEpxZjZKX1ljRF84YkpicjYtTG0wd3k2d0g1YmY2YW9xRlRaN2JKNG9pbW8zMG1lcXBfZm1SN0hfTQ?oc=5",
       "pubDate": "Sun, 21 Jun 2026 13:11:00 GMT",
       "source": "한겨레"
+    },
+    {
+      "title": "김용범 \"보유세·양도세 조정이 옳은 방향\" - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15TkxtV1RUZkRMcnNoZEttdENjcWEtR1IxR014MW1TbmpyNU9pSUJ5U2Uzeml3YVNoNWFWQzhFSDkzTlJSdGdLdHNGNUlsU1NqeVRsTTFSOXNad9IBVEFVX3lxTFAxT2Z0TUZIblE5NFRXM2xJdjhHc3FmbS1nMEpaY19ZMFJ3WVVETGRIVGM3UVFESm5nVUNWR1NwaFExalZSMHRGM0wzSXpOcFhoeUNjSg?oc=5",
+      "pubDate": "Sun, 21 Jun 2026 09:34:35 GMT",
+      "source": "한국경제"
+    },
+    {
+      "title": "이란 \"레바논 종전 이행 없이 최종 협상 불가\"…이스라엘 \"군대 철수 안 해\" - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXU1JmNGxybjNPTzZETDRRci02OFI0dTNidDV5b3BqT1k1aDE1UHFoUWhKdjFPUWZYdHdVc1F0SHBSRFFXei1GT1hQODlyZk5Fa1FscDB1Tk1RN1hsa3JVd0k0dkctbFk?oc=5",
+      "pubDate": "Sun, 21 Jun 2026 11:56:58 GMT",
+      "source": "연합뉴스TV"
     }
   ],
-  "updated": "2026-06-21T20:08:59Z"
+  "updated": "2026-06-21T21:48:48Z"
 }
