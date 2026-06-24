@@ -1,22 +1,22 @@
 {
   "cat-us": [
     {
-      "title": "뉴욕증시, 혼조세로 전환…나스닥 0.19%↓ - 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DUVdHTGllWU1hWnVOV1hDYzcwemI2UnA4TndhZU5xeEFtU185UVNkbXZvSGlUQklBOGcyeWpSMjMtN0VVT29XVjhDc0Z3dmhU?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 18:25:56 GMT",
+      "title": "뉴욕증시, 혼조세로 마감…나스닥 0.43%↓ - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tQ2RVZXdfM0xnVHFuSEtQOHRfZk84XzJ2ek8tUEw3LVM5R1JiYjNQTVZ1ZnRVVUNzdG8xdXNPNGZTcG9GS3Y4VS1jOXRTaUZ2?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 20:36:00 GMT",
       "source": "블루밍비트"
+    },
+    {
+      "title": "[서울데이터랩] 미국 증시 혼조 출발…다우 상승, 나스닥·S＆P 500 약세 - 서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zODUzSldBX3lnWFhxckFDcVhybHlJU2RNczlvVXpjeFpKUkMtdHhqNGtzN1ktUlFyemhXOFU2VGlYclZRcjhJR196M09KZ29oRjJvQllDelVEYkNscTM1N1hSTm1nZWloX0FVMnRKSQ?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 21:32:59 GMT",
+      "source": "서울신문"
     },
     {
       "title": "뉴욕증시 프리뷰, 마이크론 실적 앞두고 반도체주 반등…나스닥 선물 상승 - 뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NcTdfQjR6N2xoSnlFV3VsMlBhSEpGRWNkWXdWbkx0R3lJUVBSaWxoaWx5cmxUNUU0ZG11YmVnbVdyWkdoTUU4eWhBTkRKamVseTctbHRDQlUwXy1K?oc=5",
       "pubDate": "Wed, 24 Jun 2026 13:05:00 GMT",
       "source": "뉴스핌"
-    },
-    {
-      "title": "뉴욕증시, 유가하락 속 혼조 출발…나스닥 0.1%↑ - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9INWZHeW9lLXZKNmo1dmFwc1pmRTZkRDlhb3otRzZqaGFNZXV5am53eDVPUzcxTGRDR1I0R0trLW04QkxRb0h3aVZ4MzlBVXpHajg1R1hTVEFnd0lfVV9TTtIBeEFVX3lxTE4xa2VJWWs4UFhTaVNLU1pNcHFYcHlvTTU1MlIxbFlYMXM4MjRjaHVoNmVQckhoT1VZMnpydWh5UEt5eWM1SnB2eU15Q3VCa2hnbTE4Sm5ldU05U2dvbVUwVkpBaVdxdDctME9qanUyRFhPangtQkNVSA?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 13:50:44 GMT",
-      "source": "뉴시스"
     }
   ],
   "cat-kr": [
@@ -33,10 +33,10 @@
       "source": "mstoday.co.kr"
     },
     {
-      "title": "코스피, 롤러코스터 장세 속 3.26% 급등…8400선 탈환 - 진일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwM3dyTjdkQUhkdXBOZWJ1dTJJek9PYkRKWjN4NThvN0pwa0xiQ212RlQ0U2NWUTNFVWRCLVZWaFNrV3NIemdEaVlNRl8tLXpvZzdwZFpMNHkxY0swUHBETGlPcG9BSW12RzltelJXaw?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 06:39:11 GMT",
-      "source": "진일보"
+      "title": "코스피, 전날 폭락 딛고 3~4%대 급반등…장중 8,500선 회복(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ucU9yalhSWWRPRWMtUURGc3AxaWx5YUdfczA3dnpYODFhS0wyb1dCbEd0MWJsc2dGTGQ1MGh6QU1NS1ZXY1ZWd1daUTlFNWpwTHU5T3k0ZW1sTzDSAWBBVV95cUxQSW52WXVxZDU5QVhmSnVVQzdpcElSU01GZWh1UUlqcm12NDdGaFZ2XzF2ZFlCSjRVS1VLZUJoTFRPaG1zMG5YS1NsangzLUhVRGZBNnRJWXdhWW1rdDZrMFk?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 00:36:06 GMT",
+      "source": "연합뉴스"
     }
   ],
   "cat-coin": [
@@ -93,23 +93,23 @@
       "source": "한겨레"
     },
     {
-      "title": "선관위 직원들 “부정선거 음모론 차단에 집중…정작 투표 관리 업무에 공백” - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OU1hFbURqWVhFckxSREN4bk1MODM3NmJndFRwaTAyS0ljb3IxWVRKU3hhOXlSbEVaUkRiLWFYU09KUEtxU3J5UVlQc2o0NjBjMWtINGZQc3Zyd9IBX0FVX3lxTE1UcFQxWWRqMTEzbVNMbmRGellMNld6T0xvaWU2SXF3VlhUMGpBYUtZRmk3OWYxTzFwazZpYUx3aml0UUFZVFRxVXEyNmZiYXB6c1NGcF8zRS05VmdubWhB?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 12:44:00 GMT",
+      "title": "잠실 아파트 30억 차익·가족간 헐값 임대···‘4주택자 이력’ 한성숙, 부동산 의혹 넘을까 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01VFNPMnlLeXVzbmFsbWxMU0xoUXpYVjBKVjNzb1VZQUM2dWpFNk0za0pHQVlWWWZ1MXkzemp2VFlNRGtyOWFpdFQzVV9MVkR1OGM2dXczWFhGUdIBX0FVX3lxTE9LbTZ5aEs2enVKbEpIRFJ3aVVEZWxNQWt0ZFh3Zm5KQ2xUc3NGcFJCTFFMV3ZkUERjVThPS0ZQWTRhT1oyOWtrSjdCaWZRV1VHaU1EejFHTHBCNTJGT0d3?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 07:38:00 GMT",
       "source": "경향신문"
     },
     {
-      "title": "李, 中 어선 불법 조업 목격 \"그냥 방치해서는 안된다\" - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeGh3cFNkdE5iek1ldmtpdkg3RjJPUUZPZm1USENmYUhXTGJ5SmU4MW1BRnBfNVZDSFFXOUhYcjM2eXJScHdIS0h6bE93THRqLUJ2WllkZFRlcFpLN255T1MwQm5FWDljRGZrWHdlT0VETUMwT2hfc0ZkWVdiSW9pb1BYN29oT2JI?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 07:08:14 GMT",
+      "title": "‘70세 이상 버스 무임승차’ 조례안, 서울시의회 통과 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV25PRm81SlZfN05HUVc3c1JPQ3FKUlgwQzZ3LVdYTDZ3Ri1hbDdWRXgyTjdXM3RaZmZzcUhjd2J5bzl1SUtmWm5PR0gzYzUzVERYR0xJZlNXTExIX3c3U29fR0ozNVBKLXhNLVRzZFdkQWIxWksyb05wdVctYXRnWk5OLUxibmpKNmtaenQwMlU?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 05:39:00 GMT",
       "source": "조선일보"
     },
     {
-      "title": "감사원, 선관위 ‘회계 검사’ 착수…수의계약·예산 운용 볼 듯 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VelN3U3dVS1R3MEhGTXo3VTdGQVphWHRINHR6dC00OG04YnJvcGR5dUZkN0dfSW9MTlpnNFpOSDZjWnhVclE4UGJoN3UtRXZzX29qbUxQX1JDdFY0OXFKUXJNTVRDb2pSTklFblVObHJtRlcw?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 13:09:00 GMT",
+      "title": "‘투표용지 부족 수사’ 합수본, 선관위 관계자 12명 압수수색 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HMnMxbG8takpaSFZLQlVDcmYzR3RiZXI3Nk0wb2xBUVZDM3ZnaUxLOTlDMWxtdlJBTng4djRfaWs2RUdrS1JkZThkNG95OTZUWWtTRmN3Rmlia1oxVVByaGtLNFdwR1JEYkhXTjFEMnkxQQ?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 04:00:00 GMT",
       "source": "한겨레"
     }
   ],
-  "updated": "2026-06-24T20:15:16Z"
+  "updated": "2026-06-24T21:51:17Z"
 }
