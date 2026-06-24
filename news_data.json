@@ -1,6 +1,12 @@
 {
   "cat-us": [
     {
+      "title": "뉴욕증시, 혼조세로 전환…나스닥 0.19%↓ - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DUVdHTGllWU1hWnVOV1hDYzcwemI2UnA4TndhZU5xeEFtU185UVNkbXZvSGlUQklBOGcyeWpSMjMtN0VVT29XVjhDc0Z3dmhU?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 18:25:56 GMT",
+      "source": "블루밍비트"
+    },
+    {
       "title": "뉴욕증시 프리뷰, 마이크론 실적 앞두고 반도체주 반등…나스닥 선물 상승 - 뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NcTdfQjR6N2xoSnlFV3VsMlBhSEpGRWNkWXdWbkx0R3lJUVBSaWxoaWx5cmxUNUU0ZG11YmVnbVdyWkdoTUU4eWhBTkRKamVseTctbHRDQlUwXy1K?oc=5",
       "pubDate": "Wed, 24 Jun 2026 13:05:00 GMT",
@@ -11,12 +17,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9INWZHeW9lLXZKNmo1dmFwc1pmRTZkRDlhb3otRzZqaGFNZXV5am53eDVPUzcxTGRDR1I0R0trLW04QkxRb0h3aVZ4MzlBVXpHajg1R1hTVEFnd0lfVV9TTtIBeEFVX3lxTE4xa2VJWWs4UFhTaVNLU1pNcHFYcHlvTTU1MlIxbFlYMXM4MjRjaHVoNmVQckhoT1VZMnpydWh5UEt5eWM1SnB2eU15Q3VCa2hnbTE4Sm5ldU05U2dvbVUwVkpBaVdxdDctME9qanUyRFhPangtQkNVSA?oc=5",
       "pubDate": "Wed, 24 Jun 2026 13:50:44 GMT",
       "source": "뉴시스"
-    },
-    {
-      "title": "마이크론 '쇼크'...미국증시 나스닥100, '3.3% 추락' - 초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZSE5NRG1tcWJ1SUpIa1hvLWp2NzY4TWJGZEttVm1LYy1yWXV6Ym1naV82MGQzTmhZUWt4cFYxYXcwNC1kMDJDZDM3RjJqSGp5MENPcVM0eG53Y3lDRUwtMjYtNER4cUtsZjlVUkVIX2FPYUnSAXNBVV95cUxPWUhOTURtbXFidUlKSGtYby1qdjc2OE1iRmRLbVZtS2Mtcll1emJtZ2lfNjBkM05oWVFreHBWMWF3MDQtZDAyQ2QzN0YyakhqeTBDT3FTNHhud2N5Q0VMLTI2LTREeHFLbGY5VVJFSF9hT2FJ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 05:02:33 GMT",
-      "source": "초이스경제"
     }
   ],
   "cat-kr": [
@@ -41,25 +41,31 @@
   ],
   "cat-coin": [
     {
-      "title": "[자정 시세브리핑] 암호화폐 시장 하락세… 비트코인 61,011달러, 이더리움 1,644달러 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kNmtwZkNMTVlMd1R4UXlvVm9qRkZNMEdicWtaQ1JzVUNicm83NVVDYmdCaGxaQzlFWTdRM0RpSmM5djEzcDlCUEx4UndrVUFPX2loWk5DMmbSAV5BVV95cUxPU2pON1cyblhlTHlnMHpkVWdvcXYtTVhFc0dRZEJ2TTd5OXZ4NnZkN1pWWnJNWTdCQURJZUdiR2dYRFIySS1weWt3TUozeXdIb1B6SmFqVTVvdG1QS0xB?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 15:02:54 GMT",
+      "title": "[모닝 시세브리핑] 암호화폐 시장 하락세… 비트코인 59,879달러, 이더리움 1,583달러 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lUlN2TExPTjRyTldaOEZVRm1aLUltTkVxeW44S0VEZHp5c21lOThvY2loSFZYWlA4dWtFc24yWkhfd3BWd3hYazgteUhXT0haYkRHNmpkRFDSAV5BVV95cUxPZ01uUnpYbl9YUV91Z3Nac0RNaS1YZWRvcUx0TjBCMENwQlk1NmoxTjZ5NElxZkE0UE0tQXlvZXYtdDVmNjZybC1fSlRDSDNjd01oRkZ4aU1IV3otOE53?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 20:01:16 GMT",
       "source": "tokenpost.kr"
-    },
-    {
-      "title": "실시간 Bitcoin - 비트코인 가격 차트 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16VERZX1Rlb3N5Q1NxQnJqazZObGdsYlFjV0c0UnVLbVVtdktvemdSazRiOFdYTVVsNEI3QnJVeTIwekhldms2SlRJa0FwVG9GM0J1NDZqMjE?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 07:30:05 GMT",
-      "source": "Investing.com 한국어"
     },
     {
       "title": "[서울데이터랩]암호화폐 시가총액 2조2304억 달러, 비트코인 6만2554달러·이더리움 1661달러 - 서울신문",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqcGV0bHprS2w3Y1NBSHJBZ2c1Rk9TY0huZzRvTnowc0JLLXdfaHVBeGx6WmZwUW5RRWlCNWtEQXB1RktNdWhLdDNzcmZ5NWVSbURobERFR0dvRDZwOWZGbG1OMElDcmNvakJPdld2dGdyNVU?oc=5",
       "pubDate": "Wed, 24 Jun 2026 03:15:25 GMT",
       "source": "서울신문"
+    },
+    {
+      "title": "비트코인, 금리 우려 완화 조짐 없고 ETF 유출 지속되며 6만 2천 달러 아래로 하락 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mbEE4R1hxUDVlUF9oaWJkcnZNR3NaRWRBS2k4WUNfSXN2M3F0YmZ3bnlkVUZhel92WnQyOXpncnRSanVUc3NtN2VWX2xkSnRfU2VzSUlNbXZJdVpxV0s4dVpCbEpGdmVQeVFrOF9SOVhpaTA?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 06:44:00 GMT",
+      "source": "Investing.com 한국어"
     }
   ],
   "cat-land": [
+    {
+      "title": "반도체 머니에 들썩이는 집값…정부 '공급 확대' 속도 낸다 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBweTNVMnNyRG1QTEcyX25XTXZoR185emtXaURCSWUwLXI2N1VEOS1nUW9NbElfbkFpTE9MNktybFl1MlZGeWM0dGJHMk1xSzdLMHFNUlNlV2JIX1hkY25HeTZCVXk5LUpWZUJGangwWnJjN2ZXY3BvatIBeEFVX3lxTFBweTNVMnNyRG1QTEcyX25XTXZoR185emtXaURCSWUwLXI2N1VEOS1nUW9NbElfbkFpTE9MNktybFl1MlZGeWM0dGJHMk1xSzdLMHFNUlNlV2JIX1hkY25HeTZCVXk5LUpWZUJGangwWnJjN2ZXY3Bvag?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 18:30:00 GMT",
+      "source": "뉴시스"
+    },
     {
       "title": "집값 기대심리 다시 연초 수준…정책 시험대 오른 李정부 - 더팩트",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjeHdqWFF4Yy1RR09hWGJFb0lvd1NUVVA4NmtQRFdLcnV5QzljSU0wZTlrZjVZajBMWjFGeG52cjhFQVpTREJNQ1hLTkRIZDIzWXplZNIBVEFVX3lxTFBjeHdqWFF4Yy1RR09hWGJFb0lvd1NUVVA4NmtQRFdLcnV5QzljSU0wZTlrZjVZajBMWjFGeG52cjhFQVpTREJNQ1hLTkRIZDIzWXplZA?oc=5",
@@ -71,32 +77,20 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sMkpSNkZnS0JmeVdFZHBRWGlqQUpfVGlPWlJGOVo1U2xxcTRKcEFPN2pEMVdVejU3MnVnYy1JS29BY29kaGEzOWhON182R3J5eTNNZWU4S2dxZ1VuR3otcnlMTGVzZndDTUNLajRR0gFuQVVfeXFMTmwySlI2RmdLQmZ5V0VkcFFYaWpBSl9UaU9aUkY5WjVTbHFxNEpwQU83akQxV1V6NTcydWdjLUlLb0Fjb2RoYTM5aE43XzZHcnl5M01lZThLZ3FnVW5Hei1yeUxMZXNmd0NNQ0tqNFE?oc=5",
       "pubDate": "Wed, 24 Jun 2026 06:26:43 GMT",
       "source": "울산매일"
-    },
-    {
-      "title": "[2026년 6월 3주(6월 15일 기준) 전국 주간 아파트 매매가격 동향] 전국 아파트값 3주 연속 상승세 유지 - 고령자주택신문",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SaFBUVUNmLUR2ZFMzQUpWTDlScjBlbFctUVk5ZjhhdW4zN2dMUXdrLXZwU3IwVzlLZDNaNDNuVV9tdGFEOEtMNER3SlBxZm5tWGRIV0x5LXc3TVJSSU9pYUJfUl9FTlIyVmdmdmpieXNqUQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 09:00:58 GMT",
-      "source": "고령자주택신문"
     }
   ],
   "cat-etc": [
     {
-      "title": "이만희 총회장, 신천지 5만명 국힘 집단 가입 혐의로 구속 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Rb0hpS2JfZTlEMTFfZUlQZ2kxVjhoS2JPMFVqVkVkMDNSUFdYcjhrRjQ2TWJ2V29kMWEwWUF2UnR2ZjFBeTQ2bF9ucDdPYXJPZXI0R2tzM1dnTjhpNzB6RGtzSmM5MDlDTmwxTlM2LWVNZw?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 15:46:00 GMT",
-      "source": "한겨레"
-    },
-    {
-      "title": "총선 공천권 쥘 실세 여당 대표…치열한 전대 예고 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrLTB1bFhGd21jRFRib0VDbkNha0xZVkpvTzBodzNmeHdLbUF4dWhhSk1ZcFlPWDlLWFR6eUs3VDZPOFpSbzBTRHM4bXVTd19rQkR5SVYzeGFGd9IBX0FVX3lxTE1KeE1oUXJfbjZiNjg4RHZyTldWckRpQUJGUFVtM1FEYUdyTTlUR0gtSjNPUXVnR3NhRmpaUVJDRGVJWGdqMEowaHJHb1VVckttZjRGWmVadjFUNkxpbDA0?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 12:34:00 GMT",
-      "source": "경향신문"
-    },
-    {
-      "title": "中어선 불법조업 직접 본 李 “그냥 두고 볼 일 아닌 것 같다” - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhTmppeC1HbVREaVVpeEFsdW1HR2xlNHI2end1WjN5ZDZrQXlGbEZteTNzWHRzZ01zR0VJci1BWkFVOHZfalk4MGxGSXRfOXRIZURzVEVsUWdWOWN3VTJRREhRUG40YUd2akJKTU5BdUN3ZWp4UWtz0gFmQVVfeXFMT0tRRlFWWThNcUtFblRJeC1BaG9nTVRJd2FlRFJuczBuQV81c3JuaXhBRG9vTnFab05yWDM0ZG1xZkVsdGhwQi10R1ZFTm9ZbmhWWlkwN2gtMFA3Y19HOGlZc3lMMHdn?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 11:10:00 GMT",
+      "title": "[속보]‘국힘 집단입당 지시’ 이만희 신천지 총회장 구속 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BUUI2bWloWVlpeHd2aHFDcWxRbldVM3M1a254NWZTdHd0M1dlQlR6MFNHUWdPZHg5Z2g0ZGFCSXdWU0g2eXpxTUdWdERCRy1sV21vcUU5dUF6T2ZvS3hsb1NCSjVvTDQwdUZFN0RiazN0bWllWkHSAWZBVV95cUxQWmUwd0VHYzV3MlA3M1NwUWl6Y0pIT0E3eUpnb010V1loZXhQRU4tXzBUQVB4ZGNRTHF4Vy0tVUJ4MHJMcWl2V1dMQng3X1Btclp3X3AxXzhYY0JuWWpjRXpHU01mWmc?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 14:16:00 GMT",
       "source": "동아일보"
+    },
+    {
+      "title": "정청래 “노무현 키즈” 적통 강조…친명 “선장이 둘일 수는 없어” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fb0pKY0VaTmtOa0wwUUs2Q2tpMEphd2hYbWZnY081cW5nX2h3Tmh6ZzJvXzc0Y3hPWFBDWDZSTXpZLUlucXFTSHYyYWVNcUpnV1FuSWpBblZkZHJpYVpnajQ5ZUNYMXFLNmNpVlFfZEZIM1Bn?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 12:58:00 GMT",
+      "source": "한겨레"
     },
     {
       "title": "선관위 직원들 “부정선거 음모론 차단에 집중…정작 투표 관리 업무에 공백” - 경향신문",
@@ -105,11 +99,17 @@
       "source": "경향신문"
     },
     {
+      "title": "李, 中 어선 불법 조업 목격 \"그냥 방치해서는 안된다\" - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeGh3cFNkdE5iek1ldmtpdkg3RjJPUUZPZm1USENmYUhXTGJ5SmU4MW1BRnBfNVZDSFFXOUhYcjM2eXJScHdIS0h6bE93THRqLUJ2WllkZFRlcFpLN255T1MwQm5FWDljRGZrWHdlT0VETUMwT2hfc0ZkWVdiSW9pb1BYN29oT2JI?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 07:08:14 GMT",
+      "source": "조선일보"
+    },
+    {
       "title": "감사원, 선관위 ‘회계 검사’ 착수…수의계약·예산 운용 볼 듯 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VelN3U3dVS1R3MEhGTXo3VTdGQVphWHRINHR6dC00OG04YnJvcGR5dUZkN0dfSW9MTlpnNFpOSDZjWnhVclE4UGJoN3UtRXZzX29qbUxQX1JDdFY0OXFKUXJNTVRDb2pSTklFblVObHJtRlcw?oc=5",
       "pubDate": "Wed, 24 Jun 2026 13:09:00 GMT",
       "source": "한겨레"
     }
   ],
-  "updated": "2026-06-24T18:14:53Z"
+  "updated": "2026-06-24T20:15:16Z"
 }
