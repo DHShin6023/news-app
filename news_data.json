@@ -1,6 +1,12 @@
 {
   "cat-us": [
     {
+      "title": "[뉴욕증시]혼조 마감…애플 가격 인상에 나스닥 ↓ - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53M0UtdVpWZzVnWElUQ09QaG9pQjg2WFRudUJ6ZUIzdHRSYUFJZm01RkN2eTVmaUpsWnJ5THg5OFo0ejVfR29wX09WdXBfSnRvN1IxLWxrOVJqbWdlXzF0cQ?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 20:43:31 GMT",
+      "source": "아시아경제"
+    },
+    {
       "title": "뉴욕증시, 혼조세로 마감…나스닥 0.46%↓ - 블루밍비트",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sYUl1OHB3NU9kN1FfbjV6TTA2SXZXSWQ4aUdGUHRzcW44YTNuNXRaZE9CMy1iQWx6NHpHWjNTWldrZW9LSjFVSlk1dHNsR09a?oc=5",
       "pubDate": "Thu, 25 Jun 2026 20:10:20 GMT",
@@ -11,12 +17,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fQWF6dnhpTW9tTnJYam1sLWxONm1TN0VMaXFuWlU3RExjOW1aVHR1NkdOeS1ycnhQTXBuRlBtbkxaaG9Vd0U1dUtMMlNfejN1M2d2aDZTcGlPaXV3YTNGc1NPSk96LWNUZGV2cmlTTmhReGfSAXNBVV95cUxOX0FhenZ4aU1vbU5yWGptbC1sTjZtUzdFTGlxblpVN0RMYzltWlR0dTZHTnktcnJ4UE1wbkZQbW5MWmhvVXdFNXVLTDJTX3ozdTNndmg2U3BpT2l1d2EzRnNTT0pPei1jVGRldnJpU05oUXhn?oc=5",
       "pubDate": "Thu, 25 Jun 2026 19:32:22 GMT",
       "source": "초이스경제"
-    },
-    {
-      "title": "[뉴욕증시] 빅테크 약세가 반도체 낙관론 압도하며 나스닥·S&P500하락 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zdmRUOVhzXzVQb3JMTDlDLUZ3dXRheWtOLVJjUl8yb0RmQmV3RmhicEJaTkIxbUI2aWtTRkFteEw4T0UyODhQZUdhbmxCUTVMaUx5VTRYOTFIYWZt?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 20:21:00 GMT",
-      "source": "뉴스핌"
     }
   ],
   "cat-kr": [
@@ -27,22 +27,22 @@
       "source": "연합뉴스"
     },
     {
-      "title": "펀드 시장 커졌지만 주식시장 못 따라가…ETF가 성장 주도 - 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyU1pTNkNnV19QUkdQRW9wTHhsalBkTXhuUWx6dldTdWYzLUFacGhqVUxWZk5lemRNczlWUldiTnNHN0doZGktS1BKYkFxUQ?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 01:23:18 GMT",
-      "source": "전자신문"
-    },
-    {
       "title": "\"조정 오면 더 담아라\"…코스피 '1만5000' 파격 전망 [분석+] - 한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56VGg2akNjaUdIcEpza2ZpeU1JWnlYSjNDbmZZQVRBc2JJYzM4Z0JlZHFfM0dLWVhDSExmR0RiSXhxVlJ5ZmMySy1mRFF0Y0d0THpmMVhwRk4yZ9IBVEFVX3lxTFBWTlJyRkMwSmIzSER2TnMtX3ZuazBVaElZU3dCV0wzaGgwUkY2Nng4Ym45Z3otRTlXMEZ3a0FvMnRtN3dDQUQtZ1NFWXN6Y1hGRmJLTw?oc=5",
       "pubDate": "Thu, 25 Jun 2026 11:00:10 GMT",
       "source": "한국경제"
+    },
+    {
+      "title": "펀드 시장 커졌지만 주식시장 못 따라가…ETF가 성장 주도 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyU1pTNkNnV19QUkdQRW9wTHhsalBkTXhuUWx6dldTdWYzLUFacGhqVUxWZk5lemRNczlWUldiTnNHN0doZGktS1BKYkFxUQ?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 01:23:18 GMT",
+      "source": "전자신문"
     }
   ],
   "cat-coin": [
     {
       "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 59,244달러, 이더리움 1,557달러 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43bFJnSTRnenJsblRZaWlqbE1EdEpaWlN0MGVwWUhEWm1JcXp1cEpGaThPQ0loNzJaQ1dwUlR3TmV6TXBKUFEzaTFXRWdBVDJYYmFWNTR0NnY?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43bFJnSTRnenJsblRZaWlqbE1EdEpaWlN0MGVwWUhEWm1JcXp1cEpGaThPQ0loNzJaQ1dwUlR3TmV6TXBKUFEzaTFXRWdBVDJYYmFWNTR0NnbSAV5BVV95cUxNZUZ1VzNNbDZhMHo4TzVlejdYQm5FdGw5UzZRZVJWSXU4RnRPX3FKTkRPSy04dFZGaENoXzlzTWwxSXM4Y3YtZlZNMEE4UTBOSUpiU081NmdkTWlCVllB?oc=5",
       "pubDate": "Thu, 25 Jun 2026 20:01:20 GMT",
       "source": "tokenpost.kr"
     },
@@ -67,16 +67,16 @@
       "source": "매일경제"
     },
     {
-      "title": "KB부동산 \"동탄 아파트 주간 매매가 1.56%↑…3주째 최고치 경신\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zMWhWZEVzdkYyb1Z1Qm9zdUUzSi1aNGJNVjBLZXdYVnpPYXBWMkUtcXhfX0xSN2ZpcE9RVjhyd3pqc0hqUlpkSC1FSnp6NUlpMU9MamdYa0JJdzhCV2FucGdVWGp5MzhCRTBGT201Uzc?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 07:39:11 GMT",
-      "source": "연합인포맥스"
-    },
-    {
       "title": "세종시 아파트 매매가격, 지난 주 반짝 상승했었다 - 세종의소리",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlbjhBbmg5bmtwR3RlYi1VazAtUVh3NTZ6WWZIZElkcFRkcE4yYnZ2cld1cEQ5WXBTSWg2MmJhZmwyeTZVUEdYUWV5c2REQmVKVEFBcGJPR2s2M1YyZ1BFUHdrWFVwLWc?oc=5",
       "pubDate": "Thu, 25 Jun 2026 07:18:13 GMT",
       "source": "세종의소리"
+    },
+    {
+      "title": "[부동산라운지-6월4주]서울 아파트값 상승폭 확대…전세도 강세, 임대차 시장은 ‘월세화’ 가속 - 비즈트리뷴",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zdG5rNGdHX1pzZ2ZPc29tdkd1dGRiRnkyNGxHQWkxTmIzb1JadHBvN29FM1k0OGszVWFQX3dqN3prWlNMM3ZEc2dLVFRpWTFCVUxtaXJEV2ZvVFhvSlZoNXluNXF3S1RfbFBXLUpPWjE?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 11:15:47 GMT",
+      "source": "비즈트리뷴"
     }
   ],
   "cat-etc": [
@@ -87,21 +87,21 @@
       "source": "한겨레"
     },
     {
-      "title": "與 당권 경쟁에 사라진 ‘보완수사권 숙의’… 결국 강경파 뜻대로 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WekJuWjVVa09kZmVMcTBtekYwMm5PVEc2NjUyb3R4VEZESVY0RlNGUGZmdFZtZ3kyUlpNWWJEOWhpemlxU0FsNkRQc3RPVUdtS214cXYxb2xub1F1RmpobG5YS09uVFJzcXd5dnZab1NPc2Q4Mkpv0gFmQVVfeXFMTTFST2dPb3hNa25FRUYzZ0lyTk9pUTJkSllBSGg5N1JiRWVTdnBnbGk5WG5oYkxqcU1xZjU2bk9YRTNvT3JrRU15TFdlaGJUOEYxRG5GNUd1bENLR1FMTzZJQnVwZERR?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 19:30:00 GMT",
-      "source": "동아일보"
+      "title": "김민석 “정부, 폐지 입장 정해”-정청래 “당장 하자”…보완수사권 공방 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81eEI0V1hVWXladS1QTW5uQVFGY2pnckh5TjdibW9uWDNLSHVpOFY1U0VjVjNrZXhBX1ZJNjJ3czExd2gtc0JKY2pkdEwwOEF2YnUyRFZNWW1KM29tZjBhQlVudzBwWnZQdjYxNjA2aWY4N1Zx?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 15:39:00 GMT",
+      "source": "한겨레"
     },
     {
-      "title": "오전에 \"李대통령과 의리\" 외친 정청래, 오후에 文 찾아갔다 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUZjZXVRMlZpaFY0bWVqWm12OEFGcXVRYVg1TDZzM0xHWmkzWkRhNjdxaEV0SmxIQlc3anN3T05KVFNWMjRDandmYWc3ZUxUcWw1cDhqOFR5VXM4M3BaMHg0dHR1Mkg1Ry1YYV82M1M3Rk9MSEpreU5IQjNOdkFZRXlfai04QQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 15:50:00 GMT",
-      "source": "조선일보"
+      "title": "‘김건희 매관매직’ 오늘 1심 선고 생중계…특검 징역 7년6개월 구형 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tellfWXlOT1hDclNMUEJrcDhzZEN6cEM1bGllNmVOVWVFczhORUM5TFBIc1Q1cHpIZHFZdmh0UDRzQ09RelJPZ3MzbzFzWUNSY3U4RkdIc1dYTHE1bWZkV05mRnNMUFlNYmVUZE5NZU5Zdw?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 22:25:00 GMT",
+      "source": "한겨레"
     },
     {
-      "title": "국방부, 4~5년 복무 ‘사이버·AI 부사관’ 추진…선택적 모병제 속도 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUZGpYdXlfTnpFNTVtLUlVQXZJZ3pYOVJiNUJtUjk1RmRSblhiR3Fra1ctMXN3bDVZbUxXcUFtV1lRVDgyek1kdkk1ZC1qMkswZGx5SGk4a2tuZ0xMekdzUjdZNThiUTVy?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 15:41:00 GMT",
+      "title": "오만 “호르무즈 통행료 없다”, 이란 “인정 못해”…다시 긴장 고조 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XZ2c0Q3p5VnA0Vkw5V0Y2d3NQUGVFdG5hbldWaEtYNG5Ob1RBcEZCZmt1VXpjR3hEV2NoOE1vQ0lBdHpYVGNvTzJ3Q0xRS1M4T3FSc1hTa1hSNzNqUVl2X19sX2h4aTloQlZQdmpQNzV6ZWM?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 22:16:00 GMT",
       "source": "한겨레"
     },
     {
@@ -111,5 +111,5 @@
       "source": "조선일보"
     }
   ],
-  "updated": "2026-06-25T22:14:23Z"
+  "updated": "2026-06-25T23:48:51Z"
 }
