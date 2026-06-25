@@ -1,65 +1,71 @@
 {
   "cat-us": [
     {
-      "title": "[뉴욕증시] 기술주 차익실현에 혼조세…나스닥 0.43%↓ - 신아일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTUGlDTFp3UE9WLTEwTjFxODQ3b3V5TWRsQklESmdkYWdrTXBiNTUzbGU2YzVZcDN6bmhEN1BSU1RSUkZxTXBibEJTOWV4V0lnLTMySVAydTFGU2hZclBpQ2R5ZVVJeTNDRWJBcmd3TXU?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 23:28:17 GMT",
-      "source": "신아일보"
+      "title": "기술주 약세에 숨고르기 들어간 미국 증시···나스닥·S&P 하락 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRDZhMU5kRFZmenVXcnBYajRTUUJtLXNjV3drSHFUX3V1SS1Za3ZmWXRsWkUwSWxreHdLbVhUQ1FZQ2s5d3pLUDQ4b3dCVjI1ZGNYeVV2MUJNQdIBX0FVX3lxTE54cjdzTDQ0dnBueXBFZ0UxSFBubEZHT1UxOUotemxKMFhoUGFvR3d4RU53SC1TTnhGN2xDc2pmNWQ5SEh1TDF3WndLd0lCUXJFOEpjdjNGQXFyMnlQR0xN?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 22:53:00 GMT",
+      "source": "경향신문"
+    },
+    {
+      "title": "[미국증시] 나스닥 0.43% 하락 마감, 마이크론 시간외 13% 폭등 - jabon.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0NjNCNG5CWnVtcFlYY2d5aFdjSlp3WDB0dTJKZVpHMEZJWWhWMnRqWk9fSkMxSVF2WU1zSXFMd1lSX191eTlFaExMck11S0g1dlhCQUp2YjQ1bFdVNVVNdnkzY1lUVEE?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 23:00:00 GMT",
+      "source": "jabon.co.kr"
     },
     {
       "title": "뉴욕증시, 혼조세로 마감…나스닥 0.43%↓ - 블루밍비트",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tQ2RVZXdfM0xnVHFuSEtQOHRfZk84XzJ2ek8tUEw3LVM5R1JiYjNQTVZ1ZnRVVUNzdG8xdXNPNGZTcG9GS3Y4VS1jOXRTaUZ2?oc=5",
       "pubDate": "Wed, 24 Jun 2026 20:36:00 GMT",
       "source": "블루밍비트"
-    },
-    {
-      "title": "[서울데이터랩] 미국 증시 혼조 출발…다우 상승, 나스닥·S＆P 500 약세 - 서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zODUzSldBX3lnWFhxckFDcVhybHlJU2RNczlvVXpjeFpKUkMtdHhqNGtzN1ktUlFyemhXOFU2VGlYclZRcjhJR196M09KZ29oRjJvQllDelVEYkNscTM1N1hSTm1nZWloX0FVMnRKSQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 21:32:59 GMT",
-      "source": "서울신문"
     }
   ],
   "cat-kr": [
+    {
+      "title": "펀드 시장 커졌지만 주식시장 못 따라가…ETF가 성장 주도 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyU1pTNkNnV19QUkdQRW9wTHhsalBkTXhuUWx6dldTdWYzLUFacGhqVUxWZk5lemRNczlWUldiTnNHN0doZGktS1BKYkFxUQ?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 01:23:18 GMT",
+      "source": "전자신문"
+    },
+    {
+      "title": "코스피 8900 탈환…급등장에 매수 사이드카 발동 - 경기일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFT2RrSTEyR1NJbFp0NmRQbWc3NVhVUnBYOUNCWU42ZXByN2NUbnNzNGFhdkdUVDd4bDZ6a3F3VEh1ZHRZeTRnUUNxUm8zc0lqMzh6NndldXg3RUk?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 00:14:00 GMT",
+      "source": "경기일보"
+    },
     {
       "title": "반도체 차익실현에 증시 급락…코스피·코스닥 장중 4% 넘게 밀려 - 시사타파NEWS",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYTlhRVlcxX05zSWNadDllRHFNMWlPbmJUcHhCaGJyMjZnd2xUbnJLc3VqZjY1TC13UlQyRElhbS1FdFdiaHpKLXZNRDRjNDctUlNTSGc4UldLYXR0dHfSAWtBVV95cUxOMFFydDVwb0RvREhDRTJqX0V2S3FaMkgxdC1qR3dWbXN1S1hrck0weVc3elI0cC1ZWTlRdTFja05VU0M4WTVYdDlZZEJMSkZwNXM1aWlLMW8yZzlremFRNXdlTG5WX2kwNUxLTQ?oc=5",
       "pubDate": "Wed, 24 Jun 2026 21:19:18 GMT",
       "source": "시사타파NEWS"
-    },
-    {
-      "title": "코스피·코스닥 이익 격차 73배…“현재 주가 격차 당연” - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwdTcwWW15RzlLMHBKWnR3X0RRSXNLbFZldW1MVXZlYjRLNGhDdmF6a1pnM1Q5N2x0OVREOTZpak9RYzVvTDB1Vy1VQnMweWlEaFRlQ3dBb1RNQdIBVEFVX3lxTE5Qb0Rva05qbXdFZDFpak85ZEM1RFFJVko5anY4eTAzVXB4eThXX3hSZWFFZnpEaWRhZ0UtVm1CNUtXNFZzRE5QWkJzeHdUYjFTYTF2aA?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 06:33:45 GMT",
-      "source": "한국경제"
-    },
-    {
-      "title": "코스피,저가매수세에 급반등 8,500선...삼전·닉스 급등 - mstoday.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXOFdiTmNhYnJ6TU8tclJSN0RzTUNVQmhqWVJ1VndnSkhsd0k1dVdpTi1QNGgyajdySFFCMnVfVlRwN1p4OTRFUWpoeG1iVkhrT0E1ZHNhNVFObU04N1p3MmxrakVFbHcxWWpCSjNR?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 01:11:00 GMT",
-      "source": "mstoday.co.kr"
     }
   ],
   "cat-coin": [
+    {
+      "title": "[서울데이터랩]암호화폐 시가총액 2조1761억 달러, 비트코인 6만676달러·이더리움 1617달러 - 서울신문",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOdTllRkZDMUhNcVAwWDlMc3JkSHZkQVN5d2NxbXZGY3pfTmxCc2s1a1l2Z2FWeWEzX3J0amxrQ2NobXBMSzZZeGpPNGhnUTRld0pOUkYwRVpWbGx6cmg1cllSLXRtaGs5QnhMRUZfcndybEk?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 03:58:00 GMT",
+      "source": "서울신문"
+    },
+    {
+      "title": "[오후 시세브리핑] 암호화폐 시장 하락세… 비트코인 60,722달러, 이더리움 1,619달러 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KZnBQOXluNmhuXzEyMjRyeUI1YkFDSFBRdS03cERneHo1UWhvdFlYajF0Qm9lQl9WZVpxRDBrYnNqajdwUnlMZFREanZLWkVZQ1puMkZORkzSAV5BVV95cUxOVnNnU2YzMDdkbGlDNEV3czlWWDB5d2tKb1RmX045Q3IzUUpkTGpIUjhnT1NEcFU4akJlZE9kUXdvdXl1MmJ1SkZDWWNhMy1kanBQaGJLRkRYRE5KWFhn?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 03:02:42 GMT",
+      "source": "tokenpost.kr"
+    },
     {
       "title": "[07:43 가상자산] 비트코인, 자금 유출·법안 통과 불확실성에 하락 - 신아일보",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JS0pOOHF4UFRoSktzd1NPRzNCTm4ydzNuUy1FS2M0bjFFMkpDclRFNFZORjVRZG5sak1QY3Uwd1NPWFF4eHMzcmxGS0plRFRHdThmUGtjQnRISHVtNXd6ams4b2U0RTFSYm1OVWdNZWc?oc=5",
       "pubDate": "Wed, 24 Jun 2026 22:51:19 GMT",
       "source": "신아일보"
-    },
-    {
-      "title": "[자정 시세브리핑] 암호화폐 시장 하락세… 비트코인 61,011달러, 이더리움 1,644달러 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kNmtwZkNMTVlMd1R4UXlvVm9qRkZNMEdicWtaQ1JzVUNicm83NVVDYmdCaGxaQzlFWTdRM0RpSmM5djEzcDlCUEx4UndrVUFPX2loWk5DMmbSAV5BVV95cUxPU2pON1cyblhlTHlnMHpkVWdvcXYtTVhFc0dRZEJ2TTd5OXZ4NnZkN1pWWnJNWTdCQURJZUdiR2dYRFIySS1weWt3TUozeXdIb1B6SmFqVTVvdG1QS0xB?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 15:02:54 GMT",
-      "source": "tokenpost.kr"
-    },
-    {
-      "title": "이더리움·XRP·솔라나 일제히 3%대 침몰…디지털 자산 투매 광풍의 서막인가 - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hU3V2bGcyZ2J4N2RJckIyZEVyWDZSeXppR1lZUEV6T3VodWFNTnlDZ0VvUTI4SkE5WmpEQ3hsUl9IeXFuSksxUG5UOWlGWXQyRDZGOWJMWXVxcjA2VTRxYlVhOFlOalNKWURDZkhBcS1rWTDSAXdBVV95cUxNdkxtZlp3N3FRVmEtN1NOUW55U1pwNmNld25XNV8wc1VraXdzX3d0Q1pKU0xiTGNHNVhBeUN2MmZiVmFSNXg2Zy1SdV9RVjg1MlVwbTVDNmEyT0VWa1g5X3VOaXBJVVo0U2psdDQyaVF2Zm1aLUljaw?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 23:26:11 GMT",
-      "source": "핀포인트뉴스"
     }
   ],
   "cat-land": [
+    {
+      "title": "부동산 국민 대토론회 예고…규제 일변도 정책 바뀌나 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1VkOGRNM1NDZFBQbmRxdF95ZVYwVFlFU2wwNVNPNmhPN3o0eGoxZVhNUXdaNWdlNEVRbFRqcGNyTm9PZkJBNDhrWjNtZXEzNmNwX1k0ZERGUEtOeDVvMmwwZFhrQ0lEdUR5UXZ6X2FVeHljc0NQc0pUT2JXd0toNk52eVg0MGZkdkE?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 01:37:01 GMT",
+      "source": "글로벌이코노믹"
+    },
     {
       "title": "반도체 머니에 들썩이는 집값…정부 '공급 확대' 속도 낸다 - 뉴시스",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBweTNVMnNyRG1QTEcyX25XTXZoR185emtXaURCSWUwLXI2N1VEOS1nUW9NbElfbkFpTE9MNktybFl1MlZGeWM0dGJHMk1xSzdLMHFNUlNlV2JIX1hkY25HeTZCVXk5LUpWZUJGangwWnJjN2ZXY3BvatIBeEFVX3lxTFBweTNVMnNyRG1QTEcyX25XTXZoR185emtXaURCSWUwLXI2N1VEOS1nUW9NbElfbkFpTE9MNktybFl1MlZGeWM0dGJHMk1xSzdLMHFNUlNlV2JIX1hkY25HeTZCVXk5LUpWZUJGangwWnJjN2ZXY3Bvag?oc=5",
@@ -67,49 +73,43 @@
       "source": "뉴시스"
     },
     {
-      "title": "\"더 비싸게 산다는 사람 줄섰다\"…동탄 아파트 상승거래 비중 쑥 - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JRTJ0WG9LaUZvbGktVFJWTUV4WE1EMldaaE1oVU5RMmZUd2VTTmN4YXQwMk1aNV8yRmpEcktrTDdHTUhBY2taQ0xBZERNWHF1d2RVZA?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 22:00:00 GMT",
-      "source": "이투데이"
-    },
-    {
-      "title": "집값 기대심리 다시 연초 수준…정책 시험대 오른 李정부 - 더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjeHdqWFF4Yy1RR09hWGJFb0lvd1NUVVA4NmtQRFdLcnV5QzljSU0wZTlrZjVZajBMWjFGeG52cjhFQVpTREJNQ1hLTkRIZDIzWXplZNIBVEFVX3lxTFBjeHdqWFF4Yy1RR09hWGJFb0lvd1NUVVA4NmtQRFdLcnV5QzljSU0wZTlrZjVZajBMWjFGeG52cjhFQVpTREJNQ1hLTkRIZDIzWXplZA?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 15:00:00 GMT",
-      "source": "더팩트"
+      "title": "반도체 발 유동성에 ‘삼전닉스 셔세권’ 집값 폭등… 정부 “닥치고 주택 지어야” 특단 공급 예고 - 서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HdjJyNTNqTDBOSG1Ib0FlT09scnZuTFRYcDFWdm9IaTg0Ni1zUFJfTDQwT3dPMTQ1anNjUDg1Nlc1OEVTQjNaZDg0TFpOMGRRakhkVGt3bm42R0FZREJLWklPVVd2Q0VqWUFV?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 22:52:23 GMT",
+      "source": "서울뉴스통신"
     }
   ],
   "cat-etc": [
     {
-      "title": "'국힘가입 압력' 95세 이만희 신천지총회장 구속…\"증거인멸염려\" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQVnpIM0ZSQ0hJZ3dCOEZ1dkhkcXVGMFlOOG1OWDVteVVDSjNBdkFfem1vUk9zVW1BZFVTZzloaXlIcTVaT2tKaXZqb0VFZDFDaXZULWF5YzFfN1HSAWBBVV95cUxQZkJxZ1U4WktHSk5XWmV5MG5TNmJHQ1NXNi1FZlRFSlhSYnNzVmJDbGpOTGNqQ0FVR3lvSEtsUkdSZXVzWGE4bzNFZ19sWnJYbTBiNXJ6N0dwendFaE5lU04?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 14:14:34 GMT",
-      "source": "연합뉴스"
+      "title": "베네수 7.2 강진 1분 뒤 7.5 또 덮쳐…“최대 10만명 사망 가능성” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43SmU5aFM0dWhMaWs5SEl6Y1RVZEh5YlhGNUg3Um5XY1hwNzZxeUxxaHpoRWtiUTZZQTRKOHNhVE5pb0tSTnRKTnNrbE9HeTc3UmhXWWQxZ2JUdHRGd2pCZFl0YWZneHBzbU9KWUFtdw?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 02:41:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "이 대통령 \"강력한 국방력으로 평화의 한반도 반드시 만들어 낼 것\" - 대한민국 정책브리핑",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fQUNSTlNZZl9qRE1vaGp6S3BiTkhmZ3lWQjRQS0dfcThDS0wxQTBwR2taOFYwUU9LUnA4dHRSWnJGYllNZm11aGp6YktGak1BamlLdTJVc1FZaldNMmwxY3F1VEF2OXQySWhFMA?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 04:20:09 GMT",
+      "source": "대한민국 정책브리핑"
+    },
+    {
+      "title": "재판부 기피로 중단됐던 '내란 우두머리' 항소심, 1심 선고 넉 달 만에 재개 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sVnF1enNvc3Nma1J2bXJSTVZ4M2l1NmZnS242YnFIN19IYXAwSGpaNFQwZDdHUTBpdnZqaGtyNy1NY0RDZmpGZnRnaFZIX0gtUW9KR3FQa0dkZzZjQ0RQNmtDMmo2bWI5WGI0YjdpSzF6cUtZSi1v0gF3QVVfeXFMTVM2UWZMblVoZEFNX0lTUWxrOUxuQ3lYUXpJWlBLWkhqamJtQ1g1bnhRZTZacWk1bWtCMl9zaTFiN3BCbUFHNWtqeU02bmllRmNidlNQV1RtYzNlT0o0Y0E2SDBoaFBWYUFRV3NrcWpQOFFiai1FNW8?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 01:40:44 GMT",
+      "source": "MBC 뉴스"
     },
     {
       "title": "정청래 “노무현 키즈” 적통 강조…친명 “선장이 둘일 수는 없어” - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fb0pKY0VaTmtOa0wwUUs2Q2tpMEphd2hYbWZnY081cW5nX2h3Tmh6ZzJvXzc0Y3hPWFBDWDZSTXpZLUlucXFTSHYyYWVNcUpnV1FuSWpBblZkZHJpYVpnajQ5ZUNYMXFLNmNpVlFfZEZIM1Bn?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 12:58:00 GMT",
+      "pubDate": "Thu, 25 Jun 2026 01:24:00 GMT",
       "source": "한겨레"
     },
     {
-      "title": "‘좌충우돌’ 트럼프, 이란 향해 “미국인도 핵 사찰”…공화당과는 “미치광이” 고성 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Xa2hoWVU4N2hkQXdiZ0F4MThOSVFZRmVQRjVMZkxNRTAwVE5KNFU5VkVDOXcwRURXMk9fSFJFcG1SS1g0NEFFdGR6MFBhcDhBU0ZXQTBjUldXdFNIQ0VNeE54dVNBTVlod05IWUR2RQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 22:11:00 GMT",
-      "source": "한겨레"
-    },
-    {
-      "title": "잠실 아파트 30억 차익·가족간 헐값 임대···‘4주택자 이력’ 한성숙, 부동산 의혹 넘을까 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01VFNPMnlLeXVzbmFsbWxMU0xoUXpYVjBKVjNzb1VZQUM2dWpFNk0za0pHQVlWWWZ1MXkzemp2VFlNRGtyOWFpdFQzVV9MVkR1OGM2dXczWFhGUdIBX0FVX3lxTE9LbTZ5aEs2enVKbEpIRFJ3aVVEZWxNQWt0ZFh3Zm5KQ2xUc3NGcFJCTFFMV3ZkUERjVThPS0ZQWTRhT1oyOWtrSjdCaWZRV1VHaU1EejFHTHBCNTJGT0d3?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 07:38:00 GMT",
-      "source": "경향신문"
-    },
-    {
-      "title": "‘투표용지 부족 수사’ 합수본, 선관위 관계자 12명 압수수색 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HMnMxbG8takpaSFZLQlVDcmYzR3RiZXI3Nk0wb2xBUVZDM3ZnaUxLOTlDMWxtdlJBTng4djRfaWs2RUdrS1JkZThkNG95OTZUWWtTRmN3Rmlia1oxVVByaGtLNFdwR1JEYkhXTjFEMnkxQQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 04:00:00 GMT",
-      "source": "한겨레"
+      "title": "청문회 직전 매듭지어진 철거·매도…한성숙 검증 D-Day - 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeGtKS19KRHVsa1lqdW1Vc1Q2VU1PT3hPVmMtQmJiRXZYWDBReWNSNEI5M3pUT0lneTN6SVZlczh5aUNBYU1rX1lXX0E5Ykg5RWlJN0Y3ZEQ1anlnOF9pQ0prSEUyQWdhakZ6X3YxR0tVellxaGZEczQ5SDNacG1OVXZWbHFZQ1ZJV25SVkhYOVlxWmpFMUYwNDJvd1dLVWVmUTZtMWNBQzVTcGZMdU5JMmNTTXUtNkQ2Q1ktWU1XakFuOWdxR05zT3N0VFlGdlY0Y19TSC1keGdWRU96dk5tYkx4YVZfMXlqWTYyRmRrQnJFX2hDakVZejBGXzVpVFFxVVJv0gGGAkFVX3lxTE1BcUVRd3JUNWRSRHpGM1BjRE5fN1FtalpKcEYtektvd21JTUU0MDFzSEU3ZjNVMWRCNV9rWjdOREZtT0ZwSDdnR1hJT3MtWjhlWjZYRVhjb19rUWhJbC1ZZmg3X05rdWJGOW1VdmR6QllEZDRQMmprNVZQeDh2NkU3M3lZbW5RVi1UQ0xWVnhxcGhWTFo2b2xYZkFvYk5sNnMyLXF1NzZVTEpvVmI0bkFaQjEzR3F3YXBCbENBWFZmSDBYbFRXSXpUN2tVRkg1M3VqdjE4MDNNeXhUeFN0VXdOWVRhUFhvc1RtcHhVUzFTVTVaZ0l6Y0FCWDI5cEUyS09NdkZnUVE?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 20:00:00 GMT",
+      "source": "데일리안"
     }
   ],
-  "updated": "2026-06-25T00:04:03Z"
+  "updated": "2026-06-25T04:39:06Z"
 }
