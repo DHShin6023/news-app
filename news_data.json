@@ -1,6 +1,12 @@
 {
   "cat-us": [
     {
+      "title": "뉴욕증시, 상승세로 전환…나스닥 0.21%↑ - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LR3g3Wks2TkxRb25OelpOMVZoR2hOclFKNnV4MzF5ZWw5a1dZSXJoYXUyMk9TT00zdmZOVnVtM2t2aEJUbF9SUnFCWG5tV015?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 17:02:07 GMT",
+      "source": "블루밍비트"
+    },
+    {
       "title": "[속보]미국 증시 일제히 밀려…기술주 약세에 다우·나스닥 동반 하락 - CBC뉴스",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OUXprU0N0VHNGdnVwcXN5S05SN1FtLVVuUVBwcGFZY3NXSTZ5UFh5cVNPZEF3WGIyT1ZhQUJhc2NQRW5hMXdkcWxZejRQR2dxZWxSWTROdFVFUFd4MFdINThRU3luTGRm?oc=5",
       "pubDate": "Fri, 26 Jun 2026 13:58:00 GMT",
@@ -11,21 +17,9 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kVlFQWGtsREdSbmhxa1c2dGZtOGg2NWdLb0VlcVJoQXc5UW95azd3MUZnRVNiMlcwSWhKQUZ4aGd0M2hlSE1EZndVUTBleF9HVUhiVEdPZUdDMkXSAWBBVV95cUxPZjVFWDVIeWVnNmxBVUhtb0pSWlcxWDMxN3AyZm5nYWxqZ0ZJSFlnVmc4UThuMWQxUWl6NFF6SjNIMEpWQmtIM0ZqYnVFcDNwdVpTVVlOb3hhY01mN0lGUGI?oc=5",
       "pubDate": "Thu, 25 Jun 2026 20:18:15 GMT",
       "source": "연합뉴스"
-    },
-    {
-      "title": "[미국증시] 애플 가격 인상에 나스닥 나흘 하락, 마이크론 16% 급등 - jabon.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FU3NCMHZHamkyR04za0FHQ3FyZ0hDQjBMTk56Z19nVmhablh2cUx0UjhIWEU1UG9FWVJWUHZpdEhOcmhHRG0zY1VMMDg1ZEYwVVhQUk56UFVhMjZYQ1pTZTJva2N3bTA?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 23:00:00 GMT",
-      "source": "jabon.co.kr"
     }
   ],
   "cat-kr": [
-    {
-      "title": "코로나 팬데믹 때만큼 빠졌다…코스닥 '날개 없는 추락' - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybnoxdnlGX2V3SDB5QXpIZkJRYjBIa2dfa0dHUnNYdFpHaGlpRmdzRzZ6V1Z1Y2Z6bHV1ZTc4S25TLWtmYWlPLXlRZm9IQ0YxUEhJcGc2bXZjQdIBVEFVX3lxTE5ON1FIV05BbTBNVzd2bVNpSlJ1U1IzeVp4SVZWd3VuTnRoU1k1SnZoYnAxNmF6T1c3b3BXd29zM2hqM3pPQ3FmX1YyUmQxRk11TGFwUQ?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 12:31:00 GMT",
-      "source": "한국경제"
-    },
     {
       "title": "하루가 멀다하고 질주하다 '덜컹'…'변동성 덫'에 걸린 韓증시 - 연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KV3ZESHI2T25oY3BhbXd3Q3ktQk5VX25odXE3MWV3cFBtTGx4Z2NhMFV4bHV4cnpfWVg4c1ZmVm9NenpwSTE5Wm5tNGl3cm9WSDFSR1c0YVNvQ0XSAWBBVV95cUxOc0h6anYwdFVnMEtKa0gweVRLd2w3U2FWYm5Ebk8tN3RMRmIwa05lemtySTdCMlFCQUM3bkEtLVI0c1JFWHR6VzhZZEpaTkw5aWk4b0Exb2R3bDZvRWdxLWY?oc=5",
@@ -33,17 +27,23 @@
       "source": "연합뉴스"
     },
     {
-      "title": "코스피 5.81% 급락, 8410선 마감 - 스트레이트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iTC1ZZUU0SWZjU25Jb0FLLTN3UHFrbHRiMk1EWko5ZjctYWdOMHRlLThWUVZSaFV6eVlIbXpEU2swQ19McEM4aE9VUDM3cHpKSC1HSGFNZl9oX2NkRWthTzVSVVd3c0VlMS1yeUxSMkZlV3PSAXdBVV95cUxNN0dBUTVKYnJzekJfRWpmUjBTeUtSRlFENXNMS0NMcWIyZkFLVGUzX1JZaExEc2VhQUF2YjJrdlNzZE9nLXB6YzBidDgzaHB4c3FkelBiNHgzMVM1b3VTZXgxWHJ5NjN4YkczQ3BWYjhMaVdhd2hPQQ?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 07:17:59 GMT",
-      "source": "스트레이트뉴스"
+      "title": "코로나 팬데믹 때만큼 빠졌다…코스닥 '날개 없는 추락' - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybnoxdnlGX2V3SDB5QXpIZkJRYjBIa2dfa0dHUnNYdFpHaGlpRmdzRzZ6V1Z1Y2Z6bHV1ZTc4S25TLWtmYWlPLXlRZm9IQ0YxUEhJcGc2bXZjQdIBVEFVX3lxTE5ON1FIV05BbTBNVzd2bVNpSlJ1U1IzeVp4SVZWd3VuTnRoU1k1SnZoYnAxNmF6T1c3b3BXd29zM2hqM3pPQ3FmX1YyUmQxRk11TGFwUQ?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 09:09:13 GMT",
+      "source": "한국경제"
+    },
+    {
+      "title": "대한민국 자본시장 선진화 및 주주가치 제고를 위한 제도 개선 촉구 국회 청원:동아경제신문 & daenews.co.kr - 동아경제",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tTEEyaEFGMGRuRHJfZkJMMTFpNE9LQ0piNFZuOHI0LVZOZVJ0aVpld0g1eEE2NmRSd2ozSTg5NEttT2dfQkHSAWJBVV95cUxQeVR5cDNvd0NBeGtkSVNncFhvTlVqOXhoenc4eGE4QTRGemxFOU5pRVBPaE5iT05WZm9XRjFpYTFjSWNEWHR3X3I2WW9vbU9kOXFLajg3eGxzeGFnV2RYRlIxZw?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 10:55:00 GMT",
+      "source": "동아경제"
     }
   ],
   "cat-coin": [
     {
-      "title": "[자정 시세브리핑] 암호화폐 시장 혼조세… 비트코인 59,538달러, 이더리움 1,558달러 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nLTIycmFxYmVnelpyWFpQc3lHLUdxZERIeExMRGIwcmNmTXpYeFYtX3hub2ZTMGlQQkUtN1ZQaU9BcGI1N2hMYjl5dFd4RnltRkp0bG9MUzjSAV5BVV95cUxPbW1sVkU4bnh6QUdlRkxxZFFadE1SN3ozZGhBX241NmlTQ0tYei1VUGZNR1FONTlSamU5UWRSc0ZBSHRBZDVVVVRDX0NNMHp1cjdjOUtFcUV2UEltVXRB?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 15:03:15 GMT",
+      "title": "비트코인 5만8000달러까지 밀렸다…암호화폐 시장 변동성 확대 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TNTJ6TEplUllzN3JhSU85eWNmQnV3VmtMcngtVnB5eTVtVFVyclpTZFpVZEpNd2JrYjB6bGJRd2pPekxMZjUweDB6cUVBZlM2eVlfOFkweEN3OVdGNmRmMNIBZkFVX3lxTFBndzFtaXdFaTAwb2NMWXlVV1pTSlVRY2szNlVPamx1dHdtTjZHU28wWjA5aFZPTEVsTDMtc2wybFpfLWVyX0gtUi1MR1p5amM5bzN4RUR3UklaVDBxN2RSb1VLRHY2UQ?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 15:41:10 GMT",
       "source": "tokenpost.kr"
     },
     {
@@ -61,6 +61,12 @@
   ],
   "cat-land": [
     {
+      "title": "[사설] 정부의 초라한 부동산 1년 성적표 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sa29Sa0Nzb01zalZWUzdPQU5pZlZ2cEtvZDM4MEktMFNpYmdMTDUzSVBKRnJ1X2Z0TGV5N3p0N2hzWFNGS0ptbmNxc0hVMUE?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 16:42:16 GMT",
+      "source": "v.daum.net"
+    },
+    {
       "title": "아파트 매매 가격, 부산은 조정·울산은 상승 탄력… 경남은 완만한 회복세 - 브릿지경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yZTRSOVlYclJtRmppMHI1OU56clE0X01zeHF0REJ4ZENKam52UXd3b2lPcE4ydW9XV1pzNWs5dEx4T05ydHpvZ3dlYjgxVjMwYlVudy1VdDg0dw?oc=5",
       "pubDate": "Fri, 26 Jun 2026 02:17:00 GMT",
@@ -71,12 +77,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZZ0dkM1ZNd21IS0w3WjhNaTRqOXFYTW81Ql9EUUVTLUwtQjBvU2p4c1I0WmFCQ1Y5OW1vcHZGMElQQk5xVVd6bUhlbEdERkZSS1NVZ0pUWW94cjRFWl96R1FQaUJPd185TzdF?oc=5",
       "pubDate": "Fri, 26 Jun 2026 06:02:10 GMT",
       "source": "한국부동산뉴스"
-    },
-    {
-      "title": "[주간부동산시황] 정부 공급 강조해도…서울 아파트 매매·전세 동반 상승 - 데일리안",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUYzFJVWJOQlpweHFUOFdHdVdsUTNETUFNdTR6aUhEd2xQTTBFQ0stdzNWVG5EUlMwQy0waXlUZFJ0RDRQTkl1NUFNVXBISjg4dGVKaG5Nd9IBsAJBVV95cUxOQVNHa3RNZXJnaGIwbWE2eUZ4Z3dLamdNYTREdE0tazNBdHdGeDV2ODFQSlJfQjEtbl94cENXNjZ4ZUE4RkZDYW5FNEMtUFViOFRwcjhvSkFFNmZNbkJSU2thdDJ1MWt1SFFSeDd1RWl0ejdiV05FM2FBaGRDc2lxQkZ6QTBaWE9BUkVxMGFlTzRQd3hpa3N1eUxlYTF2Vm9XS3pkUk1ZbFJ6cmhPX2lKaHQ4cVFxQmhVd3B0YjkxYmVTZ0dKTW1md0NaS001VFhCUHcxWC1iZy00Yld6d3NGeDJxdmRkMy1lM0VTNC1qU3pka3FRVjY5NVBjTzY3cVZSQmVGM2NtUmdQbENRXzBTbklaRnExMHROY3NkTHJtcHNxbFUzZkp3dTRHYl9GdzY5?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 05:44:00 GMT",
-      "source": "데일리안"
     }
   ],
   "cat-etc": [
@@ -87,29 +87,29 @@
       "source": "한겨레"
     },
     {
-      "title": "[베네수 강진]구조 계속되며 늘어나는 사상자···사망자 589명·부상자 2980명 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Hc2RyUnJneEpEaHVDd1UwcnYzRjFvWlMzMWd4THd1eHhCWUdxZDZpQVh1ZFdNOEpIWXd4OVVLSTVoZ0JEVlJyWmpCWjI5djVveUpyZUppSkQ3UdIBX0FVX3lxTE9zNldBbURKZDZvaEZlVTRxTGVKUjJ1aXdrZ0swVDFDOFY1ZDZIMmFpUmJCdUpBOFN6TlJtM3RuM1JScnZDQUtiaUVUT2doQVcwNFJJUndsN2tSSGczRXo4?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 12:57:00 GMT",
-      "source": "경향신문"
+      "title": "유시민 \"李 대통령, 尹 때 나경원·안철수에 출마 안 돼 협박한 것과 비슷\" - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT29UbjE0akwwclBhdTVFbGt4czBuaG1nMmJMakRMYkpIN0tPUFVTSUxabFJ6X2ljaGZNVjhrdS1wT2MzRDJDVGlTSXIwY1dlYnJidnlaTDJ4NEpSVFk1Sy13WEp6d3Y1RTRaQTQ5ZDhsQk50OXZYWjlRZmdPdGRRdVVhUkRRQQ?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 14:46:32 GMT",
+      "source": "조선일보"
     },
     {
-      "title": "金총리 \"과한 언어로 대통령 비판, 자칫 난으로 연결될 수도 \" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JX1B5a2JRR2h4OHRCTjZfV3dVRzllRkozNTlZb05QTFI1MXJTR0VtQUtMYlVpQUx5bS1lM2dqSEkzdTlZamJsWmxYbC15dXcxbWdMNHJhWmNxQTjSAWBBVV95cUxNTHcxdGRLV0dTU1k0ZVptVDZaZU5HZkcxSjJ0bDJSLUxFallka3hpMnU4Yk1pUXFOUHNvOTRLX0lHbjJ0Wmh1QkpLdkNISHZCWXlubHQtaktydmVBUlloYUg?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 09:41:16 GMT",
-      "source": "연합뉴스"
+      "title": "첫 지진 39초 뒤 3배 강한 충격파 덮쳐…액체처럼 지반 흔들려 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xNTVxVFJlaHdkNk1VdTczcFdpd3lCZWZxVXRYQ3hTbVR5bnhJZ1JHM3IyNXY3dnJNd3BJcms4Q2dNb0ZqT1d1NEQzdWtyV3pZeHlMckhlc21HTWRXaTZkclJRYjhUbkNhRlFpczRxdw?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 08:05:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "한성숙, 임대·매매 싸게 줬더니…국힘 “우회 증여냐” 비판 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hRzl1cl9CMGhrM1hZMHBFWVYzSm9MdEZDM0paZEoySGZueUljYml1c0dNdXVFTDNjaXFTNnNWaGR3YmRzTnJwUmJGbGpuZXl5R2YweTV1elNJOWUzNVJ4RVVROXg4M1ZiTGh4SnJ4d0Ezb00t?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 06:58:00 GMT",
+      "source": "한겨레"
     },
     {
       "title": "민주, ‘보완수사권 폐지’ 8월 전당대회 전 처리 가닥 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54UEtCTjM1b3NaZTdrcUdRTzBfSEVNdk1tSmluNnBLbEN4eEN5SFhjSjhjS0ZfSzF2TkN0dmV0ZnBBZUtJVmN4UnlienA0aDMtZWtnWnVLSVJiay04RV9fckJxa214QUdPdTBkaG5QQnpvZk9T?oc=5",
       "pubDate": "Fri, 26 Jun 2026 10:05:00 GMT",
       "source": "한겨레"
-    },
-    {
-      "title": "\"환경 위해 참아\" 에어컨 거부하고 버텼는데…'초유의 상황' - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xSFZST1Y5UVB6dXRaeWZpZVdUcHRPWkVwSm5pQUNaQWNEYVQxVjVJOUJ6d3FyVElGb3BtbExXZTd4WjNEeDI5ZkNWWjJmbWY3aWhmV3ZuaVJVd9IBVEFVX3lxTE55T2xaRlNIYXNHejc2Z29ISEZmejJ1eUVpMkdWSmNoVWxlRHJybFpOSTQ2R1JQR0E5MFJ6OHRRcHBXXzR4Z0tqcHBVTk5nOEticGNwcg?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 10:00:02 GMT",
-      "source": "한국경제"
     }
   ],
-  "updated": "2026-06-26T15:09:21Z"
+  "updated": "2026-06-26T17:12:38Z"
 }
