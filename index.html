@@ -51,15 +51,18 @@
       background: none;
       border: none;
       cursor: pointer;
-      padding: 6px;
+      padding: 10px;
       border-radius: 50%;
       display: flex;
       align-items: center;
       justify-content: center;
       transition: background 0.15s;
+      min-width: 44px;
+      min-height: 44px;
     }
     .refresh-btn:hover { background: #f0f0f0; }
-    .refresh-btn svg { width: 20px; height: 20px; color: #444; }
+    .refresh-btn:active { background: #e8e8e8; }
+    .refresh-btn svg { width: 22px; height: 22px; color: #444; }
     .refresh-btn.spinning svg { animation: spin 0.8s linear infinite; }
     @keyframes spin { to { transform: rotate(360deg); } }
 
@@ -373,10 +376,13 @@ async function refreshAll() {
       }))).then(items => { el.innerHTML = renderItems(items); }).catch(() => {});
     }));
 
-    const updated = data.updated ? new Date(data.updated) : new Date();
+    const now = new Date();
+    const nh = String(now.getHours()).padStart(2,'0');
+    const nm = String(now.getMinutes()).padStart(2,'0');
+    const updated = data.updated ? new Date(data.updated) : now;
     const h = String(updated.getHours()).padStart(2,'0');
     const m = String(updated.getMinutes()).padStart(2,'0');
-    document.getElementById('lastUpdated').textContent = `${h}:${m} 업데이트`;
+    document.getElementById('lastUpdated').textContent = `수집 ${h}:${m} · 확인 ${nh}:${nm}`;
 
   } catch (_) {
     document.getElementById('lastUpdated').textContent = '로드 실패';
