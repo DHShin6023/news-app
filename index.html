@@ -290,7 +290,10 @@ async function translateToKo(text) {
   if (cache[text]) return cache[text];
   try {
     const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ko&dt=t&q=${encodeURIComponent(text)}`;
-    const d = await (await fetch(url)).json();
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 3000);
+    const d = await (await fetch(url, { signal: controller.signal })).json();
+    clearTimeout(timer);
     const result = (d[0] || []).map(x => x[0]).join('') || text;
     cache[text] = result; saveCache(cache);
     return result;
@@ -362,10 +365,12 @@ async function refreshAll() {
         el.innerHTML = `<div class="error-msg"><span>📭</span>뉴스를 불러올 수 없습니다</div>`;
         return;
       }
-      const items = await Promise.all(raw.map(async item => ({
+      // 번역 전 즉시 렌더 (빈 화면 방지)
+      el.innerHTML = renderItems(raw);
+      // 백그라운드 번역 후 갱신
+      Promise.all(raw.map(async item => ({
         ...item, titleKo: await translateToKo(item.title)
-      })));
-      el.innerHTML = renderItems(items);
+      }))).then(items => { el.innerHTML = renderItems(items); }).catch(() => {});
     }));
 
     const updated = data.updated ? new Date(data.updated) : new Date();
