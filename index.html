@@ -313,12 +313,14 @@ function timeAgo(dateStr) {
   return `${Math.floor(diff / 86400)}일 전`;
 }
 function escHtml(s) {
-  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
 }
 
 /* ── Render ── */
-function renderSkeleton() {
-  return Array(3).fill('').map(() => `
+const CAT_MAX = { 'cat-etc': 5 };
+function renderSkeleton(id) {
+  const count = CAT_MAX[id] || 3;
+  return Array(count).fill('').map(() => `
     <div class="skeleton-item">
       <div class="skel skel-title-1"></div>
       <div class="skel skel-title-2"></div>
@@ -345,13 +347,15 @@ function renderItems(items) {
 
 /* ── 데이터 로드 & 렌더 ── */
 CAT_IDS.forEach(id => {
-  document.getElementById(id).innerHTML = renderSkeleton();
+  document.getElementById(id).innerHTML = renderSkeleton(id);
 });
 
 let _refreshing = false;
+let _gen = 0;
 async function refreshAll() {
   if (_refreshing) return;
   _refreshing = true;
+  const gen = ++_gen;
   const btn = document.getElementById('refreshBtn');
   btn.classList.add('spinning');
   document.getElementById('lastUpdated').textContent = '업데이트 중...';
@@ -370,10 +374,10 @@ async function refreshAll() {
       }
       // 번역 전 즉시 렌더 (빈 화면 방지)
       el.innerHTML = renderItems(raw);
-      // 백그라운드 번역 후 갱신
+      // 백그라운드 번역 후 갱신 (이전 새로고침 결과가 덮어쓰지 않도록 gen 체크)
       Promise.all(raw.map(async item => ({
         ...item, titleKo: await translateToKo(item.title)
-      }))).then(items => { el.innerHTML = renderItems(items); }).catch(() => {});
+      }))).then(items => { if (_gen === gen) el.innerHTML = renderItems(items); }).catch(() => {});
     }));
 
     const now = new Date();
