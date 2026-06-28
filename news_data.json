@@ -1,6 +1,12 @@
 {
   "cat-us": [
     {
+      "title": "메모리 왜 월가 갈까…떠오르는 TSMC ‘꿀맛 기억’ - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5famFnQl8yak1PbXIwX1g3X2hPRjVpWlFlbG5sb19rNFFrUGt1RDgwQ2RKTXgwQ3FhY1VaS1B6eU5QMVJVMVNidkFrMlh0aS1hUzN5UDRR?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 15:02:00 GMT",
+      "source": "중앙일보"
+    },
+    {
       "title": "뉴욕증시, 마이크론 웃고 애플 울었다…혼조 속 나스닥 0.5%↓ - 진일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMi02VUhFWTdVbDdXNW55Rkx4dHdDajVBM0tRcnN6dTFtb2dSZ0FxbkxGMVpqZndYY2Y0Q0JwcndoYnZLQTBUWDdKWVFfVGlYOE5GRS1ScG9VQjk5ZkdzeUw5cG02bGNXcHU2cmdmUQ?oc=5",
       "pubDate": "Sun, 28 Jun 2026 09:08:22 GMT",
@@ -11,15 +17,15 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ObFRjdVhxUEh0dlg4NHVhMFQwSFQ5NmJIckdEUUlpYVhQeU5iSVNFWnpfTW1nU2lmY3NRejZLUmJpZW9BU1F3bVEwMlpQWlJSNVFv?oc=5",
       "pubDate": "Sun, 28 Jun 2026 08:22:00 GMT",
       "source": "네이트"
-    },
-    {
-      "title": "뉴욕·상하이 증시, 美 6월 비농업 고용지표 관심 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wb3pGdHkzRHRIVWF6VWVCRkgtUVdMWWExUjFxaGdiRmh2VmtqTXIxMWpzZVZTTjg5NnA0b3ZRNlBmR0dJWFJXaTBPVG1ZYVZVUW5ybGd1WVpRd9IBVEFVX3lxTFB1OWxRcWU2RTI4dWRfdFEtdk1QLUFHVlZfd0V2QUFuWTRsYTB1YmM0TFRpWWxtRUtmWlNFYldFRVh3aFF4LU5GZ0VfbWc2UllSLTdoUw?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 08:18:28 GMT",
-      "source": "한국경제"
     }
   ],
   "cat-kr": [
+    {
+      "title": "코스피 95% 오를 때 10% 하락… 코스닥의 눈물 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZHJtR0dHVTNyNXF5QzJ0NEFDT2Z0WGY5MVBvRmdCT3BzZ3NVbHlSamljSU4yZmdTNjZlVUJNTW9ib1pNQU02eG9fbGxvRXRkdUxvTzVSZmFuQVpJRUsyQ2NodjNiajg1VkpQMkl5WW9VaHUtVlJoRU5jbFc0Q2lMZ0M3cjUtTnJhbXZv?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 15:31:00 GMT",
+      "source": "조선일보"
+    },
     {
       "title": "\"반도체 사이클 2028년까지 간다…우주·방산은 조정 대비를\" - 한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YRTNObTVibUNKMFYtTDZxNXB0Q0M0YVJwUi1xeW9QekZuVmxmSnhqQVJmTEhQaDdXNEtjOTdwMXN1QU1fR2RoX1c3TU9mQ25GRG1qQWRlVWxqZ9IBVEFVX3lxTE1aRUpWN0lTQUpTRTBzdHFRRXRmSi1yZVlWVDRkVndVdUx0UW9LTURyOGZQWnVQb1BDTFpnTWR1aXVqLVRNUnNFTzQ2dkNfSE5TaVhxOQ?oc=5",
@@ -31,32 +37,26 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KTnloNzVxQTVzNFRDemtLUVQ4ZGRxS21DWDJXV2lCTnFPclBZVmV3c0xwdmlZZkpqSEZIeWVfRGVGczZNMHBGd2o5bWhxS0VsNU4w?oc=5",
       "pubDate": "Sun, 28 Jun 2026 09:06:00 GMT",
       "source": "네이트"
-    },
-    {
-      "title": "[주간 증시 전망] 과열 식힌 코스피…반도체 실적 기대 속 美 고용 '촉각' - 뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBudW9IVkdiOHNFZ1JUc0hhZ2c2NTFKOWI1dHdUMFFLTjhDWFhwU1dJQXRmMklwb3V1XzlTalRiLThSSmZQN21OUFl0UDV0eGgxaGRidmNMejhkVnB1MVVxUG9teUpoZmotemUzbHZORjlLcVXSAXNBVV95cUxQbnVvSFZHYjhzRWdSVHNIYWdnNjUxSjliNXR3VDBRS044Q1hYcFNXSUF0ZjJJcG91dV85U2pUYi04UkpmUDdtTlBZdFA1dHhoMWhkYnZjTHo4ZFZwdTFVcVBvbXlKaGZqLXplM2x2TkY5S3FV?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 09:01:54 GMT",
-      "source": "뉴스웍스"
     }
   ],
   "cat-coin": [
+    {
+      "title": "[자정 시세브리핑] 암호화폐 시장 하락세… 비트코인 59,948달러, 이더리움 1,580달러 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZNmJqN2M1c1RSNnp0enM2cXAtQlNta0tpRGU1bEZfMlhhNDQwazJGLWxuTXc0UU85bnQydUlIVHBEZ0hxRU9OTWNzdzRlbEtMd3FUOU1vLWjSAV5BVV95cUxQVktDSFRHcGdsQ0h4ci1qeVJreUdWbWhwSnYzSXZXVFhkaWJNR2ZOT0J0Q3RpM0NWbUdBQTVyWkxGWGhHeXJvZjA2RmhBbTdWcWdDMDBjMG40U3V5aEln?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 15:02:49 GMT",
+      "source": "tokenpost.kr"
+    },
+    {
+      "title": "비트코인, 10년 간 없었던 ‘2분기 연속 하락세’ - 애플경제",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQUcwckZQcFNxVkcyRm1PaElQbjBIVzlsTURJMkNGdk1FelpGWG01WmQ1RVZBVVFGckRCVjFLQ1Z0c0pJWVVaUDZXMllncGx6UVZQRzJiTHpaa0RPRnZXbS1OT0JNUVN3WkttY2N2SQ?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 14:39:52 GMT",
+      "source": "애플경제"
+    },
     {
       "title": "[토큰분석] 탈중앙 금융은 정말 '탈중앙'인가 — 이더리움 블록 만드는 곳, 상위 3곳이 93%를 가져갔다 - tokenpost.kr",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UTWo4MDZ3UXFSc3VNSjh6a0p5dmZqRUt0VF9rRG1KbUM0UXRpVnRZZ1I3SHk3ank1dGx5S2RnYkdVU0RNVW5qNlE1N0JkbWpCY2NuaG8wYzDSAV5BVV95cUxNek83am9LWjJWZWN4T1F1U3ZUQk9Gc0JLVm43c3BQcTJza0VYT0M3Z1o4UFlyUDBUdzlnaXp0alNWYjBIbi05NjJzSlRnSFpRODg2Nks4ak56MDB0bWdR?oc=5",
       "pubDate": "Sun, 28 Jun 2026 11:46:59 GMT",
       "source": "tokenpost.kr"
-    },
-    {
-      "title": "[토큰분석] 비트코인도, 달러도 결국 '믿음이 떠받치는 거품'이다 — 그런데 왜 스테이블코인이 더 위험한가 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hOUZ3VkpTNmp2QkJ1U1o5YTF3X3JPYUhYMm5pTnBHME5aeHd5bmlHbFU0VkZydFdQYXNUc0FteVVFcU15LWo4R1lOU3FHVnBvSFY0YnVNa1RvLUx5Q0HSAV5BVV95cUxPYTlGd1ZKUzZqdkJCdVNaOWExd19yT2FIWDJuaU5wRzBOWnh3eW5pR2xVNFZGcnRXUGFzVHNBbXlVRXFNeS1qOEdZTlNxR1Zwb0hWNGJ1TWtUby1MeUNB?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 11:39:36 GMT",
-      "source": "tokenpost.kr"
-    },
-    {
-      "title": "비트코인 6만 달러 이상 유지…ETF 유출, 연준 전망이 심리 압박 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrX3Q5c1BkSlNaRmlBVzhYbFkxZUprOFpHaHU4OUtoelZDTkZfbWhZazJDSUJITEVlVGNQQWNvSkpPcmZzSTA2ZTZfV3dqNW56NTE4Qkk5RTMtd3E3c0FKQXc5azF4bW9fYXJiZ3dRYVVNdlk?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 08:39:00 GMT",
-      "source": "Investing.com 한국어"
     }
   ],
   "cat-land": [
@@ -81,21 +81,21 @@
   ],
   "cat-etc": [
     {
-      "title": "김건희, 도이치 이어 명품백도 유죄…특검 ‘봐주기 수사’ 힘 받을 듯 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zRlRYREY1cm43RzY2R18zeC1kZUIyZkdnRHNNY2NmcVBwMUFlcVVsb1ZnQWJyTkhCaExDUzJTMHZfN09oZ3htNXRQMXVaaEJzZWRRV3Z1aTI0YWFfZFpMelZPMmxfQlRVVENOTm5YaVN2dw?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 13:10:00 GMT",
-      "source": "한겨레"
-    },
-    {
-      "title": "[단독] ‘3대 메가’에 2천조 투입…정부·삼전닉스, 초비용 진입장벽 세운다 - 한겨레",
+      "title": "[단독] 정부·삼전닉스, ‘3대 메가’에 2천조 투입한다 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NdzZHcnV1QmVfVkx3TlhpeWE1VzdRZE1iRmZ4N3NLVlgtYUw1MzNMdHNUVEFCeTJMWmVEbGllRkx3Tm9ieXNHOGc3TS05dUZVVjRXRV96RVczWUZiODRKc0Y1VUEwMlhoaDhxSjZZYmNSQQ?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 13:09:00 GMT",
+      "pubDate": "Sun, 28 Jun 2026 14:45:00 GMT",
       "source": "한겨레"
     },
     {
       "title": "이 대통령 겨눈 유시민 ‘재건축론’…전대 앞둔 민주당 노선 갈등 격화 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMGZGOWctcm5vRG1taTdKUTJobW9BVlBERXVOQTNTS2FqM0I2Ti1uS3dQTGhTdm04b3A4eHZKVXhVRVQ0bmRWNjI0UDlMYWI4M1lHMVVXcVY4X0YxTFpFMHVnU0NQM1pseHNmTWoxSTktZ3Zs?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 12:58:00 GMT",
+      "pubDate": "Sun, 28 Jun 2026 13:11:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "‘호르무즈 뇌관’ 미-이란 MOU…종전 합의 8일 만에 결국 폭발 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbWd1S0wyNW9uZDhkdE9DOVRkLThDRjVhd2NYQ3ZqblpTZjF0WnJfWUloUTZpTXdYb0VlQ0pfVTF6SGRhelNwVUt3X29iS3lGR3FNakJ5S2VuMlVreFZOWDN4YnBMS0wwelk5YnZBZUU4ZlU?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 12:54:00 GMT",
       "source": "한겨레"
     },
     {
@@ -105,11 +105,11 @@
       "source": "한겨레"
     },
     {
-      "title": "\"실적 비슷한데 몸값은 왜\"…삼전·하닉 저평가 받는 이유 [분석+] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GQ0s1Wm9FY2Q1MEFXanhEeVpETFIwNnZmbzhvcVdTaDg0YUZub1c3aU5qbmlwb04zVGdodTVyOXVYNVZmOXl2UVBSY09zQVV6V2tIUkVySmxOZ9IBVEFVX3lxTE1uMjlSS3lCVXRDQ3JHZTM3b0NfLTY3d1YxXzVXbVZFR1BXcnQ4c0VaNGR3MVpjQTJfd2dWN1JXZTAySnZMak9QQi1NbjhVYUhIX3poZA?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 11:50:01 GMT",
-      "source": "한국경제"
+      "title": "해미천에 빠져 치료받던 여중생, 끝내 숨져…사망자 2명 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0UklvbDlnZGszeGJNQ2N1WmFGQUJzQXd4Wk9LWDF2RThYb0prXzRUVVRKOVJ1UkdHeVNHQUY3bThqd3RqNkFROG5iVFp5ampn?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 12:13:59 GMT",
+      "source": "문화일보"
     }
   ],
-  "updated": "2026-06-28T14:30:15Z"
+  "updated": "2026-06-28T16:01:50Z"
 }
