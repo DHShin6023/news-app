@@ -1,6 +1,12 @@
 {
   "cat-us": [
     {
+      "title": "일제히 뛴 뉴욕 증시 3대 지수…다우 평균 사상 최고치 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZl9PUjRRMEFPTGFYdmtFc2dlRHkyUHRvaS1UbFNKb0hocmNaWXhGUEQ1eE03ZmNGZy1RNUtzaGM2QXVTbndLVnRHZVpCbnRLWmpFMkJyU2U3T2tyZV9jbG1sLW45ZUVpaWw5SVZlOVMwc0t3YlFURXVCeTVEclJyZnZoeTVjSks0c0g1MWx3NmhOZ01IMDhqSnF2RTFPdw?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 20:05:00 GMT",
+      "source": "조선일보"
+    },
+    {
       "title": "[속보]미국 증시, 대형 기술주 강세에 상승세…나스닥 1% 가까이 올라 - CBC뉴스",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nMWRiVV9zWkNRYzZscS1oOFR5bHpzM2RQaHQ1aEpYZlVib2ZqUlZreFhYOURQLWJXSWNvS05TSDJ1UlZxR1dYQlVRTkRxT3hzMjVEZmV0U0hGaFpndDVMbXdnMVVSRUJ4?oc=5",
       "pubDate": "Mon, 29 Jun 2026 16:15:00 GMT",
@@ -11,12 +17,6 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9md05lZzdfbUJNUWhIY3R6Qmljd2FFcURJNjI4MGpNcVhudHJWRzZhUU1ENEJHMjVPcmlHVFJnOFEwRkFtdUNnbm4xRlNkUE0ybEhj?oc=5",
       "pubDate": "Mon, 29 Jun 2026 15:13:00 GMT",
       "source": "네이트"
-    },
-    {
-      "title": "미국 뉴욕증시, 다우 나스닥 상승세...중동 긴장 완화 기대감 - gukjenews.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4V1BRQUV0M1Bwa3dmYkNYNVhvbmN6ZEhadTM2Z204eXhUUXR5U2RKbkhjTUFJOUJhLV9lTmxROUQ4TlY3Tnl2eDFsTGhJRlZXSGs3Y1o1UlczU3Z4TmNsR2pHWTNocVgxcG5yclp3?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 14:57:22 GMT",
-      "source": "gukjenews.com"
     }
   ],
   "cat-kr": [
@@ -41,25 +41,31 @@
   ],
   "cat-coin": [
     {
+      "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 3억 2671만 달러 청산 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrQjE4V1A4bzlQZFlJaC14a0ItQThJM2p2bkhkZDh1UjA4R2k0WDZmNXpmVVdxZWVtX0VLZk43eDhlVHJCQWo5RGlOYkRLT3A5ajNnTlA2SDJnc0d1N24yNNIBZkFVX3lxTE9vcm1XYkF2el85azdmb2s1My1kcFJwa25iNFpacnRKQmNLUlhHNkwzTmdIUnFPYzhMemppZUpaV0dRYU01X1R5THVhTm1yQ3VVWFR6d3JSbFRjUjhjb1BNV1MwYnZlUQ?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 20:01:54 GMT",
+      "source": "tokenpost.kr"
+    },
+    {
+      "title": "[모닝 시세브리핑] 암호화폐 시장 상승세… 비트코인 60,369달러, 이더리움 1,623달러 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBweGxwQlQtcXUxMHZpOW1rQUdEaGMyLUxoWGtfNmZpMVJIcm9oaUxiZUZRR1N3REJxN0xWSkMxWGgtSThLZWVfaHNjUGFwTXY2LUttaHAwT0bSAV5BVV95cUxPeDNRWVZNbm5kVndMVXJwTVZ2WGN4T2RhLXZUbjItcEJabmV6bzVQLWthbkNlaFlYUHFray1hdFUtRERqeHZXWHFXUTlLSWVCSkdveXk4YTJaaEdzUGtR?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 20:01:23 GMT",
+      "source": "tokenpost.kr"
+    },
+    {
       "title": "[자정 시세브리핑] 암호화폐 시장 혼조세… 비트코인 59,312달러, 이더리움 1,569달러 - tokenpost.kr",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Dd2NrQUZvcm1iZTlGdXRqWmZ2T3Jyb2tnMTd2djNVbG1LWUxEN1FZbks4LTRMdk5nY09rN0VTRGNoNWw3U0RpWEx1aFl1QVM5ck5qOVdJNVbSAV5BVV95cUxNb0x4a3J1RlBhTkhhWEN5UTgxVE9yOTJPMERpYXhBcFprM1hzXy1uZjNZNE5UQzlJY1A3eWJiaUl2dVVhY1hsZzJhaUhfZk96UmwxUzFMdzRsOUJSM2tB?oc=5",
       "pubDate": "Mon, 29 Jun 2026 15:03:08 GMT",
       "source": "tokenpost.kr"
-    },
-    {
-      "title": "가상자산 투심 다시 악화…'공포' 62% 달해 - 더스탁(The Stock)",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vN2tCOVBhUUhJdGVNZzdETVU2MkRYRU8zcVJlWGUtN0R0S2FKSm5Mbkh2YmR4ZUZveVNfLUZyRDBvbWdhQ3BWMEZlWlpia2JpUUxHTmRVdjVwMnZBdy01LTVMM2xfYm5meFE?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 13:26:34 GMT",
-      "source": "더스탁(The Stock)"
-    },
-    {
-      "title": "비트마인 이머전 테크놀로지스, 이더리움 570만 개 확보…총 자산 98억 달러 돌파 - 데이터투자",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rSmpSMGtJdjhxdWVfYnZ5YUJmczdCLTRyWG9MNDhyWmt2Zmx1M1hCRnRsS2R2Nk8tY0g4QmV3bjFmZ21kb3Z6M1dYbG5Wb1pFbnRieUVHXzlCWXBKZXBYZ3Vlc1ZDZklLMmxrSWxVUEhHSTQ?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 12:48:12 GMT",
-      "source": "데이터투자"
     }
   ],
   "cat-land": [
+    {
+      "title": "“서울 집값 72주 내내 올랐다” ... 매매·전세·월세 ‘트리플 강세’ - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JYllkd2tGd2dTbWRPSURpRWxlV2lwSk9PbXJpXy1iQmhtZTlxZ2d5WDRQNUdydFh2NDlBWHR3YW9Cdzd3MUlHN3VRYS1KMjEzVm9kaFQxS1o?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 20:00:00 GMT",
+      "source": "매일경제"
+    },
     {
       "title": "보유세의 화살, 세입자에게 꽂힌다 [아침을 열며] - 한국일보",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93dlBuVlN3T2dPdUgtd1otTUxfRTMtQUxXVy15MC0wTVdOdzZzZkprVE9EcUtsS2pYRFZxVjIyLW1ZQ1YyNkxJWEdwbjBac3paSTNqRVRNV0Nqci02UXo5YjdHNnhpcGJ5REUtb0VR0gFzQVVfeXFMUHNMcnRYWlNvUV9DVHJ4a2dtX3FROXNJRjNxOGhFcmo5a2hsTUpKZ2RpeG5hV3FONVV1aFB5N2Z5V1VyUGF3QS1GQ3E0NjdiMzRJZVpNYzhuU3FReHZPdGlkdkRrdmZpLWFSczhwV0U1WllVNA?oc=5",
@@ -71,26 +77,26 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40bHNOYkc0TTNlcEphWEZGeW5xMkoyd1lxSXJOVklYLWYxTUJFT3hRelQ1T0htanpaMS10SUd5bHdncHJPQ2ltLXJSU1NOZnJZNlNpQVJGcHppWFZPOVlJVG5yOXp0bWdfTTNRV3loY3E?oc=5",
       "pubDate": "Mon, 29 Jun 2026 09:13:59 GMT",
       "source": "B world"
-    },
-    {
-      "title": "전북 아파트값 6월 계속 상승세…전주가 매매·전세 견인 - 전민일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yanFYM2lXa3B3ZWoydU42alVLQ2dESWR5ZHRrMWt6WklkWnp0MFRNY2dRV3p6aTVQQWl6WlhCNnpmTjQwa0Nxdk1kaTFubTljQXhTS0lmMlh1YzctaXhpZXdVdERaNER1WnYzXw?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 09:00:00 GMT",
-      "source": "전민일보"
     }
   ],
   "cat-etc": [
+    {
+      "title": "정청래 ‘노무현 키즈’ 내세우자, 친명 “盧와 완전히 등져” 반격 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Sd0x0M3VHdlhQN1Q1eXVtTGhsSlVuM0kzdDNZREhHZmR0VGVaRzZPZUtEdmluVEtOYjVrTHZRZ1plVF8tVndKaXhVcjAzYjRRck95aGdOWEpMZ2VrNElhQldsd2lCVHVCLWxjel9rUDN4Q0lDdnk40gFmQVVfeXFMT2I4M01RZzFMZVVqSDl0OXRCUjFiNTZScVY0bXdSMUF3UnlaWUltX2l4QktnV2phUVhYRkh0eDh2cDNhT2NQbVNQTC1BRnNlbUZWZExBNXNGWTNsbjZUM096bTBReUl3?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 19:30:00 GMT",
+      "source": "동아일보"
+    },
+    {
+      "title": "이란 “호르무즈 지정 항로 외 통과 반대…차단할 것” - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlSE5OMFVuMmFvZVB1RmFIR3o2d2g2dzAwZlpjSENzMS15NXVEUVhzYS1UdllpLTRlUFlFRW1NYUQ4NnBfcVU1R0ZnUklNcE5UZnJQNV92aEJ4bjQ?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 19:10:00 GMT",
+      "source": "KBS 뉴스"
+    },
     {
       "title": "프랑스 폭염 사망자 급증에…\"파리 도심 장례식장 꽉 찼다\" - 연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IVUQ5WXhsM1lNR3NCdjJiT1c4UUpRdERQLVBuTGV2ampaVHYtNEVYVlc0dWg2MTljZkR3OU1XdG5aX2s4QzV6cGJBQkhBU2tZVGJlQnIzRzJnWm9pN0UxbkxfcWFCSGc?oc=5",
       "pubDate": "Mon, 29 Jun 2026 16:40:07 GMT",
       "source": "연합뉴스TV"
-    },
-    {
-      "title": "베이징 경비행기 충돌 후폭풍...중국 전역 ‘비필수 항공활동’ 중단 - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IeWY2bkhna0tSbHRsdFlTbzkzSE9TMlVBOVFSSXNtOGh1SGx2bDhRTDFzYnMwNmFPaWZMellnQ0p2TjBSd0UySVc4bnMyWW40a29ObkluRzg5QW8?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 16:36:00 GMT",
-      "source": "KBS 뉴스"
     },
     {
       "title": "트럼프 대통령 “미·이란 협상, 30일 도하서 재개” - VOA 한국어 홈페이지",
@@ -101,15 +107,9 @@
     {
       "title": "바이오하자드 RE: 베로니카, 마침내 클레어 레드필드가 진정한 무대에 서다 - IGN Korea",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaGVaOFh0cC1aQTBVWnZ5Vm1SUHZPekV0MFJmak4xM0pSd2p4QmtMS1hkX0xSMEVqVnRKUkRBVWJKV3U5VXNQTklSRkpVUXhsNTVmYmFZV092UzYyS2FzYVNsR3lsLWpCRFJZWmZLdGdyWUl0RUE2bkxjMGdUaHM2VU9Ecy11bHItNXNTMDk2ZjVhSjZ0ZXp4al9KM2JHWkx3dVd6NXlKdXhsUlZDRkVNcDNUV3dDckdFRW9UVzBwWndpR3ZlRWg4?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 15:12:00 GMT",
+      "pubDate": "Mon, 29 Jun 2026 15:12:28 GMT",
       "source": "IGN Korea"
-    },
-    {
-      "title": "호남에 삼전·닉스 팹 2기씩 짓고, 용인 산단 완공도 앞당긴다 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83aUN0MU1BYjgzS3VPdEpxVlRROEwyZkZRWDBaRm5TTFozRG9xam5JMmNFWXAwUkZIelNiN05qRHpVLW9VQVQycGxqQUN5a1NyRnNVVzJ4eV9PdnB4eDVQcGtkNTZyQURSOGc?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 14:04:00 GMT",
-      "source": "한겨레"
     }
   ],
-  "updated": "2026-06-29T18:27:54Z"
+  "updated": "2026-06-29T20:22:04Z"
 }
