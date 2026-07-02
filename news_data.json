@@ -1,22 +1,22 @@
 {
   "cat-us": [
     {
-      "title": "뉴욕증시, 혼조세로 마감…나스닥 0.80%↓ - 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnX3VvcG9zWHlFME10U1BOc2ZSZnJhZXJvaWg3b3VsNlByeWFpMk51bkQxd0hiVG5xUXNyYmJ3LWxXTkYxaXhSQ3dYWmozM1JR?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 20:10:31 GMT",
-      "source": "블루밍비트"
+      "title": "뉴욕증시, 반도체 추락속 혼조…다우 최고치·나스닥 1%↓ - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xOWwxRTJ4ZWswbXE3a3FhM3VvSW9PcVVEd21RTV9ZRDBSWXgycDNRemJ0R3ZxQ0RHNHI1RmNaeUVTMkprT2NuRlJWbG01aWFtT2VF?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 20:53:00 GMT",
+      "source": "네이트"
     },
     {
-      "title": "뉴욕증시, 혼조세로 전환…나스닥 0.88%↓ - 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sOEE1OGZpVjlYSXlQZUtUN0ttcVFlM2ZNSHp5azFqeVdxalU5bDhpbmtzVnEtaEhoQzJCekQ5WkVEX2NlYkJvanI2ZXRZN3RC?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 16:08:56 GMT",
-      "source": "블루밍비트"
+      "title": "[뉴욕증시]반도체 약세에 나스닥 하락…다우 최고치 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nSGYtVklPVDNLZlpKX3h5cmJrZmdDd0IxRERYMWlYT01XNmtERUtaLUgtV3g0MURkLURsNnowdEtYUjhTWXpXQXB6OERQY1VGUDdz?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 20:44:00 GMT",
+      "source": "네이트"
     },
     {
-      "title": "미국 뉴욕증시, 6월 고용보고서 발표...다우 나스닥 혼조 - gukjenews.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfbm1IUGNyWmljSmRpemlLMFNwZ09DUVVJUXI3bDFCTzh1NGQ4VXZSaW9ROExPTF8yVThDVFY0SExpLU5HVUFjSTBCMmFJMnU1RmRUSldFbnVyVWtKYnoxZU9ES25mLXlZb1dPTE1n?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 15:01:00 GMT",
-      "source": "gukjenews.com"
+      "title": "뉴욕증시, 반도체 약세 속 혼조 마감…다우는 최고치 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kVG9jZ0JqWDN2bUU2YXJnMmpJYXM1dFlNNGU0eElPMHhjU24zNG8xSUFaVnlxbGNJRlR4SVloWjZ5WjV3d2ZRZDNET05SQWRWbFg5OE9pRG1STFMy?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 20:39:00 GMT",
+      "source": "뉴스핌"
     }
   ],
   "cat-kr": [
@@ -39,58 +39,77 @@
       "source": "서울일보"
     }
   ],
-  "cat-coin": [],
+  "cat-coin": [
+    {
+      "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 4억 68만 달러 청산 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LQ3VLLTFiVjBmbmkyaldSVU9lQUk4RmtJcEk4Z3ZKcWRwWTh5LV9XT09IVEJ0YkEyUTNBdHNHbS1CNDhZVkRqMklMQ2ZHdjBTVVc5Y1VrUjhKLUVCWXFjTmVJTlBLUdIBZkFVX3lxTE5LQ3VLLTFiVjBmbmkyaldSVU9lQUk4RmtJcEk4Z3ZKcWRwWTh5LV9XT09IVEJ0YkEyUTNBdHNHbS1CNDhZVkRqMklMQ2ZHdjBTVVc5Y1VrUjhKLUVCWXFjTmVJTlBLUQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 20:02:14 GMT",
+      "source": "tokenpost.kr"
+    },
+    {
+      "title": "[모닝 시세브리핑] 암호화폐 시장 상승세… 비트코인 61,440달러, 이더리움 1,701달러 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ySS05eXVwZEh0WU5oaXdoTXh2R0hwdzdGTG9rSnR3Tk95alpsWHZ5YlpmNFpnR1lCTlhhRmpzdkUzMVVzemhKdkItSlgyY0IwSjZTYW1fRGTSAV5BVV95cUxNWTRMVWlRS2pGUFFtOTFQWWNXZlZScFBkNW44Y095UElCR01Ed3owOVRzVV82ajZvb2Y0SXpHVExHNV9GNG1VUW9XM2tmcGl3ZDVDNTBGTG9vRkFEX0dn?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 20:01:33 GMT",
+      "source": "tokenpost.kr"
+    },
+    {
+      "title": "[모닝 뉴스브리핑] 미국 상원, 비트코인 클래리티법 최종 문안 공개 예정 外 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41M1NNa01MSHNYb2FnVXRYU2dvRnpyM0Y5NHM5ZlZwUkd3NnJjdS1MOWNMSzRDZFZDc2JCNXdSbTU5MGR0M2FEYWVmVXF1ZnNCdmktSm9Rb1fSAV5BVV95cUxPQmg1TzZxbklOWVowd3N0R3NkVzBoZlNIVjJLVWJpY3dwdDdmemZaWXY0Xzl4SkMzMkh5b0FhbWxlbFlOXzZrWkpiODBoY182al9RUlItWnd1MGJtcU5B?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:50:24 GMT",
+      "source": "tokenpost.kr"
+    }
+  ],
   "cat-land": [
     {
-      "title": "서울 부동산도 밀어붙였다.. 아파트값 '반전' > 뉴스 - 지데일리",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93NnV2cmZWMUhZRnAtc0dKMHY0emZjVC1GR2NlR1NGV0Y4MnFTZkFYc2I4eElIc3FmVGNaQk9EUTlMaDRDcDBLeFJzb2FtVFB3MXFsdlJVOHBwSzhzNTNvQTN6WWExYzVqZ09TTw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 12:29:00 GMT",
-      "source": "지데일리"
+      "title": "나만 벼락거지?…무주택자 '내 집 마련' 더 어려워졌다 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11LV9Kd1ZmZW9id3AxcU9SSlRuZzNQOW1UdXlfcnRyS3dsVGFvSGN0N29rZkhMTWp6UjdGbmVsQml4d1dUVWs5S3V0NTFIdnRkM0FzSkRUSTJCM0M2ckY5VtIBeEFVX3lxTE1KblRpdjRwSEFtREZmN2hCRHNybFVaY2pPb1N2bGMwdENvREJhMFNwSGNnaC1GMVBpREdOLU1XVmFuZkZLNkE0UkVYUlpLMlJCOEJ3RXpvaEVtWUJIMGpONmF4dzlLUkhmckZCUGNTZDlYcm1DZGxDaw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 21:00:00 GMT",
+      "source": "뉴시스"
     },
     {
-      "title": "울산 아파트 매매가 0.08% 올라 - 울산신문",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45eWlGTlA5eXc0anEwOGMtYkhUQWxzQjVYUkhibk9sb19IM1RJYzAxZTB6YnVpbnpVemRCSHpfdzNwOEltOHplOUNURjFiV091SVlPQUdWSjBreGxBcVlGQjJTNXg0WVJTM1J0cVRR0gFyQVVfeXFMUGF1MUZEdHhnMXVIclM0cUswV1RkSGZZTlpfVjF3Y1RWaHVBallaT0c0YlNZUHVtN0FtTXVsZlNqWG9OT3A5QmMxS1RTMHcwVG95TktJbTZRYVVmZnNDbjhVc0FXdnhYbVFkSlhHRWZTeFBB?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 11:05:00 GMT",
-      "source": "울산신문"
+      "title": "[부동산 稅전쟁]③ 정권 따라 오르내린 세금… 시장은 \"버티면 된다\" 학습했다 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaE1EdkJBVDcyR2JVNUdRTWk1a3FaaDZRbHdYRnRiSmxEUk9iN3hDQUs2WFBFQThDNUJyS0tEclV2OGxQREtIWXR0ZzRtN2tzQk5CcGFHSWtfbnY0bVEyUTVqeldLWWFlRE9DNzRZb1l1eTA3VThra29TUGxZbThNSjllV1N6V2VYN1VfSGg0XzJGSnh1R1kzeA?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 21:00:00 GMT",
+      "source": "Chosunbiz"
     },
     {
-      "title": "올해 서울 아파트 전세 상승률 5.10%…매매 상승률 육박 - 한국부동산뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vMHlzOVVSVnlkSTJTVDA4X3V0X0JXRXJzUTZEM25Ca2JYOVBKdEM0c0RBV3dvcEk4VjdMdnUyM0Z3RFdkN2Y4RWVSR2xBY19ad1p4MlhCVU9tLWZTOHJ5LWtpNWU3M1pWSVhz?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 08:21:34 GMT",
-      "source": "한국부동산뉴스"
+      "title": "서울 매수심리 '강북 쏠림'…강남과 격차 6년 만에 최대 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAweTY2YVo0RHNvMF9TdVZUN3JXRDhLNjQ4T1I3YTJPRzBiNE5zakFFcS1aMGVCNVVjbC14LXpMVDBfeWdZdnk2eXVOa3JlbURQLTVNMzlTWldlSHYtVjB5bNIBeEFVX3lxTFAwQk1BZVh1NlVtUUVJbFBJMl9xcnpBYnVuN2x2T1Q5LXBhbzdRamVnTWp6dzc1RjlCVEU2R2tVZ1FtbTV1NFhIbDd6TjA1VEo1MDFpenFONC1WTkl1TF96VzlkMXNBTlptbTl1ODl0dk9MRWF1Q0R3dg?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 21:00:00 GMT",
+      "source": "뉴시스"
     }
   ],
   "cat-etc": [
+    {
+      "title": "러, 키이우 대공습에 최소 27명 사망…“개전 이후 최악 공격” - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Vck0tM3dvSUxhTjFaOVJjOEo1MXV5bzd5WXpsVjV2MzFRMXRIamJlYTl0RjVzbXZCWUhiM05LYV9LZmsxbjRqU1ZqQTlqZ0hUd2hBbFdPZXhRRGs?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 21:17:00 GMT",
+      "source": "KBS 뉴스"
+    },
+    {
+      "title": "뉴욕증시, 반도체 추락속 혼조 마감…다우 최고치·나스닥 1%↓ - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRMHZRQUUzREE1ajdpU0U3bkVSbGUtbmNIVmd1Y3FnNDdFZzQwSXBzeFJWS3p4OG5oNldjVHpmc1J2a0w5azBaS3M5Yzl6TXBrWUVhajdMZUU5MWPSAWBBVV95cUxNV0Fib1NIRFpBSld4VzNXcUgxZEgzVkJDXzVMendKc2gtTG1qUzlvWTBFZzN1WlJ4Q2w5Q3B5WGZlamF3V2swa050ZkdUVW1rUnF3UmZ0N0FMdlVWNnYwSzM?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 20:10:28 GMT",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "‘세계 최대 원유국’ 베네수엘라, 휘발유 없어 지진 구조 차질 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VU2RQMURHUVdTUVVYX28wYmdJaHlGOUl1RmU4TWFQd3RRUUgwWTU5ZVlRbl9ZcHpOZlJ0Zk1tdmVDTFR5MDRjNXF1RS1OUkxEaW1uRW1kWGUxSmg2aFY1Y0E5Z0FKc3ZtYW9BN0ZONEhabVnSAWZBVV95cUxOQTk4X2sxLWhTRmoweG9HdDY0bnBpTndPNlBWZXFlQTdwWjlFWkZwTzktUFBUa1cwa0lySnVyajRuOFFmVnYxWjhCLVRxQUtnNVREdF9ueGJTcXZpMzI2MEtiOHI0OFE?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:30:00 GMT",
+      "source": "동아일보"
+    },
+    {
+      "title": "원·달러 1,540원...예상 밑돈 미국 고용 지표 여파 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42ZHB2Vmk1eTBFLTUxZnNtbGVmbnBJMUE0Q1d6M09ZZnhjajliZ3J5N21aWEtQcGpqb2xZSGJvc0RSYWNsYjZLWnR6anU1emFXV2hDM2NaYmNaOFEtSEE?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:05:00 GMT",
+      "source": "YTN"
+    },
     {
       "title": "‘쇼맨 트럼프 분노하실라’…독립기념일 연설 앞두고 흥행 비상 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10V19hTnhORXBnOFdEZ0JmYm1KSURpdUVqcDlvVDl3RWZ4OGhsVnN2MXo5ZEhKeFA4SzlJRXluckgyMXZkSTV6WHUyTGxpbkZBNkZvbVNPRWdfVHNKX3c4ajg2Y081SmJMY1JJNEt6Yw?oc=5",
       "pubDate": "Thu, 02 Jul 2026 13:10:00 GMT",
       "source": "한겨레"
-    },
-    {
-      "title": "부정선거론만 남은 ‘올림픽공원’…행정력 못 미치는 ‘극우 해방구’로 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdU1qeVFEd2ZOcHQ4NjZpVlZQeHNrRzdMb3cyRm1HejhYdE9fY0pKZm5OVEpsQzZuWlVnWWsyREk5Q3V1dTF2b3F2MWtFQXVIQzZFV1U0RzhRUdIBX0FVX3lxTE43UGNxZVZlWmhCRDBmSkxfd1pBblktMjZQS3R5T2tJa1c2SnNfWC1kSjB2REdkVi04RTlicy1LMC1ZbFF3cFhzSnlISVU5cWR5QVBpZE8yN0RGVGxYeDJn?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 12:35:00 GMT",
-      "source": "경향신문"
-    },
-    {
-      "title": "국힘 “국회 일정 전면 거부”…민주 주도 원 구성에 격렬 반발 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5eUxXN2lrOHZna1duVjFqckJCYVBKU1lndF9KQnBhUERpZ05vMWYyUC1HYWFKTHgtYVZRR0xkYVhsVmdLMkpVR01QQ3VzcGpHQ08yVlpKVUVzenRjSEs3MVU0ellxeGJLclh3VHZ0R25PZWFf?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 11:44:00 GMT",
-      "source": "한겨레"
-    },
-    {
-      "title": "지구 최대 우주 타임랩스, 10년 촬영 시작 - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yM01YQmFOLWZ0UFR3cEI3X1JRbURlaFFRSzNXSUE3NGktNEo5ZUtRT3ZFcTQxaUJNeWdCZVZpMWljaDF2VHFJMU5iR1czSnA3SkxfR3Q5R1FDMmFxRmc?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 11:14:00 GMT",
-      "source": "YTN"
-    },
-    {
-      "title": "[속보] 잠실 시위 때 경찰 때린 20대 2명, 구속영장 기각…“증거인멸·도주염려 없어” - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wRVBEZ3pwSFFlSTdKbXFLd1RNVjhYeDdnSFB1VlZaemJRU0NLZVdYd3Q5dnJrb3hXZmxCdFhDbDRwczlScHNnbUNDckdvRXVnNy1lOA?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 11:02:37 GMT",
-      "source": "매일경제"
     }
   ],
-  "updated": "2026-07-02T20:13:02Z"
+  "updated": "2026-07-02T21:39:01Z"
 }
