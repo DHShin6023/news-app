@@ -1,12 +1,6 @@
 {
   "cat-us": [
     {
-      "title": "반도체주 '투매', 미국증시 3대지수 '하락'...빅테크는 '껑충' - 초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42WDhCOXA5VmJfR0d1bXNmaWNzQzRMUWM1aHRUNzlfd285Skc5dGxrdHBRTGppbTVVdmowUk1maV9pRHFHeXdJRXhtME5JVnJiYnk0TGVDd1ZoSGhwako2VlRJQXBOSk40SHNWdVR2dy1YVTDSAXNBVV95cUxONlg4QjlwOVZiX0dHdW1zZmljc0M0TFFjNWh0VDc5X3dvOUpHOXRsa3RwUUxqaW01VXZqMFJNZmlfaURxR3l3SUV4bTBOSVZyYmJ5NExlQ3dWaEhocGpKNlZUSUFwTkpONEhzVnVUdnctWFUw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 23:47:10 GMT",
-      "source": "초이스경제"
-    },
-    {
       "title": "[뉴욕증시] AI 반도체 차익실현에 일제히 하락…나스닥 0.66%↓ - 신아일보",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BZ2c0WkFPWDYyODZLMmJMVmNGcDRHa01pN3JtQmRGS1ViN0dwUm1QazYtUjJfQnlJWTFfYlRqSnJwTTRPb0pGOW11dTE4b3RpazJXNVViWUt1V0JMR1ZEU1hMN1NjVlB1N1pINTNmd0E?oc=5",
       "pubDate": "Wed, 01 Jul 2026 23:31:45 GMT",
@@ -17,99 +11,105 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lcnd0czdkVU5PdWxnVUthaUFFSzV5bUJTMEgwOG9tN0pEcFh6WVNWTURrUDRXSk4yenpxa2xhQUQzNjViSEpPUkticW02MWdpWDBUSkpyOWs3TmtWdTFlZkdUR3lLdVU?oc=5",
       "pubDate": "Wed, 01 Jul 2026 23:00:00 GMT",
       "source": "자본시장뉴스"
+    },
+    {
+      "title": "미국 뉴욕증시, AI 반도체주 차익실현에 하락…마이크론 10% 급락, 다우존스·S&P500·나스닥지수 하락 마감 - 한국강사신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoeWNYeDNkdWpvZlU2Z2FkMWI4MkFuZGotZVRHcFE5aGFHM2NNV2xSaEJwMDhld2RKbTFmNG81al9yWUFndzJ4VzhoRjUyRmlZVTFqWFRiNWxQWi1SX1NIOVF1RUMxZUVhTWlLUWRMR0M?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 22:31:21 GMT",
+      "source": "한국강사신문"
     }
   ],
   "cat-kr": [
     {
-      "title": "[개장시황] 코스피 장 초반 5% 급락…반도체 쇼크에 매도 사이드카 발동 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UQU41LTBQNGpYbXFDZVg0cWdtem44QnFoS3N6NFN3VkthQkU2ZXQ5WVRIbmJLYzhkOHNJOF9zQ1NCYXQ4TlJmWHA4R29UaWJjTmRQRmVtWFVGVFE4?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:44:00 GMT",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "코스피·코스닥, 내림세로 장 출발 - 한강타임즈",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80X1BNN2ZETkxTalQ4Ri1KN0RIU01iLWpJV0hHUmxMNDJuRmFlTVJTeHpONHNQZXZMdE01QVd1VHlCNU82eVBKbUgteFk1Z3RnclJ1Wm4xdTl5cUx2X2kxR1NuamdINXVSZFpZ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:11:38 GMT",
-      "source": "한강타임즈"
-    },
-    {
-      "title": "코스피 8,400선 재돌파…코스닥은 약세 속 변동성 증가 - 공감신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pcnZkQ3FMc3hQSmdxbTJPQnlTVk9QOVhXZzFvZHRGR1BlUGt1WjRSWGdGd2x2TDMyVlRHLUdlU0tISGYzcV9OTFZ3THJCdzJrcTNzLTl4ejk1eDNkT2Uwck5OVzk1aG43?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 21:37:06 GMT",
+      "title": "코스피·코스닥 동시 하락…매도 사이드카 발동으로 시장 충격波 - 공감신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5bDI3ZTZTVkxXSXhkbWFMNEoyLVVyS29aZk95VVl3RjJvT3hzZHJ2UUw5NmJyZzY2Ym5wTHBHTDJ2V3RkVE05TzNqR01lMWloWTEybnpNTHZfWXRrcjFSM3hqR0xNQW8?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 05:24:02 GMT",
       "source": "공감신문"
+    },
+    {
+      "title": "코스피 이어 코스닥도 매도 사이드카 발동, 국내 증시 장중 급락 - 미디어파인",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53MVgwMko1YnNuM2pBVzA1TlltcDVnZFdGcDVkUmkzQ3VTQ2l0ZExpOU16cGNwcE1kS1FES3V5bVRtS0ZQVmowdHJKeDJ5NS1hM2pVMTNBY2R6OG1WVXBLUEJEUzdod3R2Y1BpWDBn?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 04:34:52 GMT",
+      "source": "미디어파인"
+    },
+    {
+      "title": "[속보] 코스피 이어 코스닥도 '매도 사이드카'…국내 증시, 장중 패닉 장세 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBteUowMFhudFh4UWNSbURhclN2SXdXOWhtbWxhbHExVW5LWElLR0JIYWxSS1FqSXNyU254Q19WcnVfNTc1aHJnTGY0ZUN6RzJhUWRF?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 04:26:00 GMT",
+      "source": "네이트"
     }
   ],
   "cat-coin": [
     {
-      "title": "아베 월렛 증가, 5년 최고…스탠다드차타드 암호화폐 전망 수정 - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LdVl4YkVZM2FHNFFiWjhRQWVGNzN0ZGdQQUNBMEZMS2h1SVBhNWZkTWhwS2tmeHBHNnE4b2xKemh1emhUbi1DbjRNOV96Q29FVXFwZmRuRGJFYWV6UDVSY2NueVVnR3BKRWY4dVFJZzUxZw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 01:19:18 GMT",
-      "source": "BeInCrypto"
+      "title": "[서울데이터랩]비트코인 거래대금 59조원 넘어…솔라나·에이다 강세, 월드코인은 급락 - twig24.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJbllJYURnbGFBQU5penVoSlJhbkQtTE50SnNfbXB4V0w4N3BoVksxNGVBSk1jeEpfdXBpT0lUb0FUbG45dHRrY1BvT3ZBUEkyd1dlXzdmQldwWVo3T3RmZ2NlRQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 04:35:00 GMT",
+      "source": "twig24.com"
     },
     {
-      "title": "복사한 지갑 주소 바꿔치기…비트코인·XRP 노린 신종 악성코드 등장 - 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QQ2xHY055aGhvRDNpTnNtS3FENE9ua0tmQ0g4VGJMd0lSaDR0RmxDVnhQMENQeHoyU3dwYVNyT0x3djdvamxQN3NOM0V1bndDdEdoU3d2aFEzcy1SaVIyS2NBazdTTnZWb3o5bFpUcUl1M2M?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:03:00 GMT",
-      "source": "디지털투데이"
+      "title": "[서울데이터랩]7월 2일 암호화폐 시총 상위종목 동향 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xNWNMUG84bVdNLXlKeVdUUDUzVUFUN1RIRWIwejhENzQ0anJBNGFZRmpHR05uWUNRNXBxTHFnLVdPcGl4TDNMWmctcGlJTXNXX0ZwMFY5U0NXb2tRLVRzOUdJTGZyS1lWcWplUHFwVWRmOUNCUVNuRg?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 04:35:00 GMT",
+      "source": "네이트"
     },
     {
-      "title": "2026년 7월 01일 암호화폐 가격 - 모빅경제",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nalpGbFc5Q0ViM1IyVnpEMDJCaWk1X2Z2ZUZhNjNab1RfTHM0NHRaQUc5VG5JbU0yQjRETk5DX2xsSHIzQUNtaVpQb2NLU3d1LXNnNkFuOS1jcXQ1NWYxTzZvV3RrSXVDTmtmdkplaU8?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 23:45:47 GMT",
-      "source": "모빅경제"
+      "title": "[서울데이터랩]7월 2일 암호화폐 시총 상위종목 동향 - 서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jajJMMkU4MzFlQUVBMlZTckIwLXdaM3hRWUhucVAyZEVBWUltbnNlOXZCeEJ3WEs3M1E2Y0FLc0pVQUxUVDNFUmdRZHlpRlZxOFpqdm5QRGd4YU5zTzZTSnVtQldLeW5tYldCNVVmdXFhWlZmdDVGMWhrSVR6Zw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 04:33:00 GMT",
+      "source": "서울신문"
     }
   ],
   "cat-land": [
     {
-      "title": "규제 첫 날, 남양주 아파트 \"5000만원 더 올릴게요\" [부동산360] - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hZWFsZHVJejJUY1AyaGdENzBJV1lIUkhENDdVVzY3Z3p1cFZ5bHh6SUdmdmVjTEVibEljOEhkV2hTRTA4MUM2ckp2dXNUNlpNVmpIbjFXVTJKZHdjUUk2cFRyeW53cXVDeVE?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 01:18:00 GMT",
+      "title": "규제 묶인 동탄 1.46%↑ 막바지 상승세…서울은 오름폭 둔화 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wUkg1T3JlZWROdWplZEhFTWlOdUJPalUtZmV2RXJLN01mNHpUWXQyMUhsM1dMT0U1TGdHNHN6ZTRZVzhKelo3M2w5Z253WldpU2pfclN6cDN5YWky?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 05:28:00 GMT",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "서울 아파트값 72주 연속 상승…상승폭은 축소 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wcVhRYWlkR2pyOUpGOVMzcFJ1NERpZHZWSms1Wlp6RnlXM1NDSDNpMTY4ZlN5eEJFdlFGSk1zdjF6OU1FYUZmN3k1aUxqUFJVOHgwOWJOZG45ME54R2ZlQ1gwSU5jRnppRFdEaHlhTVdIQlFfYUdrUQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 05:10:00 GMT",
       "source": "네이트"
     },
     {
-      "title": "타이밍 놓친 부동산 규제, 풍선효과 우려…\"공급 부족부터 풀어야\" - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTm5Kd1VFTEdVMTgwZ0dYMTBtRlowTTZKOUx3MnE0VUFLSk1kaXBobDZFNWxidF9SU3ZubWRQYTJudFBQR29LVzcwTUFsVE9nRnBOWjg0bHlpRmFyYjMtM3pmZGN4MUpDWTloVkpqb25QM2RDdkRTaFRraXhac195Mk83WjFMSTlnYlE?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:55:07 GMT",
-      "source": "글로벌이코노믹"
-    },
-    {
-      "title": "반도체 호재 안 통하는 평택·이천…동탄 규제 풍선효과도 ‘글쎄’ - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZenpSamdhRF9xenltOU5TRkJQME5SVGtWR1lQS2p0OHUyaGM1dVl4eU52ZjA5REZBdldKMTlWd0hZYUpvOTJEamo0Z2dRNlFlVVFrMw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 22:00:00 GMT",
-      "source": "이투데이"
+      "title": "서울 아파트 전세 주간 0.30% 올라… 규제 묶인 동탄·기흥·구리도 상승세 지속 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUGtKQVhUX3psLWxFcTY0aHlGMFBkTS1WYW9xT0RQUkxaWktQUTFNelVHSWhXaGs3bWNnSlNrTFpRamJ0cHotcHVIQkVtZXJEYjc2R25EYkZkb3ZNVVZ1MHd0ai16bzNPRGs0VGhWRW90ZjFrSTU0SWtkUWMwWVpSVVViN1c0MF9O?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 05:07:48 GMT",
+      "source": "조선일보"
     }
   ],
   "cat-etc": [
     {
-      "title": "[속보]코스피, 5% 급락에 매도사이드카 발동…8000선 붕괴 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvSUlNQk1SdE5sQUd3Z1FucTAxT25ZZWZ1b3VBZEhKckdSMTVLRW5xaW9OTlBmbFZFcFM2UUJJUlVkQWY2OFFXWEt0bWttNG4xbG9nZEF6bGpqUdIBX0FVX3lxTE1IWlR3eDVQU2U1Uk5YWVNHOTRPYmNEMy1nOGo2Q0lVOEh2SXVUOVFybXp4aC04a0lPMkpGMzluYWNLOFRUOFZDUE9feHFUY0RYMUNKbG1SdEd6R1pXU1JN?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:12:00 GMT",
-      "source": "경향신문"
+      "title": "국힘, 배재고 6개월 출전정지에 “징계 과해, 입시에 불이익” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tVTZJbkJDX3k0NEliUzgtZ3pCcUxxVE41NERvbEM2dFpZbkg3UUVWSmp5SzVSVmJTS090aVJjUXAtRnhwQ2JpNmUtY2w3X2s3dVJyWWRvRFdiTVBHQkJMODZUSk5fa0JmbkRNTnZMYlBCYlVR?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 04:45:00 GMT",
+      "source": "한겨레"
     },
     {
-      "title": "도하 회담 재개한 미국, 호르무즈 해협 통행료 요구 설득 나서 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15Ynl0Z2hEUjV6NmVZLUQzS2lSVTdYS2I1T1djM1NHVDhkWE1nNkhhZzJxVno3OVFSWVViOUpkeU1nR0syREJmTWVvOFZ3U1l4VFpseE1QelBUYXBP?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:09:00 GMT",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "[내일날씨] 전국 흐리고 곳곳 돌풍 동반 소나기…낮 최고 30도 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93NDdDcTRoeGF4d0hMQjliY2RkNm9qSFhDejhvaVNQZ1JuRm1jdFk0VjJvcllJcVpBT1M4Q0RBSlFVZFR5Tl9PMVhURjdPekg4T0w2cGF4RXVpXzTSAWBBVV95cUxQMy1takEyUUNuU0tjaVNrbm9Fb1ppb2ZDMU9EZjJpWnRqX1hMdnZqd29sZEdzVklkM1pvbXhYRS1GaHdpVm02czQtcUFjTnJyalVfRDlKZUFBNDFpb181Zng?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:00:02 GMT",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "투표지 부족 ’보고 라인’ 정조준…합수본, 서울 선관위 기획계장 소환 - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYcm9odTZGVlpNajJZQUhMbW5qN2VSbjdiLXoxaUM0TnZleE9DQ2lVdUJFYkpwajFzRVpLM0U3amR3X0x6YlZlQk5pRVBJb3p4aWpvdWY0am5LdmV0TXo3VTd1dlZpTG8?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 23:47:00 GMT",
+      "title": "국조특위·경찰, 봉쇄 27일 만에 잠실 개표소 진입…출입구 앞 강제해산 조치 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1waVZuNlluSllSRmItUVF3UUVNMnlrYWg2WFk3c3dFLW5SWDJnSjFVSG9xTzMtNFlkTkRTTF9fZlVxOXpXX3RyRjRHbHA5ME0yQmZmdmVCekdzZDh3cml0U3lKdWVGTTA?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 04:44:00 GMT",
       "source": "연합뉴스TV"
     },
     {
-      "title": "국민연금 국내주식 리밸런싱 첫날 2천179억원 순매도…얼마나 이어질까 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kM3RVbWZkQ29wc2dTYzI2YWVrN2VHTUVlaVVkSUxFdURJWk0yOTZiVDB2aW85VktzbXVDUUFfVFg3QmJYaU5lT2lnV0E2d2JwbFRIbEZXczFvR3R1S1lQWUtNTndYOFdXbVhWNVJLSzQ?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 23:24:14 GMT",
-      "source": "연합인포맥스"
+      "title": "유럽 폭염에 중국산 냉방가전 ‘품귀’… 에어컨 판매 40배 폭증 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWlYanBub01mekEzeG9hTFNxeHV5U3JPZ2JGOXBTcUplSWNqbEhfMU9ydTlpd0ZjdkUwVHJkek5pVTFfQndCRmJkdldYV3N4YTBtd0xZcG9jMzhDbXh5RUN3aXhqSkJhbXRHNnlRa04zdmI5WTVIMlFtaFFKT2NnbHhqcHRFckZVWjdZUl9uNHVadkxhM3UwbGxBR2o0d9IBsgFBVV95cUxQNnZFZTZtZEhzRHN5azdVWTR5ekVsaVJiWG5Od2hrX2NEbUZWUHdCWmRqbmlqX0JRTmRuVnlXaWNabkFhQmpkNzZrb2F5cXVBbkRfbExNeERfTUtTNjJKRW9QRkxXcmhBcUJYSDBlS25lUDhNOUJRVGY3cEJ6MEdWaFhaS2hCek5tUkNVcEtPV2VSOWt0c0VNTF81UGdsSEZkRGxRSENacnJISXVmZXlEZTNB?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 04:22:00 GMT",
+      "source": "Chosunbiz"
+    },
+    {
+      "title": "[속보] 핸드볼경기장 2-2 게이트 열려‥국회 국조특위 내부 진입 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QNFZoSlpWaUdEMktBOVYyd3ZHUTFUS3NiQ0RqUHFvQU55NUZESGpibmM2aEhNUFBMT1ZScEE2ZFlJZjQ2Z3dpRWRnQWI5XzZ4RTBpRl9DSFlMYkl5elplUDkweU53b09PNTFXckRULV9FcWNLZUFZ0gF3QVVfeXFMTzBlenFUYU9kOURjcXVSajh6RFZwTWxKQTdfZXVGdDlYanJFVmVOakZmQ2EtSXFtWk5yWUREeHQ4My14MDNBZmFXdnpCZDZiaFVNQ0RrRzE4WXUyZWttMGFIMEduOWlacTliWUV2YWU0WG1lcllXVUU?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 04:02:45 GMT",
+      "source": "MBC 뉴스"
+    },
+    {
+      "title": "'장윤기 집 리얼돌' 폐기한 부친 경찰관, 감찰 받는다 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EUXMtU2c2ZXRPVFIwQzZxR3l4bWFPLWoyNXp6cVdxbENNaE1STVFfdlhyNEU5VFVYNDM4bkpoVzV2R0dqNGMxREJiM3RLZUc2c2dBUTE5b0hsMXfSAWBBVV95cUxPSVVyNmtsVk5wOGtDWXZybktqUmROb2JBZ2k2UHo5ZW1FZy1Dbi1MeTA3bXViOXBZQm9LWmdTSHlib2Q2NnliLTBfbWdQOGlpUVpKTWFYRHRvRTQ1cGE4Yzc?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 02:51:11 GMT",
+      "source": "연합뉴스"
     }
   ],
-  "updated": "2026-07-02T01:28:45Z"
+  "updated": "2026-07-02T05:29:29Z"
 }
