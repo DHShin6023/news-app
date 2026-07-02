@@ -1,8 +1,115 @@
 {
-  "cat-us": [],
-  "cat-kr": [],
-  "cat-coin": [],
-  "cat-land": [],
-  "cat-etc": [],
-  "updated": "2026-07-02T15:37:42Z"
+  "cat-us": [
+    {
+      "title": "뉴욕증시, 혼조세로 전환…나스닥 0.88%↓ - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sOEE1OGZpVjlYSXlQZUtUN0ttcVFlM2ZNSHp5azFqeVdxalU5bDhpbmtzVnEtaEhoQzJCekQ5WkVEX2NlYkJvanI2ZXRZN3RC?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 16:08:56 GMT",
+      "source": "블루밍비트"
+    },
+    {
+      "title": "미국 뉴욕증시, 6월 고용보고서 발표...다우 나스닥 혼조 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfbm1IUGNyWmljSmRpemlLMFNwZ09DUVVJUXI3bDFCTzh1NGQ4VXZSaW9ROExPTF8yVThDVFY0SExpLU5HVUFjSTBCMmFJMnU1RmRUSldFbnVyVWtKYnoxZU9ES25mLXlZb1dPTE1n?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 15:01:00 GMT",
+      "source": "gukjenews.com"
+    },
+    {
+      "title": "[뉴욕증시] AI 반도체 차익실현에 일제히 하락…나스닥 0.66%↓ - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BZ2c0WkFPWDYyODZLMmJMVmNGcDRHa01pN3JtQmRGS1ViN0dwUm1QazYtUjJfQnlJWTFfYlRqSnJwTTRPb0pGOW11dTE4b3RpazJXNVViWUt1V0JMR1ZEU1hMN1NjVlB1N1pINTNmd0E?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 23:31:45 GMT",
+      "source": "신아일보"
+    }
+  ],
+  "cat-kr": [
+    {
+      "title": "메타 헛기침에 코스피 발작…\"급락은 기우, 지금 더 담아야\" [분석+] - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zR1h0Ml9SeW80emlLeUdhbldkVW9BZjZjVUh3bW8xNElvcE9MeGNySDJNM2hFVDYxS2MwQ3pOX25oYjJ4TW90aTNtRTNBd2g3?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 14:51:38 GMT",
+      "source": "블루밍비트"
+    },
+    {
+      "title": "[증시와이드] 국민연금 리밸런싱, 반도체 랠리 변수 - 국제신문",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMHkyMDVPdUpNQWxIY3V0d2NMNUd1NE5CTm91NV9tem1NYTFPRDMweC1wcGtGTk5HcHhZaUdoX201ZXQzOWpzSW5WSjJ5bXhCOHFaWURBNlNWMURtWlpDWnVRQjBvNVJ0OHVlVmtMbTdQaDV6NUFFWDFBYjhJQ3l5a3lwVkM2OXlvZkpB?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 10:16:00 GMT",
+      "source": "국제신문"
+    },
+    {
+      "title": "코스피·코스닥 동반 매도 사이드카…8000선 붕괴, 무슨 일 있었나 - 서울일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CTGM5Z0EwMEJqalJybTB5ay1BNGwxNld1Rll1UUdUZGxxT1ZuNkhwVTZGYU1PT3I3VnZNcS1QSElJZE9XbzRGYjkycWhZQVZRQ0FxUnFqSkd2bnY5alFLRUdRS2lCU096MFRQYtIBb0FVX3lxTE9rbDBERXdjbkFiTl9hek03WEtBeERxZkxSbV9EeWlsc1ByOWE0T2cybWdrUTVXN3RBQnFqZ3MxM1E1cGp2SFIwLTVlWlZJWTBOZkJRcjVTUkNpZTJsUEhfd1FtUFNvZHVtZU9USTZRbw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 09:47:00 GMT",
+      "source": "서울일보"
+    }
+  ],
+  "cat-coin": [
+    {
+      "title": "[자정 시세브리핑] 암호화폐 시장 상승세… 비트코인 61,631달러, 이더리움 1,699달러 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MTGZyU3h6NG1ib3dGeHRWN25ZbjliTWZsZEk0S1d3MDNzb094S3Q3Q3JYM2Q3UjZUSm4tcXhjVnFHaERyVTl3WGFodS1QMXVSVkpVOW9yMDByWDg1RVHSAV5BVV95cUxNTExmclN4ejRtYm93Rnh0VjduWW45Yk1mbGRJNEtXdzAzc29PeEt0N0NyWDNkN1I2VEpuLXF4Y1ZxR2hEclU5d1hhaHUtUDF1UlZKVTlvcjAwclg4NUVR?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 15:02:55 GMT",
+      "source": "tokenpost.kr"
+    },
+    {
+      "title": "\"저축자는 패자\"라던 기요사키, 금융교육 시작 배경 공개...\"돈보다는 영적 사명\" - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCNG1LVVFoQ1htMWRtYzVXWTJkaUN2NVJsUnUwdDY2NXQ2NjAzZWhMQkNBeXVDa0VNdzByYlRjMXdseW1mLWRiVWJ3?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 15:00:00 GMT",
+      "source": "코인리더스"
+    },
+    {
+      "title": "XRP, 7일째 1.05달러대 횡보…반등 열쇠는 시장 안정 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jb0poeVpTdHY0NVdCM2RoS0pac2JjVzdpSDhNdE03cUxxYnlUbFZiM3ZIbm5RRHpTNG0xRkhPOUR1a2lDTVJURjVOTjRLR0VmOEpiSk9xemFWM251TEptcThqWjlncDJET3JscVhWNmo0MEU?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 13:14:12 GMT",
+      "source": "디지털투데이"
+    }
+  ],
+  "cat-land": [
+    {
+      "title": "울산 아파트 매매가 0.08% 올라 - 울산신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45eWlGTlA5eXc0anEwOGMtYkhUQWxzQjVYUkhibk9sb19IM1RJYzAxZTB6YnVpbnpVemRCSHpfdzNwOEltOHplOUNURjFiV091SVlPQUdWSjBreGxBcVlGQjJTNXg0WVJTM1J0cVRR0gFyQVVfeXFMUGF1MUZEdHhnMXVIclM0cUswV1RkSGZZTlpfVjF3Y1RWaHVBallaT0c0YlNZUHVtN0FtTXVsZlNqWG9OT3A5QmMxS1RTMHcwVG95TktJbTZRYVVmZnNDbjhVc0FXdnhYbVFkSlhHRWZTeFBB?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 11:05:00 GMT",
+      "source": "울산신문"
+    },
+    {
+      "title": "인천 집값 전역서 하락 벗어나... 전세 상승률은 매매 대비 5배 넘어 - incheonin.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wc3RjeE5kbHJsc1pyVWhmRWFMaVdVX01qYVhwSFpzcEF5anlCVXNkc2VoUjh2c1o2TE1vaktLRVhSTEdFcG5BM0dOb2ZTeGtlVTRzaVZjZDk5MGpxSi15QS1lYXp4REszbTVFQQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 08:33:01 GMT",
+      "source": "incheonin.com"
+    },
+    {
+      "title": "충북 집값 9주 연속 상승…충청권 부동산 온도차 확대 - cctoday.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WZ1JvNHhTUkdiU2NHMnY1YUNuMnpuS21GMkVwVGFiU0dzSkh1Nk1iakJDYW5WemtFMHpaTU1vSTBGV0I1YU0xYlhtRGFGcDltcG14eWJpYUVvSnV4OGdUTjlWNEtmdHNOZzczaHhn?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 07:30:00 GMT",
+      "source": "cctoday.co.kr"
+    }
+  ],
+  "cat-etc": [
+    {
+      "title": "[사설] 무거운 심정으로 바라보게 되는 ‘배재고 사태’ - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdm1OX0FZVHVMbmF5NlZJWndYYkFXOUVWdmZqVE5iT1NvcG1nVS1VbUR5ZDUtX0VZelBKTWJJV3FJZjY1ZUJCWkJxMWhLT2ZSSVM0Q0d1ZEFpVk9xRjRfYjdrZmtqb3lNRTNzcG5CbDN4LVlRZDd0RmpZSWhKOERLcHJ6VUZmUQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 15:02:51 GMT",
+      "source": "조선일보"
+    },
+    {
+      "title": "서영교 \"형사소송법 다음주 소위로…보완수사권 최대한 빨리 정리\" - 주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hUFZ1cllVSGFidFdXc1o5M1otSTJZTWN5UzBuMEFyZG1vSFlmTGF2UWJqaTlrOG5jeDltMkxyWW85UlVWS29xMlplV1JFSUFkOTNsVUVLX3FmMHNaTHYweTlqUjFCMjdFVHc?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 13:20:00 GMT",
+      "source": "주간조선"
+    },
+    {
+      "title": "국힘 “국회 일정 전면 거부”…민주 주도 원 구성에 격렬 반발 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5eUxXN2lrOHZna1duVjFqckJCYVBKU1lndF9KQnBhUERpZ05vMWYyUC1HYWFKTHgtYVZRR0xkYVhsVmdLMkpVR01QQ3VzcGpHQ08yVlpKVUVzenRjSEs3MVU0ellxeGJLclh3VHZ0R25PZWFf?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 11:44:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "중국 당국 “베이징 초고층 빌딩 충돌한 경비행기, 조종사 개인적 원인” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DOGpJMVhobjFEY0ZtUUc4RWJBRmdnTXU0Mmc4VXNvbl91S0hEZ0ZFQXlZX0g4cWh4dXNhM2ZLcmgyVG5UZFFGdm5JZEo5V0ZiREpyM01CRTRKZ9IBX0FVX3lxTFAxQzJMMlBzR1prZ0Y0VXJjWTB3OUJHcHVDUFNTQkpvT2tjSEp2RXJfb2NpV3R6NWRGN2h0Zl9VcF9MZldwVG9aUFRWYVg1Ukk4N2NDRk9EemI5NkNsTUtr?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 11:17:00 GMT",
+      "source": "경향신문"
+    },
+    {
+      "title": "지구 최대 우주 타임랩스, 10년 촬영 시작 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yM01YQmFOLWZ0UFR3cEI3X1JRbURlaFFRSzNXSUE3NGktNEo5ZUtRT3ZFcTQxaUJNeWdCZVZpMWljaDF2VHFJMU5iR1czSnA3SkxfR3Q5R1FDMmFxRmc?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 11:14:00 GMT",
+      "source": "YTN"
+    }
+  ],
+  "updated": "2026-07-02T17:22:56Z"
 }
