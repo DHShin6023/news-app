@@ -1,8 +1,115 @@
 {
-  "cat-us": [],
-  "cat-kr": [],
-  "cat-coin": [],
-  "cat-land": [],
-  "cat-etc": [],
-  "updated": "2026-07-04T18:51:07Z"
+  "cat-us": [
+    {
+      "title": "치솟는 환율, 금리 올리면 진정? 이번엔 글쎄 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOMHk1OS16b3JheDFfSS1taHNpZkZHMGtFdDBRUU5hbF8xQXZvQWZMSUQ0VEhGUWVVOVhjNzNqemk4TkJ6SzRSZVc1NFlDMk1Wdm1mbWhjSWg4SU9ka0p0Wll6OE5BMmhtQUdUclY4RWNKUnJ4dS1FR3ZYQ2cxSXVKYnQwSU16elpuaFBqTHhmc1BjeEliZnRodVlJSGJ3V3FEVTlfN2tVTDFNOWZkaGtLTGpVS2l4Nk9pdnNFX25CMFR3c09uZFQxeG9NMzJSbzZrTzNGS01SbU1tSWs1VzVPaVdreGpiN0xULUROZ0VzOVlpMVQ2VWxhU1dSRThQU1dMVGNuZjFXYU9MWnVQYjhPSzJWY3U0WFdGMkxYQkZUazhiRDZfZko0am9nZDNVZXkweFE?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 06:45:01 GMT",
+      "source": "MSN"
+    },
+    {
+      "title": "[2분 뉴욕증시] 반도체주 '삐끗'에 약세 마감... 나스닥 0.66% ↓ - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQc1Z1eXNnbHR3ZTBuY1pYODZFTmF2M3VaR2Zab3I3MjNSdi1pUW9QRF9FNlNReHl2NTlvUzNrYTFhdEVuSkdsc3lzcHZTY2NOd0htenBxZG9mbWZpU0FKUTk4QTJ3OVFQQS1yUU4zbGd3cXk4YlVtcDNieFZ3SWp6dmJhdVdLUVFoVDlHVGNMc29RRU9OLXFfQVU0X2VNYU5iWmdsYktVWWZLd3AyaGYxYk8yZHFFT3J4dkVzVzV1R1pxZF9uS1JUaW9TTHBjajRVWFBwNWp4ZDZWa05mdkh5cFJTQV8zLS11ZWxBMXhuU2pnV0Rma2xfTm1CdWp2dmRJSDkwSHNzcUdjenNjbnJha1FFdEhsVFI5VXdsMTVTX3Z4eXRNYVZBY2ZaSkFjSno2VG8xTHgtVzVsdEtjNXE4a1YyRU1ENUFDWjVpWGdFYkc?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 06:40:31 GMT",
+      "source": "MSN"
+    },
+    {
+      "title": "찐반등대호황수고하셨습니다 [11/25 G모닝]│Global Money Club - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00VUw1amJmZUc4VXhac29YcGdHSFIzZUhlTE96U3M0UnY2WkVoakZvOUlGd1VKM2NlZUE4cUd5VlAyZG5oaTBJSXlwZFN6WXNoWWFYdHZqM2gwODA?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 06:03:31 GMT",
+      "source": "중앙일보"
+    }
+  ],
+  "cat-kr": [
+    {
+      "title": "“어느덧 30살 된 코스닥, 대수술 들어간다”…거래소가 꺼낸 극약 처방 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DOHFxZ0F5VUM4QkdUMVpCWkdyQW83ZmRmT2ZVb21WaWluTGItX01PTWtITXpoZzdrU283Vl8zaFNiXy13dUpHWWlMeng1eVlnREE?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 10:04:59 GMT",
+      "source": "매일경제"
+    },
+    {
+      "title": "코스피 이어 코스닥도 매도 사이드카 발동 [마켓시그널] - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOZzZKWUNpOGdoM2M4MGF5cUZEN29GdEoyMXBHSHhkVmZIaDZ6am5ON3pFYmN2UU5QYUhOZG9wVDlaRFlJTV80R0cxWFdnRFc4bGVpX2szNUtYby1vSWhNRWdocHpyNVJiLUQ4YnFRdm9JNlN3djJPTHppR0JZMVpmQ2ZvWkFHNThTUURjbEtmZzBvWWUwQy01SzMzRjZHV3Z4TEpuaVBWMmFqVDVoOTRWenhLb1pjN1RHSEhJbWZsMklBNi0tV1RpTXJralB1VWowZXJCTEMzbG5qRzAybXJpYkFid3B0WWkzNFJRMU83UnQteUl2bThrWGlQcUJia2t4bWZ1X2lxX1drNk1mOXVielI4UUhlTDdQZzRsaHhiekphV19YbXpQaHhMcjZVaGhHdmNUNzJMdTdzWUpqNk9ydXZ0eEFpVC14T3ZzVUdJOFB5MEMzVFFHTk9DdWU2Y2oxd3ktTFpxeUxPNmNZSlE?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 09:04:58 GMT",
+      "source": "MSN"
+    },
+    {
+      "title": "[증시 현황] 외인 이번주 ‘20조 투매’, 상승 전 반짝 조정일까 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MV1k2clhxRDRIaTlHU0RtNDJCOVdsd2ZGS3NIeExLakhSUnktWlhRcnhzSWg5WE9qbk9xbVlDSWU5T1J6VjhkMGkzbjJ5TW43MnlCVzQ0OTg1ZnBxeDBISWFGdGxxMFlaeUZFRkFHQldJaWdK0gF0QVVfeXFMTkxXWTZyWHFENEhpOUdTRG00MkI5V2x3ZkZLc0h4TEtqSFJSeS1aWFFyeHNJaDlYT2puT3FtWUNJZTlPUnpWOGQwaTNuMnlNbjcyeUJXNDQ5ODVmcHF4MEhJYUZ0bHEwWVp5RkVGQUdCV0lpZ0o?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 07:24:25 GMT",
+      "source": "이뉴스투데이"
+    }
+  ],
+  "cat-coin": [
+    {
+      "title": "인공지능(AI) 90% 암호화폐 골랐다...비트코인(BTC), 결제시장 장악하나? - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mTy01NVJhbWQzeGxjOV8zZTVDdnhEM25oV2loX1ZBSEdjNHprRnVQNnRQbDRDbkxudm5uYTMtMktVTThjRm5OWHFn?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 19:00:00 GMT",
+      "source": "코인리더스"
+    },
+    {
+      "title": "비트코인, 6만3000달러 회복 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42amZfRXVsWW5GakktcDJSeXpBd05BelByWDUyTHhzS1JaYjY5SmYxeVY2VmRjMlZ1ckZKSVR0VzZtT0tqcGlPbmdkZjJlN2d6U2NLUFQ4QTNVN2pQbnfSAV5BVV95cUxONmpmX0V1bFluRmpJLXAyUnl6QXdOQXpQclg1Mkx4c0tSWmI2OUpmMXlWNlZkYzJWdXJGSklUdFc2bU9LanBpT25nZGYyZTdnelNjS1BUOEEzVTdqUG53?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 17:45:21 GMT",
+      "source": "tokenpost.kr"
+    },
+    {
+      "title": "독일 은행, 5000만 고객에 암호화폐 거래 연다 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rQ2kzUzVJOHFLdE52aUpLZjFIajg5dk5fa1NJUHJnVlN2cDFIOGpManJ2VW1JN0tkbEVRdWRZTlFZV0hUdkpLVHNVR3ZvRUxwU2NRTlFuclQ3YzZSVkdhQThmcDF5YUY3QUpGamNn?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 15:09:48 GMT",
+      "source": "BeInCrypto"
+    }
+  ],
+  "cat-land": [
+    {
+      "title": "하남 아파트 매매·전셋값 '68주 연속 상승' - 하남일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lQmkzREJZMWxnNGxuUU9GNHlyTHlvZm1pMGI5OFNoYVFITl9MXzZnRFZWWTNhSFVGTU5EbWpxN0kzVWJNVnVvS1FvYnNTNnVSMEdsMzZaNXdHOXlXeDJjZG9yN25tMmVYa1E?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 16:11:47 GMT",
+      "source": "하남일보"
+    },
+    {
+      "title": "[비즈토크] 규제 또 꺼낸 李 정부…이번엔 집값 잡힐까 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40dGJvMmNlZl9qdHEtcWdDcDRKRXpySi1KNjhnVGFuOFBaaHJHdDRUcGVWY1pmb3BKbURseU5aOG5hTDZFLVQ3Z2x1dnJyTmNaZ3Fjbg?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 15:03:00 GMT",
+      "source": "더팩트"
+    },
+    {
+      "title": "세금 올리면 집값 떨어질까? 전문가는 “아니, 공급·임대차 시장봐야 한다”고 했다 [부동산360] - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xcENtbXlmMkZBbkQxWGVCVmFwbEUyWVhZeFpJSWt5WUxxOHlvdWltbmFWdVBnRmFMaENCQTVIa3o5a2p2OVdCTnNMeV81d1FIUVM3amlB?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 06:00:00 GMT",
+      "source": "헤럴드경제"
+    }
+  ],
+  "cat-etc": [
+    {
+      "title": "트럼프, 러시모어산 연설서 '공산주의' 경고...민주당 악마화 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RMHozWFQyVXVTY0JycmdzME90bnBZWDYxeGlKMzFCbkFaVndaSFhTV3NFeW41Mi10d1BzZWFLX2c0OThoRlU5WXVONDRrWUVKcDd0aFMxTEVkZw?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 19:15:17 GMT",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "베네수 강진 사망자 3천명 육박…추가 생존자 아직 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11SUNVUDJQYkdlVWRTN2pOMEN2RHdZNVhYdzhDcDR3Y2Y3SnozSnJaUW5yRzRKZXZRN05QV3BFZ0VfRUt5NVpVUUczWHkweTFUcFVMN2xrZUZXbF9JZTlfa0lMSDhIT1U?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 19:05:00 GMT",
+      "source": "연합뉴스TV"
+    },
+    {
+      "title": "[인터뷰] “명일방주: 엔드필드의 매력은 무엇인가요?” - 게임톡",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TNksxNll1XzJDWXJMSC0zVkdPU1FGdzBrRFFwMERoSUR2TWpBSVQwc2NoQ0hpVUs3OU44dUhPai1BRWYyZVp1ODBNdDUzYUw3blQ5bHBtaUJvNHRCb0x0eUV1eG5UaE5LV0t1OA?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 16:26:41 GMT",
+      "source": "게임톡"
+    },
+    {
+      "title": "\"미·이란 협상, 11일 파키스탄서 재개 전망…핵 논의 포함\" - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBScnpoYlg0MU5TTVZveHhhSHRrZWJ1a3hoSWpab2dJV3hOM0pibnpzVmtNM21pNWx4VWdnRVlfWDFBSjRSU0VuU21FbE0yWHB5a0Z1R1dFbHlza2tYZEZ5dVZCRFpxQTQ?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 14:57:00 GMT",
+      "source": "연합뉴스TV"
+    },
+    {
+      "title": "이병태 ‘표현의 자유’ 주장에, 최민희 “5·18 폄훼, 국민모독” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUnZFLTFNNWtETVNmeXducm1GTEpOQVFFQnlfR2JkNVAtYkRZVzZBN2dZUjFYbVM4aDBZbmsyNGgyTGdmUU45Sng4SFZIWG1JRGpQQXF2alBfalFlWXlBRmQzU2JQbkV5bzlr?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 12:58:00 GMT",
+      "source": "한겨레"
+    }
+  ],
+  "updated": "2026-07-04T20:02:30Z"
 }
