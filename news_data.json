@@ -1,6 +1,12 @@
 {
   "cat-us": [
     {
+      "title": "트럼프, 백악관서 \"델 컴퓨터 사라\" 공개 홍보…주가 7% 넘게 급등 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1pMM2NUWkRyTXNqUnl3VU1fUmhWNTlUM2w3MVRNeTZjQlFqZkw2U3ZReFdmNy1hSWE2Si1RcjdBd0FMN2xLc0loSkhoaVRqYXdRNDVqeXcycUw0VUhOMFlCSy1oTjlRbmpaVW8yWGlnZ0I3UFlrVlEzN1hXT3FnLQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 19:22:15 GMT",
+      "source": "이데일리"
+    },
+    {
       "title": "뉴욕증시, 혼조세로 전환…나스닥 1.41%↑ - 블루밍비트",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaMzE0U3UtV3dfZUY4SENDMGU0OXk2Q0F5VnA4bk5XRFpybTVjMG1ibVg4RkxVdUxLNU91NUFBWHZMZlM0QWdWNjZrQWx3Tmxh?oc=5",
       "pubDate": "Mon, 06 Jul 2026 16:12:54 GMT",
@@ -11,12 +17,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93b0c0NXZiUXJoNUJiX000ZmpDRTJyY1UyYWttYmlwVmtYVkhQRFNvYUhRai1oekhwYWRfUDd3V0k1ZUs2azh0RE0zOFZrVkc2T3p6cEFPQmMxX0I2VGFHR3JCdVlSamNCbGVJbkp3?oc=5",
       "pubDate": "Mon, 06 Jul 2026 14:58:18 GMT",
       "source": "gukjenews.com"
-    },
-    {
-      "title": "[뉴욕증시]반도체 웃자 나스닥 1% 상승…다우 하락 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCZExVV053a2pvZFZ1REE0djlXZGxBUXlLZi1qbmZQRkRKNU1ZQ0xfTVFYV2phTFoxNXpqcUVicmd0WWdiYXVXbVdsVTdOS3lPU3ZWdW1EMC1COEViX2xjOA?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 14:48:55 GMT",
-      "source": "아시아경제"
     }
   ],
   "cat-kr": [
@@ -41,22 +41,22 @@
   ],
   "cat-coin": [
     {
-      "title": "월가, 비트코인(BTC) 반토막 폭락에도 자동 매수...\"배당금 들어오면 산다\" - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IQ1pwSlRQQXdvRzAxRENTYTR0X2IzU1U5UjNpVFBVb19PMkpoUzhLSzBDNHlBenVTT3A1WHkzcVAzd185TU9aM013?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 17:20:00 GMT",
+      "title": "안전하다더니 뒤통수...이더리움 디파이, 해킹 피해로 600만 달러 유출 - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TOHRiWFNiNEV2TnJBcFF5M21tTl9aVjM4TzM0UmFwS3ZRRTFGcnlWTy1FRlRTTjVZb1FjanR6X0dpbjdXcU5jNlBB?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 18:00:00 GMT",
       "source": "코인리더스"
+    },
+    {
+      "title": "톰 리 “ETH/BTC 상승, 이더리움 펀더멘털 개선 기대 반영” - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nbk5sQk9GYVJsRmJnb01RbjAyU0tXUmVkRldGRVF5eTZFUHgxaHY2eUFDUnlLeE1ZcmpBQTFZd3lJOWVMd1NlMGNHai1ITTdXMDN1MDdmZ3nSAV5BVV95cUxNekE4Y3dwT2RJanVwN0M3dnk2c2l6Yk83SnNVVGY1TTMwaWY5TENMUDhoa1dKcy13WllnRjFYWDdUOEFkdVR4a2pMRWZPdUdEWHFFOHVpS0NxWVFYZEZ3?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 15:17:14 GMT",
+      "source": "tokenpost.kr"
     },
     {
       "title": "[자정 시세브리핑] 암호화폐 시장 하락세… 비트코인 62,089달러, 이더리움 1,750달러 - tokenpost.kr",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OOHRYb0t1TDdBU3RHbzV4ZFM1eUtGTDM4REJDQ01lNndlQkdkVVlzRGx1c2pkVXk0YWcySHBfSU5qVXRoSVJtSVNZX3V2WWxuME9wRDhkLXjSAV5BVV95cUxPS19FUUxyclRLVTQ1REhCOEpibnRLLUJmcXFiUmxaLTVTNWxJXzgzVDJxVl80M1JqT0VJWnhwWjJIVE0xSFhaRTVPUE5uZ0NWUW5lZlNzSkVmY09qb1pn?oc=5",
       "pubDate": "Mon, 06 Jul 2026 15:03:37 GMT",
       "source": "tokenpost.kr"
-    },
-    {
-      "title": "\"뼈대까지 싹 바꾼다\"...이더리움(ETH), 대규모 업그레이드로 1800달러 돌파? - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94WEZyc1pYd3R5SlRyOFFxUHJzLWw3eDZTeG5FamM4Z1hDVVVLRFRQc1Rwb3hYQnpLc2p6Vmhpbk9yay1ZYm13c2ZR?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 14:40:00 GMT",
-      "source": "코인리더스"
     }
   ],
   "cat-land": [
@@ -81,10 +81,22 @@
   ],
   "cat-etc": [
     {
+      "title": "홈플러스 회생절차 폐지..대구경북 고용·협력업체 불안 - 안동MBC",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90Vm0xeXJobi1RYTVyckItUDJwYnJrYjlNaFhuQzVTOEtzYmlHam1EVmhrVE50M2NvSlY0bDM3SUpfLW8yZ0VadV82czhkMkZZWEJFSVFnTjgzbG9vMzV2R0VfdXZCY3hx?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 17:40:10 GMT",
+      "source": "안동MBC"
+    },
+    {
       "title": "우크라 드론, 2500㎞ 날아 시베리아 타격…러 최대 정유소 피격 - 동아일보",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JUGRjQjVtTi1oUHlBNHJGRGxzWjdFX29vWkY4OXo1NVhrQVFiN2RyTVRZZkxmZ0ZlaUhNWm9iOENsYjZETmRLTXkzX1Uzak56RnJRQmNEUWRraWstdDBod0RvaTBtMkZXYnBnaHhZM29QTUnSAWZBVV95cUxOTWJpUTdHVkljQmxLdlVielNRYUQ3cVFJaTZsTjJCaVduY19FSThjWnBzc19nUkVNYkY3YU84U01rakpZdkptOWJTWnJOZUdiMFcxQVRJa3UyZkttakpoZVV1b1I3cGc?oc=5",
       "pubDate": "Mon, 06 Jul 2026 16:40:18 GMT",
       "source": "동아일보"
+    },
+    {
+      "title": "‘당권주자’ 김민석 전 총리 지방주도성장 토론회…정청래·송영길도 출마선언 ‘임박’ - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JeFZaMkctVUViTWs5NFRZOHA5TUUwLWJJTE0tWTZGbDhSRlpWbXdsZEJwekptZWdnVlV4SlpuQWpJM3NlNGpVTEViRUhNa3k2M3IyUmZhQ3hyVlE?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 16:01:54 GMT",
+      "source": "KBS 뉴스"
     },
     {
       "title": "영화처럼 소행성 충돌하면?…일본 탐사선, 지구 방어 기술 확보했다 - 한겨레",
@@ -97,19 +109,7 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zbjJNX2dtcm83c0txOVpYZ2JEQUxsYmoyWW1NcEZIanR4cjVLU25Id0NkZHpjUW1SRlQ5WV9TcExRZGVJYXAta0hZXy0teGRQa2hvYWNOakpwRElGeFNTSUIwUnU1R1l5SDNVN1luem5EemM?oc=5",
       "pubDate": "Mon, 06 Jul 2026 15:16:00 GMT",
       "source": "한겨레"
-    },
-    {
-      "title": "이병태, 사퇴 권고 2시간 만에 물러나…5·18 발언 사과는 안 해 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CTTd3Ry1MS05mT3YzR1Y2VTRfdUpPRDhid21lQXc2b29tWTlkRFQwX08xTDdrTkNWUjBJckh0d0hwZkpWb3ExdTFidXEwQzFSYnZidHBxWmxuSlNhdG9rN0cwZDEzSnZEM0c4?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 15:14:00 GMT",
-      "source": "한겨레"
-    },
-    {
-      "title": "국조특위, 오늘 중앙선관위·서울선관위 현장 조사 - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yZjhSeXVNNXR1ZHhGcUsxTFpxYUxoNWwzalpNUnlQUXBqTHBIQkYtcDNaLVF5VTY1RXl0d2k0VXFpNjJKSzVJU21YdHNXdl9MYnZIb1MyTE5hYmxPb2c?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 15:09:00 GMT",
-      "source": "YTN"
     }
   ],
-  "updated": "2026-07-06T17:32:11Z"
+  "updated": "2026-07-06T19:27:16Z"
 }
