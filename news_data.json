@@ -1,12 +1,6 @@
 {
   "cat-us": [
     {
-      "title": "[뉴욕증시포커스] 반도체주 차익실현에 일제히 하락…나스닥 1% 넘게 밀려 - 굿모닝경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CVm4xRzE3ZGVlTDhCeHhla0ZuZlh4YmFzSGlnVEV1Y0hqRUwtUnVDVjlDbG5DbVVXZ0YxQTNWX1dQcUl0SEFLNmFPd242SVRoblNjYWpqLVJ4eUpWZ1YzZ1RTWmlHQ0pDMTdCZA?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 01:26:24 GMT",
-      "source": "굿모닝경제"
-    },
-    {
       "title": "뉴욕증시, 반도체 급락·유가 급등에 하락…나스닥 1% 넘게 밀려 - 스페셜경제",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNUVNhNmR0Q3p3MmYxNE5ERWhENG9DNktpMmhTTG15NXFrdW9kckExTFhobUZzekkwdl9RcFhCVTNPMkIwWEZDbFRZM0JqNTlvelJqcEpfZTRBd1hXTVJxZFlZeHdCSHRtXzFsbg?oc=5",
       "pubDate": "Tue, 07 Jul 2026 23:46:13 GMT",
@@ -17,6 +11,12 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vRWhmWWYtSWk4aE95cGJ5OF9XVWhNbXBIWW95N3F5YlRKcDJPOGVqRkNDVENCaXRoTWV5bzNwVnlUT29CNUoxc1hyNm5VZk45bzFvczNWU21Pdm83OGpWdzRPbjFjSUJCOTcxS0dNSWc?oc=5",
       "pubDate": "Tue, 07 Jul 2026 23:41:55 GMT",
       "source": "신아일보"
+    },
+    {
+      "title": "양대 '악재' 속...미국증시 '하락', 나스닥 '뚝' - 초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPbk5rQ0RVWFBSa1F2VUdpUE5QTE13dTVMdE1ZZC1ETjJOOUFORzk3YW1BWHN4R3B5a01KMTBCZWc3X056VHRFZnpBbEM1QmtQekVzSDVvOFlTZ19mMW1lTGtRYmR5QmtzOHR4dTlSZjM5Qk3SAXNBVV95cUxQT25Oa0NEVVhQUmtRdlVHaVBOUExNd3U1THRNWWQtRE4yTjlBTkc5N2FtQVhzeEdweWtNSjEwQmVnN19OelR0RWZ6QWxDNUJrUHpFc0g1bzhZU2dfZjFtZUxrUWJkeUJrczh0eHU5UmYzOUJN?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 23:28:54 GMT",
+      "source": "초이스경제"
     }
   ],
   "cat-kr": [
@@ -41,22 +41,22 @@
   ],
   "cat-coin": [
     {
+      "title": "비트코인 잡는다더니… 이더리움 맹신론자 톰 리의 '잔혹한 반전' - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sMjMzV2NZaWRLbUV0bEFjMFY4UVRROW1paG5oTWZxOUMzSmU3MF9uY0tDNmdDeFFYZWZRX2d2bDQwUGtINUw5VG92QlRFU3dlNDdOd1JUWFgxbUFKTk5iM05PcTRzSFBKV2xaSHQtT0lSQknSAXdBVV95cUxQZ2ozYVNpb09fRHBaVnBKU1RaLXkyaldtcXJpU0pNcXp6bDlTUjJTdEhYamdhelh5Zi1VZzZELVY5MEs4dHhieXFYcjhWVWJzX0hBSl93azJna1cwNXNyX2djNFdBemdvVG1PR2ZYWHBtUnNTUEwwUQ?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 10:05:00 GMT",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "윈터뮤트 \"비트코인(BTC), 지금은 안도 랠리\"...강세장 기다리던 시장에 '찬물' - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sZEpoUnFvTG5HZDFfand4cC1RdjU2VGRPTWI0UGdfVEt6NWlYdld4dWRTUzFRaFV2a0IyX19sNHpQT2p0bF90d01B?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 10:00:00 GMT",
+      "source": "코인리더스"
+    },
+    {
       "title": "비트코인 스위스, UAE 금융서비스 허가 획득…중동 디지털자산 시장 공략 - IT타임스",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94SEE1Tm5qS3hOdlJyVGVleE40MVk2UlVCLUVsZUdRM0E4M1M3eU9KRXpjMGxMbGJheFdqRmVlbDVvQi14ZGZGekdSTjRVRk12Ym04Nkw5VV9BdXNsWFdDNjdKMmFRVkwz?oc=5",
       "pubDate": "Wed, 08 Jul 2026 09:21:55 GMT",
       "source": "IT타임스"
-    },
-    {
-      "title": "트럼프 \"이란과 거래는 시간 낭비\"…업비트 암호화폐 급락세 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOWGNrZDMyRHI5UnFTc3Q5a1ZHNzZYWXJwby10N242QVp1X2tfbjF2LWlqSjFaYnZ1RFo3MVFGLUhvVWg1U2N6SUhn?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 08:55:00 GMT",
-      "source": "코인리더스"
-    },
-    {
-      "title": "코인판, 미국의 이란 때리기에 '피바다'...3억 달러 증발에 고래들 기습 매집 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zRFczZDNrandzeWRMOGhmY0ROVUcxRERMRmprV3pLclBWa2VMTXcyTHprTjdFeFpxNEkycWZkdlJqWmFBbDVrMnBR?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 08:50:00 GMT",
-      "source": "코인리더스"
     }
   ],
   "cat-land": [
@@ -67,49 +67,49 @@
       "source": "seoulilbo.co.kr"
     },
     {
+      "title": "전월세가 집값보다 더 뛴다…하반기 임대시장 경고음 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQWXU4MFB3ekdIWnVHTy05bXZGVjkyLXhIWVNZbTFZNlBncWttZzlmTzAyVnNveDFwb2luaUp5Sy1NQktfU2oxWklNZTJHQ1lPQ1lEdEZfNUlTN3lVeU5xQzRsLUVKR3c2TnY0bnMtQVJvSDFRcjBuQ2tYdXhvZHh5WGkwRExaYXU2b1NmZVIzVFA5T0FfMEVOZ3ExejNENlZXOWh3MmdkRy11TkRndTY4d0lXak9zcjQ5OTB5cThaRkdHNzVfRnNPUUN4RWl2MWpvRkdqc1hpSUMzbFBPQlB3XzZ4NjRYR0c4ckxjSkx5ZW1XWGxfVDVUWG4zTGhhd0k1ODVIRGNTM3EzbGpBYVNPdW1uYzNhdzZ0ZVZfNW1iLWo2V1RYMm43WGdjN3g4QmtOTVhsUHBybUlTYVFmZWJkYUlLU2w2WXB3RUY0RnB6QWZLOU93TVpmaGpaVnlndDA5N0JQVWs3RmhTdw?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 06:07:11 GMT",
+      "source": "MSN"
+    },
+    {
       "title": "전국 아파트 전세가율 10개월째 상승…금융 혜택 분양단지 관심 커지나 - 내외뉴스통신",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80NkVhd2E1dmxTbWU4V21sNFlDOUpaTE5JVms2WDVSU0hHbGhVeDF5WGUzaWpGMjVadF9qajRzanVNYzVBOXhUdnd3RklRanNGSlVuMDRCWEpFQ2o2V1J2VHQxMVpVd3RsZGx3ZU9R0gFwQVVfeXFMTVBIZWJNNnl4dzQ1emw2M2hLWVVGSk81QWhuemV0U2tUdjRrRmRjOXJ6dkk1RFdZWXlTVVlVR2pWSThMNHg4V0ZVUWVfRkI1dlZhZVQ5UTltZEE2eFRia1JtZXNLSkhwMHNrNC1kZ09hRA?oc=5",
       "pubDate": "Wed, 08 Jul 2026 05:20:34 GMT",
       "source": "내외뉴스통신"
-    },
-    {
-      "title": "대출 옥죄니 탈서울 가속…경기 집값 ‘활활’ - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55YlpOT0puZUJLLXJ5T1ZOT2N0eHc1RmV2R3JEMlRDdkhIX2tLcGZvRVlrZ3BsaUpfMGs5djl6VzhBOHBIVXJHUVE2bnJ4WDNuRlg2Rl9DUVIyY3pEdlRNODlsVkU?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 04:51:50 GMT",
-      "source": "매일일보"
     }
   ],
   "cat-etc": [
     {
-      "title": "트럼프, 이란 종전 양해각서 두고 “끝난 것 같다” - 한겨레",
+      "title": "[경향의 눈]왜 가해자의 무거운 외투를 벗겨줄 생각만 하는가 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00T3hwWkNZdVN6QWlQRUt4ZTJMLXpnTk1qRFMxSjVmb1otWi1Kc1BwQjgzMTdHWUxOZWo2OVJVY2FJcVBmSWU1Q2ljS2xyS3VsbXRZTlp1SkY4QdIBX0FVX3lxTE1HdEt6V19HcHNuVG9JODdHSmEwX3VfN3lxRDlENGJrWE1oOHI1UWJxRXR6WEczdFFMUlVJbW1zcWR4aGNfeEFiNE1aeTlkR29EWlBmT3p2ZmpRbGU2TzFF?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 11:04:00 GMT",
+      "source": "경향신문"
+    },
+    {
+      "title": "이 대통령, 나토서 트럼프 만나 ’군용 선박 건조’ 후속 협의 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3NFNQLTU0MFJoZFpqVWpnMlEwVzhPenZxbjNGSVJtNkJpU3l0Y2x4b1RueEVSTkZuZDJ0RXFTTEhZYkZ4ME9najc0ZjNTSXh0MGtva2gtQkdvZWVfTHFjNzkxUWhOWkU?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 10:34:00 GMT",
+      "source": "연합뉴스TV"
+    },
+    {
+      "title": "‘보완수사권 폐지법’, 법사위 소위로…민주 논의 본격화에 국힘 반발 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KeEo1Q1MzUjdmb216T0laTDZWZDJmbHBPbHh3QTZiYnptNmhsWDRPOEpHcVBiZTJDSzdVNHZpTGpYNHhRcnJVejRPNHBvazFDS2JKWDFMZ3JFMVFVYk5ISER2S0RVY0IteDZaYi1laGx2a3Fu?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 10:12:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "경찰청장 대행 ‘장윤기 사건’ 논란에 미국 출장 조기 귀국 - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VV0RMTGVKdWF6SEIyV1VKNjN1YmxUUFhGSTc1cVB1OUxYQkNXWWFGVDBUd2hBNW1yMzdrOHFVMHJsZFlLTW9malBlMU1PTTc3RVBqNGhsTEZOV28?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 09:50:00 GMT",
+      "source": "KBS 뉴스"
+    },
+    {
+      "title": "트럼프 “종전 MOU 끝난 것 같다…이란은 쓰레기, 환자” - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TVHZNOE1JNUpGNGxILXl5Rm5nUDNNSFlkOEJQSjlBeDJIalV3YThtQUlHOUhpLUZod2RfUHZOVXpZeWlDVnU5OVJwQXc0dDNYTG1iME5yQVhIS25Mb3k4ZGFaTXRWUXlDMTRuVnVwbWJNQlU?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 09:18:00 GMT",
+      "pubDate": "Wed, 08 Jul 2026 09:43:00 GMT",
       "source": "한겨레"
-    },
-    {
-      "title": "미-이란 휴전 좌초 위기…‘호르무즈 통항-원유 제재 유예’ 휘청 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Dbnltd0JHdllKYlNCdnc3UVBRQlpaVmVwdFdZZUFfMmdyMmNrckwzb3dhbTJLZHlkdlU3VU13dTRzQ3p6NU1qa2RaVFRablVGcUdyME5oMkd3aWFwVl9HUU1BeDk3LVhwVnhacUw1NEJHMUk?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 09:13:00 GMT",
-      "source": "한겨레"
-    },
-    {
-      "title": "[사설]배달라이더 첫 노동자성 인정 법원 판결, 노동자 추정제 서둘러야 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80aXNsZUROandCeE94N1hhUFM3SktockR3aGE1a3M5M1BLNEZOdG8xREF4ZWxxUDRZVlNLRXhCcDM0ajltVGZra05RbV80Rzd1Vk1vU0w4a1BHQdIBX0FVX3lxTE5sbldtaG9Lb2IzZWRWcmh6cjVHd1g1RlZmR0dxN2NUU3c2UXdmbjhmTWx1SW1mZHRfRTlsbEcwUlFhdzdGTG45RUxQTWtLQ0pwNWMwM0JBZ3RBTXd3SXBN?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 09:10:00 GMT",
-      "source": "경향신문"
-    },
-    {
-      "title": "숟가락 던지고 \"악!\" 쑥대밭‥중국 향해 또 '눈 부릅' - MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBaU9abVMyU3g1VWZOLWt5eXBQU2NReGR4eVNJMUs0dE83TTdFR1RtVmhFS29nb2MzOW5mSFNuRGpqdXFNUnlWMVNVdy10Y1E4NGhlNi1wNnBZN1JsSE9GNnlFTmVyQWtnZGJFVDB5TDJvUGRf0gF0QVVfeXFMUFBPa0FVYkl5MnRvS2w0UXp6dl95R25MVFd3M2s2UkpOeTZIb3FIQnhPVWpGVjlyNjBXV25TRGV4cWV3SE5JOUxqTldiVWVKdllRM0E3WFNZcWhnQzN5aHZxU0E5VGpwZWJObDFxMHE5OVMwSm8?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 08:47:51 GMT",
-      "source": "MBC 뉴스"
-    },
-    {
-      "title": "강원 내륙 한때 시간당 20∼30㎜ 비···나무 전도 잇따라 6건 안전 조치 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fMWlSdnF6STJfaTNtVzdEeWNpcnY1WTNNTG0weTlJTW1sT0FLaVhqaWt2dS1uZ3Z1WTRDUmFpaC0tWkZiWFdGWW1aR3UwUTF3S1Y4OEp0eTZSUdIBX0FVX3lxTE0tYW1WMUlncHFIbXp1Z3MtSmR1SHV4S1k2Q0hRWmlvNFhFdkVEY0psWTFuY2RucHVIU0FONUN1TFBQTUZ2elVTdTBjZkR5R0dmT0dpdURSVWVXZF9WeWtn?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 08:10:00 GMT",
-      "source": "경향신문"
     }
   ],
-  "updated": "2026-07-08T09:42:22Z"
+  "updated": "2026-07-08T11:39:31Z"
 }
