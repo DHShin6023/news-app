@@ -1,6 +1,12 @@
 {
   "cat-us": [
     {
+      "title": "뉴욕증시, 하락세로 전환…나스닥 0.89%↓ - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RaU1JeXAxaElRb3luMjdITWNNa0dENy1EYktseXY4QU1MUnBVUVBQLXJLSlpwT0ZYUDZfUGVvNFJPUVFEOFRBczE0NVlwVG55?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 16:09:21 GMT",
+      "source": "블루밍비트"
+    },
+    {
       "title": "[뉴욕증시포커스] 반도체주 차익실현에 일제히 하락…나스닥 1% 넘게 밀려 - 굿모닝경제",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CVm4xRzE3ZGVlTDhCeHhla0ZuZlh4YmFzSGlnVEV1Y0hqRUwtUnVDVjlDbG5DbVVXZ0YxQTNWX1dQcUl0SEFLNmFPd242SVRoblNjYWpqLVJ4eUpWZ1YzZ1RTWmlHQ0pDMTdCZA?oc=5",
       "pubDate": "Wed, 08 Jul 2026 01:26:24 GMT",
@@ -11,12 +17,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNUVNhNmR0Q3p3MmYxNE5ERWhENG9DNktpMmhTTG15NXFrdW9kckExTFhobUZzekkwdl9RcFhCVTNPMkIwWEZDbFRZM0JqNTlvelJqcEpfZTRBd1hXTVJxZFlZeHdCSHRtXzFsbg?oc=5",
       "pubDate": "Tue, 07 Jul 2026 23:46:13 GMT",
       "source": "스페셜경제"
-    },
-    {
-      "title": "[뉴욕증시] 반도체주 약세·중동 긴장 재고조에 하락…나스닥 1.2%↓ - 신아일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vRWhmWWYtSWk4aE95cGJ5OF9XVWhNbXBIWW95N3F5YlRKcDJPOGVqRkNDVENCaXRoTWV5bzNwVnlUT29CNUoxc1hyNm5VZk45bzFvczNWU21Pdm83OGpWdzRPbjFjSUJCOTcxS0dNSWc?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 23:41:55 GMT",
-      "source": "신아일보"
     }
   ],
   "cat-kr": [
@@ -41,22 +41,22 @@
   ],
   "cat-coin": [
     {
-      "title": "스테이블코인 공급 줄자 비트코인(BTC) 상승도 '멈칫'...2022년 폭락장 데자뷔 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vdnpUVlBEMzRuQVlYQW5jUFQ1MEl6TlRVSVd1a2FHTldqd0JEODNEWlI4NGNuUDI4N0g2YldmLVF0VlUtc0pEbzZ3?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 14:40:00 GMT",
-      "source": "코인리더스"
+      "title": "새로 상장한 암호화폐 관련주 73% 하락…IPO 리스크 드러나 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wbU5HOHczOUZ1WU0xUXVnOTVOeUJkczNFb2M3T2JScktkX0cyUzhwRm5mNmQ4cDdwZjhaUXIydm05MnhlN0NUUjVrWXFZbURMSkZra2I1aHhPdVNuM2FOMWlFdGFYWW5KR2dfUmlrVjJiRTg?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 13:39:16 GMT",
+      "source": "디지털투데이"
     },
     {
-      "title": "중동 긴장에 암호화폐 시장 흔들-비트코인·이더리움·XRP 일제히 약세 - 미디어파인",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1menhPZGM0OVpiVUNiWjRNOHJsNndLdHBRUlZBQktPYmdzY3hyc2h2MDJsaURSaXpUS2xsVzhEMEFsRG1HRFMtYmRsQlZyVnREZTgwUHlHRTVRN0cxN0lUYTZtUEhBQkhUbzRGQWxB?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 13:56:51 GMT",
-      "source": "미디어파인"
+      "title": "[코인 시황] 중동 리스크에 비트코인 2% 하락…트럼프 \"휴전 끝났다\" 직격탄 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2NTBaOE81YXItUnBlUFdnTXljQ0JKZ3Rzb0ZZaGhmaEQxeFlzMUJRTFRoOGdyZVZGUnlxc2Y4NlpXdUltSk81QWp2aHQ3WGh0Zmk0?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 11:55:00 GMT",
+      "source": "네이트"
     },
     {
-      "title": "반에크, 6만 달러서 비트코인(BTC) 매수...\"10월까지 채워라\" - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52dkhyT0w3ZFY1eFoxZERnMVJBclZyVllTa09TOE9UODVqdW1JdTVGaHBKZlBhZUVyYmFrbl9mbjlOTzlCNmU1MQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 13:40:00 GMT",
-      "source": "코인리더스"
+      "title": "카르다노 창업자 호스킨슨, 이더리움 대표 혁신 몰래 따라한다고 주장 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00czYtN01pd25rT0cyRmlZNFo5eU5uRVFGYmxsdDdIM0hYWTJUOXVjVlVSMXd2bkRubk84ZHhsYTR1Ti05VXlud0F3a3ZGalRIZkkwN1ZEenhYLTNJbFFSU0JVYVl3UVJ3MkUxbURhbzdkWTBDSFE?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 10:30:38 GMT",
+      "source": "BeInCrypto"
     }
   ],
   "cat-land": [
@@ -73,43 +73,43 @@
       "source": "seoulilbo.co.kr"
     },
     {
-      "title": "전국 아파트 전세가율 10개월째 상승…금융 혜택 분양단지 관심 커지나 - 내외뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80NkVhd2E1dmxTbWU4V21sNFlDOUpaTE5JVms2WDVSU0hHbGhVeDF5WGUzaWpGMjVadF9qajRzanVNYzVBOXhUdnd3RklRanNGSlVuMDRCWEpFQ2o2V1J2VHQxMVpVd3RsZGx3ZU9R0gFwQVVfeXFMTVBIZWJNNnl4dzQ1emw2M2hLWVVGSk81QWhuemV0U2tUdjRrRmRjOXJ6dkk1RFdZWXlTVVlVR2pWSThMNHg4V0ZVUWVfRkI1dlZhZVQ5UTltZEE2eFRia1JtZXNLSkhwMHNrNC1kZ09hRA?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 05:20:34 GMT",
-      "source": "내외뉴스통신"
+      "title": "전월세가 집값보다 더 뛴다…하반기 임대시장 경고음 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQWXU4MFB3ekdIWnVHTy05bXZGVjkyLXhIWVNZbTFZNlBncWttZzlmTzAyVnNveDFwb2luaUp5Sy1NQktfU2oxWklNZTJHQ1lPQ1lEdEZfNUlTN3lVeU5xQzRsLUVKR3c2TnY0bnMtQVJvSDFRcjBuQ2tYdXhvZHh5WGkwRExaYXU2b1NmZVIzVFA5T0FfMEVOZ3ExejNENlZXOWh3MmdkRy11TkRndTY4d0lXak9zcjQ5OTB5cThaRkdHNzVfRnNPUUN4RWl2MWpvRkdqc1hpSUMzbFBPQlB3XzZ4NjRYR0c4ckxjSkx5ZW1XWGxfVDVUWG4zTGhhd0k1ODVIRGNTM3EzbGpBYVNPdW1uYzNhdzZ0ZVZfNW1iLWo2V1RYMm43WGdjN3g4QmtOTVhsUHBybUlTYVFmZWJkYUlLU2w2WXB3RUY0RnB6QWZLOU93TVpmaGpaVnlndDA5N0JQVWs3RmhTdw?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 06:07:11 GMT",
+      "source": "MSN"
     }
   ],
   "cat-etc": [
     {
-      "title": "박수현 지사 “호우 과잉·선제 대응” 주문 - 한국방송뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xTHNmV29YQVkweFI2ZlNVNUVzdGh6VUE5LURrQlhzUVJ3WldBTDlRWHg4OTE1N3ZMWkV3TGNZZFgxOEtnYmE4cFVrZy1ObTRYVzU3MGNEQ3oxbXRyRFE?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 15:13:01 GMT",
-      "source": "한국방송뉴스"
+      "title": "엔비디아, ‘둠: 더 다크 에이지스 레벨레이션’ 등 최신 게임에 DLSS 적용 확대 - 미디어픽",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGVVdfOW9vaHNiMVJmZzRfZl9ueDlLcV9MNGUyaWQ1TzZvbi01RC1ZQ3BoT3hEM3RjRmRqdTVaalVsRDNEY0FrMl9EUnJUSlAtdjd0cUc0UEVSWDVyQ3A0QlhDeFRuMUNFZkdV?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 16:39:55 GMT",
+      "source": "미디어픽"
     },
     {
-      "title": "IMF, 이란전쟁 여파에 세계성장률 3.0%로 0.1%p 또 하향 조정 - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ieGk1YWRxa2FoRHp6aFFTeUdpSEhhdjBXSk1TTU1Bek5Qbnc1Mnc4ZzBwNXhTbDFRczdtR2NaWVZCV2dfTEk0T1BHM2dIZU5YSC0yZEJmTHJaLVVlQnc?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 14:52:00 GMT",
-      "source": "YTN"
+      "title": "민주당, 오늘 ‘홈플러스 사태’ 해결 위한 MBK-메리츠 경영진 간담회 - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wSEE2RXJINEdvSURQbW00aFAxOFBVbURPc1h1QS03UThVQ0tScXJVb3BhTDUxeWxMUWk1eEJndWtDV21POC1FS21hNTlFdzVBVUY2U1p0bHBDdnc?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 16:02:00 GMT",
+      "source": "KBS 뉴스"
+    },
+    {
+      "title": "트럼프 “우크라에 ‘패트리엇 미사일 생산 면허’ 줄 것…드론도 사겠다” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUJUODV6QTdMMVMwUXR2MUdNemhHX0dBYXdXc1pSanRwVG04R2hURUVLbE9GUHlmVzVCSy1TMEFQS3pxZDRYdVhjUXRhUklscXJRUFo4WThiMERmc1VMdF9GT2ZzUGlLYkpESkpfUHZtN3dPWTBydHNRMDFYc2dRSFR3?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 14:25:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "나토 정상들 \"75조원 신규 조달\"…국방비 증액 가속 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tWk1mcm1aeHB0Wnh2RHN5UVdYeUZENmVXN0VCTGNOY0xwbG1UdHZGRFdHNFlHN3duZUlLR1NhNFA0YmRvUVllWmYydDdsYnZqU1dGaG9nT0lSOUnSAWBBVV95cUxPX05ObGlINkNDNXpFM1VHaUZyTEw0Qi1jX05oRXhkTV9NSklzaFlGMkdXOGNqSnRSYzVZRWFLSEM2M3JKYVJKZW9wSWdRR0NYTU9xMXNqYnRlc2pHa0xOZjU?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 13:57:20 GMT",
+      "source": "연합뉴스"
     },
     {
       "title": "李, 루마니아 정상 만나서 “드라큘라 있는지 제가 체험하러” - 동아일보",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNSHp6ZjBtT0dOQUVoSm5UT3QwRXNodHVjZmtzRUw3Njg3YnlKRW1pZVpTSVBEbGhtRkI2MHEtcW9xa29lLWI1cmgzNTdsQlF3Mkx4S3hwV1A0dXQtUUFPUUxjUW9IeTFibElPNlNtckk5bFg5bUlz0gFmQVVfeXFMT212Y0lWLW1zREwzRzAxQkZHaVd1d1cwLXQ3WmtrVDNMdWx0ODA5MDVqOGxkd3lRaDR4TEpBTGdLMHg3RTdQQVhmNDZMTmEwdEg4TmdkZkRiRi15dGRGSkhxX3VSVVRR?oc=5",
       "pubDate": "Wed, 08 Jul 2026 13:32:00 GMT",
       "source": "동아일보"
-    },
-    {
-      "title": "트럼프 “오늘밤 이란 강하게 때릴 것…그들은 매일 휴전 합의 위반” - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMHVNbjI2blZ6bW5oNjBYMFJwUlpXOHNPMTBPYXZZcFk0N1JwckZoQ0dEUHc3cTZLcTBnOXFNeVRGZXU3X0Q0cVI2elZJOUFxWW15REVEN29wUFNaYm5EMjU1OW5ydTRENUkydVYza1d1M01jV1NSV2ZTaGN1czQ0aEdR?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 13:27:00 GMT",
-      "source": "한겨레"
-    },
-    {
-      "title": "자산 10조 넘는 기업, 2028년부터 ‘탄소 배출량’ 공시 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mc0t0cUptNnB0Sjg2clBOZTlFX0lZbU5XS0FVTEJGT2haODgyV1REX0hxSjgtUEtOeS1YZU9iVlpTYUE3b2NuTUFlN0FfNXcwdHZGTERlLWJMd9IBX0FVX3lxTE5XdlRxRWFNRklDZG1VRzZpbmJ6eURVNHpQZ1ltUzVZR1BJR0lKYVBGOHEzQzU4OE9mTU9PUW1acTBBckNBclIxUnR3d2RjcEdxYlMtTmJlWG9WcmJUMUhB?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 12:31:00 GMT",
-      "source": "경향신문"
     }
   ],
-  "updated": "2026-07-08T15:38:43Z"
+  "updated": "2026-07-08T17:15:22Z"
 }
