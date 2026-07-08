@@ -1,8 +1,115 @@
 {
-  "cat-us": [],
-  "cat-kr": [],
-  "cat-coin": [],
-  "cat-land": [],
-  "cat-etc": [],
-  "updated": "2026-07-08T13:23:08Z"
+  "cat-us": [
+    {
+      "title": "[뉴욕증시포커스] 반도체주 차익실현에 일제히 하락…나스닥 1% 넘게 밀려 - 굿모닝경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CVm4xRzE3ZGVlTDhCeHhla0ZuZlh4YmFzSGlnVEV1Y0hqRUwtUnVDVjlDbG5DbVVXZ0YxQTNWX1dQcUl0SEFLNmFPd242SVRoblNjYWpqLVJ4eUpWZ1YzZ1RTWmlHQ0pDMTdCZA?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 01:26:24 GMT",
+      "source": "굿모닝경제"
+    },
+    {
+      "title": "뉴욕증시, 반도체 급락·유가 급등에 하락…나스닥 1% 넘게 밀려 - 스페셜경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNUVNhNmR0Q3p3MmYxNE5ERWhENG9DNktpMmhTTG15NXFrdW9kckExTFhobUZzekkwdl9RcFhCVTNPMkIwWEZDbFRZM0JqNTlvelJqcEpfZTRBd1hXTVJxZFlZeHdCSHRtXzFsbg?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 23:46:13 GMT",
+      "source": "스페셜경제"
+    },
+    {
+      "title": "[뉴욕증시] 반도체주 약세·중동 긴장 재고조에 하락…나스닥 1.2%↓ - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vRWhmWWYtSWk4aE95cGJ5OF9XVWhNbXBIWW95N3F5YlRKcDJPOGVqRkNDVENCaXRoTWV5bzNwVnlUT29CNUoxc1hyNm5VZk45bzFvczNWU21Pdm83OGpWdzRPbjFjSUJCOTcxS0dNSWc?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 23:41:55 GMT",
+      "source": "신아일보"
+    }
+  ],
+  "cat-kr": [
+    {
+      "title": "홍콩·대만은 올랐는데 韓증시 털썩 … 메모리 쏠림이 충격 키워 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SVzB3eHU2STVJRlZpVzNXSWlKVTFnZkU2TUhCd0dITklTR0phU3Z2c2tkTk5YM1FRNzlWb0hHenAwRUtWaGhPcUV2SXlhUy1JclE?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 08:54:55 GMT",
+      "source": "매일경제 마켓"
+    },
+    {
+      "title": "중동 전면전 위기에 코스피·코스닥 폭락…‘매도 사이드카’ 동시 발동 - 프리진경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kbklERnB2VUFlRUxxVXpsYVpKdDNiUWpLODFvRnZWMU9TQTYxVXBUUUV3SE5iVEU2QUhXaGJtRldqZU1qWjgyRk40RjJhLTBMc2ZVX0NLUDNMdTdYY1lzRnh4Yk53UUlQNGNZVA?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 08:28:07 GMT",
+      "source": "프리진경제"
+    },
+    {
+      "title": "코스피·코스닥 5% 넘게 폭락..반도체 고점 우려에 중동리스크까지 - 딜라이트닷넷",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPNDNUV0plclRjSVVIcm5IWEpxSXl6VzVPeDFmVmFYVmZGSzFlZ09MeVVFcVNHdlpPUjFfcW1sV054cEZpaGU1STd1WmR5dnRHcDhReUx6WlloZEd6VWV5MUsyOHd3aGJxZGhjcHhB0gFyQVVfeXFMTk03VHVfM051Ul9nSDgxV3pUbXFoamE0YUJFT2g4OHg1SWh0bjFXZXo2TS04Q0wtNVJoR1YzYlJuaW01STBIU0ludXFGWUh6TUdsem95VnNybXVBQkZjdVYxUThIZmFEYzdEaTVfRWRhVlR3?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 08:16:33 GMT",
+      "source": "딜라이트닷넷"
+    }
+  ],
+  "cat-coin": [
+    {
+      "title": "스테이블코인 공급 줄자 비트코인(BTC) 상승도 '멈칫'...2022년 폭락장 데자뷔 - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vdnpUVlBEMzRuQVlYQW5jUFQ1MEl6TlRVSVd1a2FHTldqd0JEODNEWlI4NGNuUDI4N0g2YldmLVF0VlUtc0pEbzZ3?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 14:40:00 GMT",
+      "source": "코인리더스"
+    },
+    {
+      "title": "중동 긴장에 암호화폐 시장 흔들-비트코인·이더리움·XRP 일제히 약세 - 미디어파인",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1menhPZGM0OVpiVUNiWjRNOHJsNndLdHBRUlZBQktPYmdzY3hyc2h2MDJsaURSaXpUS2xsVzhEMEFsRG1HRFMtYmRsQlZyVnREZTgwUHlHRTVRN0cxN0lUYTZtUEhBQkhUbzRGQWxB?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 13:56:51 GMT",
+      "source": "미디어파인"
+    },
+    {
+      "title": "반에크, 6만 달러서 비트코인(BTC) 매수...\"10월까지 채워라\" - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52dkhyT0w3ZFY1eFoxZERnMVJBclZyVllTa09TOE9UODVqdW1JdTVGaHBKZlBhZUVyYmFrbl9mbjlOTzlCNmU1MQ?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 13:40:00 GMT",
+      "source": "코인리더스"
+    }
+  ],
+  "cat-land": [
+    {
+      "title": "월세 낼 바엔 영끌? 서울 매매 8,739건, 6년 만에 전세를 추월했다 - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85OHdTdXY2Q1lBMjhvd1RuUEtJZTNDaWpQVWxVTmVqd1FlUXZqLXpfUm5tczJYdmZ1UmZacS0tOU9OWWVveGlCWDh6d0poUm5wTzNKYnhhYm1qTDllSUhFVmtZbkZnQW05VnpJZ19vTzRnWVBwdTZOeDEyU1g?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 12:51:00 GMT",
+      "source": "네이버 프리미엄콘텐츠"
+    },
+    {
+      "title": "부동산 정책 ‘잘못한다’ 59.3%…서울 집값 상승세에 커지는 정책 불신 - seoulilbo.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1cnZ4TTh2V1hXdXBJTjYxTHlvWEZsZHpkZnZKSm5ROVFjZGlRT1NvOUJNYXY0WWdLRy16UnU4ZDNPWlpOdmJwZ2dxMEFhaTRRV2NhRzhYUkwxYmdDYnhMalJyTkVORjRzbUhZUDVR?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 07:46:54 GMT",
+      "source": "seoulilbo.co.kr"
+    },
+    {
+      "title": "전국 아파트 전세가율 10개월째 상승…금융 혜택 분양단지 관심 커지나 - 내외뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80NkVhd2E1dmxTbWU4V21sNFlDOUpaTE5JVms2WDVSU0hHbGhVeDF5WGUzaWpGMjVadF9qajRzanVNYzVBOXhUdnd3RklRanNGSlVuMDRCWEpFQ2o2V1J2VHQxMVpVd3RsZGx3ZU9R0gFwQVVfeXFMTVBIZWJNNnl4dzQ1emw2M2hLWVVGSk81QWhuemV0U2tUdjRrRmRjOXJ6dkk1RFdZWXlTVVlVR2pWSThMNHg4V0ZVUWVfRkI1dlZhZVQ5UTltZEE2eFRia1JtZXNLSkhwMHNrNC1kZ09hRA?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 05:20:34 GMT",
+      "source": "내외뉴스통신"
+    }
+  ],
+  "cat-etc": [
+    {
+      "title": "박수현 지사 “호우 과잉·선제 대응” 주문 - 한국방송뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xTHNmV29YQVkweFI2ZlNVNUVzdGh6VUE5LURrQlhzUVJ3WldBTDlRWHg4OTE1N3ZMWkV3TGNZZFgxOEtnYmE4cFVrZy1ObTRYVzU3MGNEQ3oxbXRyRFE?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 15:13:01 GMT",
+      "source": "한국방송뉴스"
+    },
+    {
+      "title": "IMF, 이란전쟁 여파에 세계성장률 3.0%로 0.1%p 또 하향 조정 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ieGk1YWRxa2FoRHp6aFFTeUdpSEhhdjBXSk1TTU1Bek5Qbnc1Mnc4ZzBwNXhTbDFRczdtR2NaWVZCV2dfTEk0T1BHM2dIZU5YSC0yZEJmTHJaLVVlQnc?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 14:52:00 GMT",
+      "source": "YTN"
+    },
+    {
+      "title": "李, 루마니아 정상 만나서 “드라큘라 있는지 제가 체험하러” - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNSHp6ZjBtT0dOQUVoSm5UT3QwRXNodHVjZmtzRUw3Njg3YnlKRW1pZVpTSVBEbGhtRkI2MHEtcW9xa29lLWI1cmgzNTdsQlF3Mkx4S3hwV1A0dXQtUUFPUUxjUW9IeTFibElPNlNtckk5bFg5bUlz0gFmQVVfeXFMT212Y0lWLW1zREwzRzAxQkZHaVd1d1cwLXQ3WmtrVDNMdWx0ODA5MDVqOGxkd3lRaDR4TEpBTGdLMHg3RTdQQVhmNDZMTmEwdEg4TmdkZkRiRi15dGRGSkhxX3VSVVRR?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 13:32:00 GMT",
+      "source": "동아일보"
+    },
+    {
+      "title": "트럼프 “오늘밤 이란 강하게 때릴 것…그들은 매일 휴전 합의 위반” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMHVNbjI2blZ6bW5oNjBYMFJwUlpXOHNPMTBPYXZZcFk0N1JwckZoQ0dEUHc3cTZLcTBnOXFNeVRGZXU3X0Q0cVI2elZJOUFxWW15REVEN29wUFNaYm5EMjU1OW5ydTRENUkydVYza1d1M01jV1NSV2ZTaGN1czQ0aEdR?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 13:27:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "자산 10조 넘는 기업, 2028년부터 ‘탄소 배출량’ 공시 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mc0t0cUptNnB0Sjg2clBOZTlFX0lZbU5XS0FVTEJGT2haODgyV1REX0hxSjgtUEtOeS1YZU9iVlpTYUE3b2NuTUFlN0FfNXcwdHZGTERlLWJMd9IBX0FVX3lxTE5XdlRxRWFNRklDZG1VRzZpbmJ6eURVNHpQZ1ltUzVZR1BJR0lKYVBGOHEzQzU4OE9mTU9PUW1acTBBckNBclIxUnR3d2RjcEdxYlMtTmJlWG9WcmJUMUhB?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 12:31:00 GMT",
+      "source": "경향신문"
+    }
+  ],
+  "updated": "2026-07-08T15:38:43Z"
 }
