@@ -1,6 +1,12 @@
 {
   "cat-us": [
     {
+      "title": "뉴욕증시, 상승세로 전환…나스닥 0.84%↑ - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82YnNTWkxvb2VJYW1DWVQ2QnVWQXVnLUE3SnJqMVpsUXBFQ3FhZlFCUEVQalJfLVVEdmgwaG1fVGR5blU3OXN3aTRjYTJIQnNo?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 16:05:55 GMT",
+      "source": "블루밍비트"
+    },
+    {
       "title": "미국 뉴욕증시, 반도체주 강세 속 중동위기 고조...다우 나스닥 상승 - gukjenews.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45RFRqYjIyTkpNRVBCWGZIc01mekQzSXZBVU1qcDdoSVJMY0VRZ1dnS1BsSTBtX0pTQjZvbGVRd3pRam9rNmRQS3U4bGxlVjVhcXJsbGdfTWhDN0ljTnFCOWNfTE91bXJtbFk0ZmtR?oc=5",
       "pubDate": "Thu, 09 Jul 2026 15:03:04 GMT",
@@ -11,12 +17,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WWWZxS280RVcxYlhBN2duN2o5TmlNSEJKWnpRdFRWY1lBUkVhWXRkdjhiVmxGMVZiNHU3M2VGOWxjYTBnYVkwVy10VGtFU3F4eXlxWElkbUFSaVZoQ2JiTE94UFBiemxt?oc=5",
       "pubDate": "Thu, 09 Jul 2026 15:00:00 GMT",
       "source": "CBC뉴스"
-    },
-    {
-      "title": "[뉴욕증시] 나스닥 0.18%↑…반도체주, 미·이란 교전 우려 상쇄 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55VVFCRXlJVE1tbkRRcFJHNzMxZGg3dTdCU3hIeDVXcHNNRkNLdzVlamdkVVRwSzFubnJuMnBoT2R1eXU0WVZyOEZlOXF1WmlOQndjVDJNR3o?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 13:52:29 GMT",
-      "source": "뉴스1"
     }
   ],
   "cat-kr": [
@@ -27,19 +27,25 @@
       "source": "글로벌E"
     },
     {
-      "title": "코스닥 '휘청'…인천지역 시총 9조원 증발 - 인천일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lOUdpVjVJSUdSMFFxREt3RzFYV21DMFF6SFJRNlgtcWV3SFR4Szd0Y0hBTWF1SzdFc0xTbGZJeWJlVXg1cE10T20zM2RERFpLWDNtT1YtUmEtM3I1cWdDNmJsbFhIZjNEQkVPbVREcVg?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 10:38:00 GMT",
-      "source": "인천일보"
-    },
-    {
       "title": "\"주식시장이 도박판 됐다\" 부자들 돈 빼더니…'무서운 경고' - 한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IVWRCODJFX3lUNVBtdG4tcjVmRmZNQU9YNzF5UGZ1MkVKYmdpa1JPTlpiUVN5SVZ5VHdfUjJsNlZ6S2kzV2ZpRFVjYXNxS2hudmltaUc0OEFZQdIBVEFVX3lxTE1weVAtZk5EYUpTbkUyNEEycVBPQ2hIVXVfMWZZVTFRczhIdjAtY1ZPY2ZYM3B1MlJUX1ZLUXdWOTVJQVJhblBMYTlTSVB3WEF5NXhQcA?oc=5",
       "pubDate": "Thu, 09 Jul 2026 08:56:46 GMT",
       "source": "한국경제"
+    },
+    {
+      "title": "'삼전닉스'에 증시 거래 집중…레버리지 포함 비중 83% - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sMnhLNElDQ2ZjTk5rVzFSamlOQWpGSmZtS2xfR0RwUFZsU004SFR4dmJTdEQySXotd0pNWVZ3WHZOUXdySW5mdWQ4aDJGUEN0TWFrQzRIODJmZ9IBVEFVX3lxTE9GZFZBX2VTQ0tvdzhSSWpOWHVsd0lVdVEyaHVEVUxvQkZPZTNRV1RlazJhZXAzMmFSX2dNWFNXYWRMbTJkeFc0UlVkQmtBbHVMaFBhTQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 08:04:45 GMT",
+      "source": "한국경제"
     }
   ],
   "cat-coin": [
+    {
+      "title": "\"가격보다 내러티브\"...그레이스케일, 주목할 코인 8종 선정 - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HYUVHRzN5anpORUNQVmZSdnFUamF6b0NIcDNxWE56dkVsZmxkNnlMNVdvWVRONzRxdUtPTnBTZzJvTE5rRi1ZNXFB?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 16:40:00 GMT",
+      "source": "코인리더스"
+    },
     {
       "title": "美 증시 무너지면 코인이 웃는다?...연준 '돈풀기' 시나리오 급부상 - 코인리더스",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DdmxOTmJ4a2QtUGRBRzVjVEpjeFBES0ZZaWtZWklDcGNBQjNxNzg4bnlnWW5ZRDNsYTk5YnA5Q3ZuUmtGemFIeDJB?oc=5",
@@ -50,12 +56,6 @@
       "title": "\"이더리움 사랑의 여름\"...현실은 1,800달러 세 번 '좌절' - 코인리더스",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mdm5PTFcxNC1uQ1AweUcxNkJmS3hSQjIwbU9fUk9sVVZqeXlxQ21jS2RGdmhCUEw1aXlvMTRmVUxET2M4MThELWdB?oc=5",
       "pubDate": "Thu, 09 Jul 2026 13:40:00 GMT",
-      "source": "코인리더스"
-    },
-    {
-      "title": "트럼프 \"이란, 협상에 절박\"...비트코인(BTC) 전쟁 공포 끝나나? - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mVU5iZFVLX0FTZHJuelI2SFRPRzJWektabFhQYTNaTWwtUVIwamdkcktWQmNBdkpBRk5UTUJIdDlScjVEUTRrX2tB?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 13:00:00 GMT",
       "source": "코인리더스"
     }
   ],
@@ -81,35 +81,35 @@
   ],
   "cat-etc": [
     {
-      "title": "\"SK하이닉스 ADR 공모가 주당 149달러 제시...40조 조달 추진\" - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WVWoyUDlyclJ4ZzZNeEdHUWZOTV9mdDU0VmV5YV90WFN4MkdGNkRQMUhOaE5lTkFUbU10MElfTGJQRmJOYkVFNHJzXzlOLVdZXzUwU2ZTQnVYRDd3dmc?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 15:08:00 GMT",
-      "source": "YTN"
+      "title": "[한국은 지금] 이재명 대통령 “한몽 황금시대 열자”…청와대 “트럼프, ‘군함 한국 건조’ 배제 않는 듯” - VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Yamk2M3lUNHFPQmVoMUNIRU5CMGtBMWNKa0VHNGZpWjAwTmE0ajhXOFlCRUNzZzFuaXZ1VmJoR2dRMDhhM0taMmRDUV9URVFrVFBaeUJJVnF5blRFdHktSS1ySmJwX0nSAWpBVV95cUxNR1dOZ3ROcjdPZDJOVlh4Qzk5RHdXN2drOW5fNUJLQm5SdW0yWE02Qi03dHdVUzQ0UzJyQ3FCQTFlUXJNNkVNdXBqaGcxZ3RxaWJob2YxMFB0cE95NjlkYXZmMnI1ek8xemtn?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 16:44:09 GMT",
+      "source": "VOA 한국어 홈페이지"
     },
     {
-      "title": "매장량 세계 2위 몽골 희토류 무관세로 들여온다 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LR0ZibExubmZ2OWotemhzb2hnejdwLXdHOTI2UjQ3SWk0eERQSUJkdTloVDFkaGlWcjBaNFJ4TUJpNkJmSkVSdl9lSVdnUndUdmNieEdYNlJPUDdMTXBYbERRcExDby01V0RqUjRxNkRXdXdvNGhZ0gFmQVVfeXFMUENibmlIY0hBOWVRbFdPd29iYzd3aE42NzlfQUtjQlR4dDBOVXQ4OThnazllcVpzMm10WmNVeVo1aGxhMFR1Ynl3WmVtTG1IalRUZ2VjRzZQZUM1T0RPbW5jQThpNXJR?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 14:39:00 GMT",
-      "source": "동아일보"
-    },
-    {
-      "title": "전문가 수준의 영상 편집을 단 몇 초 만에… 구글 포토에 '비디오 리믹스' 기능 전격 도입 - 인공지능신문",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjREpPaWw0VWU4cllSM2RKbW5XVUtrMnRnaEZxcUVScFdEYTBTY19lcTVpU0FYSFEtazBZQVQ5VTdNQUpvT1dDVGtGRmpQcFJtZEVLQTZPMFRZQmVodVhIMFZ0S0tOWEk?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 13:28:43 GMT",
-      "source": "인공지능신문"
-    },
-    {
-      "title": "이란 매체 “미국, 이란 부셰르 원자력발전소 인근 공격” - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10UUVLM2xocXc1cWJKUEEzMjN1eVNIX3RXd011dldTZU1jUktqUFZVamxPSmZXczBpd0R6YS15bkhuS0dObjRIYTBXemVGMFJWUHFHbEdIdzJQd9IBX0FVX3lxTE5lQ0sweFlDOEVzVlltUXRWVUt0S2tiN3F2Mi12dkVnV1dwdzRQSEhCak1uaUxIWjBNU2pjVEFlakZKLXNoTUVIMXhVQXRQX2VMbDZCY2kzR050eTExb2dv?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 11:49:00 GMT",
-      "source": "경향신문"
-    },
-    {
-      "title": "[단독] 대한체육회 공정위, 이르면 20일 배재고 재심 논의할 듯 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xN2NBZGRWdktMb0dLQ1FSZ0k0aEkzOHB6WThmZktWQ1lXby1TZ0dHUjZNaG9ldlJnX0t1Tjd1cHZDbG1nQ2dzeGRsSE85cndhZl9PdUtRcTVMT3M1azVkLWdWdnZCa0xTQXN5azVOdnFCQQ?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 11:14:00 GMT",
+      "title": "경찰, 보완수사 거부 불가…‘정당한 이유’로 불이행 땐 제재 못해 ‘모순’ - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00ODBEQXlKWVdkUG1XZlRKSXc3N00wRVN0a25OMWVFYjAyWFlHaktIZHkxbDd0Zmdhc0hyTzZvVnZWaFB3cy1WVlMxV0VuYWRaUFdlMXRoX3ZoQlZCTG9QeHlMV3lTNUV0YTRiVWFKaDFLcDlG?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 16:08:00 GMT",
       "source": "한겨레"
+    },
+    {
+      "title": "\"호르무즈 누가 통제할 지 규정 안 해\" 美·이란 휴전체제 뒤흔드는 뇌관으로 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVRnUW5uWUtQY3ZieGJ6TVRPNzZPS0hEUEtESWhfVlFhU3cwSDB4TjV0di1Qak8wdXVBMlZuaVhQc3dMMTMxZ3J6clNFMV9CR0tYLTJYOFVGSlhOQjlpakthN2QyZHYyOWtSMGVDNV9BTW9vQS1vOFhLVVptVE5rRmZFTU1obkJ1YVVmT3lVRWUzcXFTN0NVNnpLMVZDUQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 15:44:00 GMT",
+      "source": "조선일보"
+    },
+    {
+      "title": "캐나다 잠수함 수주전 고배 마신 K방산… 한화오션·HD현대重, 입장문서 온도차 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3Z0MUo2LWZpZkVpLTdXalZ6MjNQbEpyZzliRlozZjdqSUxVZUR0MGtRcUlUaklFbHRtMnpvd0VWUW5zV2ROZ0ZVdEhRMlA5cFpjc2lBU1VsU0s4SUFfbm5TYU5VaGx0bkZVYkdTM2VrRUFueTdFdTBmUjNYT253WlN4T2FGbU55U3FhOEo2UQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 15:33:00 GMT",
+      "source": "조선일보"
+    },
+    {
+      "title": "\"SK하이닉스 ADR 공모가 149달러 제시\"…외국계 사상 최고 전망 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mYzNTVTFrNkNqVUt2d1BZYzRidWExdUlXRXdHcWRBQnpGTmxueUZqczRqYW0xcnpTWHYzR3k4UHdnTWRhZmNSQ2VjQVRQRDJSZUY2alNkQ1hhNVdMNGRQUXBxMkRMNlRQ0gFuQVVfeXFMTlF5VzNmckgwSlRxTmhWeGFrbC1MYjVTRkhIU2R2cGdWOE5RTm9kTlByZEozcUg3MjBsUXo1ZTFRNjVMRS1UZ2tNVktwUXhSNUJ1Y0RSUlNXSU0yVU02cC1xNWF0d2w1c1BLYnhCRHc?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 15:27:16 GMT",
+      "source": "머니투데이"
     }
   ],
-  "updated": "2026-07-09T15:49:50Z"
+  "updated": "2026-07-09T17:44:32Z"
 }
