@@ -21,6 +21,12 @@
   ],
   "cat-kr": [
     {
+      "title": "[증시 프리즘] 코스피·코스닥 시장 외국인·기관 순매수 상위 10개 종목 거래 대금 현황 - thefairnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHVS1tZktXMzE0ZDBEaXJqOFJuakN5MmR1M25YRGVHbEg1OGtEVngwN2NfOUFwb05Ua29IN0xlN2tmMVdJb3lkb3BSX1JydWlDZVUyc19KWmw1cXJ0WmV6Wm1SYk1aVUREbXoyU0tuckPSAXRBVV95cUxQc2hZRUFydVFpSmg1emwwLWZPZjNIb2duUTEtZ01QY2ltODdwdHhYdGx0clpDc3JLR05pXzRPSDQzRjZnc3NZNTRTT1dic0tHUl9yNk1RcjJ5dU56c0JNdUtLVklIMmhHejkteTJ6bzMwanNVMQ?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 15:00:00 GMT",
+      "source": "thefairnews.co.kr"
+    },
+    {
       "title": "코스피, 미 기술주 호조에 2.52% 반등 마감…코스닥, 800선 회복 - 프리진경제",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80cnN0d3p3bHkyd0ZhSGFuRjdmTE5Kajc5T0ZQdG83clFZZzhzSXBlenRpb19XcDh0TUdncjlFNDF6SzBzUmYyY1hFblZoN3g0ZHhpeVhVX0lqZUw5b3pZMHRHZW1zRy15allTOA?oc=5",
       "pubDate": "Fri, 10 Jul 2026 10:40:36 GMT",
@@ -31,12 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR1NmaFNBclVYT0I0Sl9vbUpCWEtLNWNMNmdPZW9BaVdPcFRPemdEbXJLMXRkZ3dsU1ZFTTZWQTQxbHB3Yk1Zc2g3dEJDZldSTktzM2xXQTU0UnlVNmlSOXFfbHJXeDM0YkdmSG5tcVJvX29qbmV5ZS1FaDR3V0N2d2YxZzdTb1g5TzAw?oc=5",
       "pubDate": "Fri, 10 Jul 2026 09:18:06 GMT",
       "source": "조선일보"
-    },
-    {
-      "title": "\"코스피 7,400 돌파… 반도체 업종 회복세에 주식시장 강세\" - 공감신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05TTVEYnJTRmNfQW1zVi13NGRRd21xcWNoWnVzMnQ3VFZteWkwUXdmcnZXX3JyRXBfbWFBcVY0Z2tjSG1hNVZibVFHZWU3WVhfSm9RLWlidUhyZXBmUHo0VUZDT3o1WlBo?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 09:11:21 GMT",
-      "source": "공감신문"
     }
   ],
   "cat-coin": [
@@ -81,8 +81,14 @@
   ],
   "cat-etc": [
     {
-      "title": "“당규 어긋나” vs “결선투표 일종”… 與, 선호투표제 또 결론 못내 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SRnpqYXcwZEJYYnpTLUtIcWF1OVduVVlGWnprc1JoU3V0SGUzd3ZqOWV2ZnFEMUg1RVY4emFmT3dKY25KUnR5NmJ2QmxUaFBNbzN2XzdQUE1aeUlOdm1xSUt1Zm5VdXRGQ1lhaEpPUlV3N0swZDYw0gFmQVVfeXFMUGxDYUhtVWJwS2paVzVWdXBnZ0pUNU9vcE1wWFhHZlNienUxWDJnUnc2d0ZIZnMtN2h5UzVGNENKX3A4ODhZSG44anpETmo1bVBMUmhfSDR0T213Y05KX0hrYVhVbWNR?oc=5",
+      "title": "이 대통령, 몽골 최대 명절 ’나담 축제’ 참석…오늘 귀국 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxVlF1TXFlUXBEYnhSSDI2cjMzbElTWlJVems4MWVlVTBQcVlTVnVlQUNESDJDLS12VGl5clBCR3JLX1J1UlV0SnlEakVSX2lKWEJFTHM2bWxMMFpxMVU1b1E5ci1xWFE?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 19:01:32 GMT",
+      "source": "연합뉴스TV"
+    },
+    {
+      "title": "적정 보유세-대출 규제-공급방안… 부동산 ‘7대 이슈’ 공개 논의 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aQ2cybHAzRzcxc2JNNjRkS1I3TUpjVHdZdmZzR3o0ZzQxc1ZYVmtSaXJHV1dOR0pOOVJXOFFUV2RJUmFhV0J6ZUVIM2RDbExLLXN2aU9RcTJGWlRKTnBTaGpVNVhuLXJGbU1zcW1FeGVJeDRGSG9j0gFmQVVfeXFMT2tqem9KbUR4MWR6MFJxLWJCVzA3Y1JiWGRiS0tkSUYzVDZTdEx3R2dtWUJFSy1WaGVxWlhyZjY0RmhXcmI1Y0wyZDJ6dEdaeF95ZFlsbFJtdGZhUXpfQmlCU0FXLXJ3?oc=5",
       "pubDate": "Fri, 10 Jul 2026 16:40:00 GMT",
       "source": "동아일보"
     },
@@ -93,16 +99,10 @@
       "source": "한겨레"
     },
     {
-      "title": "네타냐후가 건넨 이란의 암살 첩보, 트럼프 재공습 불질렀나 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDNiNEFJYV8wMmw0UTlZUlRmLWVfM0x2Y2VGYUswX3R1SWFUTnRUa2hZQkxRN3ZoNWJXTVhVMEVjZ1dEamdDeHEwUTlQMEJ2VGNJbWJxZ1RvUDk1OG5YQkVCMjNPUmlBVUFHTE91aUkwclB0Z0MydVJUcUptakNPQW5iSHQxeVNTMTNCbUUzamVjY1FhVm5lZ3ZmUzViUQ?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 15:40:00 GMT",
+      "title": "아파트는 토허제 제외… 땅 투기 차단에 주력 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkhEZzNjUFJ5amxTczNXWGVfQ2xHMU5IX3o4VU41T25mdTV4Z3l6Q29TdW5RSlg3eHVXYmt1QUc3Z0c1SFZ2cHlNMzdKQWd4ejhZQVZUaVRqOVMtUzRYVnVsSndVYmpLODNabm5TQWpzY29pVVhuSU44emI3TGF0NHhramtQNV9l?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 15:50:00 GMT",
       "source": "조선일보"
-    },
-    {
-      "title": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSFB6TVVVUDByX3hrdk5tQmlwbVQ1Q1VzYkFaM183aEtNTDFaX0tkSUZlNERGTDUwVDRYcG1HbVlmclNoeDF3NzBSaEYtLUctU0VMOXNtQkNESHYyWWt2ZkFOTTVUQlU2S3c?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 14:38:00 GMT",
-      "source": "한겨레"
     },
     {
       "title": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
@@ -111,5 +111,5 @@
       "source": "조선일보"
     }
   ],
-  "updated": "2026-07-10T18:05:34Z"
+  "updated": "2026-07-10T19:55:54Z"
 }
