@@ -1,6 +1,12 @@
 {
   "cat-us": [
     {
+      "title": "[EBN 오늘(11일) 이슈 종합] SK하이닉스 나스닥 데뷔 성공, 미국 증시 기술주 강세, \"반도체 피크아웃 없다\"는 최태원 - ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2bnhGb0hZQTFlUUtzZlg2d3pPanFTX252STlsZ0JvMU1abkNadDJLRUgwQVVyZjNSQkU2WENzMzJhVDZveXp1ODJ6emxLT3A2YkhWV09GNERpRXZGQU15RW1BZUxEMExG?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 08:38:45 GMT",
+      "source": "ebn.co.kr"
+    },
+    {
       "title": "SK하이닉스 美 나스닥 화려한 데뷔…외신 \"역사적 상장\" - 진일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuZVFFaWJTWk1zSVNLRGh4dHhUejlHVndrNlBuV2UyUURzcTFYSlk2MWRwcTE5SkxDR0NGdURod2YxZFRUNUgwcTlzZlBwYWkxSXFXeDdzOTZzb1NnVVp2emk1bFB5ZmYwQTljcXZuaw?oc=5",
       "pubDate": "Sat, 11 Jul 2026 04:27:25 GMT",
@@ -11,12 +17,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTRDZvYTc3NXNPZDE2bWdkWU9fR3Q5TlFCaXpVWkdVaGx4UmFvWVZoWEpYQTRDZWpXM3BrYVdEUWs2WEZQQmNYa2F3UG0wUF9CTzhZejI0RU0zbFRoVERjaFVBRTd5Ql84SHk1eQ?oc=5",
       "pubDate": "Sat, 11 Jul 2026 00:57:21 GMT",
       "source": "프라임경제"
-    },
-    {
-      "title": "SK하이닉스, 나스닥 데뷔 첫날 13% 급등…뉴욕증시도 상승 마감 - 코리아리포트",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NZ2NtSzBIamdZd0M4aWFNZWU0ZF9IdVFLbkpNS0RzTTlaOENSM01VRkRHU0JWa1Q4WWMxbWxrcG5OaGEzeEN2NU9zT0lGR2V3WXdPbHVHLUFuaGhvcDdPMXMtcE94Q2ZPYUdMdEt6RFY?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 00:47:23 GMT",
-      "source": "코리아리포트"
     }
   ],
   "cat-kr": [
@@ -27,19 +27,25 @@
       "source": "매일경제 마켓"
     },
     {
+      "title": "이번주 공모주 청약, 에이치엘지노믹스 1개사 - 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUWnhSNGo2bUZRbXRmWk1KR0swZE5zODUxTVZUWG5ELW1OTWJkZy1NdmdsYUpMTE03c1BZeGFRUVdER2M3S2Jqb1NVZzFhMTllVkE3SDZ30gFYQVVfeXFMTWo0NWI1Y3lKNHNmVmNLX1c4UjRCRm9iM0k0Z2JiZE04Z2N4WUpsUGhYaU5JdVV3ZGIzbHdwbVg4S0tDOXJOZmtZU2xBRlVlZHJNT0J2QkRldg?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 15:10:00 GMT",
+      "source": "데일리안"
+    },
+    {
       "title": "SK하이닉스(000660) - 매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNWJDQ0NwVy1WSDFmV25aXzhuUE5lODVGOXI5TTFiNlBrR0JjekRFTkJDOVBSa1lMV3hEcWgzZUZmbkZZaHdRa3g3MzNHdXV3Nk80d1ZpYWZLMHBueUgyeHRzZWpvNi1mX01MSE9iVngxeTlWSTNEbXJ6ZS1OcUdLVmZhU1EzbE90ZzdZek9YM1Y2Qk1RTzE4?oc=5",
       "pubDate": "Sat, 11 Jul 2026 15:03:38 GMT",
       "source": "매일경제 마켓"
-    },
-    {
-      "title": "[증시 동향] 출렁이는 변동성···사이드카 속출에 서킷브레이커까지 - 이뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11dEM0cXNkNVJtVGNScDR4UU5zNm5oZDV3dGNxUVhfMFRWOUJhU2ZxS0ZuYU1FYlVCeDlQU2pIcUVDQzQ5Tk16LTVnZTB2OEVKZjFMbUh6RjZUY0I5SzVrZ1dZR0tjX2YzcThscXZJa3VPTlNt0gF0QVVfeXFMTXV0QzRxc2Q1Um1UY1JwNHhRTnM2bmhkNXd0Y3FRWF8wVFY5QmFTZnFLRm5hTUViVUJ4OVBTakhxRUNDNDlOTXotNWdlMHY4RUpmMUxtSHpGNlRjQjlLNWtnV1lHS2NfZjNxOGxxdklrdU9OU20?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 13:03:40 GMT",
-      "source": "이뉴스투데이"
     }
   ],
   "cat-coin": [
+    {
+      "title": "비트코인이 6만 4천 달러 선을 되찾으며 암호화폐 시장 시가총액이 10일 만에 1,700억 달러 증가: 급등세를 이끈 요인은 다음과 같습니다 - Bitcoin News",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOdV9Qb0ZwMjBHamQtVF9rVkd1SnJFMkxUMjhOcml0N1pHSnh6ZHdqY0d2NTVwRDRiTzJQdUI1a2hEbTdzUlRZSGRsX3BSWThYVTlFOEpwQl9mdzR0ZmV5VEtwc2tsNnRhdkNCemNaWGliTnFXTm5EVEU3aWpHeVBxd3pCQkVyQjMxWWpscU1uN2Z5bEhFSEVtRlJTM2w1UjMybWJvZFUzRlJ1VUk5T2tvLWVkLW5BUUpkSFNTRENYTF9iVEE2cE9wanBmeWtxeFNLOWpuamI2ZlZISW42TDBadldJWFlYYkpDNjYxcXdsOU84dW5YemtZM2Y5aFRRZWk3bk0wV1hpejQ4T3Fub1FMbDBiNUZCeGQ1aWd1ZFNwb0Rpdmoy?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 15:27:50 GMT",
+      "source": "Bitcoin News"
+    },
     {
       "title": "[자정 시세브리핑] 암호화폐 시장 상승세… 비트코인 64,318달러, 이더리움 1,811달러 - tokenpost.kr",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VVTdwSkRSajVlWm1uRWd5TDhhbTBZTkdZVHBtVlZDYWF5U29uSXRaLURVYkZhVGV2ZWdoYkNVbHhtTWlzU0dWSlprbktsR1RtdlZqZ2dKR3DSAV5BVV95cUxNVHYxbzBRX1dvbDRaUnoyeTdrdi1qZWoyT3N2QUo4VzU1MlRVa1g1ZE8wMzRzYUFoa25LZUdyYnhwdHFHSkJmZXM0ZXBKQmFwejFEMkR0ZHNIM0ZFSzhn?oc=5",
@@ -51,12 +57,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNnh5SF9ZZm92d1d3NFY5YkxNdW5JdHN0MDhSb2FhWUl0Yy1KSG5lWGY5OVAydGtZNk5wYTBMaXA5UEdxWlRPMkxTZ1NBcXltdWVfUmR4eUJfSUprODFjNVQ3am1oNVNQaGpBNXJ5SnAyd0NJT1FFZWtsVFNhS1U1bVJB?oc=5",
       "pubDate": "Sat, 11 Jul 2026 14:49:37 GMT",
       "source": "BeInCrypto"
-    },
-    {
-      "title": "펙스쉴드: 해데라에서 525만 달러가 유출되어 이더리움으로 이체된 것으로 추정되는 취약점 악용 사건 - Bitcoin News",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMk1jazdZUmUtbjlOb3k1SkROLUJGcloxVGF0ZTF5d2VGWVBRRmtSR0lvZ21TWDVIR1FZNUlyYUNaNjJ1QUlVX01ha1BnRTEydUF3VHRaTkptUnhUVW9DMXpmMjV2RmRxTUtibkQxdlRVenRCQ1Z0YmQxcldvWGJzUmpLSnFpdUgxQ2lqV04zeGh5VGhreS1ET3J1VU9jMkRzc2lOMEpfbmNiVmdQRWhJWW5YZ0gwOXdXaE92c2NnNW5YZk1DZ2h3YjRYNnhEMXM2bURfM3RRLUNINVhYRVdIcFBySV9lS3lzaVFIYw?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 14:27:50 GMT",
-      "source": "Bitcoin News"
     }
   ],
   "cat-land": [
@@ -81,6 +81,12 @@
   ],
   "cat-etc": [
     {
+      "title": "엑스박스 진영의 어쌔신 크리드를 꿈꿨던 라이즈: 선 오브 로마 - IGN Korea",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYnZRUnhHYmxuTENScXFNSGJ0aVVSRlU3cC1YNU1GeG90NjdOaURKSnhack9UQVh3eEx0UFJWbzVWOVVuUV9OcE9BUjNJdGdyMG5VbklESzFGclVYR1FuVmVTcVNnRHlOV180ZlRyZHRiR3FzVUZOOHVNNWZrV1RPeGc5NENjR3NNWHR2OFNWelRvRmtSWm92bUVsWkpwTlRzY015QUhibnhnckk3MUVldmNtMjNDZV9zNGZCOERfZ1d1SjA?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 15:31:00 GMT",
+      "source": "IGN Korea"
+    },
+    {
       "title": "속보 이 대통령, 나토·몽골 순방 마치고 귀국...\"방산·경협 성과\" - YTN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTS1dMWThLOWpuRTg1SHBNeHpVVVlWLS1KUTR4djNyM2ZidEVmTDlacWNCZjZSY3JHQ2NacmczbnlNaEhfVDNtVXBsVXdBZmQzcjZOVVFKa3p2bHJjckE?oc=5",
       "pubDate": "Sat, 11 Jul 2026 13:47:00 GMT",
@@ -90,12 +96,6 @@
       "title": "“숨 막히는 더위” 경산 40도…일요일 최고 37도 ‘찜통’ - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qVE9FcENYSzZqWV9ydWY1bGY2NzFQWGFuMVZ2WHdvcTkxRTR3UFBRWXBfejlmRFpUU2xHam01MllpT1hSbjcyeXA0d1RaSkd5T1pNMWEtb29ETzNCbG5xVVJ6Vm1ORmFGdTlyVA?oc=5",
       "pubDate": "Sat, 11 Jul 2026 13:45:00 GMT",
-      "source": "한겨레"
-    },
-    {
-      "title": "은하의 ‘숨겨진 속살’, 적외선으로 포착…수백만개 색깔로 빛나는 별들 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRV0ctWG16UGpodWJUTjNtNHJFV3BGeEdFNTRhMjB6eGFaSVN4QUgtb0lHQ3hHXzdIYVA0dFY5YXhwNGVZMFQ4TkRGLVFLb0JDNGRkMVlHaFVWSVlqa2w5SE5vaFVRUTNqc3VXb1QzNTZVUQ?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 13:09:00 GMT",
       "source": "한겨레"
     },
     {
@@ -111,5 +111,5 @@
       "source": "한겨레"
     }
   ],
-  "updated": "2026-07-11T15:27:00Z"
+  "updated": "2026-07-11T16:14:34Z"
 }
