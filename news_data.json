@@ -1,8 +1,115 @@
 {
-  "cat-us": [],
-  "cat-kr": [],
-  "cat-coin": [],
-  "cat-land": [],
-  "cat-etc": [],
-  "updated": "2026-07-18T22:36:14Z"
+  "cat-us": [
+    {
+      "title": "[뉴욕 증시] 中 AI 모델 美 앞지른다는 소식...뉴욕 3대 지수 하락 - 한양경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pSURhTXc2QzN4TWVVMG9IWGp6R2dUWnNVYnlpSm56STJqcnp5cW9ueDJDZ3V3WGdsWlhYUDgyTmRBQWcyNDZEQV9ibFc1NjdLVExyeWlNNVkxeXlVdTBETWVlbHBlZGVxZl9ZY0txdzI?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 00:58:19 GMT",
+      "source": "한양경제"
+    },
+    {
+      "title": "워시 의장 침묵에 7월 美 연준 금리 결정 안갯속 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX01SdUd4VTZuUnk3TllMZWxIaXRiU3ZkMW5LNlVZakNRMjlwbU5YVkhLX3RaZDd2M3RCVGNiN3Vnc1lrMDBGWVlPcXJsb29kSkNnYlRXc0NpZ3Fzd2oyRkZkcWxnMUtNeXdxSXZWSDVPVDI4VUFaX21odHlrSExMOTJydHlVbWpj?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 21:00:00 GMT",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "“연휴에 웬 날벼락”…코스피 블랙먼데이 오나 [머니+] - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51alJCalh1R3RUSWs0LUFYUDlEa2RLOVdLQ29CNWppR0xpY3lpdndCVHRLMml6dUl5VnNyRE9qQW9yQzVGZUJCeG5USEFJX3FFU1JSdVlZNHlOUXc?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 03:22:04 GMT",
+      "source": "에너지경제신문"
+    }
+  ],
+  "cat-kr": [
+    {
+      "title": "'9천피'까지 치솟았던 2분기…5대 증권사 영업익 5조원 전망 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZTHdHMG1QeUVLckFwX3BHZkU2Q2tFTkxYYmgzUFlxNWx4Q2JvWFpLMmNHOEh4QXUzWmh3QmFSd0hMbGtCVnAtSEFnOTRTNkNIU3RiNnhaU1J0ZFpVWEM0edIBYEFVX3lxTE5ZTHdHMG1QeUVLckFwX3BHZkU2Q2tFTkxYYmgzUFlxNWx4Q2JvWFpLMmNHOEh4QXUzWmh3QmFSd0hMbGtCVnAtSEFnOTRTNkNIU3RiNnhaU1J0ZFpVWEM0eQ?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 21:05:01 GMT",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "[증시전망] 코스피 반등 열쇠는...알파벳·SK하이닉스 실적 주목 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzc05rc1pfSjJMcXUzMXhDLTlpZFc1TXJUcWgwV0NWWndpTEV5UU5VVnpTc1U3RG5XMEVUODlVa3Qyd2tBaVpKdGVSX0htYW55T240YnJvdXdNUFhTN3Y0MnUzdG9zNFFUNFZRYXI4SlhMUjg?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 23:19:00 GMT",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "[코스피·코스닥지수] 거래대금 급증에 증권사 실적 '역대급'…5대 증권사 2분기 영업이익 5조원 돌파 전망 - 한국강사신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KN2JZSnliZE10N2g4TEFENjFoUXpVQ29xQVZzczROMTlRRjdtQ09fdHJJdS1jSEVjVFEwcTRFSGUyN2dJbXQtaE9pSTM3OWdvV2p6dFN3TEdiWkZiREg0RFNmUEd0S2kweGU2ZnVhQlI?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 22:10:36 GMT",
+      "source": "한국강사신문"
+    }
+  ],
+  "cat-coin": [
+    {
+      "title": "업 비트 시세 산업에서의 역할: 현재와 미래의 중요성 - 성공을 위한 로드맵 - les24heures.fr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UdzFBcGlHWFpNeFZueXJ2TU9RQlNDTDAyWkFhUndwdTRTVFR4X3pyQU9UMElvYWkxcjZJVnBNaXJ5d2ZYMmFHWVNpY2xaUDVJMkN5V2ExdVRZaWlULVZXMU1hOXFiSDRP?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 16:44:55 GMT",
+      "source": "les24heures.fr"
+    },
+    {
+      "title": "SEC 코인 규제 확 푼다...토큰화 시대 본격적으로 열리나 | 엠블록 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jaHVrWHM5eHdZYk5BZVNncDYzSDBfY1dHTkk1YXMtMExvSmNROTNaSEY2UWo3cUVHUmUtOVpVQXJ3Yk5PazE1dDFDcTFkOHd4b0Ew?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 19:26:14 GMT",
+      "source": "매일경제"
+    },
+    {
+      "title": "Re (RE) 가격, 차트, 시가총액 | 코인마켓캡 - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96eDNZVVBaYTg2Y3RYdUZZVTkyWDhwaGlvRjdXZWVlZnlYVGNiaDRKNHdYLWpMQWZ0aVJ4RE1hYy1HT1VVLXJUOTcxVFNmQkN0dG8tb19LZ2lNNmpsRlAzSS1n?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 13:38:07 GMT",
+      "source": "CoinMarketCap"
+    }
+  ],
+  "cat-land": [
+    {
+      "title": "집값 치솟고 대출 어려워지고...2030 주거불안↑ - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSSUh1dUNmT1hkX1g3R2FySzYtSFM0dm9tYzhGOG9ULTlJdzhFamZULVJNMi1XOXdmWGF2V01NaDVySG9Ga0Jzd0tYSDNVUkVBcmdKcjBsNHkwLU8zNkE?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 21:35:00 GMT",
+      "source": "YTN"
+    },
+    {
+      "title": "'부동산 정책 제안' 1500건 육박…李대통령, 국민토론회로 '집값' 승부수 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9adk91bTNrVkNtN3hlWFNVbkE1UGJXaGhLcTZPcklpeUxLelRrZTBGWkQzcmlDeTFMTnN2TG96eVNlOFAyQ3BzbXNueGk3WkZFXzl0VzZob1pGOTA?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 20:05:00 GMT",
+      "source": "뉴스1"
+    },
+    {
+      "title": "일산 집값 죽 쑤는데… 덕양구 신축은 그나마 선방 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdHpySWdtanhKZUtjT3pvNWxvdTRZMTQtbEJKY1RnNmYzQ211ZXdIbVg3YUt1bXhoWUFpUDhuVjZUeGpjUU5RZV81WmJLT0w5VTRobjZvOE5BSEsyd1YwS2Y1ZFlnOVVnSjU5Q3YyRHRpb3h2OExQaV9hSWdnMkxSS0E4dU9sUzF6YXdjdHA2ZDJhOEhfb05xRNIBrAFBVV95cUxNaFZCZC1NcjE5cERWVUtfSmRBRmJfM0MtUnlwVkhoSFpxTlFzTU5lUGVkZmRleHZBUksxX1VxOHIzaTlvLU5OT3B4SmYwaHhfN0FRT19LZWVMV2Vpay1EVDBnRjVvY2Z0d2NUVGdZdnZBOUhweXRacmo3dlhfa1JzRDBvRW5lYzJyUXpfTmRXZ0dtckRTMTdTcW1TaFRtcjgzR1BsVm53MURXV1ZM?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 21:00:00 GMT",
+      "source": "Chosunbiz"
+    }
+  ],
+  "cat-etc": [
+    {
+      "title": "인천 쿠팡물류센터 불길 안 잡혀…국가소방동원령에도 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1haS1wSjUtaVE0VXM0SU5DX1pwS0QwdGhUX2cwVnNQY3lIdHV0dnExY1MzdmZqREFvNWROTUVYaWU2MkhnQVlDdi03a2lCQkpRM01ZLWJ1ZnZqR1ctbWNvbGM2MUk?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 22:30:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "‘MOU 파기 선언’ 이란, 중동국 맹폭 “미군 2명 전사 1명 실종” - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGFWVHB4eVhyN2ZYODBxWENUSXhDWmUzb1RsOXV5U1FGZ1ppdTdPemU2UjVJQTVkNFdqY0V3azdXZW9UY0tiWWJ3RkhSNGZGVXhBSXplclh1RWs5dmc4X21hUG1WR0hYajM3eVBpcUVmUVNMc2t0VmlmQkJfVHl6cG42emg0ZVlXTHF5bHNSb2M1NmJYaDQwdnQ1c2ktQQ?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 20:42:00 GMT",
+      "source": "조선일보"
+    },
+    {
+      "title": "일요일 전국 최대 100mm 장맛비…남부권 폭염·열대야 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RWVE3U3c1dnRTcFhkNDN2RFFuMjRId3BkUHlsUHJ2eXFEd3JmZE1odDJfRHJrQ0k1YmozVFpybUo1VzdCWDhHUURkQWtlNWp4OFlEQkV0Mm5rNzc3Vy14bWstZzA?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 13:06:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "트럼프 “美 넘어오는 캐나다 산불연기에 관세 부과하겠다” - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90MXlJc0hqTTY4c3o4TnNMT0EteVdQcG1XNjhPUzhkVWY0YmRwb2s1S3ZWZ0J0d1BMZVc4Qkt0NGcyWGxCSFNKbUVHd3VQNk4wYWxlWDB3ekdxUFNvNWdxZ2JzYmVzTlhTZ05qZ0toWmhDQ3PSAWZBVV95cUxPTVhPekdWa3BqSVRGc0lvNG5odHBaUjhGekY4OTJCV3RKa0g3QVhXT004dmdrcV9EVUM2eEw2cmtRSnlVdU5wUk5rWEdJeUdoQlh1TDVRbTR4REVLcHVnYk4teHVqM0E?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 03:11:00 GMT",
+      "source": "동아일보"
+    },
+    {
+      "title": "‘자격 미달’ 송영길·김용, 전대 출마 예외적 허용…바닥 드러낸 계파 갈등 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fZnpnOV8yWHZVUzBoZUNEUGo0OFVOMC0yaFdNYUxnQmF4U0RRcExZdVpwNTF3U25DVUhtMGtJa1JDMmxIRzYwV296ODNzT3FCZ1JrcVZsb0phRmk4Vnh0VHV3OVlLaC04TEZjMEVuQm9oNTJY?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 14:25:00 GMT",
+      "source": "한겨레"
+    }
+  ],
+  "updated": "2026-07-18T23:39:35Z"
 }
