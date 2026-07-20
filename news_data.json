@@ -1,8 +1,115 @@
 {
-  "cat-us": [],
-  "cat-kr": [],
-  "cat-coin": [],
-  "cat-land": [],
-  "cat-etc": [],
-  "updated": "2026-07-19T23:44:44Z"
+  "cat-us": [
+    {
+      "title": "\"돈 쓴 만큼 벌어왔나\"…빅테크, 'AI 거품론' 시험대 오른다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50WmRZVnc1VkRvVGlkZDdabW9vTDdISzdfeGEzdWVJYVFXdDEyWk9KcHpOZHl1MUJSRGY2ZEdCT3NSNjlRbzFRaWJRYl80d3c?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 22:33:00 GMT",
+      "source": "v.daum.net"
+    },
+    {
+      "title": "미·이란 확전에 금값 하락…\"연준 금리 인상\" 우려 부각 - ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0QzUtc0FMR0hRTEZ5dXJDT0QwanRxazAwaFpmRnotSVg3cU9PX00tQS1ZUmhDRFN0aEFWNVRoSlZ6bGhTRjl4T1ltVDFpLWt5OXFRWGh1bXNUOXd4bnlhQXRTaDRneDFf?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 01:03:26 GMT",
+      "source": "ebn.co.kr"
+    },
+    {
+      "title": "[개장] 美 빅테크 실적 핵심 변수..애플 시총 1위 탈환 By 알파경제 alphabiz - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3Z1NCV3RfRlRJU2N3M3d6aG5Kc3o3VWFUOUZySEw1bHF2djRwQThJTGRuRXVwUDFrMk5lRUdTazByVThQOU5mZmUyTTg0aVZ2a1UxMmRGRHk2N2pDeW1aUHNsMWNZdDg0aW8zNFZ5S0I?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 23:37:00 GMT",
+      "source": "Investing.com 한국어"
+    }
+  ],
+  "cat-kr": [
+    {
+      "title": "[마켓뷰] 美 증시 약세·중동정세 격화…코스피 변동성 커지나 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81c2x6ZE5TdlZyajhpbVhzcF9XWjF3NVd1RWMwR29OZVdhVzZwa2xlZ3dISGJNWmN3bXRlZnBFUXJjeHhkclNmSThBc1NmcHRsNzJ3T2h0RlRQeTRiUnZST9IBYEFVX3lxTE81c2x6ZE5TdlZyajhpbVhzcF9XWjF3NVd1RWMwR29OZVdhVzZwa2xlZ3dISGJNWmN3bXRlZnBFUXJjeHhkclNmSThBc1NmcHRsNzJ3T2h0RlRQeTRiUnZSTw?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 23:12:15 GMT",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "[주식전망] 삼성전자 급락에 반도체 한파까지…20일 증시 ‘긴장’ : 네이버 블로그 - Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa192YklXNWtXODFZQXIwYUd6T0ZjWjRmOWE3WV80a2VyWmRIa09iMUZUTjRVRkVrelQ0VThMdnNYRkI1dHczcHpFT2oyWGZOZW10blgzel9nU2IxWjJwdlRPVFAxX2dkRklzZFZNVXY0XzlBcVpuRnJOLXZTVnd6MnJiQVhYSHBqeWhUV1ZIcw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 00:56:44 GMT",
+      "source": "Naver Blog"
+    },
+    {
+      "title": "코스피·코스닥, 내림세로 장 출발 - 한강타임즈",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBud2tRQlFGWGl4dWp5LWw3VjJCX2RQTlcxQTFla01SZ1NqbUFLQ2JyN21CaTM5QUVScmhhVkxJR3IxTThKcEhOM3NoNFg4aGpUNmpnc1N2c1NMU3VqejF4TF82SG1qTGV1X3pJ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 00:34:14 GMT",
+      "source": "한강타임즈"
+    }
+  ],
+  "cat-coin": [
+    {
+      "title": "2026년7월20일(월) 비트코인 시황 - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRGJ4MFZzZmtWdXRPdWNUN0JGRVRnTlhHLWRBdlppOWJNXzRCZjgtNDY4THU1RVdhcnR5XzRVcGw3aXMxdDl4aXg0Q1dmRzJwT3JrSEYyeW9tcEhqUjVCblcxZHg1YmdTWHYyb2wxMlM3ZEx3a1AxT19yM3pjVW1uNHh3?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 22:53:00 GMT",
+      "source": "네이버 프리미엄콘텐츠"
+    },
+    {
+      "title": "엑스알피, 2014년 이후 시총 10위 유지한 유일한 알트코인 - 블록미디어",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzhMTWNWVUlEd05ncnhDaUJTWURMMmtWbERvSXUzZ0lQeHJiTXl0R04wSVJPbkNQOGdUYUdJeHNGWnYzSk81c2NxYzgxRmw2c01xS0FDYks?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 12:33:00 GMT",
+      "source": "블록미디어"
+    },
+    {
+      "title": "비트코인 시세…이더리움·리플·솔라나 가격 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KbWhJbXBabWYzODh0QjhXVWhLRGRqblZsTFdZZnpNTk9DcDFUak9rVEJpUjQzQW5pMmVXa0xXVWZYUVM4RXBFY0wzSDhnY2M?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 20:27:27 GMT",
+      "source": "v.daum.net"
+    }
+  ],
+  "cat-land": [
+    {
+      "title": "'동탄 아파트값' 6주 새 9.7% 뛰었다...서울도 75주째 상승 - 뉴스후플러스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRRTZYNG8zWXlqbzUySGFBelRzXzVNM0Jqei1sTUxZdDJmX2V0NlJxVUYyeHRaa1o5NG1nNUE1aU5IVEY0S3JaX0NPeTVDX0RhLWJ3dmRhTE5DOS0tR21tNlQ3Sjd3RzNjSlF0VTdn?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 22:30:00 GMT",
+      "source": "뉴스후플러스"
+    },
+    {
+      "title": "서울 아파트 가격 75주 연속↑…부동산 대토론회 D-4 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15S2xtY0d0amF1bmVNWDhKQmNyY0FmRWUxb2NJWDZWeFgwRS1QNk04NFdRNFREREJFM2lNdU1senNaRzRJTks2LWhiVlRjSUNMbXYwRUptZndORDhyY1ZZ0gFTQVVfeXFMT0tfTk9pZkdMaW0zeVlGLWtYUFRZSEhVa3BJTWJNUWZsOHFaVm5fV2pYTWEzMWdNdHpaRnoyelRpOUdyR0hLWWxLZ2JCcHBXMGk0MjQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 01:00:00 GMT",
+      "source": "서울경제"
+    },
+    {
+      "title": "전남광주 아파트가격 상승…첫 통합 조사서 0.03% ↑ - 남도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kWmZOOXNubTZoWF96V0NzMmRabDFSQlk4d3RESW5Xck1WUG1ybXBvXzk5Z1YwOUVfV2EzVjBRdlZwYjRWaTAxVEpHNzl2SjJqRU9IRTcwN1BVcEcxWE9QSm5YSDhUQjFOeVNTSdIBcEFVX3lxTE5zY08zME9FcURFOHFsbVBWTnVGZmhBcnFuSWNwX09BRDdpZXRpVEdZclI3azktZkNtMUVHTURnOUthWFFjRHJEUDB1Tkd2UDE4Vjk1NHlfNFdnWW54MGVDVXZlYU5SNmFfazFFM2VZeW0?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 00:40:00 GMT",
+      "source": "남도일보"
+    }
+  ],
+  "cat-etc": [
+    {
+      "title": "47시간째 안 꺼진 인천 쿠팡 불…붕괴 우려에 주민 168명 대피 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQOUJEaXpFVGo1cHJKdUtmazNuSTFlbHdJT0dITmEzZ3oyeDhPNWVzeVhSYjhFWUFpdFZuREh3cHM4RlNtVkZuQ190LWhGWHFXSjFBdlk2TFRUZw?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 21:23:55 GMT",
+      "source": "한국경제"
+    },
+    {
+      "title": "민주당 전당대회, 이번엔 ‘기탁금’ 논란…대통령까지 “청년 부담 클 듯” - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TMU9WdktJUnU4Yi13UUFfVEVEd2Q2V09yVjIxaDlHVEVMT0lrbDAxbnNIelgxUTlKaThiTk1iU2plX29OMjZVckdJWGJzT3FubDgtR0VDeU16cG8?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 21:17:00 GMT",
+      "source": "KBS 뉴스"
+    },
+    {
+      "title": "[속보]검경 합수본, ‘노태악 부부 해외출장’ 중앙선관위 압수수색 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuSHM4X05DeVJfZGxCV2lyRXJxcDdsdmlmTEsyRndEenZPV3ZPdzZubTdDOG5JRTFxbnRGeU5zVTZXMEV4SjRZRTRGVzdIVWF3M0lVLTBLbUxLUdIBX0FVX3lxTFBpY0g0QUFjSUZ1RTJSS0x6STFROFJPMWdsSEpBdGpNTzVnZlBnQmJqZFhNU203em9WcGZGRFlHbHpXVFVQQzJUN0tkQUpnN09UcnduSW5YU3lKMjVDb3lV?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 00:33:00 GMT",
+      "source": "경향신문"
+    },
+    {
+      "title": "[리얼미터]이 대통령 지지율 48.4%로 소폭 하락…민주당 43.1%·국민의힘 40.0% - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfU0VUZHlfb09qT00ySHRkWjhtZ0hXWXVqRTZReEFiWmpHYm5BUGNNUWpCYWdsdURKeDd6WF9sOEpqYXpnOVpTSWNFNEtyT3g0X1lfc2swU24xQdIBX0FVX3lxTE5kX2xzaU1xNTJHdUdvaXJScEJPZjFvcEVsQzlBR2NoM3JWSFprNWdPVkViazlYOGZhSjlzQjhSRGhCQ0txeTk1TXl5TTBrR1h1a2pjekEwZnFTZ3NaenRj?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 23:58:00 GMT",
+      "source": "경향신문"
+    },
+    {
+      "title": "[속보] 미국, ‘9일 연속’ 이란 공습…군 사망 1명 또 늘어 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sUzJQZXo0QmhsODQwQVdZbmJuaVFxUWZIb2gxMEJ6WHE5NGVOSzRISXFyTjI1WlZQVVBURU5MbF9nWUQ2RGV3bm9EaUhmSmxmNFlPUjNlOVJHLXRJcDg1bVo2T0JENGpYdFJWQlRhMzRPb2s?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 01:04:00 GMT",
+      "source": "한겨레"
+    }
+  ],
+  "updated": "2026-07-20T01:21:43Z"
 }
