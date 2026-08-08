@@ -1,8 +1,115 @@
 {
-  "cat-us": [],
-  "cat-kr": [],
-  "cat-coin": [],
-  "cat-land": [],
-  "cat-etc": [],
-  "updated": "2026-08-08T21:18:01Z"
+  "cat-us": [
+    {
+      "title": "뉴욕 증시 3대 지수 상승…S&P500 사상 최고 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSlhBRG82akhWeGFIUWY3LWhzdUIyaGJRQ1hkWTZVOFYwdHg0cnJKZUZWQ1VVVVp3U1dzaWg0aEhjdW1ldnBnVkdhdkNBU3J2SGoyVHdzNVQtVXBOa0g4atIBYEFVX3lxTE5CSlhBRG82akhWeGFIUWY3LWhzdUIyaGJRQ1hkWTZVOFYwdHg0cnJKZUZWQ1VVVVp3U1dzaWg0aEhjdW1ldnBnVkdhdkNBU3J2SGoyVHdzNVQtVXBOa0g4ag?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 23:39:19 GMT",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "美 고용쇼크에 9월 금리인상 급제동…물가가 최종 변수 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUE0Mkh1RjFUZk13V0ZId1NJNzNYeklpMVowZFYtV1F3LWNGdzFxMTdNcTNocVRvbTNRRHltOFQtLVdpYUhIZENNZkhiQlpacG4tMFlMcUQ1VFBWcjBwUWlldVpCWG9md2FZTE1zNG9WWXN5NHhmeVFCbXg2UDNHc3pac2dFMjdC?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 18:00:00 GMT",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "AI 거품론 ‘솔솔’… 美 빅테크, 명암 엇갈려 [반도체 쇼크와 외국인 ⑥] - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LblgzcXVTNGV2QWJaM3I2RlFwcjNna2d4YW9lTGRvNTJJUVdCdzltS1BIUS05LUpZcGIxbEd5cXRza2FjN2pXQzFlZTBXckoyeHNmSXdEMC1IVzRsSjNBbGhtUXpNY2JvZFFZSDZLX03SAXRBVV95cUxQelhfSy1ab1Fjc1ZIVm1QNWFRTkVvd0JGUnE3eWM3UFVOMWo1dGpGLTVvSTJ1bVV3dll1X3d4T01DSnMyV0JtOVdWSUZoaDNJYlNfLTJvUHJ2ZjBnaVF2ankycW5fT181Z0pSVE93dTJleWRNVg?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 22:00:00 GMT",
+      "source": "IT조선"
+    }
+  ],
+  "cat-kr": [
+    {
+      "title": "[마켓인사이트] 韓증시, 역대급 변동성은 다소 완화…반등계기 찾나 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wakJHVEtVaG13VERYaEdWQ0FiR2s3NF9SMFNwTGNWc0lMMk93RV9Ya1FsTl81clo3NE9UTDRLa1BNX0NGN3NQUTc2Z3VIdUlzSG5fWmxmbmdlOXPSAWBBVV95cUxOUW1vel9xblk3NWJ0bWxJUGNIN092Y1FTcXRzaGdQLXh1d1JIN1BraWl3cXhVSXVIdzYtNXloS1pHZi1PX2RoYVlYa1dwQzlNMEt0RU4tY2F4cDlrNEgtMjQ?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 21:00:16 GMT",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "[주간증시전망] “외국인 언제 돌아오나”…역대급 반등 뒤 더 막막해진 증시 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2wyZTZsLVV2NkRFRlpYSzRqcm92SlhFcFVZZGxZU0RRRjRBZ3psZUVfWlMyZUk3SnJRWlYwa1RiWklsQXpCb2NVSXBMSm16MS1VMDQtOVRxRzh4djBibU1idTJuZzY5dkNfR2tHRnFKTW5pdkxlbXVuSjl4RndWOXRZUTdCTlNH0gGcAUFVX3lxTE4wX1h0TWlQVkNOV0QwRERPdWllS1dXd3A4TmdzVnNQWE5ENW9RZHBCbFJDZ2hCaXdLZEZWVnJvTko4d2ZEdmNoNnVtWUVRWmp3Y1c5al8ybGtBU3lzcE9fR1BLNXluaV93dXBXOXpDaVo5OE4zTFpBTmJWN0hFU1VoSkN4bjlrdWZ0RkNDZk9JcGgwV0ZUSzloTkNoUg?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 21:03:10 GMT",
+      "source": "Chosunbiz"
+    },
+    {
+      "title": "[코스피·코스닥지수] 급락장 휩쓴 한국증시, 변동성 진정세…반등의 실마리 찾을까 - 한국강사신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZR0tLMjNXSGNRZWx4MkVhN2FfMlVDZGNvZUtFYmNVamgwejZWSjRpOUNxeXNsOFRWNG95Y0thSVNUd3ZlWjk2NEY0MjVVZE9Nd3VPaFAyOXNMc01wOXJneW5CVTMtWWpDSWxqZUNQeVk?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 21:23:59 GMT",
+      "source": "한국강사신문"
+    }
+  ],
+  "cat-coin": [
+    {
+      "title": "[속보] 비트코인 시세 6만5000달러선 거래…도지코인·리플·BNB 등 알트코인 강세 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyTVZLR3gyeVU4T0ktZ3V6dkNDXzMtRkp4V3REM2RtUUhtZThpbkFtY0RUTDYtNlFkUWxDTXphWERkRUFLWWdVNHJucmZQaU8tNVNLOGUxdkRGdmZ2VnhacWJvN2ctdEhs?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 15:00:00 GMT",
+      "source": "CBC뉴스"
+    },
+    {
+      "title": "미국, 이란 암호화폐 거래소 2곳 제재…IRGC 자금세탁 연루 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GNVgtelBQdW8xaFlFRlo5R3Jxd2s2MWhkOUdXTThMcTVkM1ZrcG45NmVEZzh5SWpMVGozMW1yNlpJQVRaR2l3a1VoS0hhV3RNVWNCSk9ZUGFXNEd3VG1wc3pBbVFJZWFZT2h1Z3JfNHlRU3dWWEE4?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 09:13:35 GMT",
+      "source": "BeInCrypto"
+    },
+    {
+      "title": "Re (RE) 가격, 차트, 시가총액 | 코인마켓캡 - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96eDNZVVBaYTg2Y3RYdUZZVTkyWDhwaGlvRjdXZWVlZnlYVGNiaDRKNHdYLWpMQWZ0aVJ4RE1hYy1HT1VVLXJUOTcxVFNmQkN0dG8tb19LZ2lNNmpsRlAzSS1n?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 13:31:46 GMT",
+      "source": "CoinMarketCap"
+    }
+  ],
+  "cat-land": [
+    {
+      "title": "서울 아파트값 상승폭 커졌지만 강남·서초 주춤 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91MUpCYWdheVBSMWl2MTZILWZ5NnhBY2RxbGJpeXd1ZEoxWlh1NE05Q0RZY0RGUlRlT0NoZ3UwMm9fa1VFT1YxUHdnX3I3OVNYTm9PczJNbS1aMDVpQl9zUmVWSQ?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 15:00:35 GMT",
+      "source": "더구루"
+    },
+    {
+      "title": "[부동산 이슈] 2026 세제개편, 무주택자에게 기회일까, 부담일까 - 시사캐스트",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94WElpWjQzT3ZFRXZ5eVdZM0pkTmN6WHlaVzRyMmFiMi1STnJjSG1zMDUwRVdOVXZmR1NwWEdVbUNieElWTng3Q1pIdC1NSy1XZWpyeENnUHNHMDgwTjdFamFFc2U0Y3M?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 05:55:30 GMT",
+      "source": "시사캐스트"
+    },
+    {
+      "title": "[2026년 8월 1주 주간 아파트 매매가격 동향] 전국 아파트값 0.09% 상승 - 서울 비강남권 중심으로 오름폭 다시 확대 - 재개발재건축매거진",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjQ0ZxMzhtVGZhNG1VOXRMdmJRM1FhX2w4UXFiZkFSdHZYN2tiVks5R2kzYmxHV1RQRS16dFVqTWpUc3BkWTIwOEl4dV9aQjhSRU9XYXBtRWI4Q2JmSEc4OU0xaE5tLU1ZMndz?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 02:15:16 GMT",
+      "source": "재개발재건축매거진"
+    }
+  ],
+  "cat-etc": [
+    {
+      "title": "김민석, ‘0.87%p’ 차이로 누적 1위 탈환…제주·인천서 정청래 제쳐 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IMklPaHRuWFhMY0VvTk9TSWlSUE11dF96bkxGYzF6TnpLOHRFdWJmYnBGQkV1UWMxeWZVeTN2VWdSNlF5bndaNHJJY2tIaVd4YWt4VXlzRmNMbmlySmZNTTR5YW9DMElTajJNbzNmby1Ybm1x?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 14:29:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "40도 역대급 기온, ‘35도 안팎’으로 내려온다…폭염 특보는 계속 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05aElJZTRZaVpwWnBsRzgtY1NKTldyWFM4NEdSa1AxVm90bEN2UFlxMGVocnRwd0JqM04waWtLVVp0UE5BNUx0cjQ5ajZLVHNXX0dKeHJDVF9oVzd1c0RkRmR2RGdkM0YyVi16aw?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 12:44:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "\"공습만으론 목표 달성 어렵다\"…미군 수뇌부, 이란전 출구전략 모색 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12bDRsd0RsZzVURGk3WUtISnZqZ0kyMlNJa0dKbkc2RllORFdhdExWWElaQ0FxVmw1Qk12ZGdySWdnTW1LUVVMMWxIU0VBdXB0UDI4VmRtNEdSdw?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 06:38:51 GMT",
+      "source": "한국경제"
+    },
+    {
+      "title": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tYW1SaGhfcmxhVEpzRFY1Uksyek81M2VReEYwVDd4RExBWU12dFA4MDB2SEtYcldmSnJvVHVTUHRDWGJOTDdudGg3QUZ0Qlp0ZmF0WG1aS0lud9IBX0FVX3lxTE9YbG1mUVpQX0JsY1hkTmlnMXFIMXI2d25XQWhuREtXTGFjWkdaekRNSlA3M3V2dDBDd01kMzJ4YnJidWU3TWItQVZZeXFnMUZySmJIMHkxTElUSUZsUXZB?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 05:23:00 GMT",
+      "source": "경향신문"
+    },
+    {
+      "title": "손현보 목사, 백악관서 트럼프 접견‥美정부 인사들과 잇단 접촉 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84RlVVOFpYVkwxbFhnZVM4T0JyTUE5TXFsNmd2NlVmd3ZfUlNXemV1UUR4eDhIb0xybWIyM0RDeU1kM21NblM1ZWxZRTBZSjEzbEhrSlBBVno1UHppalFYN2NtdXB6R3FuTVRzQUQ1RUc0UW1m0gF0QVVfeXFMT2hRRW9aOXFRQkMwTHQ4VVA4S1ljd1hpMHp4by1HRUEyZUFxX3FnaXVOZ1VVeGdjSUJ3cE9hOFRhZm8xR1Jxbl9nazZsSk14aEtWZVFrV3BKeXZQNVpPZ3RNSEZUMmxLV2Fla2RJeWZ1dkVKdmE?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 06:43:46 GMT",
+      "source": "MBC 뉴스"
+    }
+  ],
+  "updated": "2026-08-08T21:51:30Z"
 }
