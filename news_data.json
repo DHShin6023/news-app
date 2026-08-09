@@ -1,8 +1,115 @@
 {
-  "cat-us": [],
-  "cat-kr": [],
-  "cat-coin": [],
-  "cat-land": [],
-  "cat-etc": [],
-  "updated": "2026-08-09T20:18:08Z"
+  "cat-us": [
+    {
+      "title": "미국 증시, 금리 동결 기대감에 상승…S&P500 사상 최고치 - JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10X3JSMGFHSmhEcU9FNGstTGwzLUZ5M2xwMXdsb2lPbllOaDI1V1RDUFhfMy1nbE9qOVdSY2EtSklnZEdvOHBsTC1xQVVEeUl3anc?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 05:02:39 GMT",
+      "source": "JTBC"
+    },
+    {
+      "title": "美미사일 고갈 속 물가지표에 달린 금리인상론 [트럼프 스톡커] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43ZTZJS0VJWkZrbDdBd0ZFWkhUWjZ3T2tuQ3hQNkdMRmpMZ0d5OVVHTlBZM1hKNXNOQUlPOGRVTW1VQi1LRk5VV1Y2cXZOcnQ0OGfSAVNBVV95cUxOOC1wZlE5SW1SMlZqZkE1TllDSWctcm9nRnZwNVB3RkJZTm1XVW9wQ2VuWmVmUF83SHIteFNjTjBrNmhXTkg1a0lEZFRkV3YzM24xdw?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 20:30:00 GMT",
+      "source": "서울경제"
+    },
+    {
+      "title": "\"올해만 430% 올랐다\"…월가가 M7 버리고 택한 'P7', 돈 쓸어 담는다는데 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NSkZVMW9RLW8xbnBiQjN6c3NTVUhvaXJrZmxfX3NqQk5qTFE3V2V0MUl6QWQ0LW1lRHZIVHNEbFBsSmxFc2VJNjhyb3F3NW1ha3VZ?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 05:43:00 GMT",
+      "source": "네이트"
+    }
+  ],
+  "cat-kr": [
+    {
+      "title": "[데이터 뉴스룸] 코스피 1500조 늘 때 코스닥 시총 12조 증발…대한광통신·주성엔지니어링, 7개월 새 시총 증가율 300% 넘어 - greened.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQRlFiUVJfTS1kRHRIVjRTbFFQWEh4ZDFicGdqME9BZFNwTmdHQVMwOTVBU3FoQmducmN0QVVPX3l5N2NNYmtWaWlMeWdJdF8tM3Z1TXhwX3A0dWdIUVE1YmxiLXZ0NG5u?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 14:08:08 GMT",
+      "source": "greened.kr"
+    },
+    {
+      "title": "[주식전망] 삼성·하이닉스, 외국인 차익실현과 수급 가뭄… 반도체 대장주 반전 계기 마련할까 : 네이버 블로그 - Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1NBdnRXZFFDZm1UcTN0cERIZVpaTzVWbHlEdkk3a3M1NVdUa2gxbG44LVRZYU1SeGt4X2dpQXJ3dkhvRXJrajdpYVUybU42cXJaYlVJazA5b2NiUXlhQjlCcW9mZW5aMGRiY05DQWNNeUJCS0c5NXF2UkZiQ2lqU3FGU3dHajlySG1WMlg0VQ?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 15:09:03 GMT",
+      "source": "Naver Blog"
+    },
+    {
+      "title": "개인 투자자, 올해 국내 주식시장 순매수 200조원 넘었다 - yna.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wMlpNcFhpb2V2Vm5Ed3JzcVJ2Wm4wX2ZuWWdEVGpURE9sZldQbVZEODZpdWM2ejlwcHA4MFozOXplM3NYc1NzZjRON0hJTzN4S3Y5YmZtZWhoUFRWRUVuX9IBYEFVX3lxTE4wMlpNcFhpb2V2Vm5Ed3JzcVJ2Wm4wX2ZuWWdEVGpURE9sZldQbVZEODZpdWM2ejlwcHA4MFozOXplM3NYc1NzZjRON0hJTzN4S3Y5YmZtZWhoUFRWRUVuXw?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 21:20:01 GMT",
+      "source": "yna.co.kr"
+    }
+  ],
+  "cat-coin": [
+    {
+      "title": "이더리움(ETH)1,920달러대서 숨 고르기…좁아진 변동폭 속 다음 방향 탐색 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GTWZMa09keDI1aTNxeVQxcnhVM1pVOF90LUJQcXVIQ3JSX1N3aDZwRTZiNkRVR21uTUdWbDlPUTZjSVBUWmJmSjlaR25hRm5rcXhKVDd2cmdlX3pEYUk4em1feXY5OHdK?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 15:00:00 GMT",
+      "source": "CBC뉴스"
+    },
+    {
+      "title": "이더리움 매도 물량 감소…달러 포지션 증가 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nLUhzNUxiUkRGLVR6VlJIWXlnV2xiY211SktZTVR1dERscFJady1mQ1lSclhYQ0Nncnc1aWxFV05RT3JCLS1yMDNTRW9LX3RIVDJwa2FjNGVNaHE1OFJCYUVsT2phVnZQdXU4VGYzU3lXVlFJalE?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 10:38:24 GMT",
+      "source": "BeInCrypto"
+    },
+    {
+      "title": "비트코인 9118만 원대 하락, 미국 '암호화폐 명확성 법안' 투표 연기에 가상화폐 혼조세 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNbC1uWmRjZ0d6Y3V6WExjU3ktbkZSbEhFX3hkTlhaSDhkTngtQkJwakREUElocWZlcDM2elVWcWFTRUJOYUdUb2VFeFoyMTFrVW9jdW5YR3VKLTlLOTJvZy1XNE5jT2pTV0E5UHJQdjRGdnM?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 04:47:38 GMT",
+      "source": "비즈니스포스트"
+    }
+  ],
+  "cat-land": [
+    {
+      "title": "벌써 ‘덜 똘똘한 아파트’로 이동 중? 시장은 李 정부 뜻대로 움직일까 [주말 Q&A] - 더스쿠프",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWb1Q4U19xX1lzVGRuWVczSkdfRk5pQlp2cXJ5RU1zRWVQTWxiR3dHLXBKSWh2SzJOVVppYWR0ZldxUEdENmU0WGI5UDBZNTgwcTBoYjlZdkp0eW9pRkkyTXcyNGVxYldwLWtpWTBB?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 06:08:41 GMT",
+      "source": "더스쿠프"
+    },
+    {
+      "title": "힐스테이트 안양 펠루스, 신혼부부 위한 특별분양가와 폭넓은 혜택 제공 - 한국AI부동산신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80bEFQVVV6U1JoeXNkem5IeG81amtOUDRKcndkSFhZQVJzdmxlQ3RQNl9UY05DcmYwNmtqU3pfLXUySnJGM0NuQXAxTDc?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 07:35:07 GMT",
+      "source": "한국AI부동산신문"
+    },
+    {
+      "title": "전북지역 아파트 매매-전세값 오름세 계속 - 전북중앙",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIbHZqOXJVQkhfRlo3U0Q1bXJWRUpnTGtfSlA4RUlZZ3FheC1ZY2xFNk9qLVAxR0NIVHNEX1FTUjhqbWtWaXE2bmpGMHU0cWpYd1AyWng4UmNPd2pMVml2ZWdQNUVXeFnSAWtBVV95cUxOVkNWbkJtcnZzY2pCT3pMMWZWMHloWXc4cl9SRDgxdjV1amNUVWZfYnQ0WWZlRkNoV0dhX203XzFCWlVZYlhVVmZYSUxGR21vbjZQWTdYVkRGdHVFTkRiS1lCWDgwbzA3VGFyVQ?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 08:52:11 GMT",
+      "source": "전북중앙"
+    }
+  ],
+  "cat-etc": [
+    {
+      "title": "김민석, 승부처 호남서 유리한 고지…선호투표제·여론조사 변수 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01REZha2wzLVNWTjJXUHpzYmk0RmFEZEV6RTczOTlpbmhNaVMwWE1jSExlSTAza3ZRdm95QjM5MjRwWHc2QVBacldNbWRjcHQzTDNLTVBpa1JDcVFHYzFLRU01VE55OEZsNWNWajV0cDZ1OGlFenNR0gFmQVVfeXFMUFhhSEhpd2RJdkEyczdFc19mQ1htOC1JVEx1dUloSlJrTVA1NmpQS082RFZTTmx5YS1tOUxZRlozMjBDRmN2WjZHalNjLVhCY1RqU0k0NVR1YUdoeDRfY2thYlRXR25R?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 15:00:00 GMT",
+      "source": "동아일보"
+    },
+    {
+      "title": "보유세 강화에 지방 매물 증가…수요 부진에 '침체 장기화' 우려 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOVE41WXVaYVR5YUtEOGxHUVBsb2VDRHd5TjdlUTg0QkFyQ200d2NoWi1tV0NRRXpVOHhidGVXd0daeDRTeXNHVVRhOG9aeTM1VFJCc0MtS3RCcTg?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 20:20:00 GMT",
+      "source": "뉴스1"
+    },
+    {
+      "title": "젤렌스키 \"방공체계 부족, 한국 도움받고 싶다‥외교당국 접촉 중\" - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFaWVBeFJzVXJkaVZUZXBkUWlMSWViVDJNRnFOOTJ1WTZzZjI5TGU4Qm9fZHRYOFhMVjhkbXVDUzdSaUxzblQzeUlVS1hDLTZYSnZ2Sk9aRDlrVGU3REM5YU8wdXN6cmZoYUsxemY4Slp4SEJW0gF0QVVfeXFMUGtDY1BvUG0zVnhyWUJvTFZHMkg3YjR0S1lNODlBbjF3RlFSOFZhMVJSSWlaRk9vT0QzWUxCS3kzS3c3TUJ1NHhLdHRuM0lWWXZDLS1nSzBudi1lYkNHSWlHcl9NLTVyOVoyZ1pLcUptSTNEZDc?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 09:59:07 GMT",
+      "source": "MBC 뉴스"
+    },
+    {
+      "title": "골 깊어지는 민주 전대, 청와대도 우려…“갈등 봉합에 시간 걸릴 것” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ITl9TTERqQmM5X2VuS0pnbmRqeEhyVUVLUFkwU202dTZtLS1WcG1kUWNENFpXNktMY21Jc29xWWxIN2x5QjJ4TFNOY2tpd2hoOVUxQzZCdEthc0VJcDFaQkl3Q0RfZkU4VU9JNy1CQWkxV1Rj?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 16:06:00 GMT",
+      "source": "한겨레"
+    },
+    {
+      "title": "‘한낮 35도’ 이리 시원했나…서울 연속 열대야 17일 만에 끝 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13eXZBc0w2YTMzN3BlaHhabUFKbkRodDlkMHl1NFJkS3p3MXh1aHpsZVp2clZvWm90ZFZweHBpV3pYQ2w3dXUwYUxuOUpENnRQdXhEM19lWEZOM19qdEp2WGRFd2tJNEZpS1dzaw?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 13:11:00 GMT",
+      "source": "한겨레"
+    }
+  ],
+  "updated": "2026-08-09T20:57:42Z"
 }
