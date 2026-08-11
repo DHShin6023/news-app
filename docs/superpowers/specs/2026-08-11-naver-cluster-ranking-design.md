@@ -121,19 +121,45 @@ news-app/
 ```python
 Article
     title      str
-    link       str        정규화됨 (쿼리스트링 제거)
+    link       str        원본 URL (사용자에게 노출되는 값)
+    key        str        정규화 URL (이력 조회용, §7 참조)
     published  datetime
-    outlet     str        언론사명
+    outlet     str        언론사 식별자 (origin에 따라 형식이 다름 — 아래 참조)
     origin     str        'google' | 'naver'
     rank       int        소스 내 순위 (0-based)
 
 Cluster
-    articles   list[Article]
-    origins    set[str]   교차 점수의 근거
-    outlets    set[str]   매체폭의 근거
-    best_rank  int        클러스터 내 최고(최소) 순위
-    newest     datetime   가장 최근 발행 시각
+    articles     list[Article]
+    origins      set[str]   교차 점수의 근거
+    outlet_count int        매체폭의 근거 (아래 참조)
+    best_rank    int        클러스터 내 최고(최소) 순위
+    newest       datetime   가장 최근 발행 시각
 ```
+
+### outlet 형식 불일치와 매체폭 계산 (수정됨 2026-08-11)
+
+두 소스가 주는 언론사 정보의 형식이 다르다.
+
+- **Google RSS**: `<source>` 요소에 언론사명이 한글로 들어온다 (`뉴스웍스`)
+- **Naver API**: 언론사 필드가 없다. `originallink`의 도메인에서 유도해야 한다
+  (`newsworks.co.kr`)
+
+같은 매체인데 문자열이 다르므로, 단순히 `set`의 크기를 세면 **한 매체가 두 곳으로
+계산되어 매체폭이 부풀려진다.**
+
+도메인↔한글명 매핑 테이블을 만드는 방법도 있으나 국내 매체 수를 생각하면 유지보수
+비용이 크다. 대신 **origin별로 따로 세고 최댓값을 취한다.**
+
+```python
+outlet_count = max(
+    len({a.outlet for a in articles if a.origin == 'google'}),
+    len({a.outlet for a in articles if a.origin == 'naver'}),
+)
+```
+
+한 소스 안에서는 형식이 일관되므로 중복 계산이 생기지 않는다. 실제 매체 수를
+과소평가할 수는 있으나(양쪽에 서로 다른 매체만 있는 경우), 과대평가보다 안전하다.
+매체폭은 25점 배점이고 5곳에서 상한에 걸리므로 영향이 제한적이다.
 
 `rank.py`는 `Cluster`만 알면 되고 Google/Naver가 무엇인지 몰라도 된다. 따라서 실제
 API 호출 없이 손으로 만든 클러스터로 채점 로직 전체를 테스트할 수 있다.
@@ -179,7 +205,7 @@ fetch_news.py — news_data.json + seen_history.json 저장
 교차   = 40 if 'google' in origins and 'naver' in origins else 0
          (cat-etc: Naver 유사 기사 3건 이상이면 40)
 순위   = max(0, 35 × (1 − best_rank / 20))
-매체폭 = 25 × clamp(len(outlets) − 1, 0, 4) / 4
+매체폭 = 25 × clamp(outlet_count − 1, 0, 4) / 4
 ```
 
 | 언론사 수 | 1 | 2 | 3 | 4 | 5+ |
@@ -280,8 +306,25 @@ Naver API 429(호출 초과)에 대비해 **1회 재시도 + 백오프**를 둔�
 
 - 48시간 지난 항목 삭제
 - 예상 크기: 최대 600개 항목, 약 70KB. `news_data.json`과 함께 커밋
-- **링크 정규화 필수.** 같은 기사가 `?ref=naver` 같은 꼬리를 달고 오면 다른 링크로
-  세어져 감점이 누적되지 않는다. 쿼리스트링을 제거하고 저장한다
+
+### 링크 정규화 (수정됨 2026-08-11)
+
+같은 기사가 `?ref=naver` 같은 꼬리를 달고 오면 다른 링크로 세어져 감점이 누적되지
+않는다. 그러나 **쿼리스트링을 통째로 제거하면 안 된다.** 국내 언론사 CMS는 기사
+ID를 쿼리에 담는 경우가 많다 (예: `articleView.html?idxno=123456`). 통째로 제거하면
+해당 매체의 모든 기사가 같은 키로 뭉개지고, 저장된 링크를 그대로 쓰면 404가 된다.
+
+따라서 **추적 파라미터만 선별 제거**한다.
+
+```
+제거 대상: utm_* (접두사 일치), ref, oc, fbclid, gclid, from, igshid, spm
+그 외 쿼리 파라미터는 보존
+추가 정규화: scheme는 https 고정, host 소문자화 및 www. 제거,
+             경로 끝 슬래시 제거, 남은 파라미터 정렬
+```
+
+정규화 결과는 **이력 조회용 키로만 쓴다.** 사용자에게 노출되는 링크는 원본
+URL 그대로 저장한다. `Article`은 `link`(원본)와 `key`(정규화) 두 필드를 갖는다.
 
 ## 8. 테스트
 
