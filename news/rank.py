@@ -7,6 +7,17 @@ from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 TRACKING_PARAMS = {'ref', 'oc', 'fbclid', 'gclid', 'from', 'igshid', 'spm'}
 TRACKING_PREFIXES = ('utm_',)
 
+HALF_LIFE_HOURS = 6.0
+PENALTY_PER_EXPOSURE = 12.0
+PENALTY_CAP = 60.0
+NAVER_MATCH_THRESHOLD = 3
+
+CROSS_WEIGHT = 40.0
+RANK_WEIGHT = 35.0
+OUTLET_WEIGHT = 25.0
+RANK_POOL = 20.0
+OUTLET_CAP = 4
+
 
 def _is_tracking(name):
     low = name.lower()
@@ -118,3 +129,33 @@ def cluster_articles(articles):
             clusters.append(Cluster(articles=[art]))
             token_lists.append([tokens])
     return clusters
+
+
+def freshness_score(newest, now):
+    """반감기 6시간의 지수 감쇠. 0~100."""
+    age_hours = max(0.0, (now - newest).total_seconds() / 3600.0)
+    return 100.0 * (0.5 ** (age_hours / HALF_LIFE_HOURS))
+
+
+def cross_score(cluster):
+    """양쪽 소스에 다 있으면 만점. cat-etc는 네이버 유사 기사 수로 판정한다."""
+    if cluster.naver_matches is not None:
+        return CROSS_WEIGHT if cluster.naver_matches >= NAVER_MATCH_THRESHOLD else 0.0
+    return CROSS_WEIGHT if {'google', 'naver'} <= cluster.origins else 0.0
+
+
+def rank_score(cluster):
+    return max(0.0, RANK_WEIGHT * (1.0 - cluster.best_rank / RANK_POOL))
+
+
+def outlet_score(cluster):
+    steps = min(max(cluster.outlet_count - 1, 0), OUTLET_CAP)
+    return OUTLET_WEIGHT * steps / OUTLET_CAP
+
+
+def importance_score(cluster):
+    return cross_score(cluster) + rank_score(cluster) + outlet_score(cluster)
+
+
+def history_penalty(count):
+    return min(count * PENALTY_PER_EXPOSURE, PENALTY_CAP)

@@ -129,3 +129,81 @@ def test_cluster_newest_is_latest_published():
     ]
     c = cluster_articles(arts)[0]
     assert c.newest.hour == 11
+
+
+import pytest
+from news.rank import (
+    freshness_score, cross_score, rank_score, outlet_score,
+    importance_score, history_penalty,
+)
+
+NOW = datetime(2026, 8, 11, 12, 0, tzinfo=timezone.utc)
+
+
+def at(hours_ago):
+    from datetime import timedelta
+    return NOW - timedelta(hours=hours_ago)
+
+
+def test_freshness_halves_every_six_hours():
+    assert freshness_score(at(0), NOW) == pytest.approx(100.0)
+    assert freshness_score(at(6), NOW) == pytest.approx(50.0)
+    assert freshness_score(at(12), NOW) == pytest.approx(25.0)
+    assert freshness_score(at(24), NOW) == pytest.approx(6.25)
+
+
+def test_freshness_clamps_future_dates():
+    # 발행 시각이 미래로 오는 피드가 있다. 100을 넘기지 않는다
+    assert freshness_score(at(-3), NOW) == pytest.approx(100.0)
+
+
+def test_cross_score_requires_both_origins():
+    both = Cluster(articles=[
+        make_article('서울 집값 15% 급등', origin='google'),
+        make_article('서울 집값 15% 올라', origin='naver'),
+    ])
+    google_only = Cluster(articles=[make_article('서울 집값 15% 급등', origin='google')])
+    assert cross_score(both) == 40.0
+    assert cross_score(google_only) == 0.0
+
+
+def test_cross_score_uses_naver_matches_when_set():
+    c = Cluster(articles=[make_article('천안 교회 어린이 사망', origin='google')])
+    c.naver_matches = 1
+    assert cross_score(c) == 0.0
+    c.naver_matches = 3
+    assert cross_score(c) == 40.0
+
+
+def test_rank_score_scales_and_clamps():
+    assert rank_score(Cluster(articles=[make_article('가 나 다', rank=0)])) == pytest.approx(35.0)
+    assert rank_score(Cluster(articles=[make_article('가 나 다', rank=10)])) == pytest.approx(17.5)
+    # 20위를 넘어도 음수가 되지 않는다
+    assert rank_score(Cluster(articles=[make_article('가 나 다', rank=25)])) == 0.0
+
+
+def test_outlet_score_steps():
+    def cluster_with(n):
+        return Cluster(articles=[
+            make_article(f'서울 집값 15% 급등 보도{i}', origin='google', outlet=f'매체{i}')
+            for i in range(n)
+        ])
+    assert outlet_score(cluster_with(1)) == 0.0
+    assert outlet_score(cluster_with(3)) == pytest.approx(12.5)
+    assert outlet_score(cluster_with(5)) == pytest.approx(25.0)
+    assert outlet_score(cluster_with(8)) == pytest.approx(25.0)
+
+
+def test_importance_is_sum_of_three():
+    c = Cluster(articles=[
+        make_article('서울 집값 15% 급등', origin='google', outlet='A', rank=0),
+        make_article('서울 집값 15% 올라', origin='naver', outlet='b.co.kr', rank=0),
+    ])
+    assert importance_score(c) == pytest.approx(40.0 + 35.0 + 0.0)
+
+
+def test_history_penalty_caps_at_60():
+    assert history_penalty(0) == 0.0
+    assert history_penalty(1) == 12.0
+    assert history_penalty(5) == 60.0
+    assert history_penalty(7) == 60.0
