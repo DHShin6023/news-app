@@ -159,3 +159,31 @@ def importance_score(cluster):
 
 def history_penalty(count):
     return min(count * PENALTY_PER_EXPOSURE, PENALTY_CAP)
+
+
+def pick_representative(cluster, history):
+    """이력 적은 것 → 최신 → 네이버 원문 링크 순으로 고른다."""
+    def sort_key(article):
+        return (
+            history.get(article.key, 0),
+            -article.published.timestamp(),
+            0 if article.origin == 'naver' else 1,
+        )
+    return min(cluster.articles, key=sort_key)
+
+
+def total_score(cluster, now, history):
+    """0.5 × 신선도 + 0.5 × 중요도 − 대표 기사의 노출 이력 감점."""
+    representative = pick_representative(cluster, history)
+    exposures = history.get(representative.key, 0)
+    return (
+        0.5 * freshness_score(cluster.newest, now)
+        + 0.5 * importance_score(cluster)
+        - history_penalty(exposures)
+    )
+
+
+def select_top(clusters, now, history, max_items):
+    """점수 높은 순으로 max_items개 클러스터의 대표 기사를 반환한다."""
+    ranked = sorted(clusters, key=lambda c: -total_score(c, now, history))
+    return [pick_representative(c, history) for c in ranked[:max_items]]

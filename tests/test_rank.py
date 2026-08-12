@@ -207,3 +207,77 @@ def test_history_penalty_caps_at_60():
     assert history_penalty(1) == 12.0
     assert history_penalty(5) == 60.0
     assert history_penalty(7) == 60.0
+
+
+from news.rank import pick_representative, total_score, select_top
+
+
+def test_representative_prefers_unseen_article():
+    seen = make_article('서울 집값 15% 급등', origin='google', link='https://a.com/1')
+    fresh = make_article('서울 집값 15% 올라', origin='google', link='https://a.com/2')
+    c = Cluster(articles=[seen, fresh])
+    history = {seen.key: 4, fresh.key: 0}
+    assert pick_representative(c, history).link == 'https://a.com/2'
+
+
+def test_representative_prefers_newer_when_history_equal():
+    old = make_article('서울 집값 15% 급등', link='https://a.com/1', hours_ago=6)
+    new = make_article('서울 집값 15% 올라', link='https://a.com/2', hours_ago=1)
+    c = Cluster(articles=[old, new])
+    assert pick_representative(c, {}).link == 'https://a.com/2'
+
+
+def test_representative_prefers_naver_original_link_on_tie():
+    g = make_article('서울 집값 15% 급등', origin='google', link='https://news.google.com/x')
+    n = make_article('서울 집값 15% 급등', origin='naver', link='https://a.com/1')
+    c = Cluster(articles=[g, n])
+    assert pick_representative(c, {}).origin == 'naver'
+
+
+def test_total_score_subtracts_history_of_representative():
+    art = make_article('서울 집값 15% 급등', origin='google', rank=0, hours_ago=0)
+    c = Cluster(articles=[art])
+    clean = total_score(c, NOW, {})
+    penalized = total_score(c, NOW, {art.key: 5})
+    assert clean - penalized == pytest.approx(60.0)
+
+
+def test_select_top_returns_highest_scoring_representatives():
+    strong = Cluster(articles=[
+        make_article('서울 집값 1년 만에 15% 급등', origin='google', outlet='A', rank=0),
+        make_article('서울 집값 1년 만에 15% 올라', origin='naver', outlet='b.co.kr', rank=0),
+    ])
+    weak = Cluster(articles=[
+        make_article('국힘 주거지옥 몰고 등쳐먹어 논평', origin='google', outlet='C', rank=3, hours_ago=6),
+    ])
+    top = select_top([weak, strong], NOW, {}, max_items=1)
+    assert len(top) == 1
+    assert '집값' in top[0].title
+
+
+def test_select_top_respects_max_items():
+    clusters = [
+        Cluster(articles=[make_article(f'사건 {i} 대형 보도 발생', rank=i)])
+        for i in range(6)
+    ]
+    assert len(select_top(clusters, NOW, {}, max_items=3)) == 3
+
+
+def test_regression_stale_op_ed_loses_to_fresh_indicator():
+    """2026-08-11 관측 사례. 11회 노출된 정당 논평이 신선한 지표 기사에 진다."""
+    op_ed = make_article(
+        '국힘 與 청년들 주거지옥 몰고 주식계좌 녹여 등쳐먹어',
+        origin='google', outlet='C', rank=3, hours_ago=6, link='https://c.com/op',
+    )
+    indicator = [
+        make_article('서울 집값 1년 만에 15% 급등 규제 이후에도 상승',
+                     origin='google', outlet='매일일보', rank=0, hours_ago=2,
+                     link='https://m.com/1'),
+        make_article('서울 집값 1년 만에 15% 뛰어 규제 이후에도 올라',
+                     origin='naver', outlet='mdilbo.co.kr', rank=0, hours_ago=2,
+                     link='https://m.com/2'),
+    ]
+    clusters = cluster_articles([op_ed] + indicator)
+    history = {op_ed.key: 11}
+    top = select_top(clusters, NOW, history, max_items=1)
+    assert '집값' in top[0].title
