@@ -21,22 +21,22 @@
   ],
   "cat-kr": [
     {
-      "title": "[마켓뷰] 탄력 둔화한 코스피, 눈치장세 이어지나 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UUENlaktjVDdUT2xFRm14S211OTJrQTJEMEZzWnZRcmNJaHYzSE11MG5paVhqSHp3ZDB2ZndrTVN0ckNwS0ZWRTVZdDAxQjJXVjVqSHRxVDJVYXRZMDVOZNIBYEFVX3lxTE5UUENlaktjVDdUT2xFRm14S211OTJrQTJEMEZzWnZRcmNJaHYzSE11MG5paVhqSHp3ZDB2ZndrTVN0ckNwS0ZWRTVZdDAxQjJXVjVqSHRxVDJVYXRZMDVOZA?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 22:51:55 GMT",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "“대만에 밀린 코스피”…삼전닉스, 주가 띄울 ‘반격 카드’는? [머니+] - 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nMHJ4UUkyeFoxMFNTZXBpdEtQZzAtS19OQmtCcElFTUkxQmZyNWRGY241dEVEYzdXVEMxWGdlRkNaWUl1TWNfM3ZLNU9JODh4amlScjVHX3phc00?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 02:15:50 GMT",
-      "source": "에너지경제신문"
-    },
-    {
       "title": "코스피·코스닥, 오름세로 장 마감 - 한강타임즈",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MT21GbGhYRzNkdDRFZVdUbFByRi1jSlZhTi02dWQ5aFRtSGNiTmgtekoxMjk0OV90UkpwWnZWVTRTTk84Mzh0OU1XNDdaa21NcEFuT18wYzUxbTFYYUk5WmR4OFNlby04bmww?oc=5",
       "pubDate": "Wed, 12 Aug 2026 06:37:25 GMT",
       "source": "한강타임즈"
+    },
+    {
+      "title": "“대만에 밀린 코스피”…삼전닉스, 주가 띄울 ‘반격 카드’는? [머니+] - ekn.kr",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nMHJ4UUkyeFoxMFNTZXBpdEtQZzAtS19OQmtCcElFTUkxQmZyNWRGY241dEVEYzdXVEMxWGdlRkNaWUl1TWNfM3ZLNU9JODh4amlScjVHX3phc00?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 02:15:50 GMT",
+      "source": "ekn.kr"
+    },
+    {
+      "title": "美 하락에도 코스피 3.68% 급등 - mstoday.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XWENQaW01d1JENjczQmN0cXhGNl9oSmdaTENrMF9IaFNIUHlpdkFnVUYwanloMVNuWGtnQzNPeWRoUEZMV1JIc2JpQ2FxRW5obEJwTUp1TFRXWWpLS1FKWm1UMWNpNk1zQUlQNg?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 07:19:26 GMT",
+      "source": "mstoday.co.kr"
     }
   ],
   "cat-coin": [
@@ -47,10 +47,10 @@
       "source": "Gwara Media"
     },
     {
-      "title": "코인베이스 \"아부다비 FSRA 라이선스 취득…글로벌 토큰화 허브 구축\" - 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mUEcwLTlNbkxCNDhPMzNwUkdKa0pycVJDejNISnZxSHFNNC1TaTY4V3p5Mm1abHhTMjJCdTZlTi1kWVF5WDRhTEZBYmhuY0ox?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 11:27:09 GMT",
-      "source": "블루밍비트"
+      "title": "업비트, 9월 BONK 상폐…3년만에 최저가 - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tM3lTVUFpWkl2eThBdlZlXzlzSDNYV2xTMmx2cnFLSzU4dWxyOGk0N0pfWUNmamRZbk0xUUJCMEF0a25neGtIY1NVb3M5c2oyRW56Ylhmb245RGdtLWprMUhzcVhzT3ZD?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 06:37:45 GMT",
+      "source": "BeInCrypto"
     },
     {
       "title": "이더리움 유통량 4.8% 움켜쥔 비트마인… ‘독점·탈중앙화 리스크’ 경고등 - 블록체인투데이",
@@ -81,16 +81,22 @@
   ],
   "cat-etc": [
     {
-      "title": "전국 물탱크차 200대 경남으로… 밀양 등 14개 시군 급수 지원 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVm92QVhZQUszVlpzeXdYdkFLcUkzWmVRbjRLLXBLWFNPY1ljajZ1U2JTclFxcTFySEt1WU5kN3cxUDkwSGlPQkZWUEhFMEdEdkpRNjh6bnQ0VTNYOXVLRUFnMGZ4UFVKRGFIUXJCWDFfR3REV3o2djc4Rnh3cS1lY0lfT1Zjdw?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 01:23:00 GMT",
-      "source": "조선일보"
+      "title": "경남 가뭄에 '국가소방동원령'…물탱크차 200대·인력 400명 투입 - 대한민국 정책브리핑",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00QjdJVWszT1pndWFTS0xpVlQ0UTdadGE2NzVObGFTbzdiUFdnRF9fYUhLOC12a2Q4TThNOGlaWE45SEhsOWlHc1cwZkJVeG1VS2pmRTVJbFZaVTNxYldrdU51Ym9WNldCY1VlUw?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 06:56:15 GMT",
+      "source": "대한민국 정책브리핑"
     },
     {
-      "title": "정청래 “제 당선이 이 대통령 지지율 상승 길…60%대로 회복할 것” - hani.co.kr",
+      "title": "마지막 토론도 난타전…정청래 “치하는 아랫사람에 쓰는 표현” 김민석 “일본식 사전 읽은 것…동등한 말” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jNjE4RFI4NHRrMmtfOVRadGxpT0liSEFpM05Od29fY1dHX1RLdzNCMHNfOWMydDNTYjI2UmVCTURPd1BHWm9rRlZIdTJoWkVYekJWNXpONVhQQdIBX0FVX3lxTFA3c3J3Q0Fibmhtd3RHVGpFamxuYUU0S3dQaGp0V3h5ZjBpY1o0RFJBUHozVFdMaGRhcGpoeUNYNUVVelplZEo1dkx3bm1YckdaeWh6T2luM0N5djIwUV9N?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 07:40:00 GMT",
+      "source": "경향신문"
+    },
+    {
+      "title": "정청래 “제 당선이 이 대통령 지지율 상승 길…60%대로 회복할 것” - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wc0JuQm44QkN6MHFqbHZNLTVCbkMwMTQzWEttMlBrX24tbEpwVGxOQTgzZWZ3VnNhU2diNkRaVElQVmRHYTU4cDEwbW1xLVdLLWZhSGtyRXU3RU1Ca2lKMzdaTWwyWHpKS0xIZXlBUkZwWG9u?oc=5",
       "pubDate": "Wed, 12 Aug 2026 02:54:00 GMT",
-      "source": "hani.co.kr"
+      "source": "한겨레"
     },
     {
       "title": "인천공항 노숙인 퇴거에 인권단체 반발‥공사 \"자발적 퇴거 요청\" - MBC 뉴스",
@@ -99,17 +105,11 @@
       "source": "MBC 뉴스"
     },
     {
-      "title": "태풍이 남긴 비구름 동해안 최대 60mm…폭염특보 대부분 해제 - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EWUtYbF9UbDFmR0trVmtIcWxPdXg3bTQ1a0RoZVcya3B2ZFB6V0ZSXzI5Q0QwUTdrTjBrSmdKbVNPSUVTWEVFYzdCQU5lbHRWSEVlSVVxUU1CY3c?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 03:04:00 GMT",
-      "source": "KBS 뉴스"
-    },
-    {
-      "title": "北, 동해상 탄도미사일 발사...1주일 사이 2번째 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUdiRkhObmlOTE8tcUczYWNKeUFQMzNrZV90dUpiVHpTdEFvcTVLNlphazNBWFZMdzlGNmVocjlrTFJSd2lfOG5KOGVhNTZsZHZKOFVQdjJyc2wwd1NvaEZTRWRoYXdMMEpSTURoSk5ZeFpXbndSM0QxYm1mQmJ1VnFVMXo2RHRHVVBkallmUnN3Zw?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 21:13:00 GMT",
-      "source": "조선일보"
+      "title": "서울시, ‘연트럴파크’ 사용료 소송서 최종 패소… 철도공단에 수백억 줘야 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcWlkMDQyenhKcTZxTVp5dWJBbGZzVEQ0TGxPa3ZoT1JidFU1dlIyS2h2eTBxQzZXclBobng2TGdRREpVdHlSZ1ZhcDlJc3ZkT0RLR1lzc00wcVR3NlhjcV9UZUtIVVUwSzY4XzM0UnYtRERYMDBfX3UzUG1Zb25Cekt0b9IBlwFBVV95cUxOUXdZZ3FiWExLYVdySFBnTDdqRjFPTjlQT2NuY21GbEtnTXZ5eGRhREo1WjFRYWs1OU52X0JHbDVqcjduNldYOTVyS2JlLThud0xBaVdkZXh0TG1yazNkTGtwaDdPX2xwZHM1d3AwZXFpZnVseTVwVXh0MmZKeFdUNjBmRm1TWl8xamMyczdCa2l4RExnX0Vn?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 01:29:00 GMT",
+      "source": "Chosunbiz"
     }
   ],
-  "updated": "2026-08-12T06:49:36Z"
+  "updated": "2026-08-12T08:07:19Z"
 }
