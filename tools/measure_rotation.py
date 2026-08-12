@@ -11,8 +11,12 @@ CATEGORIES = ['cat-us', 'cat-kr', 'cat-coin', 'cat-land', 'cat-etc']
 
 
 def commits_since(since):
+    # --full-history 필수. 기본 git log는 병합 커밋에서 한쪽 부모의 이력을 숨겨
+    # (history simplification) 수집 실행분을 통째로 빠뜨린다.
+    # 2026-08-12 병합 직후 실측: 기본 조회 9건 vs --full-history 30건
     out = subprocess.run(
-        ['git', 'log', '--format=%H', f'--since={since}', '--', 'news_data.json'],
+        ['git', 'log', '--full-history', '--format=%H', f'--since={since}',
+         '--', 'news_data.json'],
         capture_output=True, text=True, check=True,
     )
     return out.stdout.split()
