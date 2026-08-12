@@ -1,6 +1,7 @@
 """뉴스 기사 정규화·클러스터링·채점. 네트워크를 호출하지 않는다."""
 import html
 import re
+from dataclasses import dataclass, field
 from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 
 TRACKING_PARAMS = {'ref', 'oc', 'fbclid', 'gclid', 'from', 'igshid', 'spm'}
@@ -58,3 +59,62 @@ def is_similar(a, b):
 def verification_query(title, max_tokens=4):
     """cat-etc 검증용 네이버 검색어. 제목 앞부분 어절을 쓴다."""
     return ' '.join(content_words(title)[:max_tokens])
+
+
+@dataclass(frozen=True)
+class Article:
+    title: str
+    link: str      # 원본 URL — 사용자에게 노출되는 값
+    key: str       # 정규화 URL — 이력 조회용
+    published: object   # datetime (UTC)
+    outlet: str
+    origin: str    # 'google' | 'naver'
+    rank: int      # 소스 내 순위 (0-based)
+
+
+@dataclass
+class Cluster:
+    articles: list = field(default_factory=list)
+    naver_matches: object = None   # int | None. cat-etc 검증 모드에서만 설정
+
+    @property
+    def origins(self):
+        return {a.origin for a in self.articles}
+
+    @property
+    def outlet_count(self):
+        # 구글과 네이버의 언론사 표기 형식이 달라 합치면 중복 계산된다.
+        # origin별로 세고 최댓값을 취한다
+        return max(
+            len({a.outlet for a in self.articles if a.origin == 'google'}),
+            len({a.outlet for a in self.articles if a.origin == 'naver'}),
+        )
+
+    @property
+    def best_rank(self):
+        return min(a.rank for a in self.articles)
+
+    @property
+    def newest(self):
+        return max(a.published for a in self.articles)
+
+
+def cluster_articles(articles):
+    """제목 유사도로 같은 사건끼리 묶는다. 토큰 3개 미만은 비기사로 제외한다."""
+    clusters = []
+    token_lists = []   # 클러스터별 소속 기사들의 토큰 집합 목록
+    for art in articles:
+        tokens = title_tokens(art.title)
+        if len(tokens) < 3:
+            continue
+        placed = False
+        for idx, tokens_in_cluster in enumerate(token_lists):
+            if any(is_similar(tokens, seen) for seen in tokens_in_cluster):
+                clusters[idx].articles.append(art)
+                tokens_in_cluster.append(tokens)
+                placed = True
+                break
+        if not placed:
+            clusters.append(Cluster(articles=[art]))
+            token_lists.append([tokens])
+    return clusters
