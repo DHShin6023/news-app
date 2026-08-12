@@ -281,3 +281,41 @@ def test_regression_stale_op_ed_loses_to_fresh_indicator():
     history = {op_ed.key: 11}
     top = select_top(clusters, NOW, history, max_items=1)
     assert '집값' in top[0].title
+
+
+from news.rank import drop_stale
+
+
+def aged_article(title, hours_ago):
+    """make_article은 hour를 치환해 24시간을 못 넘는다. 여기서는 timedelta로 만든다."""
+    from datetime import timedelta
+    link = f'https://example.com/{abs(hash(title)) % 100000}'
+    return Article(
+        title=title, link=link, key=link_key(link),
+        published=NOW - timedelta(hours=hours_ago),
+        outlet='매체A', origin='google', rank=0,
+    )
+
+
+def test_drop_stale_removes_articles_older_than_24h():
+    # 네이버 검색 API에는 기간 필터가 없어 8일 전 기사도 섞여 들어온다
+    fresh = aged_article('서울 집값 15% 급등 소식', 3)
+    stale = aged_article('지난주 부동산 대책 논란 정리', 30)
+    assert drop_stale([fresh, stale], NOW) == [fresh]
+
+
+def test_drop_stale_keeps_articles_just_under_24h():
+    # 23.9시간 전이라도 중요하면 노출하는 것이 맞다 (신동환 판단, 2026-08-12)
+    art = aged_article('연준 금리 동결 결정 배경', 23.9)
+    assert drop_stale([art], NOW) == [art]
+
+
+def test_drop_stale_keeps_exactly_24h():
+    art = aged_article('연준 금리 동결 결정 배경', 24)
+    assert drop_stale([art], NOW) == [art]
+
+
+def test_drop_stale_keeps_future_dated_articles():
+    # 발행 시각이 미래로 오는 피드가 있다. 신선도는 100으로 클램프되므로 버리지 않는다
+    art = aged_article('속보 기사', -2)
+    assert drop_stale([art], NOW) == [art]

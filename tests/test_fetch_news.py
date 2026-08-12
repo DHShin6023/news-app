@@ -60,3 +60,25 @@ def test_build_category_annotates_naver_matches_for_top_stories(monkeypatch):
     articles, degraded = fetch_news.build_category(cat, NOW, {})
     assert degraded == []
     assert '세법개정안' in articles[0].title
+
+
+def aged(title, hours_ago, link):
+    from datetime import timedelta
+    return Article(title=title, link=link, key=link_key(link),
+                   published=NOW - timedelta(hours=hours_ago),
+                   outlet='A', origin='google', rank=0)
+
+
+def test_build_category_drops_articles_older_than_24h(monkeypatch):
+    # 네이버·Top Stories에는 기간 필터가 없어 며칠 전 기사가 섞여 들어온다
+    monkeypatch.setattr(fetch_news.sources, 'fetch_google_search',
+                        lambda q, limit=20: [
+                            aged('지난주 부동산 대책 논란 정리', 30, 'https://a.com/old'),
+                            aged('오늘 서울 집값 급등 소식', 2, 'https://a.com/new'),
+                        ])
+    monkeypatch.setattr(fetch_news.sources, 'fetch_naver_search',
+                        lambda *a, **k: [])
+
+    cat = {'id': 'cat-land', 'queries': ['부동산'], 'max_items': 5}
+    articles, _ = fetch_news.build_category(cat, NOW, {})
+    assert [a.link for a in articles] == ['https://a.com/new']

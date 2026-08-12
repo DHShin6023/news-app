@@ -86,6 +86,7 @@ def build_category(cat, now, history_counts):
     if not articles:
         return None, degraded
 
+    articles = rank.drop_stale(articles, now)
     clusters = rank.cluster_articles(articles)
     if not cat.get('queries'):
         degraded += _annotate_naver_matches(clusters, cat['id'])

@@ -7,6 +7,7 @@ from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 TRACKING_PARAMS = {'ref', 'oc', 'fbclid', 'gclid', 'from', 'igshid', 'spm'}
 TRACKING_PREFIXES = ('utm_',)
 
+MAX_AGE_HOURS = 24.0
 HALF_LIFE_HOURS = 6.0
 PENALTY_PER_EXPOSURE = 12.0
 PENALTY_CAP = 60.0
@@ -108,6 +109,19 @@ class Cluster:
     @property
     def newest(self):
         return max(a.published for a in self.articles)
+
+
+def drop_stale(articles, now, max_age_hours=MAX_AGE_HOURS):
+    """24시간을 넘긴 기사를 버린다.
+
+    구글 검색은 `when:1d`로 창이 걸리지만 네이버 검색 API와 Top Stories에는
+    기간 필터가 없어 며칠 전 기사가 섞여 들어온다. 오래됐어도 중요하면 노출하되,
+    24시간이 넘으면 뉴스로 보지 않는다는 기준을 여기서 강제한다.
+    """
+    return [
+        a for a in articles
+        if (now - a.published).total_seconds() / 3600.0 <= max_age_hours
+    ]
 
 
 def cluster_articles(articles):
