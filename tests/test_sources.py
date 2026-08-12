@@ -49,3 +49,58 @@ def test_parse_google_rss_skips_undated_items():
 def test_parse_google_rss_respects_limit():
     arts = parse_google_rss((FIXTURES / 'google_search.xml').read_bytes(), limit=1)
     assert len(arts) == 1
+
+
+import json
+import pytest
+from news.sources import parse_naver, fetch_naver_search, NaverCredentialsMissing
+
+
+def load_naver_fixture():
+    return json.loads((FIXTURES / 'naver_news.json').read_text(encoding='utf-8'))
+
+
+def test_parse_naver_strips_html_from_title():
+    arts = parse_naver(load_naver_fixture())
+    assert arts[0].title == '서울 집값 1년 만에 15% 급등 "규제 무색"'
+
+
+def test_parse_naver_uses_originallink():
+    arts = parse_naver(load_naver_fixture())
+    assert arts[0].link == 'https://www.mdilbo.com/detail/xyz'
+
+
+def test_parse_naver_derives_outlet_from_domain():
+    arts = parse_naver(load_naver_fixture())
+    assert arts[0].outlet == 'mdilbo.com'
+    assert arts[1].outlet == 'hankyung.com'
+
+
+def test_parse_naver_sets_origin_and_rank():
+    arts = parse_naver(load_naver_fixture())
+    assert [a.origin for a in arts] == ['naver'] * 3
+    assert [a.rank for a in arts] == [0, 1, 2]
+
+
+def test_fetch_naver_search_raises_without_credentials(monkeypatch):
+    monkeypatch.delenv('NAVER_CLIENT_ID', raising=False)
+    monkeypatch.delenv('NAVER_CLIENT_SECRET', raising=False)
+    with pytest.raises(NaverCredentialsMissing):
+        fetch_naver_search('코스피')
+
+
+from news.sources import count_naver_matches
+
+
+def test_count_naver_matches_counts_similar_titles(monkeypatch):
+    fixture = parse_naver(load_naver_fixture())
+    monkeypatch.setattr('news.sources.fetch_naver_search',
+                        lambda *args, **kwargs: fixture)
+    # 집값 기사 2건은 유사, 스포츠 1건은 무관
+    assert count_naver_matches('서울 집값 1년 만에 15% 급등') == 2
+
+
+def test_count_naver_matches_returns_zero_on_empty_query(monkeypatch):
+    monkeypatch.setattr('news.sources.fetch_naver_search',
+                        lambda *args, **kwargs: [])
+    assert count_naver_matches('!!') == 0
