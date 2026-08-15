@@ -1,22 +1,22 @@
 {
   "cat-us": [
     {
-      "title": "뉴욕증시, 예상 밖 소비 둔화 우려에 소폭 하락…나스닥 0.28%↓",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608150370&t=NN",
-      "pubDate": "Fri, 14 Aug 2026 22:05:00 +0000",
-      "source": "wowtv.co.kr"
+      "title": "뉴욕증시, 소비 둔화 우려에 숨고르기…S&P500 0.2%↓",
+      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93774",
+      "pubDate": "Fri, 14 Aug 2026 21:34:00 +0000",
+      "source": "newsian.co.kr"
     },
     {
-      "title": "월드 뉴스 브리프 (기준일시: 2026년 08월 15일 토요일 10:00)",
-      "link": "http://www.ifs.or.kr/bbs/board.php?bo_table=globalnewsfocus&wr_id=434",
-      "pubDate": "Sat, 15 Aug 2026 01:50:00 +0000",
-      "source": "ifs.or.kr"
+      "title": "[마켓펄스] 물가 안심 속 경기둔화 우려...뉴욕증시, 일제히 하락 마감",
+      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=128778",
+      "pubDate": "Sat, 15 Aug 2026 01:06:00 +0000",
+      "source": "ntoday.co.kr"
     },
     {
-      "title": "국민연금 \"2분기 美 552개 종목 투자…219조원 가치\"",
-      "link": "https://economist.co.kr/article/view/ecn202608150003",
-      "pubDate": "Sat, 15 Aug 2026 00:46:00 +0000",
-      "source": "economist.co.kr"
+      "title": "샌디스크 7.39% 상승, 미 3대 지수 하락",
+      "link": "https://www.tokenpost.kr/news/market/391278",
+      "pubDate": "Sat, 15 Aug 2026 00:54:00 +0000",
+      "source": "tokenpost.kr"
     }
   ],
   "cat-kr": [
@@ -27,16 +27,16 @@
       "source": "ggilbo.com"
     },
     {
-      "title": "최대 실적에도 리테일 점유율 5분기째 하락···키움증권, 거래 외 돌파...",
-      "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257307",
-      "pubDate": "Sat, 15 Aug 2026 00:10:00 +0000",
-      "source": "womaneconomy.co.kr"
+      "title": "‘반도체 대장주’에 개미 몰렸다…삼성전자·SK하이닉스 소액주주 1143...",
+      "link": "https://www.mediapen.com/news/view/1116706",
+      "pubDate": "Sat, 15 Aug 2026 01:06:00 +0000",
+      "source": "mediapen.com"
     },
     {
-      "title": "27만전자, 164만닉스, 돌아온 외인… 불붙은 국장과 반도체 고점론 [주간...",
-      "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=311268",
-      "pubDate": "Sat, 15 Aug 2026 01:30:00 +0000",
-      "source": "thescoop.co.kr"
+      "title": "삼전닉스 주주환원 가시화…‘국장탈출’ 발길 돌릴까",
+      "link": "http://www.segyebiz.com/newsView/20260815501366?OutUrl=naver",
+      "pubDate": "Fri, 14 Aug 2026 22:02:00 +0000",
+      "source": "segyebiz.com"
     }
   ],
   "cat-coin": [
@@ -53,13 +53,19 @@
       "source": "news.bizwatch.co.kr"
     },
     {
-      "title": "자금 유입 촉각 속...비트코인·알트코인 '장중 하락'",
-      "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=169904",
-      "pubDate": "Fri, 14 Aug 2026 22:02:00 +0000",
-      "source": "choicenews.co.kr"
+      "title": "은 현물 65.11달러 거래, 장중 1% 상승",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/391001",
+      "pubDate": "Fri, 14 Aug 2026 13:18:00 +0000",
+      "source": "tokenpost.kr"
     }
   ],
   "cat-land": [
+    {
+      "title": "이준우 \"정청래 되면, 나도 한번...대선 걸림돌 싹 다 치울 것, '비명횡...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202608150021",
+      "pubDate": "Sat, 15 Aug 2026 04:02:00 +0000",
+      "source": "ikbc.co.kr"
+    },
     {
       "title": "\"그때 대통령 말 들을걸\"…삼전 30배·서울 집 3배 '탄식'",
       "link": "https://www.hankyung.com/article/202608142023H",
@@ -71,12 +77,6 @@
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850369",
       "pubDate": "Sat, 15 Aug 2026 02:00:00 +0000",
       "source": "newsworks.co.kr"
-    },
-    {
-      "title": "[경제기획 HOUSE④] 집이 만든 또다른 불평등…거래도 안되는 자산의 덫",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260815027368933",
-      "pubDate": "Sat, 15 Aug 2026 00:48:00 +0000",
-      "source": "yeongnam.com"
     }
   ],
   "cat-etc": [
@@ -111,7 +111,7 @@
       "source": "연합인포맥스"
     }
   ],
-  "updated": "2026-08-15T04:01:49Z",
+  "updated": "2026-08-15T04:52:43Z",
   "degraded": {
     "cat-us": [
       "google"
