@@ -1,6 +1,12 @@
 {
   "cat-us": [
     {
+      "title": "[해외시황] 뉴욕증시, 美소비 둔화 우려·중동 긴장에 '숨고르기'…나스닥 0.28%↓ - 프라임경제",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50S01ldUZULVhhYjZlWDJacGtlUlp4Q3RMWTR6S0gxSDRrYTJrbTREZFF0THN6dkNic2dsRWZpbWZMeW1RS3FhYVRCV0lYOVBJWVJkbVhsWktXVnk4Ty1BclFvdlp5b0dwcDN6WHRnRkpvZw?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 01:54:10 +0000",
+      "source": "프라임경제"
+    },
+    {
       "title": "아이온큐↑·퀀티넘↓ 엇갈린 양자컴퓨터주…美 소매판매 '깜짝 감소' 변...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=598574",
       "pubDate": "Sat, 15 Aug 2026 15:30:00 +0000",
@@ -11,12 +17,6 @@
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=598339",
       "pubDate": "Sat, 15 Aug 2026 15:10:00 +0000",
       "source": "cbci.co.kr"
-    },
-    {
-      "title": "뉴욕증시, 소비 둔화 우려에 약세...나스닥 0.3%↓ - 여성신문",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92RlVGT25udnl6UXl4LUZjZURDY0F2YUlkWXlwelJadmNQMG1hZXlrS3VMajBOWHJ0LUtjNUZjTi1FaFcySFBKNkx5UXJ6V0lyQUNOeUlIV3NkSkVGNGcteVQ4THNyM0ZKelV5eGgxOW9VLXPSAXNBVV95cUxPdkZVRk9ubnZ5elF5eC1GY2VEQ2NBdmFJZFl5cHpSWnZjUDBtYWV5a0t1TGowTlhydC1LYzVGY04tRWhXMkhQSjZMeVFyeldJckFDTnlJSFdzZEpFRjRnLXlUOExzcjNGSnpVeXhoMTlvVS1z?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 23:32:35 +0000",
-      "source": "여성신문"
     }
   ],
   "cat-kr": [
@@ -27,23 +27,29 @@
       "source": "v.daum.net"
     },
     {
+      "title": "코스피 2.42% 급등 마감…美 증시는 혼조, 어떤 영향권? - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSUR4RWp6R25pWjNLbWZPclduaURNTl9rR3Q3Szg1dE1naEVRWFpPQ01GdU16SHhDS2ZXcnl4TEFvSGdBUVZSRHNKUUxaUFRKOEZNZ0FWbDdtMVlkYzdER29XZGVlR0JL?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 13:08:00 +0000",
+      "source": "CBC뉴스"
+    },
+    {
       "title": "뉴욕증시, 기술주 약세·드론주 강세… 삼전닉스 다음주 ‘시험대’ - v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wVUtSM3ViQWdwcHFhVXAwSDlvZF9ETVIwYVRvdUE2UU1laEVtNmZCT19DOXZZelNDM2p6MjVheERmbDBXU0VxNWVYUXRpY2s?oc=5",
       "pubDate": "Fri, 14 Aug 2026 21:52:00 +0000",
       "source": "v.daum.net"
-    },
-    {
-      "title": "[더페어 돋보기] \"AI·전력 슈퍼사이클 지속\"…올 하반기 전기전자·운수...",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85151",
-      "pubDate": "Sat, 15 Aug 2026 15:00:00 +0000",
-      "source": "thefairnews.co.kr"
     }
   ],
   "cat-coin": [
     {
-      "title": "[자정 시세브리핑] 암호화폐 시장 혼조세… 비트코인 62,975달러, 이더리움 1,882달러 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HMXZuVXRrYmVhcHQyd3lGR2Z5OFhhN3FSMVhBQ01DSW1DV0UtcHBZZ2V1YkExa05Wc1E2QjQ1MGdIbFU2Y09wWHo3UUpzSkdQWV9rSF9fVTjSAV5BVV95cUxNWU1oZTZtcGNHUWVmVllab1dTNnpEODZpSkM5bndtZ2toZHVYN3lNeTVpWVJMdnZ2b1VWamViaEtJSm9WUnkwS0FxdFpOd0VHZWxvVV9ocENsUlE3RDF3?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 15:05:56 +0000",
+      "title": "[자정 시세브리핑] 암호화폐 시장 혼조세… 비트코인 62,975달러, 이더리...",
+      "link": "https://www.tokenpost.kr/news/briefing/391461",
+      "pubDate": "Sat, 15 Aug 2026 15:08:00 +0000",
+      "source": "tokenpost.kr"
+    },
+    {
+      "title": "프라이빗 체인 논쟁, 월가 양쪽 레일 시험한다 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fRWttMEdBTm5tWEVFTXRKWUpMNGZBbC1SR0VVNFJ4dk1mUWZvb1Y2M0RQaDBNWmt4SnNTMFJDQW1malZzNFhvWUYwY1VPazJvUTg0MERueDlTRkHSAWBBVV95cUxOUS1kR1BKc3BVNFhOSTdZUkRuQ2M3aERVZWNqWGM4WU1mNWdER0laRVRQb3hxN2lNanozTFZDWjlVNEZVeVEwSUhXdkNLRkUtazBlMlFQenZad2plZEYycGQ?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 12:22:01 +0000",
       "source": "tokenpost.kr"
     },
     {
@@ -51,35 +57,35 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VUks4OGh4REhqYmZRakJtN2JyX3NnZDMyREw1RTNmZUt1c1B0dXpjMnBhalQwekZsOHJxVHhpUEw2QVhoSnZkRkdzQm5kZlNiQXNrTk9CdGlaXzNMRVA4QXRFSQ?oc=5",
       "pubDate": "Sat, 15 Aug 2026 12:59:06 +0000",
       "source": "CBC뉴스"
-    },
-    {
-      "title": "하이퍼리퀴드 미결제약정 점유율 10% 회복",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/391456",
-      "pubDate": "Sat, 15 Aug 2026 14:52:00 +0000",
-      "source": "tokenpost.kr"
     }
   ],
   "cat-land": [
     {
-      "title": "“중도도, 청년도 등 돌렸다” 늘어난 안티, 사면초가 李대통령 - 시사저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iZi13M3pOX3NhSUQ5dGF3dnRDNVJZZ1JJVi05VjAzOVNHaE9WU0Z0MWFiakFwSXFWSUMtYzlkYm9BZXNoWExWMzZLS1FOQzI4eldoZExtVzlTYnEzcF9DLVFEUmVKUno0WTA0WlBha9IBc0FVX3lxTE9mYktYMWtpVWsxaGlmQWNJQ2NWMzdfVGdNUDhuUlRFbEc3S3pKQ0x3dlFRZ3JkeWgwT2V4UnZqMC14b0FRc1gxVkxvSjRfMlQ3OTZHbXhMRUdwUC1oSGM3WF9ZR0pZZFpmZnBiNV80NHNZT00?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 13:14:57 +0000",
-      "source": "시사저널"
+      "title": "\"중도도, 청년도 등 돌렸다\" 늘어난 안티, 사면초가 李대통령",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=383770",
+      "pubDate": "Sat, 15 Aug 2026 13:15:00 +0000",
+      "source": "sisajournal.com"
+    },
+    {
+      "title": "보유세 인상, 정말 집값을 잡을까? 한국이 5중과세 국가라는 말이 나오는 이유 부동산 시장은 어디로 가고 있는가 Mortgage Broker (WYIPcC9V0N) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvSlpIVkxhd2VzdXZUQ0o1SVdjYXR5S19PT2FYNDV5Z0VpQ0dUcHNLby0ydjFqc18wOGFyQ0diNFVoVVc2RTFDSTBlR1dxbkE0TTEtV2p0aDJnakU?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 09:30:36 +0000",
+      "source": "Mshale"
     },
     {
       "title": "[비즈토크<하>] 집 사게 해준다는데…'청년미래보금자리론' 놓고 '부글'",
       "link": "https://news.tf.co.kr/read/economy/2354575.htm",
       "pubDate": "Sat, 15 Aug 2026 15:03:00 +0000",
       "source": "news.tf.co.kr"
-    },
-    {
-      "title": "[비즈토크] 집값 안정 겨냥한 공급대책…'다섯 가지 카드' 나왔다 - 경제 | 기사 - 더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QU3o4b1FKcGFEdF9PWDlBT1k0WlhyWFBvQ3VCdzN6ald2MVVaQWlocXBycmdoWU1UbVJkR2VGSU55dE8zTDFIek10S1BJcld5Z05TNjlmeWJRQQ?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 15:00:03 +0000",
-      "source": "더팩트"
     }
   ],
   "cat-etc": [
+    {
+      "title": "휴대용 게임기를 사랑하지만 RAM 대란이 시장의 숨통을 끊을까 두렵다 - IGN Korea",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaDNDczc0ZzBXMGNReE9FQThybnF1a2lNQXhnUGQ1N0FHTVFBTFZFVDZfcHZVYkJtaTlzWEMyWGp6S2NLd3hvX0xFVmZCU3B6LTNMV21ucjRHazZBQzhEVC1jVUdvLUpyNk9vdnNhaXdNSjctbE9ZbE1Ec2xCdEVyVGIxa3VTeTRSaXpybGtuc09UNmhuMGVCa2xLYndsODVWVS1uc0lDLTVLeEZBTENqazB1UmJNYnlHQXFLeHFsVEtmM08teHhEYzVrcGlVVUU?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 16:00:00 +0000",
+      "source": "IGN Korea"
+    },
     {
       "title": "인도네시아 페마탕시안타르 북북서쪽서 규모 6.9 지진 발생 - 연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MUHRGaEtRYTJfODB3ZWx4dHdGaWl3N293SkJQcXJtUS0yQVdTUVJnSFl6cUQ0RzVMMWUxRHNDc2hTajNmRTFKa2tzTHdKLWN0T2NNWUR3b3pBZknSAWBBVV95cUxQS3pDb0p6NHdtZENIaXJFRXJ1ODFOeWotczBNLVlMX3k4STViVHBqYS1fQ0J4a2pzZmlhUzYwWlJ2eFpzWkhhdXFyaS1xbk5hbWRZZndIQ2ZmdGdDSjludVQ?oc=5",
@@ -87,29 +93,23 @@
       "source": "연합뉴스"
     },
     {
-      "title": "광복절에 올림픽공원 찾은 장동혁…\"이 대통령 연임개헌 저지\" - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ud0dqelJ5NXBPVTVwOVJiVzdUYVhoSDgxUHhqWWlUMFY3bk1uVE5HOTNwbTFwdDZtLWt3U3QwM3lrOXc3ZmpUajJyTUZJM1UyX1VDa3hnRjI0MHF6Sm51Z2VTNnlwa00?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 11:55:00 +0000",
+      "title": "일요일 전국 비, 남해안 최대 250㎜…월요일엔 다시 무더위 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhTHU3WUxwX0VXTFcwTHZlcV9HcWJiMmFWQUpISTRxQk1IZ3dlYW5Vcm9ibkd4Y3E0VG1XTEl4VUpYdmtha3R4dGcwT090c2NfQUt6NEx6Nk8xSFRKV3pqRkhvMUs4Sk9vamc?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 10:42:00 +0000",
+      "source": "한겨레"
+    },
+    {
+      "title": "동거녀 때려 숨지게 한 50대 무죄…\"통화기록이 뒤집었다\" - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XT250SjBRVXFibzhobW5fMkpTTFFtdWx2Y2EwVlQwYnNadjUtRFNMOVc3V28zN2lrS1pkbmNldWcxZFZ1bnN0dWQ5MjdNeUFqb1hVdk1lcHpfQXhwVkkzRmRkV05DZGM?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 01:27:00 +0000",
       "source": "연합뉴스TV"
     },
     {
-      "title": "소닉과 포트나이트 코믹스 발표로 세가 히어로즈의 배틀로얄 참전 확정 - GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTWpsUE9WSHJESlJVcHNUeFlRUWcxY2p1cXVWek5qQ081cjJXZ0lKeXRKSE1Ib3dMN3JpR1ZKVWMtUkZqcEJ6RnBCeExJRTRkVlhXeVN6MEZqUnVwQWF5MHhRLWhraUVzbXB4ZFd5V3hQaFVSVVVyQ1oxZmt2Q19MY3VPVVRSSEJGQjdnYXBZTThLZHg3ejZrTV9CaklzOVREeVFqS0lHLS1PXzZnRGQ0c3IwTHFROG5QUk5Fc1dxYl9mcC1iWlV3?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 15:43:14 +0000",
-      "source": "GameGPU"
-    },
-    {
-      "title": "[비즈토크] 집 사게 해준다는데…'청년미래보금자리론' 놓고 '부글' - 경제 | 기사 - 더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51M3VVeERkNUpJS05McW5VeE1TeHc2Um1sVjhvVzJuamlreElXZEdHQ2xhc3B6b0gyb2dBcHp0YXBKVWxOTFVfZmstUlV5c2hvRlk1c3hTcjNkQQ?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 15:03:01 +0000",
-      "source": "더팩트"
-    },
-    {
-      "title": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zUXhIRndnc1VCdC1UaG44bEFDWEJoRXNiVWJjSUxJNFpPVXVXcmRERXFwUGloTEpBU2JjTGJGRHFtZjVpc1psZlVHT1dXOWhqRG4xVGZhRko0UdIBX0FVX3lxTFBtU2tCMUdHMm50SjM1YzZ5SHZJYW4wQjhXbF9KMnJCbWhMaWFDbjdtS2JFNnN1azFiV0RnbzBJM1Q2SmZJbU94MXpzQkhBNnI3eHFCNGVIdVJnNWR4Vndr?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 08:48:00 +0000",
-      "source": "경향신문"
+      "title": "김정은, 광복절 맞아 “북·러 친선 대 이어 발전”…푸틴 “공동사업 계속” 화답 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KUUZMRE9SM25kT2ZEY3hJZnJLSkx1N1V3MFcyLW9KT1VqbUNWcFVqQUQ2Mk1qLUp1dWEzOXdLU3NVU3ZRY2Vlc0tOZEJ5RjlHRWVfTkppMXRpMlJlTGRMWlJtQ2dUZDFMWHN6OHVaaUtnRDJz?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 01:50:00 +0000",
+      "source": "한겨레"
     }
   ],
-  "updated": "2026-08-15T16:08:50Z"
+  "updated": "2026-08-15T16:46:02Z"
 }
