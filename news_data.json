@@ -1,30 +1,30 @@
 {
   "cat-us": [
     {
-      "title": "[속보]뉴욕증시 상승 동력 주춤…나스닥 선방에도 다우·러셀2000 약세 - CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SNzFpRzRmUjlNU3Q2cDRoWDY1VkQyOHYxQTBTVGtybWhmREN5emdpX0RWbXB2cDVCa052ZnR2Um1YR1Y2N1N0TmtlRW5Ra1dmMWxJQmN3bkxyS1ByV3FHNzlXbmFkNzgw?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 13:50:00 +0000",
-      "source": "CBC뉴스"
-    },
-    {
-      "title": "프로포커플레이어 되는법 디지털 시대 웹사이트 구축: 기초 지식과 고급 기술 - GPS Audiovisual",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QRzFGajh0b01MOVFWdllta1UtQlVkbk1nUFpTNlJFemh5MzhtV2t5N0J6QzBxUnhSY3dFWDlpalJvUnF3ZWhlLWpUS1cyM1RNUjJ3MkNPX052ZlcxMVU4REI4Z1loeEc2VktlLU9vb0tQOEE1anZGYVJaMA?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 14:15:37 +0000",
-      "source": "GPS Audiovisual"
-    },
-    {
-      "title": "나스닥 다우 선물 지수 혼조세...7월 FOMC 의사록 주목",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3666652",
+      "title": "[속보]뉴욕증시 상승 동력 주춤…나스닥 선방에도 다우·러셀2000 약세",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=598815",
       "pubDate": "Mon, 17 Aug 2026 13:52:00 +0000",
-      "source": "gukjenews.com"
+      "source": "cbci.co.kr"
+    },
+    {
+      "title": "뉴욕증시, 미국·이란 갈등 지속에 혼조 출발",
+      "link": "https://biz.chosun.com/stock/overseas_stock/2026/08/17/CDCIJLELGBCMFGP3QWHEW22VKA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pubDate": "Mon, 17 Aug 2026 14:27:00 +0000",
+      "source": "biz.chosun.com"
+    },
+    {
+      "title": "연준은 2026년 말까지 금리를 동결할 가능성이 높다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONHpLNENHZkh1UHpubjFma1dSdHg5clZOdWJkdS1JdkRsejVJcXRkSHRBdFVILWh0N2Ridk1hYXBVbG96RGU0QXFuWndNVkdnUnowb0xvS09ia2tLS1pTM04zQ1lTRDFQVHBmaE1jS3pEU0FOTWhSa3hfTGpROG40MG5QWnA4dFVHN0ItZXFB?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:40:25 +0000",
+      "source": "Vietnam.vn"
     }
   ],
   "cat-kr": [
     {
-      "title": "[이번주 증시] 코스피 7000선 안착 '시험대'…美경기·중동 변수",
-      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93820",
-      "pubDate": "Mon, 17 Aug 2026 08:18:00 +0000",
-      "source": "newsian.co.kr"
+      "title": "[이번주 증시] 코스피 7000선 안착 '시험대'…美경기·중동 변수 - 뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kWk5DaUxxbDZ4Z1hmaVF0ZThSSFRSOUpkSmNFYnoyQW52Q0NzcTBhZWJPcXltaFJOaG9ZSU42cmpmbWFnV2tReGwyTEpwdEh1eXkzZGhJMmxZM3RwSUN4SzdoM0xUY000ckY5clh30gFuQVVfeXFMT2RaTkNpTHFsNnhnWGZpUXRlOFJIVFI5SmRKY0ViejJBbnZDQ3NxMGFlYk9xeW1oUk5ob1lJTjZyamZtYWdXa1F4bDJMSnB0SHV5eTNkaEkybFkzdHBJQ3hLN2gzTFRjTTRyRjlyWHc?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 12:22:09 +0000",
+      "source": "뉴시안"
     },
     {
       "title": "반도체·배터리·조선 호조에…상장사 10곳 중 4곳 '깜짝 실적' - 네이트",
@@ -33,53 +33,65 @@
       "source": "네이트"
     },
     {
-      "title": "[길 잃은 투자자들] 최악 변동성에 과녁 빗나가는 예측…리서치센터도, 투자자도 길을 잃었다 - 아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WbkE4d0kybVJnRnhWZ3FYQjlWNThRMUVhRC1aS01hSERWYndJQk4xVEVTaElTR0w0VE8tUW5yeGJDRm9kRVZWdXdlNmN5cFZVY2JnS2FWWGrSAVhBVV95cUxPVm5BOHdJMm1SZ0Z4VmdxWEI5VjU4UTFFYUQtWktNYUhEVmJ3SUJOMVRFU2hJU0dMNFRPLVFucnhiQ0ZvZEVWVnV3ZTZjeXBWVWNiZ0thVlhq?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 09:30:00 +0000",
-      "source": "아주경제"
+      "title": "널뛰는 증시에 ‘분산 ETF’ 뜬다…채권·금·배당으로 방어",
+      "link": "https://www.sedaily.com/article/20080065?ref=naver",
+      "pubDate": "Mon, 17 Aug 2026 07:30:00 +0000",
+      "source": "sedaily.com"
     }
   ],
   "cat-coin": [
     {
-      "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 8873만7450달러 청산",
-      "link": "https://www.tokenpost.kr/news/briefing/392085",
-      "pubDate": "Mon, 17 Aug 2026 11:06:00 +0000",
-      "source": "tokenpost.kr"
+      "title": "\"바이낸스, 英 시장 복귀 추진…내달 FCA 가상자산 라이선스 신청 계획\" - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zZ1NKbFYxdldaMXljZE5aTzJMdk1XTVlOVURBY1BCM21nMnJVSVliNEx3UHBpcXVHWm1VbC12ekl2WmZ6YlBDQllQLUNQdDZ1?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:34:12 +0000",
+      "source": "블루밍비트"
     },
     {
-      "title": "WTI 장중 1.00% 상승, 배럴당 82.34달러 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14V3Y4Q183Ny1fMkwtcmkwTkZxb0UwaDFlcElXT0dwUkJkS3BrWjVEZGJveVlkZ2pOeWFBaU1ycW4xc0tSLWJ1SWpSdHlmVURyaFI1M0s3MnVmN1RsYWFicW9fdEFxUdIBZkFVX3lxTE14V3Y4Q183Ny1fMkwtcmkwTkZxb0UwaDFlcElXT0dwUkJkS3BrWjVEZGJveVlkZ2pOeWFBaU1ycW4xc0tSLWJ1SWpSdHlmVURyaFI1M0s3MnVmN1RsYWFicW9fdEFxUQ?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 10:00:50 +0000",
-      "source": "tokenpost.kr"
+      "title": "이더리움 시세 달러 포스트 코로나 시대 브랜드 구축: 기초, 심화 및 마스터 - gpsaudiovisual.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcWZEUG5ESE1Fd2Ric25nQi1UN2w4ZVMwM1JMNDdfZ0p0VUM1REVWaUJacjd0ZXl4MV9hVzZ0OXBfMktndTlKOWtHc0ZyNUN0bFdYUGxuajJocklkOUV4UlNuRFlLMWxwTHZkZThvVzUtcVExYzRLX2tUU21GbWV1Z2d3?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:25:56 +0000",
+      "source": "gpsaudiovisual.com"
     },
     {
-      "title": "알리바바, 게임 사업 중단…AI 집중 - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMk90NGdXWUM5VVQ0aFJIVmQ0dm5OQUFpR1p0bmNvdXBPd1hHbWNwVWVoa25DcFVBaUR4N1VmdktRM1NveGc3SmEyT1hvdU1uUlo5aHhhSXdaemFQZHFQX180SEtYWk9zR3owU1JR?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 09:33:23 +0000",
-      "source": "BeInCrypto"
+      "title": "Re (RE) 가격, 차트, 시가총액 | 코인마켓캡 - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96eDNZVVBaYTg2Y3RYdUZZVTkyWDhwaGlvRjdXZWVlZnlYVGNiaDRKNHdYLWpMQWZ0aVJ4RE1hYy1HT1VVLXJUOTcxVFNmQkN0dG8tb19LZ2lNNmpsRlAzSS1n?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 09:56:28 +0000",
+      "source": "CoinMarketCap"
     }
   ],
   "cat-land": [
     {
-      "title": "울산 아파트 매매가 상승폭 8월 들어 2주 연속 축소 - iusm.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4VFExeFZNM210LWNRRUFXSVZqNWVYQy1lVFZVMnRXYTlpZEx2Rlk1aXNLZ2RVM3VOVDc0cVlVcmlBS0pEc1NxZnhJTEdtMTdlNndpZm1sZ19VWVl4RVY0bFJRSGsyUnJtcmfSAW5BVV95cUxNcEFpNVFZNFUwS29nNDNJazZ6dFl3TXRueldMTVI4TnlLY0dQVjZETjhCZjIwbE5sUEgxWmsxRHdWUlpSYzlfdTFtSnhKOEhpNjJhdjJBa1pSZFJDdDdOakdmZkVoM0xzNHJkaGlfUQ?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 02:58:22 +0000",
+      "title": "자고 나면 ‘신고가’…구로·광명 아파트 ‘국평 20억’ 가나 - G밸리타임스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKcHd1U0R0U1FrNWlhLVNqaW9IZmZ0ODZYNmFXTXY2MlhjajZqUnZJWHRPaWxUSkVoTEs3U1ZoSVBrY1BFLUhyOTl2UlBBNzk5aU8zbUo0UnJjMnJzMjlFUzM5bDNMdUtxcjh0Ynl3?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:30:00 +0000",
+      "source": "G밸리타임스"
+    },
+    {
+      "title": "울산 아파트 매매가 상승폭 8월 들어 2주 연속 축소",
+      "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1066721",
+      "pubDate": "Mon, 17 Aug 2026 07:36:00 +0000",
       "source": "iusm.co.kr"
     },
     {
-      "title": "8·3 부동산 세제개편 여파? 인천 아파트 전세가 오르고 매매가 주춤",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363734039",
+      "title": "8·3 부동산 세제개편 여파? 인천 아파트 전세가 오르고 매매가 주춤 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tOTJBODRqdzlNVGwybXNvLWJFdC0wVjNXVkIzZEZLUnp0VE90Y0ZRWUdzNzQ4Q2VxVUFXQUE4eTkwN1N3YjBSZTBrakpIc0E?oc=5",
       "pubDate": "Mon, 17 Aug 2026 06:58:00 +0000",
-      "source": "joongboo.com"
-    },
-    {
-      "title": "충북 주간 아파트 매매·전세 '동반 상승'… 7개 도 중 상승률 1위 - 충북일보",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13Nkl0NHlpZkgwVTBGdTdnNWhiTndWbjBYWm51VzBKNjBEZ3BwZ21zSnl4cVFQUEV6RDYtcU42VUNlZ0lrMllqS1hyQ2Z4ck0yY0UxNlNlNVQ3MUk2QVlvVXhB?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 05:52:55 +0000",
-      "source": "충북일보"
+      "source": "v.daum.net"
     }
   ],
   "cat-etc": [
+    {
+      "title": "‘이란 비핵화 동참 거부’ 트럼프 압박에 정부 호르무즈 “군사적 기여 협의” 첫 언급 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uU3ZlTFJ0ZzM0Z2ZYMy00WmJzWjNWZ3l6VnR5ZlphS05OY0FZRFlTM3E2X2tpU01LWV9rTE9yMDhueS1CdlN1ODVfdjVDUGE4SG0zYU94RXl4cl90bFlUWjRsNXRHaDg4eDZiY2k0emV4MVRr?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 13:42:00 +0000",
+      "source": "한겨레"
+    },
+    {
+      "title": "이 대통령, 김민석·정청래·송영길과 19일 만찬…곧 내각 인적쇄신 나설 듯 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Gem9XSTNrWmUwWHcyTHVwT19leFcxYml1TWdmNHJyS2xmNkNQR2F4bkVLSmJJTFV6cWdqZnJPUWt4VEFwMFd4bnBQd1BwajBMSXdtcExHU2VtUdIBX0FVX3lxTE1XTTlmOGJyaVBSTVBkeUd1LWY1aXJhdTg1RDQyMlMybEpjNzdwTTJoZTBPc3drbFd5Q1R4eTdGNmJiTXFmMngza21fWWlfc0pLb3gxOUtkM1BIRW56UC1r?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 12:09:00 +0000",
+      "source": "경향신문"
+    },
     {
       "title": "후티 \"예멘 모카항 인근 사우디 군함에 미사일 공격\" - 연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjRXoydGtrWXFDNlI4WTNTUmZUZHc4Um5xVUdXZGRseEpJWGYxQ2VjOWFueU5rVnpvaXplSjlocHFCUUlNSkJ6V2VNY0xOQm1UQ1F2QW5kQko1UjU5ZC1zWXRrSjRNV2s?oc=5",
@@ -87,29 +99,17 @@
       "source": "연합뉴스TV"
     },
     {
-      "title": "‘친청’ 최민희·이성윤·한민수, ‘친명’ 박선원·서미화 최고위원 당선 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdXV3RmpVNzRuTDQtSVFicWdvY252bDdtdkpzUktheWd0b2NJaGNibzFFbTI0T3ZrUE5PY09tZ0NvbUd4aUJRWnhwRHg0aHl0T0lBNXdZTGMyVm1QTkE4TExDOU1GbzlhcTBhOHF3V0RUbUFxVDRSUV9QRV9nWmd0TmF5Rzh5Zw?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 10:32:00 +0000",
-      "source": "조선일보"
+      "title": "위스퍼, 시리즈B 2억8000만달러 유치…기업가치 6개월 만에 20억달러로 껑충 - 위키트리",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLSE5zTGl4MjRfd0ZjaHg3anpKXzQxNHlwTDZmRGlsUXl4dnFDbno2ZFpkV2pwS1Q5T0lIUzRST3Y1akFJYkN4d0tfbERETXlSYXhjWjdB?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:24:00 +0000",
+      "source": "위키트리"
     },
     {
-      "title": "미 “관세 인상” 압박에도…정부, 텍사스 LNG 발전소 막판 고심 - khan.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yYThJVHExUDk1TXNMSmVyYUNWWXRSa3ZBSDFWMmszNWpqZURKMGJrQk9JeUNmUEZrX0ZXZ1pzbVRWRW5ISHZPWjQzQ1FyRUVodkRIbTdyNE1VZ9IBX0FVX3lxTE90MWZGa0JSY1BtcGFIdFlSSDR2TnN3VXU4c2VhSS1YUUlpNjdqTDdNTGJzNlpxNjJqcG5PcG5QR0FaMldaaXR5NlU2N01vS1JwSVpSNmVyT3BsMWtET3Fj?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 11:52:00 +0000",
-      "source": "khan.co.kr"
-    },
-    {
-      "title": "김민석, ‘18년 야인’ 거친 이재명 정부 첫 총리…여당 대표로 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0OWV6OVAxeGpPQkU2VXdPR2UxaFAxMEVfV3FsVFlEbU1Nam03bzVhdEhHZU5xVGl3WHdzODNqMkdPWHRMN3ZWbkFmWS1wd212Z05nU2RwMjdxb19YRWNILXFVRzFqQ0ZjN2c?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 13:10:00 +0000",
-      "source": "한겨레"
-    },
-    {
-      "title": "[중국증시 주간 포인트] 7월 中 생산·소비·투자 부진, 유니트리 상장 일정, WRC 등 로봇 이벤트, 딥시크 가격차등제, A주·홍콩증시 상반기 실적발표 위크 - newspim.com",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53dl95YXlyNks4V0lOWmV5eFVmNmZiVEFNeExQSTltV3lHeUR3RGU5T0YxU2ZFbmJwbTJNN3NxaTJpc0FrbGVhbDVjdi00TEpWdHpkV3VTazdxWFhm?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 13:08:00 +0000",
-      "source": "newspim.com"
+      "title": "RTX 5090의 소유자는 그것을 3800달러에 팔고 다른 것으로 갈아탔습니다. Radeon RX 9070 XT $750에 - GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1J2STdlTGwwY2tRUUlRcmR3MXRzM1BGNFlCRVN4STVWWFBiSUVKenMwWDBPS1pJWGV6Q1JNOUlqd2Nwd3hEaEpUN1JiTHFhOC1HaTdOdlB0bERrUmFVYUpYZlg0U3ZEUXQyX1NPRlJXZUlhUVlhbHc2UjhoR3ZkeVFqVlFGZVRqY1hYVUxyZjZDTU9yMXRqNDBRRVpoaGZlN1BrSjRyUU50d2U2dUY0bDNrb2xBTDlh?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:17:14 +0000",
+      "source": "GameGPU"
     }
   ],
-  "updated": "2026-08-17T14:20:23Z"
+  "updated": "2026-08-17T14:49:56Z"
 }
