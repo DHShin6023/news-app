@@ -1,8 +1,4 @@
 {
-  "https://ajunews.com/view/20260814160102528": {
-    "count": 3,
-    "last": "2026-08-15T18:52:00Z"
-  },
   "https://ajunews.com/view/20260816202509934": {
     "count": 2,
     "last": "2026-08-16T13:49:14Z"
@@ -50,6 +46,10 @@
   "https://cbci.co.kr/news/articleView.html?idxno=598818": {
     "count": 1,
     "last": "2026-08-17T15:13:36Z"
+  },
+  "https://choicenews.co.kr/news/articleView.html?idxno=169945": {
+    "count": 1,
+    "last": "2026-08-17T19:04:24Z"
   },
   "https://chosun.com/economy/economy_general/2026/08/17/I3TANKVD5ZF3HDSCZ6LDON3VBQ": {
     "count": 2,
@@ -192,8 +192,12 @@
     "last": "2026-08-16T23:08:02Z"
   },
   "https://g-enews.com/view.php?ud=202608171651225490fbbec65dfb_1": {
+    "count": 2,
+    "last": "2026-08-17T19:04:24Z"
+  },
+  "https://g-enews.com/view.php?ud=202608171704184609fbbec65dfb_1": {
     "count": 1,
-    "last": "2026-08-17T18:18:07Z"
+    "last": "2026-08-17T19:04:24Z"
   },
   "https://g-enews.com/view.php?ud=2026081723313913109a1f309431_1": {
     "count": 1,
@@ -347,10 +351,6 @@
     "count": 2,
     "last": "2026-08-16T15:08:52Z"
   },
-  "https://koreareport.co.kr/news/articleView.html?idxno=52193": {
-    "count": 2,
-    "last": "2026-08-15T18:52:00Z"
-  },
   "https://lecturernews.com/news/articleView.html?idxno=208696": {
     "count": 1,
     "last": "2026-08-15T22:06:54Z"
@@ -430,10 +430,6 @@
   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWmhqMFdsVENQZFJ6aTU0MUpBWnJfWGdXX0dfZ0Z3ZGNGMUtaeTZFTjJ1czRabGlkSFhVWEM3Mm0yMm1qMmhTOG5JSm9BWldPbjlRWnJqWjQ3MWhLRlVHZG1ZTnoxdHNQUGZVVi1VYjdHVlA1Wi1XZmpHNWdtQ3R0OVRlX2NCbHRnOVA2eWRobzdjX1RQSHYyMUNYZm9zRmEwMjFGdFpFbjlSel9Pd25oRVJGeXdOa2l5NkwzMzRMbE91dEcxOFNBdlRhUUJkalcyWkdOLTJ4czc0UQ": {
     "count": 2,
     "last": "2026-08-16T17:09:34Z"
-  },
-  "https://news.google.com/rss/articles/CBMiRkFVX3lxTE10MDBfSmhHbXdOa0piUk5Ic1FNX0JCaVlJUFVwLUp1Nnhuc21Zd0JKS1ZTT3ZOaVBRc0IxVl9xblIybklqUnc": {
-    "count": 4,
-    "last": "2026-08-15T18:52:00Z"
   },
   "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1aNjBDcTFxdXJxV2xCMUpCRVNMaE9ON0V6VnZRZnYwLUFJRDg4VGJFaHRKQzR6M19kQWRhOGNIdm5ESUNuV1E": {
     "count": 3,
@@ -554,10 +550,6 @@
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1NXMzUHBzZkpCYWl4RFp0X0xlMkQ5UzBoemZ0RmNDUGN6a1BjaldLV3BDcGE3SlJSeXFfSkg0YzNOTEVDODhQQ3Jod3E5UQ": {
     "count": 1,
     "last": "2026-08-16T08:52:54Z"
-  },
-  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14empGSWhrT2IyYjNtWGI4dXJFeGtGN2RhY29nY0h1TnRYdkRoY0szQ1g5ZHdrMHhzQ1AtMklBTVEzVEpmZVVwOTg1eXFUT19MR1hN": {
-    "count": 4,
-    "last": "2026-08-15T18:52:00Z"
   },
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15ZjF2TTRCaUlyX1otcXYxdklnTmR3Y3JRM1ZqYzZtampSYUk5VjZTYjU4ZU5ZUHVHcUxHS1RQWGY2Q0Z2Ni1VRnZXMTNrUnhPWkVV": {
     "count": 1,
@@ -683,6 +675,10 @@
     "count": 1,
     "last": "2026-08-16T15:41:38Z"
   },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02bl9wWS0wXzZyaDJjOVpLTjFCM0NKMXFiZ3pCaDU0SEZjZDBpeWZ3VF9IQ0taSmd6cS1NSDFPWUdyTVNUYm5XWlppWVRWRUFoVUE": {
+    "count": 1,
+    "last": "2026-08-17T19:04:24Z"
+  },
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03UnBma0ladjcxa3lJdWFOU3VQWFE0RW9zRnFaT2ZmVDNfQU43X2RqWENRcmNUX2RxYndoTlcwXzdkcU1HYXN2U1NGOEdIUVUtT2c": {
     "count": 1,
     "last": "2026-08-15T23:08:19Z"
@@ -723,10 +719,6 @@
     "count": 1,
     "last": "2026-08-16T08:13:45Z"
   },
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRR18ySGN2eFhLYjZLQkVhMENUeUc3cHpSLVBHdDRKdVhQYU9KamN1UVM4RWRPSm5lWDcySWhhSHdLQXhDektncGZaMjJkRm5EeU8tWW1kRQ": {
-    "count": 1,
-    "last": "2026-08-15T18:52:00Z"
-  },
   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00ZkF5a000TkVCYzkzcmd5MEZqbU5ibFRpSXR4OTJpWUFoa1dmcTg1ejY1VXFBZUZWcWJDTzZfNW5TaExSUm1oU1d0a1dJOWZtaW1seA": {
     "count": 1,
     "last": "2026-08-16T08:13:45Z"
@@ -734,10 +726,6 @@
   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05NnBkU2dmamdjZjYtSXpjVTl4aEV2cmNEMGQzcXVxN3FXOFFWODN5VHRnSGpQMkw4UVlKWmlHd2J5a1ozQzdkS3hvUVp2RjFLemFQatIBWEFVX3lxTE9hTnc0Q0lVWDZQQUNoa09PWkNiUTduNi1lTG9xTFo0NTNnc1dXYXFVc2dqUU40RllmTzA1WllUVjNlTDVRY2ZyWjhhaGI0Qk5uYjdOaFJuaWY": {
     "count": 3,
     "last": "2026-08-15T19:40:38Z"
-  },
-  "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LdFlnUk0wbEJKSDVYN01pR3l4cjNmUjFndDJhbG1xSFpfOWZjbDgyWUkwZUk3VEhnSXRaWDNUVmNhM3BGaElLa0JvMzZGZHRleHRnYQ": {
-    "count": 1,
-    "last": "2026-08-15T18:52:00Z"
   },
   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90am81RVcybmduYUhiRWtXV2dRUEFScUZXVlVsa0F5Z2N4eldjWjQ1T3dBTy1fNThCOC0tRk50bjBtX3k0b1h6V2ZwRXVXMUF5N1VpXw": {
     "count": 1,
@@ -927,9 +915,9 @@
     "count": 3,
     "last": "2026-08-16T21:39:53Z"
   },
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTGlwcnNBbGp3TzBiM3FHbk14Q0lnWG9nM0lOM2tFMWUzcWs1RERWSi0wMlg3Y2Q5OG5iMXBSeHNNUldIVUxUSXJuWjVRVzQ3S0VJOENDd0EwRjTSAWBBVV95cUxNVTFWZVVHVDY0c3VFd245VTZJa3o2eE5LYlpadHZyS0tma2VVRXhDSFowYTNCSzBKVDhXd3YtMkFkVnRMd3NFRGpBWGI5bndDYzc2MnAtVDdWTUJRU2dYWl8": {
-    "count": 2,
-    "last": "2026-08-15T18:52:00Z"
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83X19YUVBHMG1XT0lOVktIaWE0Vkd4dTdqMDFpVEU0M1FwMHJDY09uU0swUk5rVEN6eTBDckZzU0ZIcjlDNnNsSUZsRTlNMzFyS0VJZkJHR1hLZ0U": {
+    "count": 1,
+    "last": "2026-08-17T19:04:24Z"
   },
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95RkxSUW50aEhsRl9wbDdYZ0dnbDVyblQ3Wm1PcWFrQmdqVkdSdERhY0ZsUFlYZU1kcTBjRmtJRVNzWFJ3bnk0c1Z6ejlzdHNFbWs2SlNzN0s2QWc": {
     "count": 1,
@@ -962,6 +950,10 @@
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kR09ldGVkQ0ZtalM1MS1LeXQ4ZWFTb2hsSWxlRm1vZzFkR2hqVVB4cnV4dTJ6WGliampRX0dwZW0yQ0tNRm5wRlYtRUlFcFJWc0lPYVJ3ZWFHc2c": {
     "count": 1,
     "last": "2026-08-16T14:10:39Z"
+  },
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oLXFBbEpSbVpvU1VhaXFmZzFYMUtrMjJoZlhpQUd1UF9scjJ3R0p4T25fNVByRzdNQjU1aUtTNHRvcDZGNUZjS2xQRHpkZ01wN1Q4bVNwdXBFQVE": {
+    "count": 1,
+    "last": "2026-08-17T19:04:24Z"
   },
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRVZac3pSOUJBVkR0Q0VXb1NHMHJFbXR4eTF6a0didm9GdzJSdDA2VHFYdHRHMUx5WXI2bFQwRGJLQUJvNGZFcGpNVlg0WkdBYTM0TVRkVGtESVnSAWBBVV95cUxOZjIxRTNqWGV1REdteG5xajlncU9IcjZQYzF2bkFydmNJRVJPcDRWNU10OUlNbTNLT0hGWEV1YVpzNy1GV1d6SmluZDdKVnFRLWg3c0RuNXFpekgyVGVGY2w": {
     "count": 2,
@@ -1036,8 +1028,8 @@
     "last": "2026-08-16T05:49:26Z"
   },
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13QWY2R2F4U1drTnlTbGEwZkNHVUpXUEFveWJQRHBieHRsRl84MzhfNmlhVDBWUjZkcnphdGdDZHRzS1o3eFdibEJxajVGQ21GSmxpclRqV1rSAV5BVV95cUxNWjNNc1BQVlpGNktUZUF6Q19VbUdSSkdPNmlrcUYySjVybjZkRHlmbFJpWDdhMVlYRkZndDNuOEpHaFdpQ0NmQUR4dzVsYWM3YzVCdkhNS0ZkT2I0T2lR": {
-    "count": 2,
-    "last": "2026-08-17T10:02:12Z"
+    "count": 3,
+    "last": "2026-08-17T19:04:24Z"
   },
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14REFfNFdwVzVSRVBsaVB0WE5HX0c1UDJtbXVQb2ZYOXJhSUY4NEZmdDNXUDl0LVRzSGxENHB3MFoxNjFoLVZZcVZYeFNYTG1WYXZUdVg5NmbSAV5BVV95cUxQaXpJQ3BZYTJxQ1lpTkt3Y0ZtUjdGR2Q4a2JvWWhCZ0Y4ZWlfelBfQktUaTVOb0JreUJlY05nMTFUYnpmclJMNzI5V2Vqa3dZV25vYkZQUXNySXppS0N3": {
     "count": 4,
@@ -1467,10 +1459,6 @@
     "count": 2,
     "last": "2026-08-16T06:17:57Z"
   },
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yOGFIbUl5TVBPLUlRUmJBd2tlTWNjZ0kzMVFZakFLVFFfYmFyMFhQVHM0NTNHRXZFLTA2dXoxLS0xbXhlT05KU1ZTXzJzWWRYY2tRZTFFbURqVUZ0X1E": {
-    "count": 2,
-    "last": "2026-08-15T18:52:00Z"
-  },
   "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ycExMcGVSWVhwc3BmUFBlMmxZMmoxemhNVEpUdWl4RlBRNTNCRWkzZXdsUkh1M0RwNjRubkZkNHBzR2NkWHRrWXZKTHp0UXhHaC1mYW0xazE3bTNHZ0E": {
     "count": 1,
     "last": "2026-08-16T10:10:39Z"
@@ -1690,6 +1678,10 @@
   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBURm5vR2l0SmVtX2daVDJIdGlTUUdzVU5icFZpdWR5dTI2OVZ0LWRhWi1jQXVYbkJrYUNfUnFJaldkMUxyVEhaa0s3aXE3NFZxcFVlVW5OdmZfeHdfdWo1T09lYk1FOEU": {
     "count": 2,
     "last": "2026-08-16T05:18:32Z"
+  },
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZSElTUXN2X08za1Y0X1V3QUd6UWlmNmJWSmd4MldLVm1TY0ZlUFo5djRBZEcyVURVNmpzT196ZTkwUjVUY3RZbU5UYnVMQUFEMkRmVXdMcFFyOFhnNk9zLThibHY4MU0": {
+    "count": 1,
+    "last": "2026-08-17T19:04:24Z"
   },
   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjRXoydGtrWXFDNlI4WTNTUmZUZHc4Um5xVUdXZGRseEpJWGYxQ2VjOWFueU5rVnpvaXplSjlocHFCUUlNSkJ6V2VNY0xOQm1UQ1F2QW5kQko1UjU5ZC1zWXRrSjRNV2s": {
     "count": 3,
@@ -2059,6 +2051,10 @@
     "count": 2,
     "last": "2026-08-16T08:13:45Z"
   },
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FRkVBX0hNWVBtRlEzajFCNV9kdnRHejFqcVM0YTl1ZzJTbldnOHdTUUVod18wdHV2Q0E2dFRjOEsyR3VsNGwwd0lLZHoyR3k1N2duMU1acU5QSFhSa1pEZlNGeTQ4NGI2c2xQcm44a2xBaEU": {
+    "count": 1,
+    "last": "2026-08-17T19:04:24Z"
+  },
   "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ia0lSdUxBRFBuOGZyZFJZZkZ4OXFWamFVM0I3eEZNY3lQSzRjcndUR0FDb2FVcXZGWVhKa1JVdy1vVG1uN25lZTlCT0d2M3dhdm9odHpULTRMeEtVbUtjaWpEZnRjZDF4aWFJelVTYjR3Y1E": {
     "count": 4,
     "last": "2026-08-16T19:39:50Z"
@@ -2411,6 +2407,10 @@
     "count": 2,
     "last": "2026-08-17T12:16:23Z"
   },
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Pa0tIQzZ4YWhYOEhVY1RDWEVOOFgzN09NTGxWejY4NF9IeXBFSXlEQ1VRZzBWbmx3bnpZZU15cUN4NllKOXZSQzFDekZxcktjdktXVElPelFSSmVEQ25mTnJzbWhwVjZMRV9ueTNodlVCQWNIcENMctIBeEFVX3lxTE5IN183SEJTQV80MkVaOXBDNXZ5RzlsVGV2eFZlRUY4YldHUEo1RU83T3ptc1VBajZHTWIxSS0wQXdNV191NzRRbHZrUXhTTkNlSTFIQ1BpekpWUGFXQnQwdjNPTjFHZzBnWkRQUGlROXFQbGdpVXAtUA": {
+    "count": 1,
+    "last": "2026-08-17T19:04:24Z"
+  },
   "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YRUJEc3hpUDUtSEkxTWVKd0N0aWt3OUV1UUQ2SHo1VWVPVElDV2lYVG4yYUdfODJ3bzNOWmhJdDZqVVhjNTZDQlR4aUlIZ0hLRzk3ZkcwRzdRaFlvMk02MmdIeTZYSFl2V0JtcjdiYUp0WWY0Q0EwUg": {
     "count": 1,
     "last": "2026-08-16T10:44:43Z"
@@ -2451,6 +2451,10 @@
     "count": 1,
     "last": "2026-08-17T10:52:42Z"
   },
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTFByWWZDdGhSd3BPTlZXcEhXQmhwb0FpYVhtX2o5WTVHdG5XSGJxVGpJeXdXMGNxTnQySnNtWTFGSU9pV1JMMmpfelljNWxkS3ZUR3ZpNE83NkcwOEJhN2g2SDFXQ0E2U0liWGhpbHhGNG9SU2NnRC1XNtIBeEFVX3lxTE9aUElCN3FhZ1ZQTFhxZXdRSHpMc1dvc1ctNnl1V184dlU1VlhsMEVVUHJLb2tzTDBPWHEwVlpObmVQQTBLa3BrdWlwSDNwLXNXaGRFb01TYWhFSFVtZUR5WC1FMW1XYVBYTnpsUDBhVlllVnFzUVYxZw": {
+    "count": 1,
+    "last": "2026-08-17T19:04:24Z"
+  },
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE10LW9rTEJ3UlBYSU9ncE9UR3NHX1NpLTVFeTIwanBqX1Q4c3dkU1JFa1ZROFlOb1RZMThUekVUd0VxQW5MLUxfVXp4bXJlMV9ud1JURTJyV2VTQlhvb1h6Ym5LeGoza2FxZnRmb2o1bGY2Tnc4VV91Wk5ZR08zcDA": {
     "count": 3,
     "last": "2026-08-16T21:39:53Z"
@@ -2471,9 +2475,17 @@
     "count": 1,
     "last": "2026-08-17T13:11:56Z"
   },
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSMlZHRmxxTzZQYnRJOXA3V3VVUUplUnpLMTd5NjlobjdsRTNhakQ3dDZId284cjRBUlZCcG9nU2piLW5oZHA0YmU1eXE5OHhVZG4yekZwa1A5Q3htSm0yMkNsMmZoRUY1NHkzeUdMOVZCZ29FcHhBQ2hPY0E": {
+    "count": 1,
+    "last": "2026-08-17T19:04:24Z"
+  },
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VYmtrUHdnbnB1YUZYNldodkxVTTlxeWhfejhQTmFqTmctam1TeG5zbTJwUXpueFRFVC11ZnVIck1uS3BPX2VPa1AtTnRmTVJpUWxqUFZYN2JOS1VvSnd4MVpHWkhpRlJFUVBLd0FzSy1adEtDSFU2OVRKMHNoZw": {
     "count": 1,
     "last": "2026-08-16T13:05:43Z"
+  },
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tbTdTcC1ZNmJrejg5dWlnaFNiaW5TTnlLUk9xRDREYVVKTE5Sb3ZYUjBDNzdqV1hQUDZNbGhMTERfWks2UUdzWl9sWDg1c0NyNmwtcXkxbldCVXpOUmxFbUJ2X1VVeld6SzVKSENfSU5lSHIweWtCUG5vcGViUQ": {
+    "count": 1,
+    "last": "2026-08-17T19:04:24Z"
   },
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wUXpfREtDSW1vRXh6QUJJMFVscmdCSnA1bjBaVXV5LUx4QjZNdk1vZkJkNVRycWsxUnBjYl9oR3l1ZGZlU1lLN3NKb2pGT1I5YkpmdEc2MG1KUGNRUC1XZkJSVFk2ZThiUjBxd0hxcEpKY1F4QlkxN203TlUxQQ": {
     "count": 3,
@@ -2587,6 +2599,10 @@
     "count": 1,
     "last": "2026-08-15T19:11:54Z"
   },
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1GSC13eGhKSWM3OTVxWmp1Z0Y0SWhycnU2X0cxTmFfS1VSLXNaUDdjZVpSSkZUcER1X2R3eEhPS1Itc1F1WUc2U1FDcjg0QWJmZTRnYmNsLVhGc1VPcnRWeTVuMDVTQXBPaG9mc1FpenJZU0lmMXZub0htRlFiWnFLU0J3ZEVi": {
+    "count": 1,
+    "last": "2026-08-17T19:04:24Z"
+  },
   "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTGpLVFhOOF83MTFRcDEtSVlsbWhXSWlfX2RndS1ZOEpXSm5pYzRsNmJUMHpvWUMySlNmMW1YZlM1WEFlT2FydFlnaGN5TUNzeFZyYlE1NFlKZ3F0ZDA3WjFIMlpXU2RFZ1AtWW5sZUJrYmhpTFp6VDRKenUtSFZsY2h5UTliMzZTUjFmaFJ1YmhGVnVsRVBIdzc1bXNXdnZkaWxfT2M1b2dtZWNlZWlTekJpNnh6YV9mcFFBc0NCV1hqcnJNdlpOejBfSjdsd1Fmd0kwbjUtQ3dOVm5UR29qZjlXbWJDdTNkcmtBQ2NKU0RMdzZfcy1RRFdXb09rV0lpMHpWY2VhMlI": {
     "count": 1,
     "last": "2026-08-17T16:50:55Z"
@@ -2622,10 +2638,6 @@
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT29TcktoSW9PdTItX2VncGhCbWpvdVVCLVJMSGNSSkR3eHdJeEJxZ2lKYUxGNmpBeG9jVWNLeUtTdmQ0b1piTjhCOHY2bnZNZGI0Tk52cjBNTDd3Qmt3UTBhYXc0WGg5MFRFR1pVRlpOM19CSGdLWVhneDY0dThTclgzU0NXLUpIby0tOHpzRQ": {
     "count": 4,
     "last": "2026-08-15T23:08:19Z"
-  },
-  "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcDI4cVZNY05BaVVJQ2JycUxjbzUzSXJ3R25HSlI0VWIxbGh6NDZsRHRTbkRKbWlDQzA2dGw2X3dCLXdOdmZHUTB5ekdNWlB5ZlZDTVlQN243MDRKc09JUEZXVHJkQ0JLeHE2MVdDME8zX0VyTHRkTVl2cE1UNWFDeDdOMlczV2ZmclIzMi1TLVE": {
-    "count": 1,
-    "last": "2026-08-15T18:52:00Z"
   },
   "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNENyalNCVU1JTV96amFfekhhUnkwYVJhNHcwM094aS14MlJSejJWTTVrakdrZi1WNzV5VWdROEU3d0Q5a2hJWmV6SVVBRjNkV3o3cVVoeTdUdUdYd29KM0VESS1QWjNTRGJ6SFJqUUoxczRpT1VkQTNlQ0hkR1diaXoxQm40ektMV1NNNXBqdmM": {
     "count": 1,
@@ -2747,6 +2759,10 @@
     "count": 1,
     "last": "2026-08-16T11:08:44Z"
   },
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaldlR3k1QnhCWEI4UkNZc19sblA5dHFiTXV1eF85R1hfWUw1NUVmak9saExRTkpEeFQyUFRfVGttQUNBQXpHLUZkTFZ1aEo0VkxXblE1cWNERGs1azMxWlRqWjFjMEFWcEo0UC1OaFlCbHJWdGZZMEw3cktJWnkwNjRqNmVOazQxaC15YWdSTWVTMW1mbUVFZDVURnZnYTZJTzg1UXhoSVYxQUNCUXVKLTNIMkZLT1lqZ1dPS2R3": {
+    "count": 1,
+    "last": "2026-08-17T19:04:24Z"
+  },
   "https://news.sbs.co.kr/news/endPage.do?cooper=NAVER&news_id=N1008707384&plink=ORI": {
     "count": 1,
     "last": "2026-08-16T17:40:26Z"
@@ -2808,8 +2824,8 @@
     "last": "2026-08-17T17:15:12Z"
   },
   "https://newsis.com/view/NISI20260817_0021401089": {
-    "count": 1,
-    "last": "2026-08-17T11:46:05Z"
+    "count": 2,
+    "last": "2026-08-17T19:04:24Z"
   },
   "https://newsis.com/view/NISI20260817_0021401090": {
     "count": 2,
@@ -3064,8 +3080,8 @@
     "last": "2026-08-17T17:15:12Z"
   },
   "https://viva100.com/article/20260817500421": {
-    "count": 1,
-    "last": "2026-08-17T08:27:24Z"
+    "count": 2,
+    "last": "2026-08-17T19:04:24Z"
   },
   "https://weekly.hankooki.com/news/articleView.html?idxno=7178998": {
     "count": 1,
