@@ -1,42 +1,42 @@
 {
   "cat-us": [
     {
-      "title": "원/달러 환율 10개월 반 만에 1300원대…달러 약세·네고 영향",
-      "link": "https://economist.co.kr/article/view/ecn202608190068",
-      "pubDate": "Wed, 19 Aug 2026 09:01:00 +0000",
-      "source": "economist.co.kr"
+      "title": "외국인 3.5조 팔았는데 환율 14원 급락…10개월 만에 1300원대(종합)",
+      "link": "https://www.news1.kr/finance/market-exr/6263329",
+      "pubDate": "Wed, 19 Aug 2026 07:01:00 +0000",
+      "source": "news1.kr"
     },
     {
-      "title": "미국 금리 불안에 코스피 매도 사이드카…5% 넘게 급락 마감",
-      "link": "https://www.mt.co.kr/stock/2026/08/19/2026081915410828693",
-      "pubDate": "Wed, 19 Aug 2026 06:49:00 +0000",
-      "source": "mt.co.kr"
+      "title": "로이터 \"삼성전자, 파운드리 가격 최대 15% 인상…내년 흑자 전환 가능...",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1403896",
+      "pubDate": "Wed, 19 Aug 2026 10:50:00 +0000",
+      "source": "m-i.kr"
     },
     {
-      "title": "뉴욕증시, 중동 불안·美 국채금리 상승에 하락…나스닥 1.33%↓[상보] - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aanA4TlpsLV9UcnFpRmx0bFZ2cG8tQ2xJNHNFTFZMUkY0UGR0SEc4LVNJRUhvalotc2dyVEtRWjFIR2E2T3dmQlBzWmJ3X0tySHRTQw?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 21:39:00 +0000",
-      "source": "이투데이"
+      "title": "[속보]美 장기금리 쇼크에 반도체 '와르르'…코스피, 8월 상승분 반납",
+      "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=04145926645548960",
+      "pubDate": "Wed, 19 Aug 2026 06:36:00 +0000",
+      "source": "edaily.co.kr"
     }
   ],
   "cat-kr": [
     {
-      "title": "가혹한 청구서: 주가를 국정 목표로 삼았더니 생긴 일들 - 슬로우뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5JUm04R3JPMkJiR2czc3Fpc3dHRXE3NTVQM0gyUmM5NXctYkdLa2kyRnVOMHlYWnJMZHlhYjNVdw?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 09:16:27 +0000",
-      "source": "슬로우뉴스"
+      "title": "[오늘의증시] 코스피 5.8% 급락…유가·금리 충격에 2주 만에 매도 사이...",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=477528",
+      "pubDate": "Wed, 19 Aug 2026 08:10:00 +0000",
+      "source": "news.ifm.kr"
     },
     {
-      "title": "불장이었던 상반기 ‘국내 상장사’ 고르게 실적 개선 - 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OVkJodHV6eDA3SFN3RnpoQWozc3VQMnhNYkF3dHo0QUE1bEpqWUkyTHpXcmJCR05ranFnenpfZkp6UU9sd0Q0ZkxLRnZuRU16U0VOWjltQnlwRkVHa00wSnNWVEtyTG5ZRW55NC05LUZhZjNkUjBFamU5TG0?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 09:03:38 +0000",
-      "source": "부산일보"
+      "title": "증시 활황에 증권업 ‘두각’…상반기 영업익 163% 급증",
+      "link": "https://www.news2day.co.kr/article/20260819500334",
+      "pubDate": "Wed, 19 Aug 2026 09:28:00 +0000",
+      "source": "news2day.co.kr"
     },
     {
-      "title": "AI 투자 청구서가 증시 덮쳤다… 국채 쇼크에 코스피 5.8% 급락",
-      "link": "https://www.hankookilbo.com/news/article/A2026081909260005491?did=NA",
-      "pubDate": "Wed, 19 Aug 2026 08:31:00 +0000",
-      "source": "hankookilbo.com"
+      "title": "가혹한 청구서: 주가를 국정 목표로 삼았더니 생긴 일들",
+      "link": "https://slownews.kr/165146",
+      "pubDate": "Wed, 19 Aug 2026 09:18:00 +0000",
+      "source": "slownews.kr"
     }
   ],
   "cat-coin": [
@@ -47,39 +47,51 @@
       "source": "newspim.com"
     },
     {
-      "title": "펜실베이니아, 데이터센터 개발자 필수 관문 추가 - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VG1XNWcxX3RJOGFsaklxeUs5NU12LWU4Yk5fa1IzNzRUWGpJcjRsZ0RNWW9pbjhLaS1MdkJlYVozYmN6OUxvSTlWeW5Jd3FSeDNGUDE5OUtRNXBxYUk1eXlfeUJKVkUyQXRWc3dFNFJ6SFRDNGNB?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 09:59:00 +0000",
-      "source": "BeInCrypto"
+      "title": "[저녁 시세브리핑] 암호화폐 시장 혼조세… 비트코인 64,271달러, 이더리움 1,916달러 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ycThiNF9fUWppTmFRa2ZKZFNCX2JVdUJEZENHTXprNlkzOHpNOWgyVHdkSzlrWlhqWHpNX0hxQndxNTRiNlZnQTRfWlZQVWVqMmdXdnE0Uk9sRzMyUUHSAV5BVV95cUxNcnE4YjRfX1FqaU5hUWtmSmRTQl9iVXVCRGRDR016azZZMzh6TTloMlR3ZEs5a1pYalh6TV9IcUJ3cTU0YjZWZ0E0X1pWUFVlajJnV3ZxNFJPbEczMlFB?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 07:03:02 +0000",
+      "source": "tokenpost.kr"
     },
     {
-      "title": "[오후 시세브리핑] 암호화폐 시장 혼조세… 비트코인 64,301달러, 이더리...",
-      "link": "https://www.tokenpost.kr/news/briefing/393066",
-      "pubDate": "Wed, 19 Aug 2026 03:04:00 +0000",
-      "source": "tokenpost.kr"
+      "title": "가상자산 시장 침체에 업비트·빗썸 보유 코인 가치 '뚝' - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qMWJZNFJkU1Bua2RtaDhicURUWGxHWFBpNExNc204dkloVzVMTlpQYURoRjVydFBQLV9tM09pQVZhVkpQNk5oYlJscEZCSHdIajlXakQ2aHZrbmZSM3JidNIBYEFVX3lxTE5qMWJZNFJkU1Bua2RtaDhicURUWGxHWFBpNExNc204dkloVzVMTlpQYURoRjVydFBQLV9tM09pQVZhVkpQNk5oYlJscEZCSHdIajlXakQ2aHZrbmZSM3JidA?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 20:59:00 +0000",
+      "source": "연합뉴스"
     }
   ],
   "cat-land": [
     {
-      "title": "압구정현대 호가 27억 내렸다…\"매수 문의 없어\"",
-      "link": "https://www.sidae.com/article/2026081913083975996",
-      "pubDate": "Wed, 19 Aug 2026 06:01:00 +0000",
-      "source": "sidae.com"
+      "title": "세제 개편에 강남 매물 늘었다…집주인·매수자 모두 ‘눈치보기’ - 서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzM3U0d2txYjh0U3VoY2Z1eElLdXZ6YW5TWk93SjF5c1VnajZLWTY4cC1LckRPMHRfNkpJNDVncW16VEwyY0hwOGczRWFBTVBDRldIMnJpQnFQUFFyMWJqaGJtbVc0cXhPYW1j?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 00:05:09 +0000",
+      "source": "서울뉴스통신"
     },
     {
-      "title": "세제 개편 발표 뒤 강남 매물 6.5%↑…매수자 ‘관망’",
-      "link": "https://www.mk.co.kr/article/12131298",
-      "pubDate": "Wed, 19 Aug 2026 07:19:00 +0000",
-      "source": "mk.co.kr"
+      "title": "세제 개편 발표 뒤 강남 매물 6.5%↑…매수자 ‘관망’ - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sRF85VlkzaFBkSkg4eEVXUzM1VEFyWTg5QmZPSG1vWWJoeGE0MktOZVFIRVhsV0Y2VzNNT0l1N2R3dkthcmp0bWF3TVR1NTg?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 07:18:13 +0000",
+      "source": "매일경제"
     },
     {
-      "title": "“서울 집값 잡겠다더니”…이재명 정부 발표 8개월 만에 아파트값 6.84...",
-      "link": "https://www.wikitree.co.kr/articles/1153398",
-      "pubDate": "Wed, 19 Aug 2026 05:30:00 +0000",
-      "source": "wikitree.co.kr"
+      "title": "“서울 집값 잡겠다더니”…이재명 정부 발표 8개월 만에 아파트값 6.84% 상승 - 위키트리",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lNmFJOTZxdndwenlxaW85d2pHM3U2V182RmQ1VlNtVUFKYTJ2OU9FQm9aRTN1aGNmTlVLU0Q5S3dEX2pEbjI5RWxTaVpheTJVcHBRSy1n?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 05:29:00 +0000",
+      "source": "위키트리"
     }
   ],
   "cat-etc": [
+    {
+      "title": "종합특검, 조태용·홍장원 등 前국정원 지휘부 내란 혐의 기소 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLeHFJSmRBeEVySnhFTURNNGZXNHFESkRsb01jOXVpbEp2cU9VdmFwWXRZdGd3ejk2bG4xT29LRFVHYXRBc09ock9TcHFFVnQ0Tm9PVHFxSTE3VEHSAWBBVV95cUxPNG12cmlYaDA5bkVJQXdRZ2lJLVU4ZFZzR1JOZjdTckxxUGpSZjloS3YzOEJ4MjBaWVFMcWZMVEJUUS1yczRFQTZfLVc1ZTBUMFRlcGJha1c1MjlsMDZ4WXM?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 10:24:38 +0000",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "“손봉기 본인도 ‘서면 제청’ 몰랐을 것”…조희대는 왜 대통령과 조율 없이 제청했을까 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ETHBDWlpVZnJfaFZjWHBrbk05ZnNobHhzRE15MVhqV2ZRd2czV0k0UXQyLUVBZVY5VVdLUmpEMV93WnFpMkZwUTl6R01iUTRDaTlrUUtXUHRoQdIBX0FVX3lxTE1oR0ttbU5WWElMaGRtdTN2Y2hGSzlwRmpHSWdIQk9CUndIQnN6OUVHeGFUWjd6aGtlUEtGTmE5TzVZeGM3TW4yeEFtbDBkT2Foa29yS3lpMkRPam5mTDY4?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 10:26:00 +0000",
+      "source": "경향신문"
+    },
     {
       "title": "전국 교육감 “교부금 연동제 폐지 반대…정부, 협의체 구성해야” - KBS 뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fd2R4S25PYndGamhtZzlxbkpsOFVoZnVuZmtndi1KSlBGd1Q0azN6V1ZtelNxTTdrZzRySEFjeUZjZmxLMHlEUklqd3BmUmpNSkJCQXVxZ2JBaFE?oc=5",
@@ -87,29 +99,17 @@
       "source": "KBS 뉴스"
     },
     {
-      "title": "[속보]종합특검, ‘내란 가담 혐의’ 홍장원 불구속 기소 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ec1hhemM1YnlLVlJoanZlRVcybVBpMlcwLWQxRElwb0lwUF90TTVoZEkzbHdwZ2FIRnV2bmQ2c05MOVlqN2hxVHRFZDZzNXN2N1RhRHd3ZVlwZ9IBX0FVX3lxTE9EekRWQzI0Sy1MakxjRml0SzhlbUJyd0tyZy1LRFhwUGFqSFFMMDFMSndDbGxJMUgtb0tUdnZ1N2l1MTdHTUFEaWxUVlBnQ3U4Vmhwdnl4TjBMNURtYVBr?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 09:44:00 +0000",
-      "source": "경향신문"
+      "title": "與김준환, 탈북민 출신 의원에 “김일성 만세하던 사람” 막말 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51RmNZR2hablh1Nm9LSTFUaElRMzBsYmIyNWFocU8zelBnbHRraUMyVFNFTlRLY3BMZGtnOUZycHFLTURYMHBjOFQ1UTBkRHZPWjNYWVRkb0hlekl0cER4aWxjU2xRSDZDMktyQXpxR3JITTdieFNr0gFmQVVfeXFMUDJIZmJOc3FlX1pRZ25xUFQxM196OUlLSm1qQi15OUZrcHVwOFR4VXlrSHlNLU5hMEMzeHBHUnBuS2p4UHdDTm1VaG1xVnhSUTc3Y29PWTRVakNYeldEd1lOWXRqaWN3?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 06:44:00 +0000",
+      "source": "동아일보"
     },
     {
-      "title": "SK하이닉스 40조 자사주 취득…\"소각 통해 주주가치 제고\" - JTBC",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lSnZ2ZUo1My1WX3J6X1BiWjExQ0Q0VGczbHREcnhVX0JWWGE4UnZpMkhTOUw3NU5rVVpnYldxWFNZTEotaVQ0S0NSWkFMRDdtencyOA?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 06:45:00 +0000",
-      "source": "JTBC"
-    },
-    {
-      "title": "46조 법인세 앞두고 원화 강세 베팅…외인 주식 2조 팔아도 1,400원 붕괴 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wd0tpTlR2dUpKNVhBM0dkay1tUFFPdENla1EtUG1vYlZDUjdTaUE0eGgwT1lZOVFycGxyVFRKVHlaTC1URDFFUUpIMW1YLWNWSUt0NEhTSHg5WDlJS2FPdE1ua2tUTklvakp5S241N1U?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 07:03:04 +0000",
-      "source": "연합인포맥스"
-    },
-    {
-      "title": "정동영 “한미 훈련 축소, 트럼프의 고심 끝 결단…북-미 대화 기대” - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EUEVINWQ0dS1BV1UxUUFkQzNteXgxQUZYamNMVlFRekZwM3hKNWJnaWRuWEwtX3AzNHcxbENuejhORW1Wc3BZN3BPVGZhRWJhMkVrOE1mTW9Qd3NlbDNkZHNNQ2doWHh3ejJMcVgxd1ZfN3hk?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 06:37:00 +0000",
-      "source": "한겨레"
+      "title": "중국 왕이 외교부장 “한반도 평화·안정에 건설적 역할하겠다” - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40SWFoVk9jeEZyU3pSaGt0R2d2elMzaHN5S1A0VXU2cmNZcFZKejN4NDlTeHd5b25TdDhUbWNOSzRhLW9LdzJCUWJLNmp0a1hnLTNjOFpBNk5KLUk?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 10:33:00 +0000",
+      "source": "KBS 뉴스"
     }
   ],
-  "updated": "2026-08-19T10:15:17Z"
+  "updated": "2026-08-19T10:50:50Z"
 }
