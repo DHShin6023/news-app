@@ -1,85 +1,103 @@
 {
   "cat-us": [
     {
-      "title": "[뉴욕증시] 미 재무부 국채 매입에 국채금리 진정…다우 0.22%↑",
-      "link": "http://www.segyebiz.com/newsView/20260820505462?OutUrl=naver",
-      "pubDate": "Wed, 19 Aug 2026 23:40:00 +0000",
-      "source": "segyebiz.com"
+      "title": "미 재무부, 국채 재매입 확대에 국채금리 하락…뉴욕증시 소폭 상승",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534633",
+      "pubDate": "Thu, 20 Aug 2026 00:14:00 +0000",
+      "source": "obsnews.co.kr"
     },
     {
-      "title": "7월 FOMC 의사록 \"위원 다수, 물가 안 내려가면 금리인상 언급\"",
-      "link": "https://www.tfmedia.co.kr/news/article.html?no=206584",
-      "pubDate": "Wed, 19 Aug 2026 23:28:00 +0000",
-      "source": "tfmedia.co.kr"
+      "title": "트럼프 “인플레 우려해 금리 올릴 필요 없어…오히려 내려야”",
+      "link": "https://www.khan.co.kr/article/202608200841001",
+      "pubDate": "Wed, 19 Aug 2026 23:41:00 +0000",
+      "source": "khan.co.kr"
     },
     {
-      "title": "연준 내부서 다시 커진 금리 인상론, \"물가 안 잡히면 추가 긴축 필요\"",
-      "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=87286",
-      "pubDate": "Wed, 19 Aug 2026 23:32:00 +0000",
-      "source": "mediafine.co.kr"
+      "title": "트럼프, 연준 금리정책 또 비판…\"경제지표 좋아도 금리 낮춰야\"",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=574116&class=42&grp=",
+      "pubDate": "Thu, 20 Aug 2026 00:22:00 +0000",
+      "source": "joseilbo.com"
     }
   ],
   "cat-kr": [
     {
-      "title": "[증시키워드] SK하이닉스 ‘40조 자사주 소각’ 승부수…삼성전자 급락·현대차 파업 - etoday.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSUndiY1Yxa19SVGFkVUxNWjNIbHVBOUdtVFBvOGM0RU1FUXRjc1RsT0JRemxkMnJoR1lpZVhtdFdIWXE3b2ZyRkRQUHg5dzlsLTczeA?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 23:07:00 +0000",
-      "source": "etoday.co.kr"
+      "title": "코스피 6680.34 출발…시총 모두 상승할 때 홀로 하락한 '이곳'",
+      "link": "https://www.wikitree.co.kr/articles/1153558",
+      "pubDate": "Thu, 20 Aug 2026 00:10:00 +0000",
+      "source": "wikitree.co.kr"
     },
     {
-      "title": "SK하이닉스 40조원 자사주 소각 발표…코스피 회복 신호탄?",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=875657",
-      "pubDate": "Wed, 19 Aug 2026 23:34:00 +0000",
-      "source": "gokorea.kr"
+      "title": "\"금리 부담에도 주도주 주목…반도체 반등 유효\"<메리츠證>",
+      "link": "https://www.news2day.co.kr/article/20260820500031",
+      "pubDate": "Thu, 20 Aug 2026 00:10:00 +0000",
+      "source": "news2day.co.kr"
     },
     {
-      "title": "국채 4%대가 막아선 '7천피'…코스피 리레이팅 셈법 바뀐다",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430888",
-      "pubDate": "Wed, 19 Aug 2026 23:32:00 +0000",
-      "source": "news.einfomax.co.kr"
+      "title": "[오늘 일본은] 日, AI·반도체 등에 7.7조엔 예산 요구…성장투자 대폭 ...",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=83418",
+      "pubDate": "Thu, 20 Aug 2026 00:26:00 +0000",
+      "source": "pointe.co.kr"
     }
   ],
   "cat-coin": [
     {
-      "title": "[크립토핫이슈] 백악관까지 나섰지만…흔들리는 클래리티법과 갈라진 시...",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694070",
+      "title": "백악관發 훈풍에 비트코인 7만달러 근접…코인베이스·스트래티지 두자...",
+      "link": "https://www.mk.co.kr/article/12131864",
+      "pubDate": "Thu, 20 Aug 2026 00:24:00 +0000",
+      "source": "mk.co.kr"
+    },
+    {
+      "title": "[크립토핫이슈] 백악관까지 나섰지만…흔들리는 클래리티법과 갈라진 시장 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iUzVEU0o4Z00zd2hodjlZaEZlZHQ0cG1iV3NWbXg5R1hOR0RvMGFYSzZ3cUFveDhhUWhoeTNpZ3kyeWNsQ0FKZmJCci1yaGZrYjNuZ1BjVlROR0pOSFJTcElTOTJab3pPSXhxTVVSVXdwaU0?oc=5",
       "pubDate": "Wed, 19 Aug 2026 22:30:00 +0000",
-      "source": "digitaltoday.co.kr"
+      "source": "디지털투데이"
     },
     {
-      "title": "비트코인 시세…이더리움·리플·솔라나 가격",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202608200028",
-      "pubDate": "Wed, 19 Aug 2026 22:10:00 +0000",
-      "source": "bntnews.co.kr"
-    },
-    {
-      "title": "[자정 시세브리핑] 암호화폐 시장 상승세… 비트코인 65,907달러, 이더리움 1,968달러 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FY1NRY3ZfTWZfN3RLWnRGTmhNUzNtR1MtYkZYMjc0RU1yWFVhS1hNTjRidFBKLWwtU1l6MWZzT2dzamhYQTAtM2lSUTk5ank2dmd1VTkxZ1LSAV5BVV95cUxOV1dIYkduaWxMbV81eXRxNlpacTY4MkVldjJCMUliVkFlQkw4QTlmYkVXaUR3Y0ZjdjhpUThiZGZxaGZsOUNBd3F0cGxpVlhyY0t6cWRGZF9hR0dtQW53?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 15:03:56 +0000",
-      "source": "tokenpost.kr"
+      "title": "코인 동반 급등장…비트코인 8%·이더리움 19% 상승",
+      "link": "https://www.etoday.co.kr/news/view/2616140",
+      "pubDate": "Wed, 19 Aug 2026 22:08:00 +0000",
+      "source": "etoday.co.kr"
     }
   ],
   "cat-land": [
     {
-      "title": "\"LTV 80%라는데 살 집이 없네\"…서울 빌라 평균 4억 넘었다 - news1.kr",
+      "title": "울산 아파트값·전셋값 동반 상승…대체 주거상품 오피스텔 관심",
+      "link": "https://edu.donga.com/news/articleView.html?idxno=111032",
+      "pubDate": "Thu, 20 Aug 2026 00:00:00 +0000",
+      "source": "edu.donga.com"
+    },
+    {
+      "title": "\"LTV 80%라는데 살 집이 없네\"…서울 빌라 평균 4억 넘었다 - 뉴스1",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xVFZTVGE3VE9oQVpwV3M5WTlOeU5MV2M0bVY0RnlMbTY2TXlfWFdWS1hjSXp2TXVFOEtNRUdDcjd5czRyTF82NVpTTldoekRLanM1dXdDaUlCdFMyMzlhVNIBYEFVX3lxTE1xVFZTVGE3VE9oQVpwV3M5WTlOeU5MV2M0bVY0RnlMbTY2TXlfWFdWS1hjSXp2TXVFOEtNRUdDcjd5czRyTF82NVpTTldoekRLanM1dXdDaUlCdFMyMzlhVA?oc=5",
       "pubDate": "Wed, 19 Aug 2026 20:20:00 +0000",
-      "source": "news1.kr"
+      "source": "뉴스1"
     },
     {
-      "title": "2030세대, 빌라 살까?…대출문 열렸지만 출구는 '글쎄'",
-      "link": "http://www.metroseoul.co.kr/article/20260820500015",
-      "pubDate": "Wed, 19 Aug 2026 22:52:00 +0000",
-      "source": "metroseoul.co.kr"
-    },
-    {
-      "title": "[마켓+]서울 아파트 거래 55%가 10억 미만…30억 이상은 92%가 강남·서초·송파·용산 - businessplus.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3aEwzWWVRU1BoVzdhdGh3b0tSYTlvc3VTR2lVY3JiTHl1b2Q4Y2tLMmNJc3hIR21PT0hiTVBnVHRtSFRIV2h0SnRhQzM3YndoZ2hTTWtEWTdhbjhEbjhJN1hvMEgxQXFmekdtUnNB?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 23:35:39 +0000",
-      "source": "businessplus.kr"
+      "title": "서울 아파트 매매 55%는 10억 미만…실거래 중위가 9억선 형성 - 청년일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHdjUySzRXeXhIaFZLaC1QUjFINWhJUEJVeV9jSlJ1ck9JWVVLREp1VTlyaVpvRnl3WHlZbFV6RzB6SmFmVlAyTHJRdTZvZ3hDXzBieV9lZXFCbWtUUnlvTk45Sy1mRjJUX3c?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 00:06:31 +0000",
+      "source": "청년일보"
     }
   ],
   "cat-etc": [
+    {
+      "title": "트럼프, 이란에 “가장 강력한 경제 작전” 선언…제3국도 압박 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JSUNrN3FLc0k0WGdBTXdRdHdneDUyVnVyVXpQN1BjQk0xTHVJQUs5SzNRQnMyRTJUQWNQOWt0T216cmlpZlk2UmlEVWVIWW1DbWkxX1M1WG9mcFROTXJGVUZhNDZFN0JMb0VfZXJCTXNTbG8?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 00:03:00 +0000",
+      "source": "한겨레"
+    },
+    {
+      "title": "미 국가부채 사상 첫 40조달러 돌파…장기 국채 바이백 확대 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MTE9JbUpKdHZpVm85c3VuSEJhYUsxY3g5UnhCQ0RiNDl5M0xValZ5RzI1NzZHTjhHaW4zZUEyYXdwWDBTaGxrUGN1Nng2S0pVRFFHdERxOW1Xd29ldHBRY2pBM0tvTWxGeTIzR0hWRQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 23:56:00 +0000",
+      "source": "한겨레"
+    },
+    {
+      "title": "이 대통령, 김민석·정청래·송영길 만찬…“당정청 운명공동체” - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16REltMDB4V3VaVkV2Vjk1SG5xdDRqVGNOS0lkMlNudHpfa0dDdUp1N25aY1pEcXVYOW9PLW1qTjZickc2ZTNIai1tcGtzalMxQ0IybDVIbUctWHM?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 21:16:00 +0000",
+      "source": "KBS 뉴스"
+    },
     {
       "title": "​[속보] 트럼프 “김정은, 연내 만날 것”…‘비핵화 목표냐’엔 “말하고 싶지 않다” - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSWJkZnExbWNRY3FkRHZkU3ZQWU5IRE91UUhoQXVSZDIwelZSS21CcTNsQVYtV3FZdjh6SVFDUV9vSXB0MnV6M3JSTHpUV0Z0Q2dybENnYzFGOFRIekZtUk5BQkNNbWVJVzhPbXMyNA?oc=5",
@@ -87,29 +105,11 @@
       "source": "한겨레"
     },
     {
-      "title": "전국 곳곳 소나기에도 무더위 계속···낮 최고 33도 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZc0dMNGVOa3k0OVhoa0x0RkZhVmd5M3NHbmtLcm8tRnlVemlBTW4xbkhaU3cyREpUVG1ITHJnRTJfdGFkQy1lX043d1BTNHVNb212emdmdk1zZ9IBX0FVX3lxTE5WZ253OXJiN0N1TDZmNTZNWi1rMmZtOEgxeF9xcDFmSzg1XzhlQkJxa1dMNEV0a18xRHVKWFkxNnYzby03SmJJWjY1OUt6TzBET2RNbG1TVEcxam4tT24w?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 22:21:00 +0000",
-      "source": "경향신문"
-    },
-    {
-      "title": "'기자회견 역풍' 불었던 7월 FOMC…\"인플레 안 낮아지면 긴축\"(상보) - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HcEVCNTZMT3lZNGNwamxsU0JmWlJ3MlhmVWRiMGFOcjhWVFNsd0c3MVdIZXVjbHhjSTBZNVFiNFNwZkJnX2dBb3F2MGhJLVpIcXlSU1Y1dmtYeTI2amNseFFLQzFGQjNhNFNSVUx3QWM?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 21:06:11 +0000",
-      "source": "연합인포맥스"
-    },
-    {
-      "title": "“표현의 자유”…이진숙 ‘5·18 폄훼 포럼’ 사과 거부로 과방위 파행 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CLUNNVlpZTE9wU1B3eGZ6VG8taUk2dl9oTWlVSDA3S29FVWlJSEhuUGFRR2dhRk80SV8xWUQ2NmMtc3hpai1rR1pkbm5KZjdpa2huQzlUVE9LRmxIRnZNaFlwMHU?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 10:23:00 +0000",
-      "source": "한겨레"
-    },
-    {
-      "title": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBieXB1bzM4cUk1dnNiZjFseUJiN3dFdjhFNU1NUjRVZmd3OHd3cFNhajJBVWFjRGZXWWI3VDBtZlhKTE1VRWtEYVRyYi05R0p4VHRIVTdUWTNTQdIBX0FVX3lxTE8wUmw4cVJBMWFERFk3TUlVcG54V2dLU3NhR0ZISWFmQTZZRmZtQ1dpSGFnajFqMC1ieWY4WkVfTnJyWHNCbWZsbHNhT2lsWUZXLUllTENiT3A2clVXaUxv?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 10:20:00 +0000",
-      "source": "경향신문"
+      "title": "오늘도 곳곳 소나기…서울 낮기온 31도 - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1neTRxX0hVRzFySTFMV21ZSlBsS2ZCNnRNdE1TaXJyU2F4dHpZSEZ3OFF1ZGh6OEdER296anJIajlUa3BvTE54UnN4WktsMWdfX21GeTlOZlczLTg?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 00:09:00 +0000",
+      "source": "KBS 뉴스"
     }
   ],
-  "updated": "2026-08-19T23:42:27Z"
+  "updated": "2026-08-20T00:28:38Z"
 }
