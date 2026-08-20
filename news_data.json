@@ -1,42 +1,42 @@
 {
   "cat-us": [
     {
-      "title": "뉴욕증시, 장기금리·유가 상승에 일제히 하락…다우 1.32%↓[뉴욕마감]",
-      "link": "https://news.mtn.co.kr/news-detail/2026082105365824859",
-      "pubDate": "Thu, 20 Aug 2026 20:40:00 +0000",
-      "source": "news.mtn.co.kr"
+      "title": "[속보]뉴욕증시, 美국채 금리 반등에 일제히 하락…하닉 ADR 4.4%↑등 반도...",
+      "link": "https://www.munhwa.com/article/11610863?ref=naver",
+      "pubDate": "Thu, 20 Aug 2026 21:14:00 +0000",
+      "source": "munhwa.com"
     },
     {
-      "title": "[뉴욕증시] 국채 수익률·유가 급등-월마트 폭락에 투심 꽁꽁...3대지수...",
-      "link": "https://www.g-enews.com/view.php?ud=202608210532179983e250e8e188_1",
-      "pubDate": "Thu, 20 Aug 2026 20:38:00 +0000",
-      "source": "g-enews.com"
+      "title": "[미국 뉴욕증시] 국채금리 재상승에 다우존스·S&P500·나스닥지수 일제...",
+      "link": "https://www.lecturernews.com/news/articleView.html?idxno=209044",
+      "pubDate": "Thu, 20 Aug 2026 21:08:00 +0000",
+      "source": "lecturernews.com"
     },
     {
-      "title": "뉴욕증시, 국채금리 재상승·고개드는 인플레에 급락…다우 1.32%↓",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721113",
-      "pubDate": "Thu, 20 Aug 2026 20:42:00 +0000",
-      "source": "ebn.co.kr"
+      "title": "美 국가부채 사상 첫 40조달러 돌파… 장기채 ‘바이백 2배 확대’ 긴급...",
+      "link": "https://www.segye.com/newsView/20260820520988?OutUrl=naver",
+      "pubDate": "Thu, 20 Aug 2026 21:02:00 +0000",
+      "source": "segye.com"
     }
   ],
   "cat-kr": [
     {
-      "title": "[N2 포커스] 주식 수탁수수료 9조 시대…전체 미래에셋·국내 KB·해외 토...",
-      "link": "https://www.news2day.co.kr/article/20260821500012",
-      "pubDate": "Thu, 20 Aug 2026 19:42:00 +0000",
-      "source": "news2day.co.kr"
+      "title": "31조6640억 순매도, 외국인 주식 7개월째 팔았다",
+      "link": "https://www.tokenpost.kr/news/market/394468",
+      "pubDate": "Thu, 20 Aug 2026 21:04:00 +0000",
+      "source": "tokenpost.kr"
     },
     {
-      "title": "[더페어 돋보기] 6850선 안착한 코스피…외국인·기관 수급 지속성에 갈...",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85653",
-      "pubDate": "Thu, 20 Aug 2026 15:02:00 +0000",
-      "source": "thefairnews.co.kr"
+      "title": "금리상승에 증권사 채권평가익 적자로… 3분기 실적 '먹구름'",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168527",
+      "pubDate": "Thu, 20 Aug 2026 21:10:00 +0000",
+      "source": "it.chosun.com"
     },
     {
-      "title": "‘40조 자사주 카드’ 통했다…SK하이닉스 11% 뛰며 코스피 6800선 회복",
-      "link": "https://www.mk.co.kr/article/12132347",
-      "pubDate": "Thu, 20 Aug 2026 07:10:00 +0000",
-      "source": "mk.co.kr"
+      "title": "[뉴욕증시 마감시황] 장기금리·유가에 3대지수 하락…메모리주는 상승...",
+      "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5868",
+      "pubDate": "Thu, 20 Aug 2026 21:02:00 +0000",
+      "source": "moneystorm.kr"
     }
   ],
   "cat-coin": [
@@ -47,39 +47,45 @@
       "source": "bntnews.co.kr"
     },
     {
-      "title": "도지코인의 사인 의미 - CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iUWgydGdZRUZIRFZRa0hueFNoOGVpcU9LSG5TVjhnTzRQUlZBUUV4Y1JfS21pMFNqcVV2WjhDaFRDbHllNElCbVVJcG9LUnZPb1Rwd0dsbERka0Q3Z1Y2NTYtaHVpbVE?oc=5",
+      "title": "ETH·SOL 동반 급등…상승 탄력은 이더리움이 앞섰다 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rSUNuSl92MTltaUVacGRZUUFtc3I3Ry1jNFBhN2xsdGsybzQ5NGY1dERzQmR0R3FIS2xzaU5McTBtUjE4YzhyalJZaUpIZjZsU2lHVG9VYUV6VWsxd0tQUHpYS3MtenAt?oc=5",
       "pubDate": "Thu, 20 Aug 2026 15:00:00 +0000",
       "source": "CBC뉴스"
     },
     {
-      "title": "[모닝 시세브리핑] 암호화폐 시장 상승세… 비트코인 72,680달러, 이더리...",
-      "link": "https://www.tokenpost.kr/news/briefing/394466",
-      "pubDate": "Thu, 20 Aug 2026 20:02:00 +0000",
+      "title": "[자정 시세브리핑] 암호화폐 시장 상승세… 비트코인 71,766달러, 이더리...",
+      "link": "https://www.tokenpost.kr/news/briefing/394464",
+      "pubDate": "Thu, 20 Aug 2026 15:04:00 +0000",
       "source": "tokenpost.kr"
     }
   ],
   "cat-land": [
     {
-      "title": "\"세제개편 타격 40억 아파트 급매\"…강남·서초 집값 2주 연속 하락",
-      "link": "https://www.mt.co.kr/estate/2026/08/20/2026082011473097344",
-      "pubDate": "Thu, 20 Aug 2026 05:00:00 +0000",
-      "source": "mt.co.kr"
+      "title": "[아파트 매매·전세·월세] 서울 아파트값 6월 2.5% 상승…5년 만에 최대...",
+      "link": "https://www.lecturernews.com/news/articleView.html?idxno=209047",
+      "pubDate": "Thu, 20 Aug 2026 21:14:00 +0000",
+      "source": "lecturernews.com"
     },
     {
-      "title": "강남·서초 아파트 매매가격 2주째 약세…전세도 동반 하락 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92SzlicG4wY1FQYmNnNHpVS01uc0FrQnJ4cTBUNmpEbVFUV2VDVUVOM3JmS1Q3Vmg1QkU5QU53RFpsbzZRWHRtY0hMQ0ZNT3ExV1Ntak42M1lralnSAWBBVV95cUxQZUJZNHc3Y2NkaVVlekprenkxZGo1bXd6NkQ4ZWNIdVBPOGd1a2ZOSTVRTzNsOW5mNHpyd3R5by1fRFVvZkpxODRFak5pOHRuMWVfQjlzdkdhXy1kaW90Tzc?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 05:00:04 +0000",
-      "source": "연합뉴스"
+      "title": "'약발' 약한 부동산 처방…수도권 집중 못 풀면 '도돌이표'",
+      "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2235205",
+      "pubDate": "Thu, 20 Aug 2026 21:00:00 +0000",
+      "source": "cctoday.co.kr"
     },
     {
-      "title": "\"세금 더 내느니 차라리 급매?\"…초고가아파트 몰린 강남·서초 2주 연속 하락 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsUW1lYUl0UURfVjV5dldrUlotbU1DQ0FYcW9TTjcteEYyNGFYVjB6el9DR0RBS3l0cmNKRnhJamxUdGhDNFJVeXVVOFdsRzVDalJOa2N0dHdzOUZpUjVtdVdYQ2Q0MmRFUjkzY3dxQTJrZi1fZDE40gF8QVVfeXFMTTU3cUxqNVY5QWlsazNPNGVGSVlENkx5VldoZXZHQlNmNnlXV3d5ZFZDaUJ3ZzNodFhmTE16X1pyUjVzaDNqa18ySjc0LVI1U1JSbFpIbHZ0NXFoQlFWZjJIbmtfUnAwa2hKNk1yUXpPelZZY2lwVWdlTkRHNQ?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 07:40:01 +0000",
-      "source": "머니투데이"
+      "title": "[8·13 대책 일주일]① \"공급절벽 해소 어렵다\"…강북·경기 상승세 이어...",
+      "link": "https://www.newspim.com/news/view/20260820000585",
+      "pubDate": "Thu, 20 Aug 2026 21:00:00 +0000",
+      "source": "newspim.com"
     }
   ],
   "cat-etc": [
+    {
+      "title": "“법원을 또 공격 대상으로 만들어”…조희대 ‘서면제청 논란’에 판사들도 부글부글 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdTRGX21mcUdLbFJVcHEzODFlSnFpYlFxVG1zVkpDQ0d1dUl1bFMyWUh2dEUxZHF6SU1YUEZMcVJOdU1xN3hJZjd6THJseTlFemwxX3FIREtud9IBX0FVX3lxTE9mbzZmQjVERHk0VWpUS1Q2WGptaGhGN1ExMmIzdTJtRXB3WE92eTBweVg1Y2pJUHBBNWdtelN4czZ0VkpTU3lxYU1iVEN0dE9rX09Gc25UZnB4QU8tYXAw?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 21:00:00 +0000",
+      "source": "경향신문"
+    },
     {
       "title": "중부 비, 남부는 소나기…무더위 계속 - KBS 뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BSFM5UGJtMXBxdnhJRERwVEVMUzNmYzlmSVZEaVk4ektvd1RhYkk0ZTFQWnBDd0VCZzVQMGFqdTI3SXBadUE3OC00LWk5eU9WaUxVZHN1eFdSYXM?oc=5",
@@ -87,29 +93,23 @@
       "source": "KBS 뉴스"
     },
     {
-      "title": "‘어른의축’ 없이 북 만나려는 트럼프…볼턴 “북 위협 고조” 경고 - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjVTVZNml2RU1yUzNLVWEwSlR0b2xHNVJmTU1ma19DLXVYQmI0VlR4Smh4d1lnNC1rR09Ecmk2ZmRUWTFGcXAyR3FoVENkUmdvc0lZQkIyeXFfVVk?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 18:54:00 +0000",
-      "source": "KBS 뉴스"
+      "title": "김여정, 협상력 극대화 ‘연이틀’ 담화…남엔 독설 퍼부어 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRZm5KU0pOSW1LZGVYMVJEd04zenBNT3NpNHJia20wVFdZdWl5LVhOTEdHcW12MTg5LTc0dEVhYWdFRXUwOURuVDBmaThSUnZEdkFCWFRnNjY3N0JGcGNzTGJmNHFaZkZpOVF2UVFGMWVLN0It?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 20:01:00 +0000",
+      "source": "한겨레"
     },
     {
-      "title": "국힘, 오늘 의총서 ‘당협위원장 일괄사퇴안‘ 재논의 - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81Tjh6VlRzSVdfdHRpaXY4RjNNN2dUZVZRZzRyR2RObUI3MzhoNVJDTWY1WVVXcjdjcjg0R0dkNncwTEhQMWQxUDQzYjh5eXRpLUdheEFjS054OVU?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 16:02:00 +0000",
-      "source": "KBS 뉴스"
+      "title": "‘검찰→중수청’ 택한 검사·수사관 2375명…정원 82.6% 채워 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nanZ4VUFraWQ5UkpndC0zU0pfRFd4ZE1tNjZ0QnhIS2NkRUV5dkdNd2ZwUzFqa21mSnplWi1sMFZ4NHVScklrZHczX2I1emRNc1J4R3dJZ2F5cEQ3WkZBR0RtbGdQNkNxVFkyQTVyMnJFcVE5VnZB0gFmQVVfeXFMT1lXV2thaUtrY3JITm0weU83UGNGcUR4SmRVS1NpVEFkemFwVTVoSHI3S0syS2xiRVJsSWpaSF9VU09SRWhzWUhFVVBxTElaZTkwcXltUHl6NTNvY3ZaaVBMb3lXdkt3?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 13:37:00 +0000",
+      "source": "동아일보"
     },
     {
-      "title": "'노르트스트림 폭파' 영화로…실제 공작원도 제작 참여한듯 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrYlF2N1FwdkI5V1ZsZGg2dzRvNW5fSllGTTFzUXM3NlVndnptTmJVcXQ4ZUxMQkRIbWlhZ3VBTlRrNDNuUS1OT0JJZGU5TDBNbGNzRG92QkFGYVnSAWBBVV95cUxPMUhFWjZfemZ2dFlETEIzN3JJZjhTMm5KTFR6NXlTb0hhcUpqSW44aHh0OEc2YmM5YkhvMHZBbE9IZU1JMjJsVzNIdmRpR29JempIZWhLcWhHZE5lT0FMaDM?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 15:44:05 +0000",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "[뉴스분석] 북·미 정상회담 조짐 일었는데 한국은? ‘한반도 평화 페이스메이커’ 되려면 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54d3lldkkwbnI2OFhObjRoMVNxaGZzcmw3bTk4U2RibW9fblAzTURYN2NBUWt2cmRPNTNfRVo1ZGxmOWFOOUphZVlJUHlEYXRMYTV1UTVSX1d2UdIBX0FVX3lxTE1LRVV2WDdQVTQ4SjNJc2tnekFXdE9BaVNOUTNQOTBhc3R2NF9sMjNiTmRzbUVya0VQTERUS1ViNTNpYWZiNThSMHFwRks2Uzc2b3BMcFZDaEphU0R0XzNV?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 10:42:00 +0000",
-      "source": "경향신문"
+      "title": "유럽증시, 트럼프의 '이란 고사 작전' 위협 속 보합권 혼조 마감… 국제 유가는 올라 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95QmQweWlYUGRhb3J0YzYwYjVJVmd3VkVRX3dtLWVoU0F1N1BkY2JSSTZtVThiYUQtNFkyQy1BZnFGYUFOc3NyelFvcVNHdksxU3REZ2hTTnI3ZFJU?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 17:19:00 +0000",
+      "source": "뉴스핌"
     }
   ],
-  "updated": "2026-08-20T20:51:42Z"
+  "updated": "2026-08-20T21:15:40Z"
 }
