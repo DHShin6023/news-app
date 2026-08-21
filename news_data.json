@@ -1,30 +1,30 @@
 {
   "cat-us": [
     {
-      "title": "뉴욕증시, 미국 국채 금리 상승에도 반등…다우 1% ↑",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643327&ref=A",
-      "pubDate": "Fri, 21 Aug 2026 22:04:00 +0000",
-      "source": "news.kbs.co.kr"
+      "title": "뉴욕증시 상승…다우 0.98%↑",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202608220034",
+      "pubDate": "Fri, 21 Aug 2026 22:40:00 +0000",
+      "source": "bntnews.co.kr"
     },
     {
-      "title": "美 서비스업 '깜짝 호조'에 뉴욕증시 일제히 반등… 다우 0.98% 상승 - theconnectmoney.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UQVQ0dXF3UzBwU1pCQi1ROENjX3YxbndpcGtTWnpwSFRWLWZ6Ml9QUG9JUTdDbHJTY25WazE0UmI5NjN0QjJrQ3VPVUF4UGdnc0pFQ1FEVDFUbVd4bDZWRg?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 21:50:00 +0000",
-      "source": "theconnectmoney.com"
+      "title": "[뉴욕증시] 금리·유가 상승에도 반등, 배경은···반도체서 암호화폐로? - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tYzFPaFo2eWVmazh1OGNVRXJGcWhHWW1YU205c2JtWHQwRXdWSV9Xb3FkdGlnNUlXUmtLaktaVld5azNLOEV1b2ltVzZURTVFMEtScldvd0hpSHYwdHdrZkFEWW05aUhLSHc?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 22:37:06 +0000",
+      "source": "서울파이낸스"
     },
     {
-      "title": "국채 불안 덮은 경기지표 호조…다음주 엔비디아 실적 촉각[뉴욕마감] - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96MWdPaUI5aGpvVFJNYzZLM2VYbmQzQTZNYjFhN0MyaWROV1U1aUtUczgxVVNvLVpvOTlTOTJUZEJtNXoyb1pJQnB3dk91WlV3SFo0VmtJNWxZQUJLSUxOUQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 20:54:00 +0000",
-      "source": "네이트"
+      "title": "美 국채금리 또 올랐지만…3대 지수 하루 만에 반등 [뉴욕증시 브리핑]",
+      "link": "https://www.hankyung.com/article/2026082258497",
+      "pubDate": "Fri, 21 Aug 2026 22:14:00 +0000",
+      "source": "hankyung.com"
     }
   ],
   "cat-kr": [
     {
-      "title": "[주간증시전망] 美금리 충격에 출렁인 코스피…엔비디아 실적이 다음 분...",
-      "link": "https://www.ajunews.com/view/20260822020904868",
-      "pubDate": "Fri, 21 Aug 2026 21:02:00 +0000",
-      "source": "ajunews.com"
+      "title": "[주간증시전망] 美금리 충격에 출렁인 코스피…엔비디아 실적이 다음 분수령 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zeE8xbzJ5NEh2X2hfanhLVUh6WWxobEZ0bWR2eXhNYjZVeVJTQ1lLNWs2aGVJUzVIZWtnai1tWTEyXzF4SnZHUnc4Q0ZiVmIybUV1Um16cEVvUdIBWEFVX3lxTE1mN1pkb1BBR3lPZERDWEtlTUYzYTlNczctVk5qc2tGX3BVRWlCSGFMaVZta2p1d01GOUVzQV80bU44amcxT3VRQlAxME4zV1lpc1VKd0tEN2Q?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 21:00:00 +0000",
+      "source": "아주경제"
     },
     {
       "title": "개선되는 외국인 국장 복귀 여건, 핵심 변수는?",
@@ -41,50 +41,62 @@
   ],
   "cat-coin": [
     {
-      "title": "[모닝 시세브리핑] 암호화폐 시장 상승세… 비트코인 77,006달러, 이더리...",
-      "link": "https://www.tokenpost.kr/news/briefing/395371",
-      "pubDate": "Fri, 21 Aug 2026 20:04:00 +0000",
+      "title": "이더리움 2500달러 상향 돌파 관측됐다 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51OVlwWjZCb3BjWVVoUXl4VVJ6VW9RckJtZDhhV0c1S09CY0VNUWttZ0tvdjVIc2NFVzBpVldDUlljdlBLVVphVkI1U0NKZnAyY3dxLWJjSWbSAV5BVV95cUxQNXh3a0dOZVROUmp1aUhQMG1qYlU4TUJIU1U3TFRUbHdPOHBNMnhDaTNBdkdwV2FkRGFFTWVzSDBreVQtM3MzcmhhRG91dGotS3BSYndPTDVrNW1nTzhB?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 22:16:07 +0000",
       "source": "tokenpost.kr"
     },
     {
-      "title": "[특징주] 비트코인 1억원 돌파에 우리기술투자 등 가상자산 관련주 급등 - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mMTlpVFMzTUZjb2lNVUZ2OWEtVEFBb2JOaHd3YU9VYUE0Q2xUT3BuNURkTlBmYTg2RTU1Nmh0VzNlRkFxQmd1SnROaVNWMUd2MlZvaWxwOVRZN1ZsT1JhZUthZFJEeDJla3h6UXV1T1RSQQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 00:12:00 +0000",
-      "source": "이투데이"
+      "title": "[모닝 시세브리핑] 암호화폐 시장 상승세… 비트코인 77,006달러, 이더리움 2,413달러 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44OGtyZG9VUFJLemRjSzc2NGhwQTN4YlA4ZFQ3MVdsLTFmeVRkSWk3YWZZMlpzRlJCbGpyR2ZIRnpTYjQ5bW5tUXYxWXJVTHJGYUtTaXFzY0nSAV5BVV95cUxON0F2Sk82djBNbHZGUUFDVHNfUGoxZjdtTExvZGphSkNrNjMwOWR4cGgtYkw3R0pkWHRIdl9qOXBqRFJIOUtKUjB1TnRrdFVXZFlvZ3hFcHJ6LUpXdUdn?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 20:02:05 +0000",
+      "source": "tokenpost.kr"
     },
     {
-      "title": "비트코인 일주일새 13% 급등… 美 훈풍에 알트도 강세 [주간코인시황]",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168557",
-      "pubDate": "Fri, 21 Aug 2026 21:00:00 +0000",
-      "source": "it.chosun.com"
+      "title": "비트코인 연말 베팅값 7만5000달러 반영 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kRWNjNGZaM1NyY1AxbFNKNW9HVGd6bF9YOWo2OVZGVGZwU3BhTDNMOUtPbF9xMGZ4TW5kSGdjblhreDQwLW1ja1J6V3I3Y2NRWnFCOUpJeWpmeEttVThTd1RHWDNVUdIBZkFVX3lxTE9kRWNjNGZaM1NyY1AxbFNKNW9HVGd6bF9YOWo2OVZGVGZwU3BhTDNMOUtPbF9xMGZ4TW5kSGdjblhreDQwLW1ja1J6V3I3Y2NRWnFCOUpJeWpmeEttVThTd1RHWDNVUQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 17:51:59 +0000",
+      "source": "tokenpost.kr"
     }
   ],
   "cat-land": [
     {
-      "title": "부동산세제 개편에 강남권 재건축 매물 40% 이상 늘어 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EOGVaMndvRFVZMEE4X3dKZXlNUi1Vdjk4U3ZYV2c5blBEbExUMFBNQTdjTGxWUlA3YWYtb1dYbmNqRFVxY3ZpTTdQdEZhTFFTN0tR?oc=5",
+      "title": "“빌라에 갇히란 말이냐” vs “월세 탈출 기회”… 4억 이하 非아파트...",
+      "link": "https://weekly.donga.com/3/all/11/6356164/1",
       "pubDate": "Fri, 21 Aug 2026 22:01:00 +0000",
-      "source": "네이트"
+      "source": "weekly.donga.com"
     },
     {
-      "title": "6월 서울 아파트 매매지수 2.5%↑…5년 만에 최대 상승폭 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51dzl0cGJsa2hFOTdNTUllSkZ3c3FiMzBjZXNRWHQ1NzYwNjlPUjhMa2J6TTY3RXhBUU53dGdjbUFNbnBUM29zR3JWY3hNdDB5YlE?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 02:04:40 +0000",
-      "source": "서울경제"
+      "title": "[르포] 8·3 세제개편에 갈라진 서울·경기 집주인 셈법",
+      "link": "https://shindonga.donga.com/3/all/13/6355948/1",
+      "pubDate": "Fri, 21 Aug 2026 22:01:00 +0000",
+      "source": "shindonga.donga.com"
     },
     {
-      "title": "“나홀로보다 대단지가 낫다”…집값 끌어올리는 ‘브랜드 타운’",
-      "link": "https://www.dailian.co.kr/news/view/1680677/?sc=Naver",
-      "pubDate": "Fri, 21 Aug 2026 22:03:00 +0000",
-      "source": "dailian.co.kr"
+      "title": "부동산세제 개편에 강남권 재건축 매물 40% 이상 늘어",
+      "link": "https://view.asiae.co.kr/article/2026082113283865046",
+      "pubDate": "Fri, 21 Aug 2026 22:00:00 +0000",
+      "source": "view.asiae.co.kr"
     }
   ],
   "cat-etc": [
     {
-      "title": "대구·경북 흐리고 곳에 따라 소나기…낮 최고기온 31도 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xOFJ4eUlNWE1GTlFzdTRDVTBKMzdYRkVwbFpUZlJGdlZpb2UtYk9sUm9HZXZhZllrcWZ0bTVMWExTRXFGMXE4R0xYd29ZU0VRUG9kV0pXaTVqODjSAWBBVV95cUxOS1lOR2ZObzBFd2V3SW9BamlPZnRoV0RwUzAtX3NGZGo5VmIxbUlhTncyRjEzNUhJWlFtbWMtR0tCNDRIeUZOajJ4U29PdDVfUzlPREluaFczRnR2OEdYbXI?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 21:31:21 +0000",
-      "source": "연합뉴스"
+      "title": "22일 전국 곳곳 비·소나기···낮 최고 34도 무더위 계속 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tY2JSVFB0ckdmcERiTlRnR2J4bkljQXVILWswMHVqYzA1ejlVTkU4VkJTSDg2U0V1TUNUQVV4ZVhwWm1oa0o0ZlZ5aG1BQnlFMUI5Q0VjX1hsQdIBX0FVX3lxTE50UHAwN0N4Z1dSVng3MEdENHZBc1pYLW1fSVo1azBDcmNTV0hUdlNqWUtRQ3dJV0dteTNpZnJBbE1KNDJUSWdXZ0NRaHk4SnFFTE1RWGUzRmtDRC01TjRz?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 22:17:00 +0000",
+      "source": "경향신문"
+    },
+    {
+      "title": "찜하기 32만 돌파, 5년 개발 야심작 ‘오르모드: 디렉티브’ 게임스컴서 첫선 - 인디게임닷컴",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOSVVXRGI0ZXZrWDNnV2N2R0hHZmZUd2ZCcUFnMnFTd3o5X3c3OXo2SFpIQVhhQmJNdFZtZGh1UlJxWC1DSFhqaFBrU2E?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 22:02:21 +0000",
+      "source": "인디게임닷컴"
+    },
+    {
+      "title": "현대차 노조 \"정년 65세로 연장\"… 10년 만에 전면 파업 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CRVU5UzRKNEpGUE01VXc5TzdmTnhxYzdKTTgxaEpKa3hiTDlKcVh6RV85Ny1fWUx6YkhVLWdEOTZzRENSNXlVbTFzRWdkWjFpY29MSUo1eTBiMFZtVm1HYmpBN3dqLTZRdWJBWklKU19URnBQUWVZZE9nM0N3RTA?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 15:41:00 +0000",
+      "source": "조선일보"
     },
     {
       "title": "러, 젤렌스키 고향 쇼핑몰 공습…최소 15명 사망·130명 부상 - 연합뉴스TV",
@@ -93,23 +105,11 @@
       "source": "연합뉴스TV"
     },
     {
-      "title": "자동차 판매하는 26세 청년, 알고 보니 ‘벨기에 왕자’…DNA 검사로 확인 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Xb1Ftd0VDZF9ycV9fd1piS2ZlZExwQVNwdTFzeGdFREdkcFJsb0RsTnZQOUxJZ1RnT2pfSkVHQlhCcjQ2a3VkVTN4MW1ISmdKU0RET1dGMVBLN3NBNHhTemxWcjRsUnVLejF0RXNRVllqRVXSAWZBVV95cUxOWE14cUM5Ni1QWTZvZmt6VUpoYW5TUmVlVExWS2c0TUJfMTFBd2dwV2JnT016dmVEcEtYLWZpRl9ORTYzUXFubzB5NXpVbzlDNENyeGIyTTJrdkJTaWFmc0VmVHdWdHc?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 18:54:38 +0000",
-      "source": "동아일보"
-    },
-    {
-      "title": "현대차 노조 10년 만에 전면 파업...공장 가동중지 - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0SHdReHlIME15U1ZIV29NUTFZMFhmbjVOUXgtU3F0WGR3NElZVEV5UXNUMUd5MkswcDJHTGVMZ1MyalhBcTU3OGowQnlOYzBDUUhMNmxxYjR4cHZTbnc?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 12:57:00 +0000",
-      "source": "YTN"
-    },
-    {
-      "title": "\"국회의사당 밀면 용적률 500%, 아파트 1.5만채\"…'닥공' 역제안 화제 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJUndpaTI2UXhZZ2ZfamZCblpmbXRuN1RzZUxpMEFXRGxOYUZaRzVqUVJWME5LRGF6V2xzWEt2eU14R0VLeVVrM0NuTEtlNXJGY2NIdkVlUjdCeTTSAWBBVV95cUxPRnNXbU8zWDk0LWVWVzJ5TmlZR2VlNF92THFyS3NyZ0owWnJva3hGWm1DZ05YQjlVTDVxRW9lOTYzQTVicHVzc0VPdF84eDZOYS1xZ3dxUzhQREFTTmJBdk8?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 20:30:00 +0000",
-      "source": "뉴스1"
+      "title": "8살 여아 발등 밟고 지나간 차량 2심도 뺑소니 무죄(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuVGh2alRhUWNiSkg3TXIzZ0hqMml2cTFVVzRHUXhCeklMNWthQXhtczRadTJpMWNEMW5TdHVWUnlBRVdxVjB6ZmV3elgzU0Y0d25ycDJlRlk4SDDSAWBBVV95cUxQclF0VEowU2o4dkI0SmJvTlZpaEp6ZHdDVEl5VmlWTjh3TmNEU2o1eHpGcjBwOWdob0ZKSGRPV3RILTMtNnZ3M0tjcnZMWjV3ek1yeF9wT2kxRjcxNTV3OEw?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 07:35:10 +0000",
+      "source": "연합뉴스"
     }
   ],
-  "updated": "2026-08-21T22:10:07Z"
+  "updated": "2026-08-21T22:46:10Z"
 }
