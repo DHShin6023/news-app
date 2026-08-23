@@ -1,16 +1,16 @@
 {
   "cat-us": [
     {
-      "title": "[뉴욕증시 전망] 물가·소비심리 시험대…PCE 발표 주목",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85834",
-      "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
-      "source": "thefairnews.co.kr"
-    },
-    {
       "title": "[김대호 진단] 케빈워시 vs 아서번즈 \"놀라운 평행이론\"",
       "link": "https://www.g-enews.com/view.php?ud=202608190920278582906806b77b_1",
       "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
       "source": "g-enews.com"
+    },
+    {
+      "title": "[뉴욕증시 전망] 물가·소비심리 시험대…PCE 발표 주목",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85834",
+      "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
+      "source": "thefairnews.co.kr"
     },
     {
       "title": "뉴욕증시, 잭슨홀·엔비디아 실적·PCE 물가지표 촉각 - 매일경제TV",
@@ -21,65 +21,71 @@
   ],
   "cat-kr": [
     {
-      "title": "7000선 문턱서 '주춤'했는데…AI반도체 2막, 엔비디아·잭슨홀이 가른다 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA1V2dMYlo5a3dVX2tsZkFsVGM1UUdGcE9EaW15QWd1MHlPUGxaRnJudTNvUWtieXp5SXpZc1k4RXBwZWQyMGc?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 02:25:50 +0000",
-      "source": "v.daum.net"
+      "title": "“PER 4배면 빠질만큼 빠진거야”…삼전닉스 공부 다시 시작하는 반도체 개미들 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DOFBiMHUzQjVPZnhoOWE4OG9fUjg2bUNVWDluaGMwWkV1MTloQndXZV9rUTNTNTJHS3JiTlg3M1VuMWR0YzBSc3JQd213RUc5R3c?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 00:00:38 +0000",
+      "source": "매일경제"
     },
     {
-      "title": "510% 수익낸 고수…“반도체 다음은 코스닥에서 나온다” [한국의 위대한 투자자] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yY1VZc1lzSkNTNnRObThPb1MtSEljcjRodzJxQ2tpMU5FeXNPRlJTbFpvSVBxemJORzl6UUJ1NWlQN2ZnalJRcDRyY1ZNT3l1cVE?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 10:54:28 +0000",
-      "source": "매일경제 마켓"
+      "title": "코스피 향방, 엔비디아·잭슨홀에 달렸다…\"2차 반등 가능성 주목\"",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1398140",
+      "pubDate": "Sun, 23 Aug 2026 05:00:00 +0000",
+      "source": "daily.hankooki.com"
     },
     {
-      "title": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QTlpUSFN5UVljbnZQbm9JOHMycC1rT1hxOVZraDNfcmdYYVJzRWN0R3dRSUlsTmhMSnJYOGpVOW5SdlQzbFc3aVBNTllxdGQyUXc?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 21:00:44 +0000",
-      "source": "매일경제 마켓"
+      "title": "7000선 문턱서 '주춤'했는데…AI반도체 2막, 엔비디아·잭슨홀이 가른다",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608230053&t=NN",
+      "pubDate": "Sun, 23 Aug 2026 02:24:00 +0000",
+      "source": "wowtv.co.kr"
     }
   ],
   "cat-coin": [
     {
-      "title": "[자정 시세브리핑] 암호화폐 시장 혼조세… 비트코인 77,250달러, 이더리...",
-      "link": "https://www.tokenpost.kr/news/briefing/396085",
-      "pubDate": "Sun, 23 Aug 2026 15:06:00 +0000",
+      "title": "[자정 시세브리핑] 암호화폐 시장 혼조세… 비트코인 77,250달러, 이더리움 2,438달러 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtNGpfRzNNaVVfTFZpVjZPeXdjb1g0dWhJb0g4YnhwajBMTXBReXdLYUliWmFGNExpZWNkY1U4RVh5eExnMGRFamZPYVhIWmpZcS11MjB0bTXSAV5BVV95cUxNeHRoaXJWWGs0YURRYy1JMUt6UG95dE5SbC1MUU0yTklISzJDdzc3emlOVTlSSS0taC1TRmgwem1fVndjRHBMVTU5YVRaSzJKRFVTWEZUQ2lNV2txU21B?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 15:04:58 +0000",
       "source": "tokenpost.kr"
     },
     {
-      "title": "이더리움, 2400달러선에서 등락…시장 유동성과 네트워크 수요가 변수",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=600515",
+      "title": "이더리움, 2400달러선에서 등락…시장 유동성과 네트워크 수요가 변수 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OeFVuWnNSRUtaazJrenVXVG45N2tXelVaSVJRNVBrUVA4dURqV0lWMnoxYk52SXNBd2RuVUtTX3BGRzZEQ05XRkRySi1wM29McWN2cDl4R2VGQ2ttaTJkbW9LcXFPYUdq?oc=5",
       "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
-      "source": "cbci.co.kr"
+      "source": "CBC뉴스"
     },
     {
-      "title": "이더리움 2450달러 넘어 24시간 1.08% 상승 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvYXNhVHVXMDJ4ZHRzR1dITTNpYkpTNG9sSjVUdmpnb3BZcGVOb2MwUFJUS0txZ3pxQlc1Tm1HNmJZVFRnZDA0d29LMkFWaTFhSG5nYXlFUmZzekxvRk13enZ5QkhPZ9IBZkFVX3lxTFBvYXNhVHVXMDJ4ZHRzR1dITTNpYkpTNG9sSjVUdmpnb3BZcGVOb2MwUFJUS0txZ3pxQlc1Tm1HNmJZVFRnZDA0d29LMkFWaTFhSG5nYXlFUmZzekxvRk13enZ5QkhPZw?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 13:23:34 +0000",
-      "source": "tokenpost.kr"
+      "title": "비트코인 시세…이더리움·리플·솔라나 가격",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202608240003",
+      "pubDate": "Sun, 23 Aug 2026 15:16:00 +0000",
+      "source": "bntnews.co.kr"
     }
   ],
   "cat-land": [
     {
-      "title": "서울 아파트값 평균 16억원 돌파...중랑구 2개월 연속 1위",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3672049",
-      "pubDate": "Sun, 23 Aug 2026 13:00:00 +0000",
-      "source": "gukjenews.com"
+      "title": "서울 아파트값 한 달 새 1.14% 올라...평균 매매가 16억원대",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=878587",
+      "pubDate": "Sun, 23 Aug 2026 10:28:00 +0000",
+      "source": "getnews.co.kr"
+    },
+    {
+      "title": "서울 거주자의 경기 아파트 매수 5년만에 최대… 서울 아파트 평균값 첫...",
+      "link": "https://www.donga.com/news/Economy/article/all/20260823/134526881/2",
+      "pubDate": "Sun, 23 Aug 2026 15:32:00 +0000",
+      "source": "donga.com"
     },
     {
       "title": "[데일리 Talk] 동맥경화 걸린 주택 시장",
       "link": "https://m.skyedaily.com/news_view.html?ID=310085",
       "pubDate": "Sun, 23 Aug 2026 15:04:00 +0000",
       "source": "m.skyedaily.com"
-    },
-    {
-      "title": "[26년 7월 전국주택가격동향] 7월 전국 집값 0.35% 상승 - 서울 1.09% 뛰며 수도권 상승세 견인 - 재개발재건축매거진",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEbDlsaUhucUZ0WjNSOUhMdHoyNWxaVW9GWE5RUTZWTU1hQzZnN3FJbGFtc3hob3BOZU5OTW1XQ2pSUUs4TE9qVkQ2NUVBQjNCRkktLTR3TU4wbmhYdUZoWmJ1aHhqSGlRYjZF?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 14:57:49 +0000",
-      "source": "재개발재건축매거진"
     }
   ],
   "cat-etc": [
+    {
+      "title": "2금융권 중금리대출, 총량규제서 전액 제외… 중저신용자 ‘숨통’ - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zRHl2MEFzMDhoMnNGWHFRaGpnTVNaVEs4LTEwOUZqYnJ6SkxINlhSaG0wUXRLM0FFbndUN0VhOC0weEd3QnRFeWlNbnZkSFhkbktMSnBwUFZoZkhCX3pwN3IyREJfWkJnSXVmUXljVnQ0M25JRWfSAWZBVV95cUxNbkVuUS1vT1FoZEJZR29LbkhpZC1NT2pFay0xSkp2YUttM1EyZ1B0Sk0zSG8yVE0wMkdUYldyMnFqaWZlYW9scDFKcEVoNkZyc0lXM3JTSzgwb2tmeHp0dGw3V1hoZ2c?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 15:30:00 +0000",
+      "source": "동아일보"
+    },
     {
       "title": "푸틴 “우크라이나, 러시아 경제 파괴하려 판도라 상자 열어” - 연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vbWhiUXhkMDRaVTFyMkNpSmRrV0F4R3RMOXFQeTI0OTB3V1ZYbFZyTUpSYTdEY1hfWkszVER3REJyakRjaF9TckJScG95MWhKLXNjbmhtLTNxemNmR0hiYVVaM2hnQlU?oc=5",
@@ -93,23 +99,17 @@
       "source": "경향신문"
     },
     {
+      "title": "T모바일, 갤럭시 S26+ 공짜 조건 매체마다 달라…A57부터 폴더블까지 전 라인업 할인 - 위키트리",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVWg1R05ESnVubDljZWpCcWdjYXM5S3dnek9iMm02SVlVM1FteURrZTJuMDUzX2xESHIwNmpaeEpCWUNFVk5BNDBidUZFU3N5eTlPQzdB?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 15:09:00 +0000",
+      "source": "위키트리"
+    },
+    {
       "title": "“백골 되도록 뭐 했나”…경찰 ‘멋대로 종결’ 60대 실종자도 있었다 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85OHpDVFBfX09ybGxqSWstZjQ5aS1Xd0xRcHhPMHpQYzN4ZmxuNHlXelF0U3pBOUQ4Rk8yR0JGcmpoYnp0cWxSTmNKUlpweWpwckxXQmpOdTRTbmV0b3dV?oc=5",
       "pubDate": "Sun, 23 Aug 2026 13:48:00 +0000",
       "source": "한겨레"
-    },
-    {
-      "title": "한 열정적인 사용자가 AMD Adrenalin 로그를 분석하는 무료 웹 도구를 개발했습니다. - GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMklYaGhfeFNYUmxrb1RNbzNFdXJFbkFEY1FDYlM3cU93cnRVREhGSVlpYUJuMnNsU0tEbV9sRjM0N2phX3p4ZUs3dEFEY3A0elNnMldKdDFManIxTnc5T2VTVFNhSng4bjdOcm9DSkxGSlZOdTNUaHhZOG5KQmZPSFBNQUE4X2x4NkZiMkFha2R4TmlTRzNOWGhVdW1pMDhyYzhzQzRndFd3RWRtOHhGRg?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 14:53:44 +0000",
-      "source": "GameGPU"
-    },
-    {
-      "title": "또 사라진 ‘처서 매직’…무더위에 계곡·동굴로 - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5T3I1Nm5hQ1lwQzVtVzNxUVNhNXk3YWV0SkVoY0haWnh3cV9CaThneXRacTEtYnk1UE5FYS0wNTdIT3ZqNHhrUTZoaVdtQjNnZU5DZXNTcGtaczA?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 12:06:00 +0000",
-      "source": "KBS 뉴스"
     }
   ],
-  "updated": "2026-08-23T15:09:53Z"
+  "updated": "2026-08-23T15:42:32Z"
 }
