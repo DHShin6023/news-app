@@ -1,45 +1,51 @@
 {
   "cat-us": [
     {
-      "title": "뉴욕증시, 국채금리 하락·반도체주 반등에 상승…나스닥 0.66% ↑[뉴욕마...",
-      "link": "https://news.mtn.co.kr/news-detail/2026082606095686996",
-      "pubDate": "Tue, 25 Aug 2026 21:14:00 +0000",
-      "source": "news.mtn.co.kr"
+      "title": "뉴욕증시, 반도체 반등에 3대지수 상승…엔비디아 실적 앞두고 관망세",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721668",
+      "pubDate": "Tue, 25 Aug 2026 21:42:00 +0000",
+      "source": "ebn.co.kr"
     },
     {
-      "title": "엔비디아, 삼성 파운드리 손잡고 'AI 추론칩' 본격 양산 - 노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQMlhWYm1FNmZBMXFBZTlUeVo2dXlpSnoyX05VQlRTdVA1TUFLTERKcmdGWnhXc09WWGFoUC16WXdleXhVY3JVNmxBR0ZsWEtHeVE?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 20:00:00 +0000",
-      "source": "노컷뉴스"
+      "title": "美 금리·유가 동반 진정…코스피, 7000선 다시 노린다",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721669",
+      "pubDate": "Tue, 25 Aug 2026 21:46:00 +0000",
+      "source": "ebn.co.kr"
     },
     {
-      "title": "뉴욕증시, 유가·금리 하락에 3대 지수 상승…엔비디아 실적 촉각",
-      "link": "https://www.newspim.com/news/view/20260826000024",
-      "pubDate": "Tue, 25 Aug 2026 20:27:00 +0000",
-      "source": "newspim.com"
+      "title": "[뉴욕증시 마감] 美 국채금리 이틀째 하락에 기술주 강세…3대 지수 상...",
+      "link": "https://www.ajunews.com/view/20260826063106227",
+      "pubDate": "Tue, 25 Aug 2026 21:40:00 +0000",
+      "source": "ajunews.com"
     }
   ],
   "cat-kr": [
     {
-      "title": "반도체 주춤하자 ‘K뷰티’ 날았다…화장품 ETF 한달 새 40%↑",
-      "link": "https://www.kukinews.com/article/view/kuk202608250194",
-      "pubDate": "Tue, 25 Aug 2026 21:02:00 +0000",
-      "source": "kukinews.com"
+      "title": "美 금리·유가 동반 진정…코스피, 7000선 다시 노린다",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721669",
+      "pubDate": "Tue, 25 Aug 2026 21:46:00 +0000",
+      "source": "ebn.co.kr"
     },
     {
-      "title": "증시호황에도 자금조달은 위축...유상증자·IPO 다 줄었다",
-      "link": "https://news.bizwatch.co.kr/article/market/2026/08/25/0028",
-      "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "source": "news.bizwatch.co.kr"
+      "title": "엔비디아, 27일 실적발표…EPS 2.08달러·매출 919억달러 전망",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202608260009",
+      "pubDate": "Tue, 25 Aug 2026 21:36:00 +0000",
+      "source": "bntnews.co.kr"
     },
     {
-      "title": "엔비디아 실적 D-1…HBM 넘어 냉각·전력·로봇까지 ‘수혜주 찾기’ - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRNDg4M2FtTy1wUTdnd2ZnWVU0cXpxeXRaMmw4V1hJREw5QllJQmZ6YUZOS3UyUTZIVUlnTUlUUHlJdUo2bmFTSHpBbUxwUzNSbFVPUQ?oc=5",
+      "title": "\"대박 노리다 쪽박\" 주식 손 터는 개미들 '여기로'…사상 첫 1000조 돌파",
+      "link": "https://www.mt.co.kr/finance/2026/08/26/2026082522263131416",
       "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "source": "이투데이"
+      "source": "mt.co.kr"
     }
   ],
   "cat-coin": [
+    {
+      "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 6억1044만달러 청산",
+      "link": "https://www.tokenpost.kr/news/briefing/397462",
+      "pubDate": "Tue, 25 Aug 2026 11:04:00 +0000",
+      "source": "tokenpost.kr"
+    },
     {
       "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 78,931달러, 이더리...",
       "link": "https://www.tokenpost.kr/news/briefing/397725",
@@ -47,19 +53,19 @@
       "source": "tokenpost.kr"
     },
     {
-      "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 4억6128만달러 청산",
-      "link": "https://www.tokenpost.kr/news/briefing/397718",
-      "pubDate": "Tue, 25 Aug 2026 19:58:00 +0000",
-      "source": "tokenpost.kr"
-    },
-    {
-      "title": "코인베이스, SEC·CFTC에 규제안 3건 제출 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NdlFTYlhfQnB1YlREN014enV0ZkNpS2xreHlpQkNiY3hKcllDdXVQTUJoX1hsR2lEbHo1cVg2TW8yYVo5WUhFN2VXQ0ZHUFFZcUdnU1hqUllWeknSAVtBVV95cUxPTXZRU2JYX0JwdWJURDdNeHp1dGZDaUtsa3h5aUJDYmN4SnJZQ3V1UE1CaF9YbEdpRGx6NXFYNk1vMmFaOVlIRTdlV0NGR1BRWXFHZ1NYalJZVnpJ?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 16:23:16 +0000",
-      "source": "tokenpost.kr"
+      "title": "[특징주] 비트플래닛, 비트코인 8만 달러 돌파 소식에 '상한가' 직행",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=300004",
+      "pubDate": "Tue, 25 Aug 2026 04:28:00 +0000",
+      "source": "widedaily.com"
     }
   ],
   "cat-land": [
+    {
+      "title": "네 번의 전세난, 하나의 교훈[박선영의 경제 인사이트]",
+      "link": "https://www.news1.kr/realestate/general-policy/6269099",
+      "pubDate": "Tue, 25 Aug 2026 21:30:00 +0000",
+      "source": "news1.kr"
+    },
     {
       "title": "뉴홈 금융조건 원상복구…사전청약 ‘약속 이행’ 요구 확산하나 [이집...",
       "link": "https://www.segye.com/newsView/20260825519294?OutUrl=naver",
@@ -71,12 +77,6 @@
       "link": "https://www.etoday.co.kr/news/view/2617935",
       "pubDate": "Tue, 25 Aug 2026 21:02:00 +0000",
       "source": "etoday.co.kr"
-    },
-    {
-      "title": "같은 84㎡인데 가격 13억 차이…반포 신축 '재초환 이중가격' 대혼란",
-      "link": "https://realty.chosun.com/site/data/html_dir/2026/08/25/2026082502526.html",
-      "pubDate": "Tue, 25 Aug 2026 21:02:00 +0000",
-      "source": "realty.chosun.com"
     }
   ],
   "cat-etc": [
@@ -111,5 +111,22 @@
       "source": "연합뉴스"
     }
   ],
-  "updated": "2026-08-25T21:14:53Z"
+  "updated": "2026-08-25T21:49:03Z",
+  "degraded": {
+    "cat-us": [
+      "google"
+    ],
+    "cat-kr": [
+      "google"
+    ],
+    "cat-coin": [
+      "google"
+    ],
+    "cat-land": [
+      "google"
+    ],
+    "cat-etc": [
+      "google"
+    ]
+  }
 }
