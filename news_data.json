@@ -1,85 +1,103 @@
 {
   "cat-us": [
     {
-      "title": "\"하락 종목 더 많은데 지수는 상승\"...S&P 500 끌어올린 빅테크 '착시'",
-      "link": "http://coinreaders.com/255547",
-      "pubDate": "Sun, 30 Aug 2026 20:02:00 +0000",
-      "source": "coinreaders.com"
+      "title": "[굿모닝 마켓] 반도체주 차익실현 물량 출회…뉴욕증시 일제히 하락",
+      "link": "https://biz.sbs.co.kr/article_hub/20000331634?division=NAVER",
+      "pubDate": "Sun, 30 Aug 2026 23:21:00 +0000",
+      "source": "biz.sbs.co.kr"
     },
     {
-      "title": "[뉴욕 주간전망] 연준 통화정책에 관심 높아질 듯...고용지표 등 주목",
-      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143754",
+      "title": "삼성전자·SK하이닉스, 美 반도체주 조정·금리 우려에 프리마켓서 약세...",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026083108360490959",
+      "pubDate": "Sun, 30 Aug 2026 23:38:00 +0000",
+      "source": "newsway.co.kr"
+    },
+    {
+      "title": "[뉴욕 주간전망] 연준 통화정책에 관심 높아질 듯...고용지표 등 주목 - 오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1heFlfZXVDVW5EejB6V3RJRklpaDZRWVdLSUl4WUxCY1l0VjVhNDMySm9aX05Ca3E4T1ZnR3FlRG1iZXNiRE40RTE3ZXdKYmhxYVY0dEtGRG03ekh6eUdod09MR1AweWNieDFTWktIeFJjQQ?oc=5",
       "pubDate": "Sun, 30 Aug 2026 21:40:00 +0000",
-      "source": "opinionnews.co.kr"
-    },
-    {
-      "title": "[N2 모닝 경제 브리핑-8월 31일] 美 증시, 워시 ‘매파 발언’에 투심 위...",
-      "link": "https://www.news2day.co.kr/article/20260828500178",
-      "pubDate": "Sun, 30 Aug 2026 20:48:00 +0000",
-      "source": "news2day.co.kr"
+      "source": "오피니언뉴스"
     }
   ],
   "cat-kr": [
     {
-      "title": "[주간수급리포트] 매일 1.6조 사들인 ‘기타법인’⋯“삼전닉스의 자사...",
-      "link": "https://www.etoday.co.kr/news/view/2619495",
-      "pubDate": "Sun, 30 Aug 2026 21:00:00 +0000",
-      "source": "etoday.co.kr"
+      "title": "워시發 금리인상 우려에 코스피 약세 전망…삼전닉스 향방 주목 [투자3...",
+      "link": "https://biz.heraldcorp.com/article/10856818?ref=naver",
+      "pubDate": "Sun, 30 Aug 2026 23:41:00 +0000",
+      "source": "biz.heraldcorp.com"
     },
     {
-      "title": "[미리보는 증시재료] 美 고용·韓 수출 '촉각'…코스피 7000선 안착 시험",
-      "link": "https://www.newspim.com/news/view/20260828000712",
-      "pubDate": "Sun, 30 Aug 2026 21:00:00 +0000",
+      "title": "美 9월 금리인상 확률 57.5%…코스피 반등에 ‘찬물’",
+      "link": "https://www.kbmaeil.com/article/20260831500031",
+      "pubDate": "Sun, 30 Aug 2026 23:32:00 +0000",
+      "source": "kbmaeil.com"
+    },
+    {
+      "title": "[AI MY 증시전망] 코스피, 美 잭슨홀 부담 속 변동성 전망…반도체 수급...",
+      "link": "https://www.newspim.com/news/view/20260831000051",
+      "pubDate": "Sun, 30 Aug 2026 23:17:00 +0000",
       "source": "newspim.com"
-    },
-    {
-      "title": "이번주 코스피 7,000선 재도전…‘워시 쇼크’ 반도체가 끌어올릴까",
-      "link": "https://www.news2day.co.kr/article/20260831500005",
-      "pubDate": "Sun, 30 Aug 2026 19:50:00 +0000",
-      "source": "news2day.co.kr"
     }
   ],
   "cat-coin": [
     {
-      "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 78,892달러, 이더리...",
-      "link": "https://www.tokenpost.kr/news/briefing/400793",
-      "pubDate": "Sun, 30 Aug 2026 20:04:00 +0000",
+      "title": "비트코인 맡기고 돈 빌려준다…러시아발 가상자산 대출 파장 일파만파 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rR3VQOFlESXFNWWJpSmdNWUpwaUdFelZKQ0pWaWpVWHJmX285b00tSmRNQWY4VkJaQ29Ga3lhYVJVdmZZWW5WNmh0Ml9zNTRfT0hLWHk4cndIZzR1M0txTnpMNV9FWW5uNllZRjhOYkdGUTJTaHpN0gF3QVVfeXFMT2tHdVA4WURJcU1ZYmlKZ01ZSnBpR0V6VkpDSlZpalVYcmZfbzlvTS1KZE1BZjhWQlpDb0ZreWFhUlV2ZllZblY2aHQyX3M1NF9PSEtYeThyd0hnNHUzS3FOekw1X0VZbm42WVlGOE5iR0ZRMlNoek0?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 22:34:24 +0000",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 78,892달러, 이더리움 2,503달러 - tokenpost.kr",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56QUlxYURSWk1lSXhIUWNYSEh0TWxuaFR1SmNlTUd2Z2dMTWU1T1J2X3V1NU4wckZiNXE0eURGVHlhNlY1VXFOSTJPdi1iTTNSVmpYRGlaT1d6eTlzSXfSAV5BVV95cUxOekFJcWFEUlpNZUl4SFFjWEhIdE1sbmhUdUpjZU1HdmdnTE1lNU9Sdl91dTVOMHJGYjVxNHlERlR5YTZWNVVxTkkyT3YtYk0zUlZqWERpWk9Xenk5c0l3?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 20:02:26 +0000",
       "source": "tokenpost.kr"
     },
     {
-      "title": "비트코인 시세…이더리움·리플·솔라나 가격",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202608310004",
-      "pubDate": "Sun, 30 Aug 2026 15:52:00 +0000",
-      "source": "bntnews.co.kr"
-    },
-    {
-      "title": "동전주보다 못한 알트코인…5년간 1천236개 상장·430개 퇴출 - 코인리더스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00Q0kydlpQSURJMEpQbXYwVGZfZGNkd25MaGlHdzB1MERYSkxYVHdQa2t1VXZNcHhfWDVRUXNPdHVfOUs5Sm1pU3hB?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 21:00:01 +0000",
-      "source": "코인리더스"
+      "title": "이더리움 기관 훈풍 속 신생 밈코인 ‘아이스불’ 프리세일 과열… \"원금 전액 손실 주의\" - 블록체인투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WcTdaR21VMmlaZ2EwM0hXVkNxbFNhSEQ3WWlXSXFZN3RVZENzZ2pNbXNtNndfVF9uV2Z6WXhUMVMzLVE5MXA3NVlpS2QyV2NSZncyRWR0V0poYi1XRnZHTXhFLU1pTXd1TTE4c05SRVg?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 23:41:24 +0000",
+      "source": "블록체인투데이"
     }
   ],
   "cat-land": [
     {
-      "title": "6주 숨고른 동탄 다시 뛴다…금리 인상은 ‘변수’ [이집저집]",
-      "link": "https://www.segye.com/newsView/20260830512147?OutUrl=naver",
-      "pubDate": "Sun, 30 Aug 2026 21:03:00 +0000",
-      "source": "segye.com"
+      "title": "9월 전국 아파트 분양, 전년比 15% 증가…금리 인상 영향이 변수 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93ejZmUTk1ZHQwTVhxTHBPRjZnRTJOVWZBNVdSdFlWaEtSXzRjMkl0SlZvQmh4RnlZcWNVbXMtSm5xazhyUWdLWGZ6Q1ZsTE5FbFVXeHRKWGZjdV9YbXZaUHliakN3NF9NMVHSAW9BVV95cUxQYXd1bUxvVWxxQ1NIc08wbk1QWVhVYzJvdEpEakxnUzRPdnBrd29VeWZoQWRtZHVfbXI0djlXak1UcE54TTNUa1MxYjhjUVRhUnBEdEtWenhjd3FSdG5fekR3Y2ZMTzhzNDAzazFGY3c?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 23:48:34 +0000",
+      "source": "머니투데이"
     },
     {
-      "title": "7월 서울 아파트 거래 15% '급감'…가격은 신고가",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608300091&t=NN",
-      "pubDate": "Sun, 30 Aug 2026 21:00:00 +0000",
-      "source": "wowtv.co.kr"
+      "title": "서울 오피스텔, 실거주와 임대수익 동반 성장… 교통•생활 인프라 확보",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3050854",
+      "pubDate": "Sun, 30 Aug 2026 23:56:00 +0000",
+      "source": "apnews.kr"
     },
     {
-      "title": "재건축 확정된 단지 6억대 매물이?...진짜 따져야 할 건 ‘분담금’ 입...",
-      "link": "https://www.mk.co.kr/article/12140020",
-      "pubDate": "Sun, 30 Aug 2026 20:50:00 +0000",
-      "source": "mk.co.kr"
+      "title": "집값 상승·금리 부담 맞물린 9월…2만2704가구 분양 예정",
+      "link": "https://view.asiae.co.kr/article/2026083108365090024",
+      "pubDate": "Sun, 30 Aug 2026 23:36:00 +0000",
+      "source": "view.asiae.co.kr"
     }
   ],
   "cat-etc": [
+    {
+      "title": "미국 그랜드 캐니언서 소나기로 돌발 홍수…15명 실종 - news.sbs.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6Rm5EcTRPX1lhbUNJcGdFajJycVF4eW82OEJpSV9wZ2c5X1VkbDNUakwxQVlvZjd5S1B2WEhfZVFOMXRwVUFjeUNWeHFmVFFWMDExWWJrZ1Y2UE14MFh4cXZEM3A0d043V3c?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 23:11:00 +0000",
+      "source": "news.sbs.co.kr"
+    },
+    {
+      "title": "한달만의 미군 군사공격에 이란도 반격, 요르단 미군·호르무즈 미 군함 공격 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnd3JfdV9DelV5aWN3VUU2eks2REkxa0daelJtTmZ5VkltLWU4ek9rMzBXN05aRXY4UXRQa3ZFNVJzME8wQUJFR2c5RlEtd2NZWGt0RWF5cnVqUQ?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 22:43:00 +0000",
+      "source": "경향신문"
+    },
+    {
+      "title": "이 대통령 지지율 38.9%…7주 연속 하락세, 취임 후 최저[리얼미터] - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pNXB3Zm81QnVsRlpicDNYbndRa1hqSUxYamlOS29YVGMxVkdnODlna0xyS1pFa2xNZTFpcHM5ZWhMT0VlMWdFRkFOcjVsbXlZVzlhaWt3MjNmZ9IBX0FVX3lxTE4tUnJfQlZfNWV3OV82ck10QkZyQWVNa1I3bU4wU3RHZ0V1Mm80ajVVQkpkUU1nSkNpU2F1S0EyaHR3TGJPcWFaZ2RFMERHbHA2aThjaXotSFdlbVVWWmZV?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 23:24:00 +0000",
+      "source": "경향신문"
+    },
     {
       "title": "내일까지 중부 집중호우…최대 200mm 더 내려 - KBS 뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CX05OY3ViRzB4TUlXZVk2cVZ0S3hhUXV3Mm1pcGMxSjJEcjdNd1NCa0pZcFh6WE05VU9NM1JNZEM2NzVtLW85aG5DWGJ5Z0FZOVRBeXJtWW5SSWs?oc=5",
@@ -87,29 +105,11 @@
       "source": "KBS 뉴스"
     },
     {
-      "title": "전국 곳곳에 강하고 많은 비…돌풍·천둥·번개 주의 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DS1Zhclp0RmR1Y25LNU5MSmpSa2pTWGQ1YUZWVmp6RHBUd0lsMFBqaXRfLWFjM3k4R1dCZVVtZThWNk9Yei0zczRaNTV4WUlfSFpuUmdMZkhQS0HSAWBBVV95cUxQUUNBY2pGNzU0bk91dHl2SEMtR0s2Tkg1Z0JiMG5TYTdpRGw5eVVfLTBSVGdFenRRTk5qRW91QTRhT2Zub1lrdUV0MzhkV0xOTEVWWURRU3kxZFNxZnpHblk?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 20:31:45 +0000",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "美, 한달여만에 이란 공격…\"라라크섬 로켓 발사대 타격\"(종합) - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10aTFvVk9Va2tjbnJzcWZBZzhYalcyMFU5VDF0cWdtZ2tlbEpwMl91LTMzbFhLei1WeldMNjdBSVk1cm9CclJCY2VpN1dqb2paUzhrWFhZVTdCaTDSAWBBVV95cUxOSURCUkNrNi1GdXA5b0Rkb1pfZUVMcFBoZU5kLTA1OHBpUFdDc0QzOFdHRVo3eFBuVi16cEEycE9QbVUxdHJ4RnJkZk4wQWlnQkdpcXpTdVplSFVFLVozS1Q?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 20:41:50 +0000",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "\"트럼프, 김정은 일단 만난 뒤 중간선거 후 2차 회담 가능성\" - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02ZXZPT3JGMVVZYVp5elhQVWdPTVBWZXdCTzVfQ3hTVmFCaUNNeEZnZ3BZY3hvOTgwZlVXal9wWEVVMFQ3NWR4cXVITzh0QzRlR3huMlUzQkZZanJ5cEwxeEJBOWhmeWM?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 20:56:00 +0000",
-      "source": "연합뉴스TV"
-    },
-    {
-      "title": "전북 일부 호우특보…최대 120mm이상 예상 - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hZTZQS21fUy14cXdtZ2ptWUpjZ21SMGRsNTRiNmRFT1pENjkxQ095aklZYmdsTHlRUHBWZ2doMTEyclppZmZDcFg3c2tycFVzenFTcmpTOHMwU28?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 21:06:00 +0000",
-      "source": "KBS 뉴스"
+      "title": "고금리 속 빚 못버틴 서민↑…상반기만 10만명 채무조정 확정 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fQXdzaHltbXlqOVJHTFB2czBZeXhUSzB6TFpJUzJfY3VyLS1hcjd3Q2l0YmVZaHhRdU5ZNy03RTQ1RjMzYjEwOFlObzJGam1FQlE?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 20:53:00 +0000",
+      "source": "매일경제 마켓"
     }
   ],
-  "updated": "2026-08-30T21:41:38Z"
+  "updated": "2026-08-30T23:58:22Z"
 }
