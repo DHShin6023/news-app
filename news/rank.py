@@ -124,6 +124,51 @@ def drop_stale(articles, now, max_age_hours=MAX_AGE_HOURS):
     ]
 
 
+
+# ─── 카테고리 주제 게이트 ────────────────────────────────────────────────
+# 카테고리를 정하는 것은 검색어뿐이라, 검색이 물어온 것은 주제가 어긋나도 그대로 실린다.
+# 특히 네이버 최신순(sort=date)은 쿼리 적합도를 거의 보지 않아 본문에 '뉴욕증시'만
+# 스쳐도 국내 증시 기사가 미국 카테고리로 들어온다 (2026-09-01 실측: 20건 중 8건).
+# 회전율을 위해 최신순은 유지하되, 주제 적합도는 여기서 한 번 더 건다.
+
+
+def passes_category(title, gate):
+    """제목이 카테고리 주제에 맞는지. own → exclude → require_any 순으로 본다.
+
+    3단인 이유는 국내 증시 기사가 제목에 미국장을 자주 인용하기 때문이다.
+    "코스피, 뉴욕증시 하락에 약세"는 국내 뉴스이고 "뉴욕증시, 교전 재개에 하락"은
+    미국 뉴스인데, 둘 다 '뉴욕증시'를 달고 있어 단순 포함/제외로는 갈라지지 않는다.
+
+    - own: 이 카테고리임을 확정하는 토큰. 있으면 exclude를 무시하고 통과시킨다
+    - exclude: 이 카테고리일 리 없는 토큰
+    - require_any: 최소 하나는 있어야 하는 주제 토큰
+
+    cat-us는 own을 두지 않는다. 미국 기사가 '코스피'를 제목에 다는 일은 없어서
+    exclude가 항상 옳고, own을 두면 "美 연준 인하에 코스피 상승"이 통과해버린다.
+    """
+    if not gate:
+        return True
+    text = clean_title(title).lower()
+    if any(token in text for token in gate.get('own', ())):
+        return True
+    if any(token in text for token in gate.get('exclude', ())):
+        return False
+    require = gate.get('require_any')
+    if require and not any(token in text for token in require):
+        return False
+    return True
+
+
+def apply_category_gate(articles, gate):
+    """게이트를 통과한 기사만 남긴다.
+
+    전부 탈락하면 게이트를 포기하고 원본을 돌려준다. 카테고리가 비면 build_category가
+    None을 반환해 이전 데이터가 그대로 굳어버리는데, 그건 주제가 조금 어긋난 기사를
+    보여주는 것보다 나쁘다.
+    """
+    kept = [a for a in articles if passes_category(a.title, gate)]
+    return kept or articles
+
 def cluster_articles(articles):
     """제목 유사도로 같은 사건끼리 묶는다. 토큰 3개 미만은 비기사로 제외한다."""
     clusters = []

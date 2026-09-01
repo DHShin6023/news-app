@@ -6,24 +6,65 @@ from news import history, rank, sources
 
 DATA_PATH = 'news_data.json'
 
+# 카테고리 주제 게이트. 토큰은 제목에 대한 부분 문자열이며 전부 소문자로 적는다.
+# own은 카테고리를 확정하는 토큰(exclude보다 우선), exclude는 '이 카테고리일 리 없는' 토큰.
+KR_MARKET = (
+    '코스피', '코스닥', '국내증시', '국장', '삼성전자', '삼전', '하이닉스',
+    '유가증권시장', '원달러', '원·달러', '코넥스', '9천피', '여의도 증권가',
+)
+US_MARKET = (
+    '뉴욕증시', '나스닥', '다우지수', 's&p', '미증시', '미 증시', '美 증시',
+    '월가', '월스트리트',
+)
+
 CATEGORIES = [
     {'id': 'cat-us', 'max_items': 3, 'queries': [
         '나스닥 뉴욕증시 S&P500',
         '연준 금리 미국 경제지표',
         '엔비디아 테슬라 애플 빅테크',
-    ]},
+    ], 'gate': {
+        # own 없음 — 미국 기사가 '코스피'를 제목에 다는 일은 없어 exclude가 항상 옳다
+        'exclude': KR_MARKET,
+        'require_any': US_MARKET + (
+            '美', '미국', '연준', 'fed', 'fomc', 'ism', '파월', '워시', '베선트',
+            '잭슨홀', '미국채', '미 국채', '미 장기국채', '트럼프', '엔비디아',
+            '테슬라', '애플', '아마존', '마이크로소프트', '브로드컴', '빅테크',
+            '뉴욕', '워싱턴',
+        ),
+    }},
     {'id': 'cat-kr', 'max_items': 3, 'queries': [
         '코스피 코스닥 주식시장',
         '삼성전자 반도체 실적 국내증시',
-    ]},
+    ], 'gate': {
+        # 국내 기사가 미국장을 인용하는 건 흔하다. KR 토큰이 있으면 그것으로 확정한다
+        'own': KR_MARKET,
+        'exclude': US_MARKET,
+        'require_any': (
+            '증시', '주식시장', '증권가', '예탁금', '빚투', '신용거래', '거래대금',
+            '순매수', '순매도', '자사주', '공모주', '기업공개', '상장', '반도체',
+            '2차전지', '주도주', '금융위', '금감원', '개미', 'etf',
+        ),
+    }},
     {'id': 'cat-coin', 'max_items': 3, 'queries': [
         '비트코인 이더리움 시세',
         '암호화폐 규제 거래소 알트코인',
-    ]},
+    ], 'gate': {'require_any': (
+        '비트코인', '이더리움', '코인', '암호화폐', '가상자산', '블록체인',
+        '리플', '솔라나', '도지', '에이다', '스테이블', '디지털자산',
+        'btc', 'eth', 'xrp', '업비트', '빗썸', '바이낸스', '크라켄', '테더',
+        '알트', '토큰', '디파이', '온체인', '스테이킹', '채굴', 'nft',
+    )}},
     {'id': 'cat-land', 'max_items': 3, 'queries': [
         '부동산 아파트 매매가격',
         '전세 청약 분양 부동산정책',
-    ]},
+    ], 'gate': {'require_any': (
+        '부동산', '아파트', '집값', '전세', '전셋값', '월세', '청약', '분양',
+        '재건축', '재개발', '정비사업', '매매가', '매물', '급매', '경매', '국평',
+        '주택', '주거', '실거주', '임대', '임대차', '보증금', '오피스텔',
+        '공시가격', '다주택', '주담대', 'ltv', 'dsr', '국토부', '신도시',
+        '상가', '토지', '입주',
+    )}},
+    # cat-etc는 Top Stories 전반이라 주제를 좁히지 않는다
     {'id': 'cat-etc', 'max_items': 5, 'queries': None},
 ]
 
@@ -87,6 +128,7 @@ def build_category(cat, now, history_counts):
         return None, degraded
 
     articles = rank.drop_stale(articles, now)
+    articles = rank.apply_category_gate(articles, cat.get('gate'))
     clusters = rank.cluster_articles(articles)
     if not cat.get('queries'):
         degraded += _annotate_naver_matches(clusters, cat['id'])

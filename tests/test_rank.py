@@ -319,3 +319,87 @@ def test_drop_stale_keeps_future_dated_articles():
     # 발행 시각이 미래로 오는 피드가 있다. 신선도는 100으로 클램프되므로 버리지 않는다
     art = aged_article('속보 기사', -2)
     assert drop_stale([art], NOW) == [art]
+
+
+from news.rank import passes_category, apply_category_gate
+
+US_GATE = {
+    'exclude': ('코스피', '삼전', '하이닉스'),
+    'require_any': ('뉴욕증시', '나스닥', '연준', '美'),
+}
+
+
+def test_passes_category_keeps_on_topic_article():
+    assert passes_category('뉴욕증시, 미·이란 교전 재개에 하락', US_GATE)
+
+
+def test_passes_category_blocks_domestic_market_article():
+    # 2026-09-01 실사례. 네이버 최신순이 '나스닥' 쿼리에 물어온 국내 증시 기사
+    assert not passes_category("장 초반 약세 ‘삼전닉스’, 하락 폭 만회…닉스 오르고 삼전 보합", US_GATE)
+
+
+def test_exclude_wins_over_require_any():
+    # 미국장을 인용해도 코스피 기사는 미국 뉴스가 아니다
+    assert not passes_category('美·이란 충돌 속 코스피 6800선 보합권 공방', US_GATE)
+
+
+def test_passes_category_blocks_when_no_required_token():
+    assert not passes_category('국제유가 2% 급등', US_GATE)
+
+
+def test_passes_category_allows_everything_without_gate():
+    assert passes_category('아무 제목', None)
+    assert passes_category('아무 제목', {})
+
+
+def test_passes_category_is_case_insensitive():
+    assert passes_category('Fed 인사 논란', {'require_any': ('fed',)})
+
+
+def test_passes_category_strips_html_before_matching():
+    # 네이버는 검색어에 <b> 태그를 씌워 보낸다
+    assert passes_category('<b>뉴욕증시</b> 하락', US_GATE)
+
+
+KR_GATE = {
+    'own': ('코스피', '코스닥', '삼전'),
+    'exclude': ('뉴욕증시', '나스닥'),
+    'require_any': ('증시', '주식시장', '반도체'),
+}
+
+
+def test_own_token_overrides_exclude():
+    # 국내 기사가 미국장을 인용하는 건 흔하다. 이건 국내 증시 뉴스가 맞다
+    assert passes_category('코스피, 뉴욕증시 하락에 6,780선 약세', KR_GATE)
+
+
+def test_kr_gate_blocks_pure_us_article():
+    assert not passes_category('뉴욕증시, 미·이란 교전 재개에 하락', KR_GATE)
+
+
+def test_kr_gate_keeps_generic_domestic_market_article():
+    # '증시'는 require에만 두어 국내 일반 증시 기사를 살린다 (2026-09-01 실사례)
+    assert passes_category("주식시장에 다시 돈 몰리나…'빚투' 33조·예탁금 100조 육박", KR_GATE)
+
+
+def test_us_gate_has_no_own_so_exclude_always_wins():
+    # cat-us에 own을 두면 "美 연준 인하에 코스피 상승"이 미국 뉴스로 통과해버린다
+    assert not passes_category('美 연준 인하 기대에 코스피 상승 마감', US_GATE)
+
+
+def test_apply_category_gate_filters_articles():
+    on = make_article('뉴욕증시 나스닥 하락 마감')
+    off = make_article('코스피 삼전 반등 마감')
+    assert apply_category_gate([on, off], US_GATE) == [on]
+
+
+def test_apply_category_gate_falls_back_when_everything_filtered():
+    # 카테고리를 비우면 build_category가 None을 반환해 이전 데이터가 굳는다.
+    # 주제가 어긋난 기사라도 보여주는 편이 낫다
+    off = make_article('코스피 삼전 반등 마감')
+    assert apply_category_gate([off], US_GATE) == [off]
+
+
+def test_apply_category_gate_without_gate_is_identity():
+    arts = [make_article('아무 기사 제목 하나')]
+    assert apply_category_gate(arts, None) == arts

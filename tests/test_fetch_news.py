@@ -82,3 +82,49 @@ def test_build_category_drops_articles_older_than_24h(monkeypatch):
     cat = {'id': 'cat-land', 'queries': ['부동산'], 'max_items': 5}
     articles, _ = fetch_news.build_category(cat, NOW, {})
     assert [a.link for a in articles] == ['https://a.com/new']
+
+
+def test_build_category_gate_drops_domestic_article_from_us(monkeypatch):
+    # 2026-09-01 실사례: 네이버 최신순이 '나스닥' 쿼리에 국내 증시 기사를 물어왔다
+    monkeypatch.setattr(fetch_news.sources, 'fetch_google_search',
+                        lambda q, limit=20: [])
+    monkeypatch.setattr(fetch_news.sources, 'fetch_naver_search',
+                        lambda q, sort='sim', limit=20: [
+                            make('뉴욕증시, 미·이란 교전 재개에 하락 마감',
+                                 origin='naver', link='https://a.com/us'),
+                            make('장 초반 약세 삼전닉스 하락 폭 만회 닉스 오르고 삼전 보합',
+                                 origin='naver', link='https://a.com/kr'),
+                        ])
+
+    cat = next(c for c in fetch_news.CATEGORIES if c['id'] == 'cat-us')
+    articles, _ = fetch_news.build_category(cat, NOW, {})
+    assert [a.link for a in articles] == ['https://a.com/us']
+
+
+def test_build_category_gate_keeps_kr_article_citing_us_market(monkeypatch):
+    monkeypatch.setattr(fetch_news.sources, 'fetch_google_search',
+                        lambda q, limit=20: [])
+    monkeypatch.setattr(fetch_news.sources, 'fetch_naver_search',
+                        lambda q, sort='sim', limit=20: [
+                            make('코스피 뉴욕증시 하락에 6780선 약세 마감',
+                                 origin='naver', link='https://a.com/kr'),
+                        ])
+
+    cat = next(c for c in fetch_news.CATEGORIES if c['id'] == 'cat-kr')
+    articles, _ = fetch_news.build_category(cat, NOW, {})
+    assert [a.link for a in articles] == ['https://a.com/kr']
+
+
+def test_build_category_gate_does_not_empty_category(monkeypatch):
+    # 게이트가 전부 걷어내도 카테고리를 비우지 않는다 (이전 데이터가 굳는 것을 막는다)
+    monkeypatch.setattr(fetch_news.sources, 'fetch_google_search',
+                        lambda q, limit=20: [])
+    monkeypatch.setattr(fetch_news.sources, 'fetch_naver_search',
+                        lambda q, sort='sim', limit=20: [
+                            make('코스피 삼전 반등 마감 소식', origin='naver',
+                                 link='https://a.com/kr'),
+                        ])
+
+    cat = next(c for c in fetch_news.CATEGORIES if c['id'] == 'cat-us')
+    articles, _ = fetch_news.build_category(cat, NOW, {})
+    assert articles is not None and len(articles) == 1
