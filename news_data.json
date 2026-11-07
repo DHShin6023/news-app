@@ -1,132 +1,115 @@
 {
   "cat-us": [
     {
-      "title": "뉴욕증시, AI 기술주 중심으로 반등…저가 매수세 유입",
-      "link": "https://biz.heraldcorp.com/article/10929102?ref=naver",
-      "pubDate": "Sat, 07 Nov 2026 00:06:00 +0000",
+      "title": "美 빅테크들, '블루쇼크'에 좌불안석 … 8000억 쏟아부었는데 '트럼프 참...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/07/2026110700056.html",
+      "pubDate": "Sat, 07 Nov 2026 06:20:00 +0000",
+      "source": "biz.newdaily.co.kr"
+    },
+    {
+      "title": "뉴욕증시, AI 반도체주 반등에 나스닥 1.09% 상승 - M이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aNm1jd09zOEIyUU13eTQxQmc2ZS1ycnkwVXJ0Q21DNzVjQS0tLXVDT2taZ19jTmYxY0U3ZjR0UHhfWFpHWFJVWVNiLWdqa1pzLXhVdUFycTVpd3JpRUZQWnZSLXRjTk0?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 01:43:47 +0000",
+      "source": "M이코노미뉴스"
+    },
+    {
+      "title": "美증시 급락에 헤지펀드도 ‘휘청’…10년만 최대 포지션 축소[투자360]",
+      "link": "https://biz.heraldcorp.com/article/10929248?ref=naver",
+      "pubDate": "Sat, 07 Nov 2026 07:03:00 +0000",
       "source": "biz.heraldcorp.com"
-    },
-    {
-      "title": "저가 매수세에 반도체주 일제히 반등…나스닥 1.1%↑",
-      "link": "https://biz.sbs.co.kr/article_hub/20000344901?division=NAVER",
-      "pubDate": "Sat, 07 Nov 2026 00:12:00 +0000",
-      "source": "biz.sbs.co.kr"
-    },
-    {
-      "title": "AI 규제 우려 속 나스닥 반등, 반도체 주식 매수 기회 포착",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=884559",
-      "pubDate": "Sat, 07 Nov 2026 01:02:00 +0000",
-      "source": "gokorea.kr"
     }
   ],
   "cat-kr": [
     {
-      "title": "서학개미, 국내 증시 급락 속 美 주식 매수 폭 확대…이달 초에만 3조원...",
-      "link": "https://www.viva100.com/article/20261107500034",
-      "pubDate": "Sat, 07 Nov 2026 01:12:00 +0000",
-      "source": "viva100.com"
+      "title": "[오늘 증시 전망] 코스피 주간 11.7% 급락…5,000선 위협받은 국내 증시, 다음 주 반등 가능할까 - 업코리아",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rTEhDVFRSa2tjOVc2RUQ1dDJzRGJvZU1ZVUtteF9yQWg2TXlKQUFnVDFLN2JxTXdfeWVCWGZqQkZWeURqNGs3MlAxVEU1M3JWVFF1ZkFoZG1BWWF1dWhwT09HSEZsOUktOUhyMWl3?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 05:13:50 +0000",
+      "source": "업코리아"
     },
     {
-      "title": "美 중간선거 이후 코스피 급락…삼전닉스 덮친 AI 투자 한파",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=325454",
-      "pubDate": "Sat, 07 Nov 2026 00:36:00 +0000",
-      "source": "thepublic.kr"
+      "title": "코스피 5000선 흔들리자 AI 거품론 재점화…반도체 실적보다 투자 속도...",
+      "link": "https://www.hinews.co.kr/view.php?ud=202611071119046274cd8b879b3c_48",
+      "pubDate": "Sat, 07 Nov 2026 02:22:00 +0000",
+      "source": "hinews.co.kr"
     },
     {
-      "title": "[피플H] \"반도체 200개 담을 필요 없다\"…엔비디아에 집중하라는 이유",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880800",
-      "pubDate": "Sat, 07 Nov 2026 00:26:00 +0000",
-      "source": "hansbiz.co.kr"
+      "title": "[블루웨이브 쇼크②] 미국발 AI 규제 한파…반도체 훈풍에 기대던 나라...",
+      "link": "https://www.newsis.com/view/NISX20261106_0003858455",
+      "pubDate": "Sat, 07 Nov 2026 07:00:00 +0000",
+      "source": "newsis.com"
     }
   ],
   "cat-coin": [
     {
-      "title": "비트코인 7만5000달러대…추가 하락 경고등[코인 모닝콜]",
-      "link": "https://www.edaily.co.kr/News/Read?newsId=02164806645643424&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "pubDate": "Fri, 06 Nov 2026 23:46:00 +0000",
-      "source": "edaily.co.kr"
-    },
-    {
-      "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 8억6341만달러 청산",
-      "link": "https://www.tokenpost.kr/news/briefing/434027",
-      "pubDate": "Fri, 06 Nov 2026 11:02:00 +0000",
+      "title": "[저녁 시세브리핑] 암호화폐 시장 혼조세… 비트코인 75,947달러, 이더리...",
+      "link": "https://www.tokenpost.kr/news/briefing/434426",
+      "pubDate": "Sat, 07 Nov 2026 07:02:00 +0000",
       "source": "tokenpost.kr"
     },
     {
-      "title": "[모닝 시세브리핑] 암호화폐 시장 약세… 비트코인 75,806달러, 이더리움...",
-      "link": "https://www.tokenpost.kr/news/briefing/434270",
-      "pubDate": "Fri, 06 Nov 2026 20:02:00 +0000",
+      "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 1억5255만달러 청산",
+      "link": "https://www.tokenpost.kr/news/briefing/434424",
+      "pubDate": "Sat, 07 Nov 2026 06:58:00 +0000",
       "source": "tokenpost.kr"
+    },
+    {
+      "title": "캔톤(CC) 0.0940달러 지지선 지킬까…알트코인 약세에 거래량 감소",
+      "link": "http://coinreaders.com/268277",
+      "pubDate": "Sat, 07 Nov 2026 06:42:00 +0000",
+      "source": "coinreaders.com"
     }
   ],
   "cat-land": [
     {
-      "title": "주가 5000 붕괴-집값 오르는데 … 집권세력은 '이재명 방탄-당권 투쟁'에...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/11/06/2026110600216.html",
-      "pubDate": "Sat, 07 Nov 2026 01:08:00 +0000",
-      "source": "newdaily.co.kr"
-    },
-    {
-      "title": "서울 전셋값 7.3억…계양 카이브 유보라 주목",
-      "link": "https://www.the-today.com/news/articleView.html?idxno=93222",
-      "pubDate": "Sat, 07 Nov 2026 00:34:00 +0000",
-      "source": "the-today.com"
-    },
-    {
-      "title": "서울 오피스텔 수익률 5.15% 역대 최고⋯평균 월세 100만원 육박",
-      "link": "https://www.etoday.co.kr/news/view/2644958",
-      "pubDate": "Sat, 07 Nov 2026 00:02:00 +0000",
+      "title": "분당·수지·영통 아파트값 강세…경기 남부 주택시장 상승세 주도",
+      "link": "https://www.etoday.co.kr/news/view/2644986",
+      "pubDate": "Sat, 07 Nov 2026 06:02:00 +0000",
       "source": "etoday.co.kr"
+    },
+    {
+      "title": "서울 집값, 91주 연속 상승하며 역대 최장 기록 갱신...부동산 어쩌나",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=131240",
+      "pubDate": "Sat, 07 Nov 2026 05:18:00 +0000",
+      "source": "pennmike.com"
+    },
+    {
+      "title": "매물 쌓인 아산은 내리고 신축 귀한 진주는 뛰었다…공급이 가른 집값",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=392900",
+      "pubDate": "Sat, 07 Nov 2026 04:00:00 +0000",
+      "source": "sisajournal.com"
     }
   ],
   "cat-etc": [
     {
-      "title": "[속보] 트럼프, 수지 와일스 백악관 비서실장 교체…후임 스티븐 밀러 - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kSDVPcFRkeTNKc2JqOHoxTXBIYllTY05XSlNGd21iQWE3WHQ4XzRuX1BnQ1p5d0ZxX01GRjF5TFI4cDQ4R05KZGUyOVhEd1g2bzVhc05KN0lKLVhCWXFOWVlOQ2hsRzg?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 19:00:00 +0000",
+      "title": "北 김성남, 방중 세번째 고위급회동…류하이싱과 회담 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tcnh1bHg4V3dGcmROOG5CWlhtTjI4Slo5b3NJTWpDT2x6R1JnTXcyMWFJaGtyWW9kRVF3czl1cUZ2dEp4VWp6WHFqNVpWSGMxbDZKWmtqWk5fWnhlVXpSckVXaDJWcFk?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 04:45:00 +0000",
       "source": "연합뉴스TV"
     },
     {
-      "title": "아침 기온 뚝!…곳곳 ‘영하권’ 찬바람도 쌩쌩 - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpZ3ZuZ2M1am5aTzdrSGxXN2pUUGdvRHl1TmFmS1pRS01PdUphUFJxNjV4dURSUzVIbFBVVUN1cFlTNXF6RlhtNWR6THVkUW5PMkdtRVZXRUVSY0U?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 20:11:00 +0000",
+      "title": "가평서 의료진에 흉기 위협 60대 오늘 구속영장심사 - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4cV80OF9VM2ZJRU9KWFUzRXl0YnMwMXR6Y0Z0VWVNVzZ5b3UwNExodmVQUkw3cGtSc01WMThoUng3REtGUTFvRnFqRW5GU1JUa1pCTThlclZMQ1U?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 06:58:00 +0000",
       "source": "KBS 뉴스"
     },
     {
-      "title": "\"달빛 없는 9일 이란 공격 유리\"‥트럼프, 안보팀과 백악관 회의 - MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YWGNHV1NxTWh0SEpzNTBZYi1RTUpOeUM4OThHMnI2T3UtSDVDTFFzc2hRbXFsSVBTREY0TkgtNWx4MGtMWHpnMkJHUE0zdHJkTWdfSEZmZ211NEVBV0VHaHBCdVQ1aHRsZzBWbmNJUXpncTlD0gF0QVVfeXFMUFJXLXY2d0dxUVZ5WmVGZHM3N2N6UlV2RmNqNUZPVk1Xb1p1WlQ0dk95RlQ5Sl9welhmTWI2QXdMN01hWk1DaG9FWkJCa3dldVA2ZkxMcmhCanQ1ZUNSZ0xMalJzRUlUVmd2WnRORzFZZWxGdm4?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 15:22:17 +0000",
-      "source": "MBC 뉴스"
+      "title": "美, 이란 호르무즈 또 때렸다···트럼프, 중간선거 참패 후 첫 군사행동 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vU1N2cU9wdmZLMU1HczF1Rzk0NmFnbHFjaFdzMWdkdTRMQS02dEpjXzdldHRJZURwc09kbU1zWHBtRnBQdWVaWjVCMXVLUXE5VFE?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 05:05:33 +0000",
+      "source": "매일경제"
     },
     {
-      "title": "표차 2천표 미만…美미시시피 상원선거 ‘서약투표’ 공방 - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kNGR3NU9mNTl3TlV0ak9haVR0RHRWVXpOSm16QnNZa1ZwVVJvRzdlQnlRUm9nSnM2dk9HOU0wR2xNLW90NGhtdEVkeVlQa1k0Y0lhNEVER25aeEprUVJmNXJuWUdzbGM?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 19:36:00 +0000",
+      "title": "’대구로 해킹’ 여파…대구시, 공공기관 사이버보안 특별점검 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRYWZkUEZJQy12bnhYSkFWNU5TRUMzeVFGOUVPLTk2S3ZMWW1oUkdobENxS1RBa2tIZ1p4N1JSb0pkTFJQd2h1dWRqRlRrcldIdmNvdnVBM2xuem9VdFhJelczMURvcTQ?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 01:07:00 +0000",
       "source": "연합뉴스TV"
     },
     {
-      "title": "조셉 윤 전 대사 “민주당 의회 탈환해도 대북·동맹 기본 축 불변…외교는 백악관 영역” - VOA 한국어 홈페이지",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iRWdqRklTXzI0OGJTTjNmS1FaZkxHM1dScGMwNnhJZHV2YmFOSndmMTNBLWt2NUtxYWExcXh4M3FQUlR5Wkd4MFNvNHdqalY50gFTQVVfeXFMUHZPRVJLS1FYNkUyMnQxbTZLQ1JBeG5handOLXFwbnpTX0VaMVBpckd5QXU1WEMzSWVheXU4T2MtdngwVEIxNmZIR2lUVV9lMG5EY1k?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 16:35:35 +0000",
-      "source": "VOA 한국어 홈페이지"
+      "title": "트럼프가 지명한 스티븐 밀러 신임 백악관 비서실장은 누구? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WU3RraU9qMlpfaWhURHNCRlJidlZKeXFJV2pqWmZHZE9zODJOSHFaWjVTalZNVm1pVzNmTmoyaUhwa2R6VU9ZYnZqbXBQS2owVEVhYlphVVNwQkthcGfSAWNBVV95cUxNYVRDZ3RneXFzWm52RndRdHY2X1lmelV3VTQ4YWEtRzYzWnAzTUNuS0lYUm9LN21ZaHBwemY1NXBxaGJadGozTnNFb0xPdE5EOUg4QnRod2dobmVpX2t1TlRESm8?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 03:41:03 +0000",
+      "source": "BBC"
     }
   ],
-  "updated": "2026-11-07T01:21:07Z",
-  "degraded": {
-    "cat-us": [
-      "google"
-    ],
-    "cat-kr": [
-      "google"
-    ],
-    "cat-coin": [
-      "google"
-    ],
-    "cat-land": [
-      "google"
-    ],
-    "cat-etc": [
-      "google"
-    ]
-  }
+  "updated": "2026-11-07T07:22:37Z"
 }
